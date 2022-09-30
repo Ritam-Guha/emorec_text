@@ -1,0 +1,1366 @@
+text,start,duration
+Okay. Hello everyone.,4.16,2.965
+"Um, welcome back to the second class of, um, CS224N.",7.125,5.79
+"Okay, so right at the end of last time I was just showing you a little,",12.915,4.395
+"um, from this, um,",17.31,1.665
+IPython Notebook of things that you could do with word vectors,18.975,3.165
+but I kind of ran out of time a little for a bit.,22.14,3.24
+"So, I'll just spend a couple of more minutes first,",25.38,2.67
+"um, showing the end of  this.",28.05,1.8
+I stuck this IPython Notebook up on the course page.,29.85,3.51
+"So, under lecture one you can find a copy of it and you can download it.",33.36,4.235
+"So, I both stuck up just an HTML version of it and a zip file.",37.595,4.245
+Like HTML file is only good to look at.,41.84,2.4
+You can't do anything with it.,44.24,1.23
+"So, you wanna, if you wanna play with it by yourself, um,",45.47,2.805
+download the zip file and get the IPython Notebook out of that.,48.275,3.74
+Okay. So we were looking at,52.015,1.375
+these Glove word vectors which I'll talk about a bit more today and so there were,53.39,4.575
+"these sort of basic results of similarity in this vector space work very nicely for,",57.965,6.965
+"um, discovering similar words and then going on from that,",64.93,5.62
+"there was this idea that we'll spend some more time on today which was, um,",70.55,5.28
+maybe this vector space is not only a similarity space where,75.83,4.33
+close together things have similar meaning but it actually captures meaning,80.16,5.6
+in a considerably deeper and more profound way which is to say that there are,85.76,5.04
+actually directions in the space that you can point which have a certain meaning.,90.8,6.48
+"So, that if you are pointing in one direction it means this is more so the case,",97.28,6.69
+if you are pointing in a different direction and the meaning space it might be this is,103.97,4.2
+the capital of this country or,108.17,2.61
+all sorts of different meanings could be encoded in the space.,110.78,3.425
+"And a way of testing that,",114.205,2.45
+"is to use these analogy, um, problems.",116.655,3.025
+And I quickly showed this at the end but just to make sure if you're,119.68,3.4
+unguarded since it's sort of- it's sort of a clever thing right?,123.08,3.81
+"So, the idea is that we're going to start with a pair of words like king and man.",126.89,7.71
+"And so what we're gonna do is we're gonna say well,",134.6,2.55
+there's a vector for king in the space and there's a vector for man in,137.15,6.0
+the space and but what we're gonna do is we're going to,143.15,3.69
+"subtract as in just good old vector subtraction that you hopefully learned in your,",146.84,5.16
+"um, linear algebra class.",152.0,1.75
+We're gonna subtract the man vector from,153.75,2.27
+the king vector and the idea we have in our head then is if we do,156.02,4.47
+that what will happen is we'll be left with the meaning of kingship without the manness.,160.49,7.475
+"Um, and so then there's also a direct vector for a woman.",167.965,6.305
+"So, we can add the woman vector to that resulting vector and then we could say well,",174.27,5.54
+"in the vector, we end up at some point in the vector space and then we're gonna say well,",179.81,4.41
+what's the closest word that you're gonna find the here,184.22,3.12
+"and it's gonna print out the closest word and as we saw,",187.34,4.62
+"um, last time, um,",191.96,2.805
+"lo and behold if you do that,",194.765,2.895
+"um, you get the answer.",197.66,2.905
+"I'm saying you get,",200.565,1.695
+"um, king, man, woman.",202.26,10.18
+No? All right. [LAUGHTER].,213.53,2.89
+You gotta reverse king and man.,216.42,2.775
+"I have to reverse king and,",219.195,1.665
+"ah, sure, sure, sure. I'm sorry.",220.86,2.04
+"Oops. Yeah, okay, I kinda do it well like man, king.",222.9,6.57
+"Ah, [LAUGHTER] Okay. Yeah, that's right.",229.47,5.79
+"Sorry. Okay. Yeah, because it should be",235.26,2.22
+man is to king as woman is to something sorry yeah.,237.48,2.905
+I was getting [LAUGHTER] my order of components wrong.,240.385,3.295
+"Okay. Um, and, you know,",243.68,2.58
+as I was sort of I guess I was showing some examples last time with,246.26,4.53
+"nationality words but I mean this in a way that is sort of surprising to shocking,",250.79,7.83
+this actually works for all kinds of things that you can get meaning in this space.,258.62,5.25
+"So, I can ask various kinds of analogies of sorts.",263.87,5.16
+So I can say Australia is to beer as France is to-.,269.03,4.35
+Wine.,273.38,0.9
+Wine. You might think wine.,274.28,1.44
+What it gives back as champagne which seems a pretty good answer.,275.72,2.88
+"[LAUGHTER] Um, I'll go with that.",278.6,1.935
+"Um, um, you can do more syntactic facts.",280.535,3.955
+"So, I can say tall ta- tall is to tallest as long is to longest and it gets set.",284.49,6.51
+"Um, if I say good is to fantastic as bad is to terrible.",291.0,5.745
+That it seems to get out that there's some kind of notion of,296.745,3.695
+make more extreme direction and get this direction out.,300.44,4.44
+I skipped over one.,304.88,1.395
+A bomber is to Clinton as Reagan is to.,306.275,4.29
+You may or may not like the answer it gives for this one,310.565,3.11
+as Obama is to- as Reagan is to Nixon.,313.675,3.94
+"Um, now one thing you might notice at",317.615,2.805
+this point and this is something I actually want to come back to at the end.,320.42,3.93
+"Um, well, there's this problem because Clinton's ambiguous, right?",324.35,3.81
+There's Bill or there's Hillary.,328.16,1.68
+"Um, and, um, I forget,",329.84,3.085
+"you know, so this data as I said is a few years old.",332.925,3.935
+"So, this data was done in 2014.",336.86,2.46
+"So, in sort of in- it definitely doesn't",339.32,2.91
+"have Trump really in it as a politician, um, but, you know,",342.23,2.94
+"it would have variously both Clintons but as sort of makes sense if probably um,",345.17,5.25
+"for a sort of proof for 2014 data,",350.42,3.145
+"um, that Bill Clinton dominated.",353.565,2.01
+"So, I think what we're getting, um,",355.575,1.935
+"out of this is that Clinton and Nixon are sort of similar of people in dangers,",357.51,5.82
+"um, of being impeached.",363.33,2.46
+"Um, and, uh, on both sides of the aisle had us thinking primarily of Bill Clinton.",365.79,5.905
+"But, um, if this sort of brings up something that",371.695,2.805
+"I'll come back to right at the end of, um,",374.5,2.88
+it sort of looks like we've got a sort of a problem here because we,377.38,3.99
+"just have this string literally Clinton and that, um,",381.37,4.32
+"string is any possible sense and meaning of the string Clinton and so minimally um,",385.69,9.585
+that we have Bill Clinton and Hillary Clinton that near.,395.275,3.525
+"Maybe you have some friends that are called Clinton as well, right,",398.8,2.44
+and they're all mixed together in this Clinton.,401.24,2.68
+And so that seems kinda problematic and that's sort of been an issue,403.92,3.28
+that's been discussed some for these word vectors and I'll come back to that.,407.2,3.705
+"Um, another thing you can do is you can give",410.905,2.875
+a set of words and say which is the odd one out.,413.78,2.925
+Maybe you used to do puzzles like that in middle school or something.,416.705,3.315
+"Um, and so you can do that and it decides",420.02,2.61
+that cereal is the odd one out of that set. It seems okay.,422.63,3.45
+"Um, and then one other thing I'll just show you is, so, um,",426.08,3.87
+it'll sort of be nice to look at these words that I've drawn,429.95,3.3
+them in some of the slide pictures.,433.25,2.97
+"So, this is saying to put together a PCA or",436.22,2.46
+"Principal Components Analysis, um, scatter plot.",438.68,3.345
+"Um, so, I can do that and then I can say, ""Um,",442.025,4.465
+"give it a set of words and draw me these as a scatter plot"" and um,",446.49,6.99
+"hopefully if I can just about fit it in,",453.48,2.895
+"um, here's my scatter plot.",456.375,2.1
+"And it works pretty well, right?",458.475,1.615
+"I've got the wine, champagne,",460.09,1.42
+beer up here then the coffee and tea.,461.51,2.4
+"Um, here are the countries.",463.91,1.86
+"Here is the schools, college institute, universities.",465.77,3.285
+"Um, the animals are down here.",469.055,2.325
+"Um, foodstuffs there.",471.38,4.03
+"So, yeah, this sort of really does work with this two direction- dimensional display.",475.41,4.88
+It basically shows you similarity.,480.29,2.52
+"Now, um, there are, you know,",482.81,3.545
+to some extent though you want to hold on to your wallet with these PCA displays.,486.355,4.435
+"So, it's as I've discussed before since you're",490.79,2.37
+taking something that was 100-dimensional and we're just doing,493.16,2.91
+this 2D projection that is capturing some of the major geometry of,496.07,4.65
+the space but it just has to be losing a huge amount of the information.,500.72,4.71
+"So, when things end up close together,",505.43,2.33
+they might be really close together in the original space or,507.76,3.13
+they might just have been words that lost in,510.89,2.79
+the 2D projection because they- there are other patterns that,513.68,3.96
+were more dominant and were chosen as the first two principal components.,517.64,4.05
+"So, you sort of don't wanna over trust",521.69,2.31
+these things and something if you like Infoviz you might think,524.0,3.51
+about is how there are other ways that I might be able to,527.51,2.76
+represent the distances in a way that was more accurate.,530.27,3.42
+"Um, but anyway this is very simple to do and I'm just getting",533.69,3.08
+"a PCA to reduce the dimensionality of the matrix and then,",536.77,3.88
+"um, transforming with it these word vectors and printing them.",540.65,3.935
+"Um, it's mainly easy to do.",544.585,2.795
+"The bit that wasn't easy for me to do, um,",547.38,2.375
+"but if someone's got some clever Python um plotting tips I'd like one,",549.755,5.025
+if someone wants to send me a message after class.,554.78,2.7
+I would have thought there'd be some default way in which you could just,557.48,3.51
+label points in a scatter plot but I wasn't able to find one.,560.99,4.32
+"So, what I did, um,",565.31,1.92
+was I'm just sort of plotting the texts and,567.23,2.13
+I'm offsetting it a little bit from the points.,569.36,2.22
+"Um, now that works kinda crappily",571.58,2.07
+because they just collide with each other as you can see.,573.65,2.595
+"Um, so, it'd be better if there was a better way to do point labeling in Python plots.",576.245,4.725
+"So, if anyone knows the answer to that one you can send it to me.",580.97,3.945
+"Um, okay. So, that's that. Ah.",584.915,4.8
+And if you haven't used IPython Notebooks,589.715,2.655
+"before and don't want your computer to run really slowly,",592.37,3.3
+it's a good idea to halt,595.67,1.29
+"your IPython Notebooks when you're not gonna be using them anymore,",596.96,3.135
+"um, especially if they're computing something.",600.095,2.43
+"Um, okay. [NOISE] Um.",602.525,1.725
+[NOISE],604.25,22.23
+"Okay. [NOISE] So now,",626.48,1.74
+"[NOISE] um, lecture two and so for today,",628.22,3.96
+we're gonna keep on talking about things you can do with,632.18,2.22
+Word Vectors and say a little bit at the end about Word sensors.,634.4,4.47
+"So, in more detail, [NOISE] um,",638.87,2.7
+"I'm gonna say a bit more about, um, Word2Vec.",641.57,3.96
+"I'm gonna have a sort of a very brief excursion on optimization, um,",645.53,4.77
+but then I sort of want to explain a bit more of the space of what,650.3,4.71
+people have done and can do with dense word representations.,655.01,5.505
+So I am gonna say something about,660.515,1.935
+count-based approaches to capturing meaning and how do they work.,662.45,4.755
+"I'm gonna talk for a bit about a,",667.205,1.665
+"a different model of Word Vectors which was the GloVe model that,",668.87,3.885
+"um, as a post-doc of mine, um,",672.755,3.3
+"Jeffrey Pennington and, uh,",676.055,2.25
+"me worked on a couple of years ago,",678.305,2.31
+"um, talk some about evaluation,",680.615,2.085
+really quite dominant theme on a lot of what,682.7,2.37
+"we do on natural language processing is how do we,",685.07,2.715
+"how do we evaluate things and how much do we trust our evaluations,",687.785,4.32
+"um, and then say a little bit about, um, word sensors.",692.105,3.015
+"I have a sort of a goal here which is that by the end of the class,",695.12,3.42
+"um, you should actually sort of understand, um,",698.54,3.36
+enough of the lay of the land that you could,701.9,2.01
+read papers about word vectors such as the ones that,703.91,3.18
+are in the syllabus and actually understand,707.09,2.22
+them and where they're coming from and roughly how they work.,709.31,3.12
+"And so, you know, if you really wanna minimize",712.43,1.98
+"work for your c- this class, you could think, ""I,",714.41,2.28
+I know everything I need to know after the first week and I'm gonna,716.69,3.09
+"do a final project on word vectors and I'll be okay.""",719.78,3.48
+"Um, and you know, you could actually do that,",723.26,1.89
+"I mentioned during the wo- um,",725.15,1.5
+"class, um, a couple of recent pieces of work on word vectors.",726.65,4.935
+"On the other hand, um,",731.585,1.47
+"doing things with word vectors as a fairly mined out areas,",733.055,3.255
+"so you're probably better off, um,",736.31,1.89
+also listening to some of the later parts of the class.,738.2,3.06
+"Okay. So, remember we had this idea of Word2Vec,",741.26,3.39
+"so it was an iterative updating algorithm that learned, um,",744.65,5.325
+"these vector representations of words,",749.975,2.475
+then in some sense capture their meaning and the way it worked was we kinda,752.45,3.84
+"moved position by position through a corpus and each point in time,",756.29,4.29
+we had a center word here into and it's trying to predict,760.58,4.59
+the words around that by having,765.17,2.16
+"a probability distribution over words will occur around that,",767.33,3.615
+and that probability distribution is defined simply in terms,770.945,4.44
+of the.product of the word vectors via the Softmax function.,775.385,4.89
+"And so, what we wanna do is change those vectors in",780.275,3.345
+"a way that this gives good probability predictions,",783.62,3.3
+that gives as high probability as possible to words that you tend to see in the context.,786.92,5.52
+"And so, just to drill that in a little bit more, you know,",792.44,3.33
+"what we actually have is we have two matrices, right?",795.77,5.535
+"We have for center words,",801.305,2.22
+"we have a matrix where for each word in our vocabulary,",803.525,3.405
+"we have a vector, um, and at this,",806.93,2.595
+this is probably as good a point as any to say that it,809.525,2.925
+"turns out that all the major deep learning packages,",812.45,3.615
+"TensorFlow, PyTorch, etc., for their word vectors,",816.065,4.05
+the word vectors are represented as rows.,820.115,2.925
+"If you've done a bunch of math classes,",823.04,1.74
+that might not be what you would expect.,824.78,2.01
+"You might have expected the other way around,",826.79,2.04
+but they all put them in rows.,828.83,1.71
+"So we can have rows for our,",830.54,2.745
+"um, so we have six words and a five dimensional vector each.",833.285,3.63
+"Okay. And then, we have this outside, um,",836.915,3.12
+"matrix where we also have a second, um,",840.035,2.79
+vector for each word which is this representation in context.,842.825,4.8
+"Um, so when we have a particular center word here,",847.625,3.72
+"word four, you know,",851.345,1.605
+"when we're doing our computations,",852.95,1.98
+we're taking a.product between v_4 and each row of,854.93,4.71
+U and that's then giving us a vector of dot product scores.,859.64,6.015
+"And so, then after that,",865.655,1.695
+we're running Softmaxes on each of those numbers doing it,867.35,3.84
+element-wise and that's been giving us,871.19,2.16
+a probability distribution over words in the context.,873.35,3.73
+"Um, and the sort of things to notice there, um,",877.08,4.57
+"which hopefully you noticed last time,",881.65,1.71
+"but to make sure you noticed that,",883.36,1.66
+"um, you know, we've just got one probability distribution, right?",885.02,4.26
+"So in terms of what words we predict,",889.28,2.16
+"we're predicting exactly the same probability distribution, every position.",891.44,4.2
+We've sort of saying the most likely word one to the left,895.64,3.0
+"is whatever it is house or most likely word to the left is house,",898.64,3.99
+"three to the left is house,",902.63,1.44
+"the one to the right should be house too, right?",904.07,2.4
+"So, it's sort of no sort of find us a prediction,",906.47,2.85
+it's just an overall kind of,909.32,2.025
+probability distribution of words that are likely to occur in my context.,911.345,4.815
+"So, all we're asking for is a model that gives",916.16,3.525
+reasonably high probability estimates to all words that,919.685,3.795
+"occur in the context of this word relatively often,",923.48,4.365
+is nothing more to it than that.,927.845,2.13
+And that's part of why it's sort of surprising when you've got,929.975,2.475
+"such a simplistic thing that it seems like at the end of the day,",932.45,3.93
+it can end up capturing so much about,936.38,2.535
+"the meanings of words and aspects of the meanings of words,",938.915,3.855
+like in the examples I've just showing you in the IPython Notebook.,942.77,4.575
+"Um, and [NOISE] there's one other thing I was gonna say, oh yeah,",947.345,5.955
+"one other thing I was gonna say was the other thing that might occur to you from this is,",953.3,5.954
+"um, well, wait a minute,",959.254,1.651
+"there was like that and-and,",960.905,2.28
+and-of that occur all the time.,963.185,2.94
+"Um, so that means every word must have a high dot product with words like that and of and,",966.125,10.094
+"um, they get their probabilities right.",976.219,2.386
+"And the first answer to that is, ""Yup, that's true.""",978.605,4.41
+"And it turns out that all word vectors, [NOISE] um,",983.015,2.97
+have a very strong prob- word probability component that reflects that.,985.985,5.025
+"And I mean, one of the things that some workers discuss,",991.01,3.9
+"so on the readings,",994.91,2.07
+there are two papers from Sanjeev Arora's group in Princeton and one of,996.98,4.17
+"those papers sort of discusses, um, this probability,",1001.15,4.335
+high frequency effect and your crude way of [NOISE] actually,1005.485,4.005
+"fixing this high frequency effect is that normally, um,",1009.49,4.47
+"the first, um,",1013.96,1.725
+the first biggest component in,1015.685,2.775
+"your word vectors is actually a frequency effect and if you just lop it off,",1018.46,3.93
+you can make your semantic similarities better.,1022.39,2.61
+"Um, but there are other things that we do to sort of deal with high frequencies.",1025.0,4.86
+"Okay, so we get these lovely spaces that I've shown some of.",1029.86,4.755
+But I'll make one more remark. Um.,1034.615,2.895
+"Yeah, so did I say this last time? Oh, oh.",1037.51,3.99
+"Um, my remark anyway is that,",1041.5,2.655
+"um, we show all these two-dimensional pictures.",1044.155,4.425
+"They're exceedingly, exceedingly misleading because in these pic,",1048.58,4.875
+"two-dimensional pictures, you know,",1053.455,2.955
+"you have these effects that if, you know,",1056.41,3.12
+"Samsung is close to Nokia,",1059.53,2.94
+it has to be over here and then it has to be far away from words that are over here.,1062.47,5.22
+"Um, whereas you might sort of also want to have the effect that",1067.69,2.97
+"Nokia is close to Finland for a different reason,",1070.66,3.959
+"um, and you can't do that in two-dimensional, um,",1074.619,2.626
+"vector spaces but, you know, one of the, um,",1077.245,3.42
+"most of the properties of high dimensional vector spaces are very unintuitive,",1080.665,4.455
+"and one of the ways that they're unintuitive is in a high dimensional vector space,",1085.12,4.68
+a word can be close to lots of other words in different directions.,1089.8,5.475
+"Um, okay. So um,",1095.275,3.27
+we sort of started to talk about how we went about learning these word vectors.,1098.545,6.435
+I'm sort of going to take about a five minute detour into optimization.,1104.98,6.6
+"Now, this isn't really an optimization class,",1111.58,2.37
+if you want to learn a lot about optimization.,1113.95,2.4
+Well you can learn more about optimization if you do,1116.35,2.52
+"229 and if you do something like Stephen Boyd's optimization class,",1118.87,3.96
+you can learn a lot of optimization but this is,1122.83,2.97
+"sort of really baby optimization but just to make sure everyone's on the same page,",1125.8,3.99
+here are three slides.,1129.79,2.295
+"Right, so what we did at the end,",1132.085,1.875
+"what we did over there,",1133.96,1.53
+"where I apologized that my writing was too small,",1135.49,3.6
+but that will give you the chance to when doing homework too and you have to,1139.09,4.41
+write that out to work it out for yourselves and learn more in the process.,1143.5,4.995
+"Right, so what we had was a cost function that we wanted to",1148.495,3.285
+minimize and so what we did was we did our bit of,1151.78,3.66
+calculus to calculate the gradient of the cost function with respect,1155.44,5.025
+"to our word vectors which were our variables theta and then what we want to do is say,",1160.465,6.105
+well if we take a small step in,1166.57,3.48
+"the direction of the negative of the gradient that will be taking us down,",1170.05,4.95
+down hill in this space and we want to keep on,1175.0,3.615
+doing that and sort of head to the minimum of our space.,1178.615,3.795
+"I mean, of course in our high multi-dimensional space,",1182.41,3.089
+"you know, it might not be a nice smooth curve like this.",1185.499,2.641
+It might be a horrible and non-convex curve but that's just the idea.,1188.14,4.725
+"So, essentially we're saying we've got the old parameters,",1192.865,3.645
+we work out the gradient of the objective function using those old parameters.,1196.51,5.015
+We multiply that by a small alpha which is,1201.525,4.305
+our step size or learning rate because we only want to move a,1205.83,2.85
+"little bit each time because if back here,",1208.68,3.18
+"if we sort of said downhill is this way and said,",1211.86,3.39
+"""Great let's go a long way that way.""",1215.25,1.71
+"You could kind of completely overshoot,",1216.96,1.83
+so we only want to go a little bit each time.,1218.79,2.43
+So we normally have a small learning rate alpha and so we,1221.22,3.67
+"subtract a small multiple of the gradient and we,",1224.89,3.855
+from the old parameters and we get,1228.745,1.725
+"our new parameters and that sort of effectively being worked out,",1230.47,4.11
+"component wise as is shown below,",1234.58,2.61
+"that we're just doing that to each of the partial derivatives and then,",1237.19,3.735
+that our hope is that that will let us gradually walk down this surface.,1240.925,4.56
+"Now, if you actually did this,",1245.485,2.565
+it would be unbelievably bad for the kind of,1248.05,2.79
+systems that we build and there's a lot of work on,1250.84,3.24
+clever optimization but the most basic thing,1254.08,3.81
+"which you definitely need to know is that well,",1257.89,4.125
+"our objective function here,",1262.015,2.88
+"J of theta was a function of our entire corpus, right?",1264.895,4.335
+"And to get this to work well,",1269.23,1.77
+"the first thing you want to do is,",1271.0,1.98
+"you know collect a few billion words of your favorite language and then say,",1272.98,4.62
+"""Go and build a Word2Vec model for me, "" and so,",1277.6,3.645
+if you have to evaluate,1281.245,2.7
+"a billion center words and maybe then to- for each of 10 billion context words,",1283.945,6.165
+"if you have a window size of five and you- so you have to do these sort of 10 billion um,",1290.11,5.58
+"Softmax calculations before you work out what your gradient is,",1295.69,5.085
+that you're going to be having your computer compute for a quite a long time before,1300.775,4.575
+"you make one little step in the gradient and so things are going to go so, so slowly.",1305.35,4.695
+"So, no one does that in deep learning systems.",1310.045,3.66
+"Um, so what people- everyone does is use",1313.705,2.565
+"stochastic gradient descent and in stochastic gradient descent,",1316.27,4.41
+we sample our window in the simplest case.,1320.68,4.645
+"We, just for this one window,",1325.325,2.845
+work out an estimate of the gradient and we use it as a parameter update.,1328.17,5.73
+"So, this is sort of an amazingly,",1333.9,2.16
+amazingly noisy estimate of,1336.06,2.91
+"the gradient but it sort of doesn't matter too much because as soon as we've done it,",1338.97,4.63
+"we're going to choose a different center word and do it again and again,",1343.6,3.15
+so that gradually we sort of approach what we would have gotten if we'd sort,1346.75,4.08
+"of looked at all of the center words before we took any steps,",1350.83,4.169
+"but because we take steps as we go,",1354.999,2.281
+we get to the minimum of the function orders and magnitude more quickly.,1357.28,6.375
+So thi- this shows the simplest case where we're just sampling one window.,1363.655,5.34
+"In practice, that's not what we normally do.",1368.995,2.985
+"We normally sample as- a small bunch,",1371.98,3.915
+"you know, order of approximately 32 or 64.",1375.895,3.315
+"Um, so if we have a sample that's bigger,",1379.21,3.975
+that's generally referred to as a mini-batch and we,1383.185,2.58
+calculate a gradient estimate from the mini-batch.,1385.765,3.345
+"Um, so that has two advantages.",1389.11,2.94
+One advantage is that you kind of get less noisy estimates of,1392.05,4.5
+the gradient because you've kind of averaged,1396.55,2.04
+"over a bunch of examples rather than just using one,",1398.59,3.24
+"but the second advantage,",1401.83,2.04
+"which is the one why we really care,",1403.87,2.085
+"is if we want our computations to go fast when we're using a GPU,",1405.955,4.86
+that you need to get parallelization of doing the same operation a whole bunch of,1410.815,5.235
+times and then you gain a lot by using,1416.05,2.91
+a mini-batch of 64 examples or something like that.,1418.96,3.315
+"Um, and you don't have to but you know,",1422.275,2.235
+"it turns out the details of the guts of the hardware that you know,",1424.51,3.27
+"it isn't- [inaudible] GPUs, you know, they have these,",1427.78,2.82
+"whatever they have inside them,",1430.6,1.44
+there in powers of two.,1432.04,1.455
+"So, you get better speedups if you use batches like 32 or 64,",1433.495,4.47
+rather than just deciding that 42 is still your favorite number from,1437.965,3.105
+high school [LAUGHTER] and you're going to use that as the size of your mini-batch.,1441.07,4.99
+"Okay. um, yeah here's",1447.0,3.61
+one other interesting thing which,1450.61,3.12
+"actually has some optimization details in it, it turns out.",1453.73,3.54
+"Um, if you think of these um,",1457.27,2.355
+"doing stochastic gradients with word vectors,",1459.625,3.33
+that's actually very different to,1462.955,1.545
+some other deep learning problems like vision deep learning problems.,1464.5,3.885
+"Because for either a single window or even a sort of a reasonably sized mini-batch,",1468.385,5.355
+"it will turn out that those mini-batch,",1473.74,2.835
+"mini-batch only has, you know,",1476.575,2.685
+"relatively speaking a handful of words in it, right?",1479.26,2.73
+"So, if you have mini-batch of size 32 and a window size of ten,",1481.99,3.72
+"you know, probably there are only about a 100,150 different words in it.",1485.71,4.29
+"Um, but yet we're building this model over",1490.0,3.03
+a vocabulary of quarter of a million words or something like that.,1493.03,3.105
+"So, just about all of the elements in this vector are zero.",1496.135,4.155
+"Um, and so, um,",1500.29,3.15
+"we sort of really have this very sparse um,",1503.44,3.495
+"perimeter update and so, um,",1506.935,3.63
+"that sort of suggests that we actually probably um,",1510.565,3.735
+want to sort of only update the word vectors that,1514.3,3.48
+"appear and then the question is whether you can achieve that, right?",1517.78,3.6
+"The dumb way to do it, is you just have this matrix that's normally,",1521.38,3.66
+nearly all zeros and you say add,1525.04,2.79
+"those two matrices together and there you go and then the question is,",1527.83,5.4
+can you actually have a sparse matrix update which only updates,1533.23,4.8
+the certain rows of the matrix that contain,1538.03,3.0
+the words that you've entered and do things much faster?,1541.03,3.615
+And if you're doing something even cleverer like doing,1544.645,2.595
+"distributed computation over multiple computers and sharing your parameters,",1547.24,4.98
+well then definitely you just sort of only want to update,1552.22,2.4
+the word vectors that you've actually been getting a parameter estimate for.,1554.62,4.04
+"So, there's sort of some details there but I'm",1558.66,2.19
+"going to skip past them for more details, um.",1560.85,3.14
+"Right. So, a couple of people asked afterwards, yeah,",1563.99,4.58
+why are there these two word vectors that sort of center and the outside one?,1568.57,5.955
+"And, I mean the answer to that is,",1574.525,2.145
+"it makes that math I showed you easy, right?",1576.67,2.85
+"So that if, um,",1579.52,2.355
+"if you do it as I showed you, well,",1581.875,3.57
+"you know, for working out, um,",1585.445,2.685
+the partial derivatives for the center word.,1588.13,3.855
+"It's just as I showed you, it's easy.",1591.985,3.225
+"Um, but if you use only one set of word vectors,",1595.21,4.77
+"well then the same word,",1599.98,1.83
+"that's the center word,",1601.81,1.425
+will be one of the choices for,1603.235,2.205
+the context word when you're working out that Softmax for the context word.,1605.44,4.455
+And then you'll get these terms that are then,1609.895,2.655
+"squared terms in terms of the two references,",1612.55,3.27
+"so that same word,",1615.82,1.47
+and that makes your math more difficult.,1617.29,2.64
+"Um, so it's sort of just a practical thing,",1619.93,3.795
+"um, in the end.",1623.725,1.65
+"I mean it sort of doesn't make very much difference,",1625.375,3.225
+"because if you sort of think about it since you're going along through all the,",1628.6,3.405
+"um, positions, you know.",1632.005,1.62
+What was a center word at one point is immediately afterwards,1633.625,3.375
+"a context word of what used to be a context word,",1637.0,3.51
+which is now the center word.,1640.51,1.38
+"So, sort of doing the same computations because, you know,",1641.89,4.35
+"the dot product is symmetric actually,",1646.24,2.264
+"um, all over again.",1648.504,2.266
+"So, they get pretty similar vector representations.",1650.77,3.33
+"So, it seems like in general you can get the best results",1654.1,2.43
+"by averaging what comes out for your two vectors,",1656.53,2.819
+and you end up with just one vector per word.,1659.349,2.641
+"Okay, more substantively, um,",1661.99,3.75
+"if you go to the word2vec paper,",1665.74,2.88
+you'll discover that there's sort of more to word2vec that they,1668.62,3.3
+define as sort of a family of word2vec models.,1671.92,3.645
+And there are so two main parts of that family.,1675.565,3.48
+"Um, firstly, there's a choice between the Continuous Bag of Words model,",1679.045,4.41
+and the skip-grams model.,1683.455,1.89
+And what I presented with the skip-grams models.,1685.345,2.595
+"So, in the skip-grams model,",1687.94,1.71
+you've got one center word and you're trying to,1689.65,2.52
+predict all the words in context one at a time.,1692.17,3.345
+For the Continuous Bag of Words model it's the opposite.,1695.515,3.71
+"You've got all of the outside words and you're trying to use all of them,",1699.225,4.755
+though considered independently like a Naive Bayes model to predict the center word.,1703.98,5.735
+"Um, and then the second one is, um,",1709.715,4.61
+the way I presented learning this was,1714.325,3.36
+the method that's using the so called Naive Softmax.,1717.685,3.555
+"So, therefore when we are wanting to work things out,",1721.24,3.075
+"we were sort of saying okay we want probability estimates for the context words,",1724.315,5.039
+and so we're just going to sum over,1729.354,1.636
+the whole vocabulary and we'll come up with these probability estimates.,1730.99,4.56
+"Um, in practice, that turns out to be a sort of",1735.55,3.99
+a bad idea because that would also make things mega slow.,1739.54,4.32
+"So, in homework two,",1743.86,2.024
+"coming up next week, um,",1745.884,2.116
+"you will get to implement a much more practical, um,",1748.0,3.585
+"way of doing this which they present in the word2vec papers, right?",1751.585,3.945
+"So, the problem is,",1755.53,1.2
+"if we're using this equation that we use to do the calculus,",1756.73,4.305
+"that down in this denominator here,",1761.035,2.19
+we're doing the sum over the entire vocabulary.,1763.225,3.195
+"So, if you have a vocabulary of a quarter million words,",1766.42,2.7
+we're sort of doing a quarter of a million dot products and,1769.12,2.49
+exponentials and adding them all to work out that denominator.,1771.61,4.56
+"And that sort of seems uh,",1776.17,2.01
+sort of a really bad idea if you want things to be fast.,1778.18,3.06
+"Um, so, um, Tomas Mikolov and",1781.24,3.12
+colleagues came up with this idea of negative sampling would be near enough.,1784.36,4.47
+"And so the idea of negative sampling,",1788.83,2.205
+is we're going to train binary logistic regressions instead.,1791.035,4.71
+"And so, we're going to train one binary logistic regression",1795.745,3.78
+"for the actual word observed what's in the numerator,",1799.525,4.53
+and you want to give high probability to the word that was actually observed.,1804.055,5.085
+"And then, what we're going to do,",1809.14,2.685
+"is we're going to sort of randomly sample a bunch of other words,",1811.825,3.855
+they're the negative samples and say they weren't the ones that were actually seen.,1815.68,6.24
+"So, you should be trying to give them as low a probability as possible.",1821.92,4.875
+"Okay, so, um, the sort of notation that",1826.795,4.125
+they use in the paper is sort of slightly different to the one I've used.,1830.92,4.275
+"They actually do maximization not minimization,",1835.195,3.165
+and that's the equation which I'll come back to.,1838.36,4.02
+"Um, though before we do that here's the sigmoid function.",1842.38,4.32
+"So, the sigmoid function is normally written like this,",1846.7,2.61
+one over one plus E to the minus X.,1849.31,2.595
+"But, um, essentially,",1851.905,2.325
+"the sigmoid function is like a binary case of the Softmax function, right?",1854.23,5.37
+"That we have two possible outcomes, yes or no,",1859.6,3.42
+"and that you're sort of again got an input that is any real number,",1863.02,4.59
+and it's mapping it onto a probability distribution between,1867.61,3.69
+zero and one which represents these two binary outcomes.,1871.3,3.57
+"And to the extent that the number is positive,",1874.87,1.92
+it kind of ceilings to one and negative goes down to zero.,1876.79,4.425
+"Okay, so with this time,",1881.215,1.95
+"we're going to take the dot for- for the good word,",1883.165,3.074
+"we're going to take the dot product of the two vectors,",1886.239,3.091
+shove it through our sigmoid function,1889.33,2.505
+"and then we're going to want that probability estimate,",1891.835,2.445
+"um, to be as high as possible.",1894.28,2.43
+"So, if I show you this version,",1896.71,2.1
+"which is just written slightly differently, um,",1898.81,3.03
+"to look as much as possible like the notation that we used last time,",1901.84,4.89
+here is our new objective function for using negative sampling.,1906.73,3.945
+"And we've got two terms,",1910.675,1.74
+"the first one, um,",1912.415,2.085
+"is the log of the sigmoid of the observed context word,",1914.5,4.785
+"the outside words, dot producted with the center word,",1919.285,3.525
+and we're going to want that to be big.,1922.81,2.37
+"Um, and then on the other hand,",1925.18,3.255
+"um, we've got, um, the,",1928.435,4.35
+"um, randomly chosen K words,",1932.785,4.065
+"which are just other words,",1936.85,1.68
+and we're going to work out dot products between them and the center word.,1938.53,3.375
+And we're going to want those to be as small as possible.,1941.905,3.195
+"Um, note that extra minus sign in there which is causing",1945.1,3.24
+"the sign of the two things to be different, right?",1948.34,3.21
+"So, those are our negative samples.",1951.55,2.805
+"And for big K, it can be a reasonably modest number,",1954.355,2.865
+"you can just take kind of 10,",1957.22,1.38
+15 negative samples and that works pretty fine.,1958.6,4.065
+"Um, I said we sort of sampled some words,",1962.665,4.005
+"um, to be the negative samples.",1966.67,2.085
+They in particular propose a sampling distribution that helps them along,1968.755,5.505
+a little in partly dealing with this pro- problem of very frequent words.,1974.26,6.0
+"Um, so the starting point of how you sample words is you",1980.26,3.72
+use what we call the- the unigram distribution.,1983.98,3.48
+"So, that just means you take words on a large corpus and count up",1987.46,3.93
+"how often each one occurs just as a count of independent words,",1991.39,4.62
+so there's the called unigram counts.,1996.01,2.115
+"And so you start off with unigram counts,",1998.125,2.355
+but then you raise them to the three quarters power.,2000.48,3.105
+"And raising to the three quarters power,",2003.585,2.145
+"has the effect of, um,",2005.73,1.665
+"decreasing how often you sample very common words,",2007.395,3.39
+and increasing how often you sample rarer words.,2010.785,4.41
+"Okay, um, and that's that.",2015.195,4.2
+"Okay, so that's everything about word2vec I am going to say.",2019.395,4.56
+Anyone have any last thing.,2023.955,4.605
+Yes. [NOISE],2028.56,3.685
+"Oh, oh [NOISE]. This is a- sorry Z,",2032.245,3.03
+"that capital Z is often used as a normalization term and so this is saying,",2035.275,5.385
+"well if you want the probability distribution of words,",2040.66,3.045
+is you work out this three quarters power of the count,2043.705,3.255
+of the word for every word in the vocabulary and then these,2046.96,3.27
+numbers you just sum them up over the vocabulary and it'll be sum,2050.23,3.57
+total and we're dividing by that so we get a probability distribution.,2053.8,3.87
+Good question because i hadn't explained that.,2057.67,2.175
+"Um, in this class, when you see the letter Z with no explanation,",2059.845,3.765
+it normally means I am a normalization term to turn things into,2063.61,5.13
+probabilities and you sort of iterate over,2068.74,2.46
+the numerator term and summing them and divide through.,2071.2,3.6
+Any other questions of things I haven't explained or otherwise? Yes.,2074.8,5.73
+So the window [inaudible] that's a [inaudible],2080.53,4.47
+"Yeah, yes.",2085.0,1.29
+"So, [NOISE] what size window do you use?",2086.29,2.19
+"I'll actually come back to that in a bit and show a little bit of data on that,",2088.48,4.035
+"but yeah, we haven't done anything about that.",2092.515,1.965
+"At the moment we're guessing a window size like five,",2094.48,2.79
+"which isn't a bad one um,",2097.27,1.725
+"but you know there isn't- there hasn't really been any science behind that, um,",2098.995,5.31
+"that people treat that as what's then called a hyperparameter which means that um,",2104.305,5.1
+you try a few different numbers and see which one seems,2109.405,3.315
+best and that's the one that you use in your future work. Yeah.,2112.72,4.59
+"Um, [inaudible] three quarters power",2117.31,2.175
+chosen for any theoretical reason or just because it seems to work in practice?,2119.485,4.695
+"Um, no. Um, that,",2124.18,2.88
+"that was um, also chosen as a hyperparameter and improved performance.",2127.06,6.06
+"I mean, actually um, you know,",2133.12,2.37
+"for this Word2Vec paper, I mean,",2135.49,3.09
+"you know, it turns out that um,",2138.58,2.415
+"in the actual paper um,",2140.995,2.325
+the model looks very- fairly clean but what,2143.32,4.17
+"people's discovered when they started digging through the code,",2147.49,3.959
+"which to- to their credit they did make available, reproducible research,",2151.449,4.876
+that there are actually a whole bunch of tricks,2156.325,2.85
+"of different things like these hyperparameters of um,",2159.175,4.125
+"how you sample, and how you wait windows and various things to make the numbers better.",2163.3,5.175
+"So, you know, people play quite a few tricks to make",2168.475,2.715
+the numbers go up which aren't particularly theoretical.,2171.19,4.015
+Are we good?,2175.205,2.325
+Yeah.,2177.53,16.01
+[inaudible] [NOISE].,2193.54,5.69
+"Ah, sometimes.",2199.23,3.095
+"I so- I- you- so in general for a lot of these sampling things,",2202.325,6.185
+"it's a bad idea if you're going to be doing multiple passes if you just go bloom,",2208.51,4.635
+"bloom, bloom and then bloom, bloom, bloom again,",2213.145,2.385
+"that's a bad idea,",2215.53,1.14
+but a common technique a lot of the packages use,2216.67,2.91
+is that they do use this shuffling operation at the beginning.,2219.58,3.24
+"So for each epoch,",2222.82,1.5
+they'll shuffle the data randomly and then they'll go through it in sequence and that has,2224.32,4.56
+"the benefits of faster computation from locality et cetera um,",2228.88,5.025
+"while ha- meaning that when you do it differently epoch,",2233.905,2.685
+it will work out differently.,2236.59,2.13
+"Uh, yeah, yeah.",2238.72,9.93
+[inaudible] [NOISE] [inaudible].,2248.65,0.3
+That last question I think was talking about taking the mini-batches from the corpus and,2248.95,5.235
+contrasting whether you actually say sample 20,2254.185,2.955
+randomly from the whole corpus versus just sort of working from left to right.,2257.14,4.395
+"Yes, do you have a question?",2261.535,1.695
+"Um, yeah [inaudible] [NOISE].",2263.23,12.54
+Yeah. So- so you could argue- you could argue,2275.77,3.42
+"whether or not this was written in the clearest way, but, right.",2279.19,3.705
+"So, we're making this dot product and then we're negating it",2282.895,4.215
+"which is then flipping which side of the space we're on, right?",2287.11,4.4
+Because the sigmoid is symmetric around zero.,2291.51,4.38
+"So, if we've got some dot product um,",2295.89,3.325
+"and then we negate it,",2299.215,1.575
+we're sort of working out a one minus probability and so,2300.79,4.305
+"that's the way in which we're actually for the first um,",2305.095,5.13
+for the first time we're wanting the probability to be,2310.225,2.685
+"high and then for the negative samples,",2312.91,2.73
+we're wanting their probability to be low.,2315.64,2.88
+"Okay, I'll maybe run ahead now.",2318.52,3.975
+"Um, so this was an algorithm which um,",2322.495,5.315
+sort of you're going through this corpus position by position and you're sort of doing,2327.81,6.06
+this prediction of words and then you're,2333.87,2.91
+"updating some parameters and you're learning something and you know,",2336.78,3.42
+"by job it seemed to work based on what we saw in the examples,",2340.2,4.2
+"but you know, you might have thought um,",2344.4,2.755
+that that was kind of weird right?,2347.155,1.8
+"Look we have this whole big pile of data you know,",2348.955,3.645
+"sort of traditional, I'm thinking of statistics, right?",2352.6,3.96
+"So you have a big pile of data,",2356.56,1.62
+you aggregate it and it sort of seems like there are obvious things you could do here.,2358.18,4.35
+"You could say, well there's a word like,",2362.53,2.4
+"whatever word we're using, banana.",2364.93,2.1
+Let's just see what words occur in the context of the gut banana and count,2367.03,4.11
+"them all up and then we'll be able to use those to predict somehow and you know,",2371.14,4.23
+those kinds of methods were traditionally,2375.37,3.57
+used including even with distributed representation techniques.,2378.94,4.41
+"Um, so I want to say a bit about that,",2383.35,1.86
+so you're fully educated and don't sound like one of those people who were,2385.21,4.605
+aware of no work that happened before 2013 when your network's took off.,2389.815,5.625
+"Um, okay. So, what we could do is we can essentially",2395.44,3.87
+do the same thing as sort of Word2Vec.,2399.31,3.99
+We could say there's a five word window around,2403.3,3.885
+"each word instance that's often referred to as a word token, right?",2407.185,3.975
+"So at NLP, we often want to distinguish between a particular kind of type like banana",2411.16,6.09
+or apple versus particular instances,2417.25,3.15
+often in the text and that's referred to as sort of a type token distinction.,2420.4,3.585
+"So we could, um,",2423.985,2.175
+"look at each um token with a word,",2426.16,3.51
+"and the words five around that,",2429.67,1.62
+"and then we could so start counting up which words occur,",2431.29,3.39
+occur with it and so we can then have a matrix of co-occurrence counts.,2434.68,6.165
+"Um, okay.",2440.845,2.085
+"So, we'll have again,",2442.93,1.485
+and I'm going to give me an example of this.,2444.415,1.665
+"So, normally again you use the five to 10 but you know I can just",2446.08,3.27
+use a window of one to keep my counts very simple and small.,2449.35,3.705
+"I ignore left or right just like Word2Vec did,",2453.055,3.345
+"and so if I have a teeny baby corpus like this,",2456.4,3.075
+"you know, what I could do,",2459.475,1.365
+is just say here is the matrix of word co-occurrence accounts.,2460.84,4.605
+"So, within my window size of one,",2465.445,2.85
+"I occurs next to like twice,",2468.295,2.565
+"and that means that like occurs next I twice it's symmetric,",2470.86,3.63
+"and all my other accounts here are singletons, um.",2474.49,4.23
+And so this gives me a big huge sparse matrix of word co-occurrence accounts.,2478.72,6.86
+"And so one thing that you could do is just use this matrix directly,",2485.58,4.42
+because I haven't really got enough data here.,2490.0,2.87
+"But, you know, if you sort of,",2492.87,2.31
+"um, decided that, you know,",2495.18,2.945
+"the word like is like the word learning,",2498.125,2.79
+what you'd do is you'd expect that,2500.915,1.845
+these two vectors would end up kind of similar to each other.,2502.76,4.12
+And [NOISE] they do.,2506.88,1.465
+"So, you can just measure, um,",2508.345,1.67
+similarity of the vectors directly in terms of these co-occurrence counts.,2510.015,5.565
+"But, you know, it's a little bit unappealing doing things this way, right?",2515.58,4.4
+If you have a quarter million word vocabulary that's where,2519.98,3.18
+"you are in this space where my math is bad,",2523.16,3.385
+"but it's in the trillions of the number of cells of this matrix,",2526.545,3.305
+might require a lot of storage.,2529.85,2.08
+Though if you're clever and notice that most of the cells were zero and could do,2531.93,3.56
+some clever sparse matrix representation might take a little bit less.,2535.49,4.55
+"Um, your classification models might have sparsity issues cause, you know,",2540.04,3.67
+a lot of those cells aren't present and so it might not be very robust.,2543.71,3.75
+"And so those are traditional answer to all of these things which is well,",2547.46,4.52
+maybe we could have that big co-occurrence counts matrix,2551.98,4.125
+"and somehow reduce its dimensionality of just, um,",2556.105,4.825
+"find a corresponding low dimensional matrix which preserves,",2560.93,4.615
+"uh, most of the information, um,",2565.545,2.37
+"in the original matrix and, you know,",2567.915,2.865
+"maybe we'll reduce things to a dimensionality of somewhere around the size 25 to a 1,000,",2570.78,5.36
+um as is done with Word2Vec.,2576.14,3.055
+"So, there's sort of a standard most common way of doing",2579.195,3.425
+"this dimensionality reduction and you don't really have to understand all the math,",2582.62,4.59
+"but you get to play with this and homework one which is, um,",2587.21,3.505
+"for any matrix you can do what's called the singular value decomposition, um,",2590.715,4.95
+"which is a way you can take an arbitrary matrix and decompose it into three matrices, um,",2595.665,7.84
+where the center one is diagonal and has what- in it what are,2603.505,3.745
+called singular vectors which are weightings of the different dimensions.,2607.25,4.07
+"So, they decrease in size as you go downwards.",2611.32,3.575
+And then these two U and V are then,2614.895,2.645
+orthogonal bases corresponding to the rows and columns.,2617.54,4.405
+"And so in particular,",2621.945,1.49
+"it's even simpler than the case where we just have these word-word vectors,",2623.435,3.88
+because you have a square matrix and so they are effectively the same.,2627.315,3.78
+"But, you know, for the general case, um,",2631.095,2.395
+"although you get these sort of full orthogonal bases,",2633.49,3.599
+you then have these bits sort of don't really,2637.089,2.976
+matter cause they end up being used for nothing when you work out the product.,2640.065,3.79
+"Um, and then if you want to reduce the dimensionality, what you say is,",2643.855,5.325
+throw away the smallest singular values which remember there are in decreasing,2649.18,5.495
+size and that means you're then effectively,2654.675,3.065
+throwing away rows and columns of these other matrices.,2657.74,4.3
+"And then it says,",2662.04,1.1
+behold I've now reduced these things to,2663.14,2.72
+a two-dimensional representation from,2665.86,2.5
+the original three-dimensional representation and that's referred to as,2668.36,4.08
+the reduced SVD and the classic result is in terms of least squares error in,2672.44,6.835
+"estimation that this- the product of these three things will give X k which is the best,",2679.275,7.914
+"um, k- rank k approximation to the original X in terms of,",2687.189,5.021
+"uh, X squared least squares criterion.",2692.21,2.945
+"So, we could do this and we could build word vectors.",2695.155,3.82
+"So, I can, um,",2698.975,1.775
+"make use of, um,",2700.75,1.695
+"NumPy's SVD function and I can throw into it,",2702.445,4.73
+"um, matrices and, um,",2707.175,4.35
+I can make word vectors.,2711.525,2.515
+"And these ones look really bad, but hey,",2714.04,2.135
+I give it a dataset of three centers [LAUGHTER] and it's not exactly a fair comparison.,2716.175,4.65
+"But- so this technique was in, um,",2720.825,2.595
+"popularized around, um, the turn- the turn of the millennium.",2723.42,5.505
+"It generally, um, went for",2728.925,2.065
+some word applications under the name of latent semantic analysis or,2730.99,3.91
+latent semantic indexing and the idea was that you could have,2734.9,3.685
+these semantic directions that you are,2738.585,2.905
+finding in this low dimensional space that had meaning.,2741.49,3.12
+And people worked with it quite a bit for techniques,2744.61,2.77
+like t- trying to do information retrieval,2747.38,3.06
+using these LSA approximations and it sort of worked a bit.,2750.44,6.505
+"It kind of never really worked very well I think,",2756.945,5.195
+"um, and so it never sort of hugely caught on.",2762.14,4.425
+"Um, but it's- the methods kind of continued to be explored actually mainly in the sort of",2766.565,5.205
+COG psych- COGS psych community where people were doing things with word meaning.,2771.77,5.365
+"And there's this sort of kind of interesting, um,",2777.135,3.005
+"the [NOISE] to the literature that there was this guy Doug Rohde, um,",2780.14,4.815
+"who, um, did a PhD at CMU, um, in 2005.",2784.955,6.1
+"And basically what he discovered was,",2791.055,3.17
+"look if rather than just using raw counts,",2794.225,3.49
+"I start doing quite a bit more in terms of,",2797.715,4.46
+"you know, fiddling with the counts,",2802.175,2.39
+I can start to produce results that are much better.,2804.565,2.96
+"So, rather than using low counts,",2807.525,2.095
+you have to do something to deal with those very high-frequency words.,2809.62,3.83
+"So, one idea is you could log scale them which",2813.45,2.51
+is also commonly used in information retrieval.,2815.96,2.545
+"Another idea is you could just use something like,",2818.505,3.07
+"uh, a ceiling function,",2821.575,1.875
+"so you take the minimum of X,t for t set and that some number like around 100.",2823.45,6.455
+"Um, he had- he used the idea which was also another of the hacks that was put into",2829.905,5.525
+"the Word2Vec was rather than just treating the whole window the same that you should,",2835.43,5.785
+"um, count words that are closer more.",2841.215,2.83
+"So, in Word2Vec, they sample closer words more commonly than further away words.",2844.045,5.7
+"Um, in his system, you're sort of having to have",2849.745,1.97
+a differential count for closer words et cetera.,2851.715,3.21
+"And then, um, compared to any of that rather than using counts at all,",2854.925,5.51
+he then started using Pearson correlations which,2860.435,3.34
+"helped and set they're sometimes negative and he decided that it helped,",2863.775,5.22
+"um, if you then got rid of the negative values.",2868.995,3.315
+"So, in- in some sense,",2872.31,1.72
+"this sounds like a bag of hacks,",2874.03,2.015
+"um, but on the other hand,",2876.045,2.414
+"he was able to show that, you know,",2878.459,2.096
+these transformed counts could actually then give,2880.555,2.965
+you very useful word vectors as I'm about to show.,2883.52,3.63
+"And- well, we have to realize that actually in slightly different forms,",2887.15,5.97
+several of these exact same counts are actually being used in Word2Vec as well.,2893.12,4.045
+Do you hear that?,2897.165,3.945
+Yeah. Were they [inaudible].,2901.11,5.775
+"Yeah. So, so that's an- I'm about to show exactly that.",2906.885,4.38
+"Um, that's actually a really interesting little,",2911.265,3.105
+"um, bit of the data.",2914.37,1.43
+"So, you know, what, um, yeah,",2915.8,3.415
+"so the, the thing- if you do that,",2919.215,2.79
+you not only get word similarities pretty good.,2922.005,2.91
+Let me show you this example which is cleaner.,2924.915,3.445
+"Um, so this- the precise idea of",2928.36,4.325
+evaluating with analogies was not something that had really been developed.,2932.685,4.705
+"So, that was actually something that Marsh Mikolov, um, suggested.",2937.39,4.13
+"But actually, um, Doug Rohde made this, um,",2941.52,4.135
+"really interesting observation which was- he said, look,",2945.655,5.445
+"""Once I do these kind of transformations to",2951.1,3.34
+"improve the semantic representation of my word vectors,",2954.44,3.485
+look this really interesting property emerges.,2957.925,3.78
+"Um, that what you find is that there is semantic vectors",2961.705,5.535
+are which basically linear components in my carefully-constructed space.,2967.24,5.63
+"So, here we have the sort of, um,",2972.87,2.3
+"verb to the doer of the verb direction,",2975.17,2.885
+"drive, driver, um, clean,",2978.055,2.685
+"janitor, swim, swimmer, learn,",2980.74,2.765
+"teacher or teach, teacher,",2983.505,2.14
+"doctor, treat, priest, pray.",2985.645,3.06
+"I mean, you know, it's not exactly perfect,",2988.705,2.295
+"you know, there's a little bit of wiggle there, right?",2991.0,1.91
+"But, you know, roughly it's completely clear that there's sort of a direction",2992.91,4.83
+in the space that corresponds to- from a verb to the doers of a verb.,2997.74,5.58
+"Um, and yeah, so he [inaudible] - he-",3003.32,3.11
+no one had thought of this idea of doing the analogies and tests.,3006.43,4.02
+"But the thing in retrospect that's obvious is,",3010.45,4.445
+"if you can construct a vector space that has this linearity property,",3014.895,5.3
+then you're definitely gonna do well in analogy.,3020.195,3.545
+"So, effectively he had invented a vector space that do",3023.74,2.87
+well in analogies because this means that you've got,3026.61,3.245
+this direction which is the doer and then you can immediately,3029.855,3.99
+say that's the doer vector which you can get from subtracting clean from swimmer.,3033.845,4.31
+"And the- Right. So, it's clean from janitor.",3038.155,2.59
+And then we can add it on to swim and we'll get somewhere close to swimmer.,3040.745,4.64
+"Um, so his space actually did do that.",3045.385,3.025
+"And so, um, this is- so the,",3048.41,3.52
+"the moral in some sense is,",3051.93,1.775
+"if you have- if you kind of do carefully control accounts and so on,",3053.705,4.84
+"that conventional methods can also give you good word vector spaces and- I mean,",3058.545,6.17
+so that was actually the starting off point for our work on GloVe.,3064.715,4.395
+"Um, so that essentially,",3069.11,1.9
+there had been these two schools of work.,3071.01,2.43
+"Um, there had been the school of work that had",3073.44,3.335
+"been explored more in COG psych than anywhere else,",3076.775,3.385
+which had been based on counting and transforming counts.,3080.16,3.71
+"And, you know, it had some advantages or it seemed it had some advantages, right?",3083.87,5.925
+"That, um, you're making sort of efficient use of statistics as you're using",3089.795,3.875
+the global statistics of the whole matrix directly to estimate things.,3093.67,4.375
+"Um, and at that poi- up until then,",3098.045,3.265
+"it had really only being used to capture word similarity, um,",3101.31,4.265
+and a lot of it had suffered from disproportionate im- importance given to large counts.,3105.575,6.1
+"But Doug Rohde, he had sort of started to show how to solve both of these problems.",3111.675,4.535
+"And so on the other hand,",3116.21,1.49
+there had been these neural network methods,3117.7,2.06
+which are kind of direct prediction methods that,3119.76,2.385
+we're defining that probability distribution and trying to predict the words that occur.,3122.145,4.965
+"And they had some advantages, right?",3127.11,2.86
+The fact that your sampling means that you're not going to run out of memory hopefully.,3129.97,5.06
+"I know we've had some memory problems with homework one, but in principle,",3135.03,3.395
+you're not as bad memory position and if you have to,3138.425,3.035
+"construct a huge matrix because you're going linearly,",3141.46,3.23
+"um, but, you know, since you're doing it sample by",3144.69,2.67
+"sample it's inefficient use of statistics, um.",3147.36,3.98
+"Okay. And so, but on the other hand Mikolov's work it performed perfectly.",3151.34,5.915
+"Not perfectly, but really well.",3157.255,1.89
+"Um, so this is sort of led into this work,",3159.145,3.735
+"um, that Jeffrey Pennington, um,",3162.88,2.46
+Richard Socher [inaudible] can we sort of combine these ideas,3165.34,4.815
+"and sort of have some of the goodness of the neural net methods,",3170.155,5.29
+"um, while trying to do things with some kind of count matrix.",3175.445,5.09
+"And so in particular, um,",3180.535,2.115
+we wanted to get the result in,3182.65,1.83
+a slightly less hacky way that you want to have components of meaning,3184.48,5.76
+being linear ope- linear operations in,3190.24,3.3
+the vector space that they're just some effective or adding or something like this.,3193.54,4.545
+And so the crucial observation of this model was that we could use,3198.085,4.455
+ratios of co-occurrence probabilities to encode meaning components.,3202.54,5.145
+"And so the idea here is,",3207.685,1.635
+if you have a word like ice and,3209.32,2.7
+"you say how often the thing's going to co-occur with that,",3212.02,3.195
+well solid should co-occur a lot and gas shouldn't.,3215.215,3.75
+But well water is also going to co-occur a lot and some random word won't occur much.,3218.965,6.58
+"If you have, oops.",3225.545,3.98
+"If you have steam,",3229.525,2.295
+"you get the opposite pattern with solid and gas, right?",3231.82,4.41
+"But so the thing to notice is,",3236.23,2.605
+it's not enough to just have large by itself because large,3238.835,3.485
+"appears both here and here or small appears there and there,",3242.32,4.0
+the thing that's interesting and sort of the difference between,3246.32,3.17
+these components in there indicating a meaning component.,3249.49,3.435
+And so we can get it that if we look at the ratio of co-occurrence probabilities.,3252.925,7.35
+And so for the ratio of co-occurrence probabilities this is a dimension of,3260.275,5.535
+meaning and where for other words and this sort of ratio cancels out to about one.,3265.81,7.39
+And so in this slide I've moved so it's not how my,3273.2,3.77
+small and large that these are actually actual counts from a corpus.,3276.97,3.87
+So we roughly get dimension of meaning between,3280.84,2.82
+solid and gas are the ones coming out,3283.66,2.58
+as about one because they are not the dimension of meaning.,3286.24,3.3
+"And so, it seems like what we want is we want to have ratio of",3289.54,4.42
+co-occurrence probabilities become linear and our space.,3293.96,4.7
+And then we're in a good business.,3298.66,1.855
+And so that's what we want to set about doing.,3300.515,2.825
+"Well, how can you do that?",3303.34,2.07
+"Well, the way you can do that,",3305.41,1.95
+"is by if you can make the dot products equal to the log of the co-occurrence probability,",3307.36,8.415
+then immediately you get the fact that when you have,3315.775,3.675
+a vector difference it turns into a ratio of the co-occurrence probabilities.,3319.45,7.155
+"And so, essentially the whole of the model is that we",3326.605,4.035
+want to have dot products or logs of co-occurrence probabilities.,3330.64,3.99
+"And so, that's what we do.",3334.63,2.31
+"So, here is our objective function here",3336.94,2.76
+and it's made to look a little bit more complicated.,3339.7,3.625
+But essentially we've got this squared loss here,3343.325,3.77
+and then we wanting to say the dot-product should be as similar,3347.095,4.725
+as possible to the log of,3351.82,2.16
+co-occurrence probability and so you'll they'll,3353.98,3.21
+"be lost to the extent that they're not the same,",3357.19,3.555
+but we kind of complexify it a little by putting in bias terms for both of the two words.,3360.745,6.435
+Because maybe the word is just overall common and likes to,3367.18,3.0
+co-occur things or uncommon or does end.,3370.18,3.48
+And then we do one more little trick because every [inaudible] does tricks to make the performance,3373.66,4.5
+"better is that we also use this f-function in front,",3378.16,5.025
+so that we're sort of capping the effect that,3383.185,2.325
+very common word pairs can have on the performance of the system.,3385.51,4.86
+Okay. And so that gave us the GloVe model of word vectors.,3390.37,4.785
+"And theoretically, the interest of this was,",3395.155,5.01
+"you know, a lot of the preceding literature had been there had",3400.165,3.075
+been these count methods and there had been these prediction methods.,3403.24,3.275
+And the hope was that this could sort of unify the,3406.515,3.385
+two by showing you how you could have a method that,3409.9,3.345
+is estimated simply of a count matrix but it's done in the same kind of,3413.245,5.43
+iterative loss based estimation method that's,3418.675,2.835
+used for the neural methods to get good word vectors.,3421.51,3.45
+And this also worked to give good word vectors.,3424.96,2.43
+So here's GloVe results for the word frog.,3427.39,3.1
+And frogs and toad are obvious.,3430.49,3.495
+"But there are these different kinds of words, uh,",3433.985,2.69
+various kinds of pretty tree frogs and things like that.,3436.675,4.53
+"Okay. Um, so I'll then go from here and say a little",3441.205,5.235
+bit more about some of the work on evaluating word vectors.,3446.44,4.74
+And this is maybe also a chance just talk a little bit about evaluation altogether.,3451.18,5.325
+"So, normally in NLP when we do a valuation,",3456.505,3.66
+the first thing that comes up is intrinsic versus extrinsic evaluation.,3460.165,5.155
+"So, normally if there's something we trying to do like model, um,",3465.32,4.85
+"word similarity with word vectors or we're trying to, um,",3470.17,4.62
+"put parts of speech on words or something,",3474.79,3.099
+we can just have an intrinsic evaluation of saying how good a job did you get.,3477.889,4.971
+Are you guessing the right part of speech?,3482.86,2.245
+Are you putting synonyms close together?,3485.105,2.375
+And that's sort of normally very easy to do and fast to compute.,3487.48,4.785
+And it's useful to do because it helps us understand the system.,3492.265,4.32
+"On the other hand, a lot of the time those intrinsic evaluations,",3496.585,3.855
+it's not very clear where- where they're having done well on that task is really going to,3500.44,5.845
+help us build the amazing natural language understanding robots,3506.285,4.175
+that we so ardently desire.,3510.46,1.77
+"Um, so, people are also very interested in extrinsic evaluations.",3512.23,5.43
+And so extrinsically is then saying well suppose you use,3517.66,3.81
+this new stuff in a real system doesn't make performance go up.,3521.47,5.985
+And it's then sort of definitional what counts,3527.455,2.745
+to you as a real system that normally that's,3530.2,2.635
+meaning it's some application that human beings actually care about and liked to use.,3532.835,5.84
+"So that's something like web search, or question answering,",3538.675,4.305
+"or phone dialog system or something like that, um,",3542.98,4.05
+hat you can put it into that system and the numbers get- go up.,3547.03,4.105
+"So, that seems what you want to do.",3551.135,2.165
+You want to have stuff that works in real tasks.,3553.3,2.275
+"Of course, there are sort of on the other hand a lot of things are a lot harder than.",3555.575,4.925
+So much more work to do such an evaluation and run different variance of a system.,3560.5,6.84
+"And even when the results, uh,",3567.34,3.24
+poor or great sometimes it's hard to diagnose.,3570.58,4.02
+"You know, if- if your great new word vectors don't work better in the system, you know,",3574.6,4.495
+it might be for sort of some extraneous reason about,3579.095,2.705
+how the system was built at sort of hiding all your magic.,3581.8,3.025
+And if you just change the rest of the system and suddenly show its good effects.,3584.825,4.475
+"So, it's kind of hard to do,",3589.3,1.83
+"um, sort of, um,",3591.13,1.905
+apportionment of goodness and badness Okay.,3593.035,5.025
+"So, um, so, today I'm mainly going to say a little bit more about",3598.06,3.72
+these intrinsic word vector evaluations that we've talked about.,3601.78,4.2
+So we've talked quite a bit about these analogies.,3605.98,3.855
+"So if we're actually working out the analogies,",3609.835,2.535
+it turns out that normally what people are doing is working out,3612.37,3.84
+"a cosine distance and angle between, um,",3616.21,4.68
+"different word candidates, um,",3620.89,2.85
+to work out which is the word that solves the analogy which,3623.74,3.21
+is an Norbert little tiny wrinkle of difference there.,3626.95,3.615
+And there's also one other trick that people commonly use.,3630.565,3.435
+They forbid the system from returning one of the three word she put,3634.0,3.62
+into the analogy Okay.,3637.62,4.0
+"But nevertheless, so, this is something that you can evaluate.",3641.62,3.645
+Here now some GloVe visualizations.,3645.265,3.255
+And so these GloVe visualizations show exactly the same kind of,3648.52,3.72
+linearity property that Doug Rohde discovered which means that analogy's work.,3652.24,5.73
+"Sort of by construction,",3657.97,1.289
+because our vector space wanted to make meaning components linear.,3659.259,4.036
+"So, this is then, um,",3663.295,1.98
+showing a gender display.,3665.275,3.15
+"This is showing one between companies and their CEOs, kind of cool.",3668.425,5.025
+And you can also do more syntactic facts.,3673.45,2.7
+"So this is showing, um,",3676.15,1.62
+positive comparative and superlative of adjectives.,3677.77,3.67
+"Yeah. So, Tomas Mikolov came up with this idea of doing these analogy tasks.",3681.44,7.205
+And so he built a data-set with a lot of analogies in it.,3688.645,4.17
+It's sort of- it's a bit of a weirdo data-set because it's sort of tests a few,3692.815,4.515
+"random different things which may have been things that his system worked well on, um,",3697.33,5.05
+"but you know, it tests countries and capitals,",3702.38,3.805
+"country, cities and states, countries and currency.",3706.185,6.595
+So there are a bunch of semantic things that tests.,3712.78,2.755
+"And then there are some, um,",3715.535,3.095
+"syntactic things that tests so bad, worst,",3718.63,2.73
+fast fastest for superlatives.,3721.36,3.175
+"But, you know, even some of the ones I was showing before, you know,",3724.535,3.245
+there's no- there's no Obama is to,3727.78,2.43
+Clinton kind of ones that are actually in this evaluation set.,3730.21,5.19
+"Um, here's a big table of results,",3735.4,3.179
+"um, that comes from our GloVe paper.",3738.579,2.251
+So not surprisingly the GloVe paper perform best in this evaluation.,3740.83,4.44
+"Because that was our paper. Um, [LAUGHTER]",3745.27,2.88
+"[LAUGHTER] But I mean perhaps- you know,",3748.15,3.3
+"perhaps the things to start to notice is,",3751.45,2.73
+"yeah, if you just do a plain SVD on counts.",3754.18,3.48
+"You know that that works abominably badly for these, um, analogy tasks.",3757.66,6.51
+"But, you know, kind of as Doug Rohde showed,",3764.17,2.655
+"if you start then doing manipulations of the count matrix before you do an SVD,",3766.825,7.05
+you can actually start to produce,3773.875,1.815
+an SVD based system that actually performs quite well on these tasks.,3775.69,5.4
+"Um, you know, not badly against other things.",3781.09,4.32
+"Um, other things that you will discover,",3785.41,2.58
+"right at the top there are a 100 dimensional ones,",3787.99,2.49
+"and at the bottom there are some 1000 dimensional ones,",3790.48,2.88
+and other 300 dimensional ones.,3793.36,1.995
+"At least when you're training on a big amount of text,",3795.355,2.37
+bigger dimensionality definitely works better.,3797.725,2.805
+And I'll come back to that in a minute.,3800.53,1.89
+"Um, the amount of text makes a difference as well, right?",3802.42,3.21
+"So we're going up from- so one to 1.5 billion words at the beginning,",3805.63,4.89
+"to these ones down here are being trained over 42 billion words of text,",3810.52,3.96
+"and perhaps unsurprisingly, the 42 billion words of texts ones work better.",3814.48,5.97
+"Um, so it's big data.",3820.45,2.21
+"Um, here are a couple more steps from this paper.",3822.66,2.865
+So this is a graph of dimensionality and what the performance is.,3825.525,4.575
+"So for the three lines the green one's semantic,",3830.1,2.879
+the blue one's the syntactic analogies and so red's the overall score.,3832.979,4.736
+So sort of what you see is up to dimensionality,3837.715,3.075
+"300 things that clearly increasing quite a bit,",3840.79,3.585
+"and then it gets fairly flat,",3844.375,1.71
+"which is precisely why you find a lot of word vectors,",3846.085,3.24
+"um, that are of dimensionality 300.",3849.325,2.445
+"Um, this one's showing what window size.",3851.77,3.735
+"So this is sort of what we talked about symmetric on both sides window size,",3855.505,5.175
+and as it goes from 246810.,3860.68,2.775
+"And sort of what you see is,",3863.455,1.785
+"if you use a very small window like two, that actually works.",3865.24,4.395
+"That the, the syntactic prediction is stronger because well,",3869.635,3.975
+syntactic effects are very local.,3873.61,2.16
+"Whereas as you go out,",3875.77,1.575
+the semantic prediction gets better and better.,3877.345,2.46
+"Actually this syntactic gets a bit better as well,",3879.805,2.565
+but it's especially the semantic that gains.,3882.37,2.73
+"Um, the right graph shows that if you only use context on one side,",3885.1,4.98
+"um, your numbers aren't as good.",3890.08,2.49
+"Okay, um, so, I sort of just wanted to sort of sneak in a little cameos of a couple of,",3892.57,8.13
+"um, recent bits of work,",3900.7,2.34
+"as sort of a first of what things people are doing,",3903.04,2.775
+"um, with word vectors.",3905.815,1.755
+"Um, so this one, um,",3907.57,2.1
+was actually by two Stanford people.,3909.67,2.805
+"Um, now the best- this would be the best story.",3912.475,2.535
+"If I could say that this was a final project,",3915.01,2.985
+"um, in this class last year,",3917.995,1.545
+but unfortunately that's not true.,3919.54,1.485
+This paper has nothing to do with this class [LAUGHTER].,3921.025,4.305
+But it-- right.,3925.33,1.38
+"Um, Zin Yin and Yuanyuan,",3926.71,3.78
+"um, actually had, um,",3930.49,3.42
+"some sort of clever and very mathy ideas,",3933.91,3.78
+where they're using matrix perturbation theory.,3937.69,3.51
+"Um, and sort of just showing how, um,",3941.2,2.94
+dimensionality in word vectors actually sort of feeds into the bias-variance trade-off.,3944.14,4.89
+"If you've seen that,",3949.03,1.305
+"um, in other parts of machine learning.",3950.335,2.49
+And I'm not even going to attempt to explain their paper.,3952.825,3.36
+"Um, but here it is,",3956.185,1.35
+"that they did really well with this paper,",3957.535,1.695
+they gone all talk in Europe's from it.,3959.23,2.34
+"Um, and so- but there's sort of",3961.57,2.01
+"an interesting result of what you see with these word vectors,",3963.58,4.14
+which is in a way kind of surprising.,3967.72,2.295
+"So this is showing doing word vector dimensions from zero up to 10,000.",3970.015,6.195
+So we're going way higher than we talked about before.,3976.21,3.06
+"And so what you discover which people have known for ages is,",3979.27,4.17
+"that there's sort of a little blip that somewhere around two or 300,",3983.44,4.305
+which seems to optimize performance.,3987.745,2.49
+"So, I've used those sizes.",3990.235,2.04
+"But the thing that they were sort of doing a lot of their theory about,",3992.275,3.645
+"and it's kind of surprising is, well,",3995.92,2.265
+"surely if you have a humongous humongous number, like,",3998.185,4.065
+"if you are using 10,000,",4002.25,2.04
+"um, dimensional vectors, you know,",4004.29,2.43
+"you're trying to estimate another two orders of magnitude more numbers for every word,",4006.72,6.6
+"surely things should just fall apart, um,",4013.32,3.135
+because you've got hopelessly many parameters relative to,4016.455,3.465
+the amount of training data that you're trying to estimate these numbers from.,4019.92,4.14
+"And so the interesting result that they show is,",4024.06,3.27
+that things don't fall apart.,4027.33,2.94
+"Um, and that you can essentially go out to these huge huge dimensionalities,",4030.27,5.01
+and the performance stays flat.,4035.28,2.085
+"And that they've got a lot of theory,",4037.365,1.92
+sort of for predicting why that that's actually going to end up being the case.,4039.285,5.385
+"Um, yeah.",4044.67,2.115
+"So for training these models iteratively,",4046.785,2.19
+"this is- orange is showing, um, GloVe training.",4048.975,4.8
+"You know, they keep on getting better for a while.",4053.775,2.595
+"So you know, just go out,",4056.37,1.5
+"go sleep and see in the morning how it's doing, right?",4057.87,3.15
+"So that if you were running it, um,",4061.02,1.53
+for 24 hours your numbers are better than if you only ran it for six hours.,4062.55,4.74
+"Um, and that's true for a lot of deep learning models, sorry.",4067.29,4.32
+So this is the key reason why you don't want,4071.61,3.12
+to start your assignment the night before it's due.,4074.73,3.18
+"Because even if you program it perfectly,",4077.91,2.97
+"you might just not have enough time for it to run,",4080.88,2.985
+"um, so that you produce good numbers at the end of it.",4083.865,3.565
+"Um, okay. Uh, yeah so,",4088.16,4.12
+"so couple of more, um,",4092.28,2.685
+"things, on that, um.",4094.965,2.745
+"Yes. So, um, what are we showing here?",4097.71,4.14
+So these are again semantics in tactic and overall numbers.,4101.85,4.335
+So there are sort of two things that are sort of being mixed together here.,4106.185,3.765
+"One is, if we just look at the overall numbers,",4109.95,3.06
+"they're highest over here, um,",4113.01,2.085
+"which is this 42 billion Common Crawl web-pages corpus,",4115.095,4.635
+that gives us the highest overall number.,4119.73,2.355
+"But there's sort of something else that's interesting in this graph, which is,",4122.085,4.65
+"um, that using Wikipedia works frequently well.",4126.735,4.995
+So that you actually find that 1.6 billion tokens of Wikipedia works,4131.73,5.31
+better than 4.3 billion tokens of News-wire newspaper article data.,4137.04,6.6
+"And so I, I think that's sort of actually make sense,",4143.64,4.485
+"which is well, you know,",4148.125,1.155
+the job of encyclopedias is to just sort of,4149.28,2.34
+"explain concepts and how they relate to each other, right?",4151.62,3.24
+So that encyclopedias are,4154.86,2.01
+"just much more expository text that show all the connections between things,",4156.87,5.13
+whereas newspapers in general aren't trying to expose at how things fit together.,4162.0,5.73
+"They're just telling you about, you know,",4167.73,1.8
+"who got shot dead last night or something like that, right?",4169.53,3.45
+"So, um, so this is sort of interesting fact, um,",4172.98,4.62
+"that this Wikipedia data kind of really,",4177.6,2.355
+"it sort of is differentially useful, um,",4179.955,2.7
+"for, um, making word vectors.",4182.655,3.525
+"And you know, in fact, you know,",4186.18,2.205
+when we did very well without GloVe word vectors and lots of people use those.,4188.385,5.55
+"You know, I think actually one of the reasons why they work so well is that",4193.935,4.125
+"the original word2vec vectors that Google distributes are built only on Google News data,",4198.06,5.82
+"where else sort of have this,",4203.88,1.89
+"um, Wikipedia data inside them.",4205.77,2.145
+"Okay, um, rushing ahead.",4207.915,3.735
+"Um, yes, so the- there's all the work on analogy,",4211.65,2.85
+but the other more basic evaluation is this one of capturing similarity judgments.,4214.5,5.88
+"And I haven't said much about this, but you know,",4220.38,2.64
+"there is this sort of large sub-literature in the psychology community,",4223.02,5.115
+where people have wanted to model humans judgments of similarity.,4228.135,4.8
+"So like a good psych person, what you do,",4232.935,3.33
+"is you find your classroom of Psych one undergrads,",4236.265,3.39
+and you show them pairs of words and say rate,4239.655,2.865
+these things for similarity on a scale of one to 10.,4242.52,3.225
+"And lots of that data has been collected,",4245.745,2.52
+"and you work out the mean over human beings,",4248.265,2.61
+"and they give numbers like this of tiger and cat, 7.35.",4250.875,4.38
+"Tiger's similar to Tiger 10, book and paper,",4255.255,3.69
+"plane and car, stock and phone,",4258.945,2.28
+"stock and CD, and you get numbers.",4261.225,2.67
+"So then, what we're doing is wanting to say,",4263.895,3.105
+"well let's use distance in the space to map directly onto these similarity judgments,",4267.0,6.14
+and how well does it map?,4273.14,2.4
+And so that's sort of similarity judging has,4275.54,3.03
+also then being used for evaluating these systems.,4278.57,3.78
+"So again, here are a lot of models.",4282.35,2.22
+This is again from our GloVe paper.,4284.57,1.98
+But so there are these various similarity data-sets.,4286.55,2.95
+"So one of the best-known ones that I had on the slide before is this, um, Wordsim 353.",4289.5,6.69
+"It has 353, um,",4296.19,1.95
+"different ones in it,",4298.14,1.98
+and so you are sort of then modeling a correlation,4300.12,4.02
+between your judgments of similarity and the ones that came from the human beings.,4304.14,5.085
+"Okay. Two more things I want to say. Um, yes.",4309.225,3.735
+"So, we had that problem right at the beginning",4312.96,3.9
+of Clinton and how that could be various people.,4316.86,4.905
+"And that's perhaps in some sense the simplest case of words being ambiguous,",4321.765,5.265
+when you have names which have reference to different people.,4327.03,3.555
+"Um, but it's not only true of names.",4330.585,3.225
+"So by and large,",4333.81,1.785
+words in human languages are ambiguous and have lots of meanings.,4335.595,6.225
+"Um, that's especially true of common words.",4341.82,2.82
+They always have lots of meaning.,4344.64,1.86
+It's especially true of words that have existed for a long time.,4346.5,4.125
+"It's not true of new very technical words, you know, carcinoma.",4350.625,3.69
+I think that only has one meaning.,4354.315,1.65
+"Um, but, you know,",4355.965,1.125
+"if you think of any relatively, um,",4357.09,3.495
+"common word and starts, um,",4360.585,3.105
+"scratching your head for a moment,",4363.69,2.265
+you'll find it has lots of meanings.,4365.955,2.475
+"I- maybe this isn't even such a common word,",4368.43,2.25
+but my random word I've got here is Pike.,4370.68,2.43
+"Um, pike has lots of meanings,",4373.11,2.16
+it has meanings like?,4375.27,2.34
+Fish.,4377.61,1.62
+"Fish, it's a kind of fish, yeah.",4379.23,1.53
+So there's a fish that's a pike.,4380.76,1.38
+What else is a pike?,4382.14,1.08
+A large spear.,4383.22,1.26
+A large spear.,4384.48,1.26
+"Yes, so a large spear is a pike.",4385.74,2.46
+Other kinds of pike's?,4388.2,1.74
+Gymnastics move.,4389.94,0.595
+It's a road.,4390.535,0.385
+Gymnastics move or in diving move.,4390.92,2.43
+It's a road.,4393.35,1.245
+"Um, yeah. Um, so there are lots of meanings.",4394.595,3.645
+"Um, there are other meanings.",4398.24,1.605
+"Um, in Australian English,",4399.845,1.395
+"pike is also used as a verb to mean,",4401.24,2.52
+"um, to pull out from doing something.",4403.76,2.175
+"Like, ""We were all going to go out to a nightclub later, but Joe piked.""",4405.935,5.655
+"[LAUGHTER] Um, I don't think that usage is common in this country,",4411.59,3.57
+"but, um, you can try that, um. [LAUGHTER]",4415.16,3.095
+"Right. But lots of meanings and, you know,",4418.255,3.1
+"this isn't only true of the word pike, right?",4421.355,3.585
+"Pick any other simple word, right?",4424.94,2.6
+"You can pick a word like shell or field or house or make,",4427.54,4.5
+"you know, they have lots of meanings when it comes down to it.",4432.04,3.025
+"So, you know, but, uh,",4435.065,1.485
+how can this work if we just have one meaningful words?,4436.55,4.519
+And that's the interesting question and it was something that,4441.069,3.311
+[NOISE] we were actually interested in early on.,4444.38,3.74
+"So, I'm even before the Word2Vec paper came out back in 2012,",4448.12,5.695
+"um, we were playing around, um,",4453.815,2.095
+"with neural word vectors and, um, we thought,",4455.91,4.46
+"boy this is so broken having only one,",4460.37,3.42
+"um, cents, for a word.",4463.79,2.815
+Why don't we come up with a model that has multiple sensors for a word?,4466.605,3.44
+"And so we did that and we did it in a pretty crude way,",4470.045,3.52
+"I guess, [NOISE] um,",4473.565,1.355
+"the way we did it is say,",4474.92,1.79
+"well, let's for each common word,",4476.71,3.435
+let's cluster all the contexts in which it occurs.,4480.145,4.14
+And then we'll see if there seem to be,4484.285,3.08
+multiple clear clusters by some criterion for that word.,4487.365,4.615
+"And if so, we'll just sort of split the word into pseudo words.",4491.98,4.24
+"So, if it seems like that there are five clusters,",4496.22,2.96
+"um, for the word,",4499.18,1.78
+the example I meant to use here is jaguar.,4500.96,2.06
+"Five clusters for the word jaguar,",4503.02,2.07
+"I will just call them jaguar_1, jaguar_2, jaguar_3, four,",4505.09,3.15
+"five, so it's just literally changed",4508.24,2.33
+the word in our corpus according to its cluster number.,4510.57,3.375
+And then we run our word vectoring algorithm and so we get,4513.945,3.045
+a representation that each of those sensors of the word.,4516.99,3.88
+"And basically, that works,",4520.87,1.51
+"right up the top is jaguar_1 next,",4522.38,2.19
+"uh, luxury and convertible.",4524.57,2.255
+"Um, here is, I guess there's a very old version of MacOS called Jaguar,",4526.825,6.435
+any remem- remember that one?,4533.26,1.6
+"Um. Right. So, jaguars right next to software and Microsoft up there, so that's hopeful.",4534.86,5.575
+"Um, here's the jaguar that's right next to the Hunter, um,",4540.435,4.28
+"and I'm being confused on this one,",4544.715,2.355
+is jaguar as near solo musical keyboard and string.,4547.07,3.48
+"Is there a band, [NOISE] a brand of keyboard called jaguar?",4550.55,2.995
+"I'm not quite sure about that one,",4553.545,1.47
+"but anyway, it's sort of basically works.",4555.015,2.365
+"Um, but that was sort of crude and it's also perhaps problematic,",4557.38,4.7
+"so a lot of time, the divisions between sensors aren't very clear, right?",4562.08,4.37
+A lot of sensors are actually related to each other and overlapping because,4566.45,3.88
+when how sensors normally arrive is that people stretch the meanings of words.,4570.33,4.46
+It's not that they just sort of randomly,4574.79,2.07
+"wake up the next morning and say, ""I know carpet.",4576.86,2.825
+"I could also refer to that as stone,"" um,",4579.685,3.32
+"and given a new sense to the word stone, right?",4583.005,2.985
+You so take something that you know about like,4585.99,2.61
+a web and you extend it metaphorically to other uses of webbing.,4588.6,4.485
+"Um, so here's a perhaps more interesting things,",4593.085,3.915
+"so this is the other Sanjeev Arora,",4597.0,2.475
+"um, paper that I was going to mention.",4599.475,2.505
+"So, that what happens if you don't,",4601.98,2.73
+"um, if you don't have more than one cents for each word?",4604.71,5.385
+"Well, effectively what you get is that",4610.095,3.005
+the word vector that you learn is what's referred to by,4613.1,4.16
+physicists and fancy people as a superposition,4617.26,3.78
+"of the word vectors of the different sentence, different sensors.",4621.04,4.87
+By supersitio- superposition just means a weighted average.,4625.91,4.085
+"Um, um, [LAUGHTER] so that effectively",4629.995,4.935
+my meaning of pike is sort of,4634.93,2.11
+"a weighted average of the vectors for the different sensors of pike,",4637.04,3.825
+and the components are just weighted by their frequency.,4640.865,3.78
+"Um, so that part maybe is perhaps not too surprising,",4644.645,3.62
+"but the part that's really surprising is well,",4648.265,3.565
+"if we just averaging these word vectors,",4651.83,2.545
+"you'd think you couldn't get anything out of the average, right|?",4654.375,4.005
+"Like if I tell you I'm thinking of two numbers and they're here,",4658.38,4.8
+"weighted sum is 54,",4663.18,2.83
+"what are my two numbers, right?",4666.01,1.86
+You are sort of really short of information to be able to answer my question.,4667.87,4.12
+"But, well, you know,",4671.99,1.62
+"for these word vectors, um,",4673.61,3.21
+we have these high dimensional spaces and even though there,4676.82,5.805
+"are a lot of words that the space is so vast for thoughts dimensions,",4682.625,5.355
+that actual words or sensors are very sparse in that space.,4687.98,5.555
+"And so it turns out that there's this whole literature on, um,",4693.535,4.115
+"sparse coding, compressed sensing,",4697.65,2.68
+"um, some of which has actually done by people in the stats department here,",4700.33,3.41
+"um, which shows that in these cases where you have these sort of sparse,",4703.74,5.585
+"um, codes in these high dimensional spaces,",4709.325,2.79
+"you can actually commonly reconstruct out the components of a superposition,",4712.115,4.77
+"even though all you've done is sort of done this weighted average,",4716.885,3.355
+"and so, um, this paper looks at how you can do this and so they have,",4720.24,4.77
+"um, these underlying meaning components,",4725.01,3.095
+and they sort of separated out.,4728.105,1.805
+"So, tie has one meaning component,",4729.91,2.9
+"there's in this space of trousers, blouse, waistcoat,",4732.81,3.165
+"that makes sense, and other one in this meaning component of seasoned teams,",4735.975,4.325
+"winning league, makes sense.",4740.3,2.345
+"Um, scoreline goal with equalizer clinching scorers,",4742.645,3.37
+this one seems to overlap with this one a bit.,4746.015,2.34
+"Um, but here tie,",4748.355,1.69
+this is sort of cable ties and wire ties and things like that.,4750.045,3.755
+"So, they are actually able to pull out the different sense meanings,",4753.8,3.445
+"um, from outside, out of the meaning of the word.",4757.245,3.81
+"Um, so that is a kind of a cool thing.",4761.055,2.99
+"I just wanna, um,",4764.045,2.04
+say one more thing.,4766.085,2.11
+"Okay. [NOISE] All the evaluations so far was intrinsic,",4768.195,3.815
+"um, you also might wanna do extrinsic evaluation.",4772.01,3.725
+"Why, why word vectors excited people on NLP so much?",4775.735,4.275
+"Is it turned out that having this meaning,",4780.01,2.29
+having this representation meaning just turned out to be,4782.3,3.665
+very useful and sort of improve all of your tasks after that.,4785.965,3.845
+"Um, and so, um,",4789.81,2.47
+this is doing named entity recognition which is labeling,4792.28,3.08
+"persons and locations and organizations, but, you know,",4795.36,3.5
+"it's typical of many tasks of what people found,",4798.86,2.895
+was if you started with a model without sort of word representations,4801.755,4.855
+"and you throw in your word vectors regardless of whether they were to vehicle GloVe ones,",4806.61,5.265
+just kind of your numbers go up a couple of percent or more?,4811.875,3.63
+And so word vectors were just sort of this useful source that you could,4815.505,4.065
+throw into any NLP system that you build and your numbers went up.,4819.57,4.62
+"So, that there was just a very effective technology, um,",4824.19,3.145
+which actually did work in,4827.335,1.645
+basically any extrinsic tasks you type tried it on. Okay. Thanks a lot.,4828.98,5.51
