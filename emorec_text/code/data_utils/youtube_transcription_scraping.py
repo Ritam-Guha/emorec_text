@@ -30,7 +30,7 @@ class YouTubeTranscriptor:
                                                   languages=languages)
 
         df = pd.DataFrame.from_dict(transcription)
-        df.to_csv(f"{config.BASE_PATH}/transcription_storage/{video_id}.csv", sep=",", index=False)
+        df.to_csv(f"{config.BASE_PATH}/data/transcription_storage/{video_id}.csv", sep=",", index=False)
 
     @staticmethod
     def get_video_id(url):
