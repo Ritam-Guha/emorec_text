@@ -26,11 +26,16 @@ class YouTubeTranscriptor:
         :param languages: languages for which the transcriptions should be stored
         """
         video_id = self.get_video_id(url)
-        transcription = YouTubeTranscriptApi.get_transcript(video_id=video_id,
-                                                  languages=languages)
+
+        try:
+            transcription = YouTubeTranscriptApi.get_transcript(video_id=video_id,
+                                                                languages=languages)
+        except:
+            return False
 
         df = pd.DataFrame.from_dict(transcription)
         df.to_csv(f"{config.BASE_PATH}/data/transcription_storage/{video_id}.csv", sep=",", index=False)
+        return True
 
     @staticmethod
     def get_video_id(url):
@@ -58,8 +63,19 @@ def main():
     args = parser.parse_args()
     url = args.url
     transcriptor = YouTubeTranscriptor()
-    transcriptor.store_transcript(url=url)
 
+    url_df = pd.read_excel(f"{config.BASE_PATH}/data/youtube_links.xlsx")
+    list_urls = list(url_df["link"])
+    list_successful_urls = []
+
+    for i, url in enumerate(list_urls):
+        status = transcriptor.store_transcript(url=url)
+        if status:
+            list_successful_urls.append(url)
+            print(f"stored video {i}")
+
+    df_urls = pd.DataFrame(list_successful_urls, columns=["list"])
+    df_urls.to_csv(f"{config.BASE_PATH}/data/list_urls.csv", index=False)
 
 if __name__ == "__main__":
     main()

@@ -1,1 +1,1 @@
-python -m emorec_text.code.data_utils.youtube_transcription_scraping --url https://www.youtube.com/watch?v=kEMJRjEdNzM&list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z&index=2
+python -m emorec_text.code.data_utils.youtube_transcription_scraping --url https://www.youtube.com/watch?v=_8-elEw7tZM
