@@ -1,0 +1,25 @@
+text,start,duration,end,dominant_emotion
+I'm Shelby Cullinan with today's health news.,3.449,2.791,6.24,happy
+"At first glance it's hard to see a connection
+between sleep hormones and type 2 diabetes.",6.24,5.38,11.620000000000001,happy
+"New research from Sweden's Lund University,
+however, found that melatonin impaired insulin",11.62,6.17,17.79,happy
+secretion in certain people.,17.79,2.25,20.04,
+"Previous research showed that a gene variant
+on melatonin receptor B1 increases the risk",20.04,5.91,25.95,
+of type 2 diabetes.,25.95,1.87,27.82,happy
+"The gene variant increases the effect of the
+melatonin receptor on insulin cells.",27.82,5.5,33.32,happy
+"As a result, the cells become less sensitive
+to insulin, which increases the risk of elevated",33.32,5.63,38.95,happy
+blood sugar.,38.95,1.35,40.300000000000004,neutral
+"The research team found that those who carried
+the risk gene had significantly lower insulin",40.3,5.26,45.559999999999995,happy
+secretion.,45.56,1.16,46.72,fear
+"All of the study participants had an increase
+in blood sugar after three months of melatonin",46.72,5.18,51.9,happy
+treatment.,51.9,1.52,53.42,
+"Those with the carrier gene, however, were
+much more likely to have higher blood sugars.",53.42,4.84,58.260000000000005,NA
+Speak to your doctor for more information.,58.26,2.389,60.649,NA
+"For dailyRx, I'm Shelby Cullinan.",60.649,2.081,62.730000000000004,NA

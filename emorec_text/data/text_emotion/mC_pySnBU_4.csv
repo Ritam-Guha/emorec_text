@@ -1,0 +1,40 @@
+text,start,duration,end,dominant_emotion
+Testing for diabetes started a long long time ago.,1.0,4.13,5.13,fear
+"The word diabetes comes from Ancient Greek which literally means 'pass through,'",5.13,5.02,10.149999999999999,fear
+intended to mean excessive passing of urine.,10.15,3.71,13.86,neutral
+This characteristic of 'too much urine' was first described,13.86,3.65,17.509999999999998,fear
+3500 years ago on an Egyptian papyrus.,17.51,4.83,22.340000000000003,neutral
+"About 1900 years ago, Roman physician Galen called it 'diarrhea of the urine.'",22.34,6.29,28.63,neutral
+The reason for so much passing of urine with diabetes mellitus is because,28.63,4.76,33.39,fear
+high levels of sugar in the blood overwhelm the kidneys' ability,33.39,4.11,37.5,neutral
+to keep sugar out of the urine.,37.5,2.67,40.17,fear
+"Like a dam on a river, sugar 'spills over the dam' into the urine",40.17,4.6,44.77,neutral
+when sugar gets too high in the blood.,44.77,3.0,47.77,fear
+"Then, with concentrated sugar in the urine, fluid is pulled out of blood",47.77,4.99,52.760000000000005,fear
+"into the urine, resulting in dehydration of the diabetic.",52.76,4.36,57.12,fear
+"Indeed, the name 'diarrhea of the urine' seems appropriate.",57.12,5.52,62.64,neutral
+"About 2500 years ago, someone noted flies were attracted to the urine of diabetics.",62.64,7.02,69.66,neutral
+"Tasting urine for sweetness may seem disgusting today, but it was how",69.66,6.18,75.84,neutral
+they diagnosed diabetes all the way through the Middle Ages.,75.84,4.12,79.96000000000001,fear
+It was English physician John Rolle in the 1700's who added 'mellitus',79.96,5.66,85.61999999999999,fear
+to the term diabetes to reflect the age-old understanding,85.62,4.02,89.64,neutral
+of the sweet taste of the urine in diabetic patients.,89.64,4.38,94.02,neutral
+"The word mellitus comes from Latin meaning ""sweetened with honey.""",94.02,5.93,99.94999999999999,neutral
+"Starting in the 1950's, patients roughly estimated the level of sugar",99.95,5.82,105.77000000000001,fear
+in their blood by testing their urine with a chemical test they could do at home.,105.77,6.86,112.63,neutral
+"By defining how much sugar 'spilled' into the urine, people with diabetes mellitus",112.63,5.94,118.57,neutral
+were better able to adjust their insulin dose.,118.57,3.69,122.25999999999999,surprise
+Home URINE glucose testing was an improvement for patients with diabetes,122.26,5.09,127.35000000000001,neutral
+"but home BLOOD glucose testing, developed in the '80's, took us to the next level.",127.35,7.6,134.95,neutral
+"Patients could finally know when sugars were too low, not just too high.",134.95,6.18,141.13,neutral
+Another great improvement in monitoring sugar in people with diabetes,141.13,4.19,145.32,fear
+was the discovery of the Hemoglobin A1c (HbA1c) BLOOD test.,145.32,4.67,149.98999999999998,neutral
+"The hemoglobin molecule, within red blood cells, becomes more 'sugarized'",149.99,4.97,154.96,fear
+(the scientific word is glycosylated) when it has extended exposure,154.96,4.73,159.69,neutral
+to higher levels of sugar.,159.69,2.35,162.04,neutral
+Since red cells normally live about three-months before the spleen,162.04,3.99,166.03,neutral
+"removes and destroy the old red cells, this allows measuring the percent",166.03,4.9,170.93,neutral
+Hemoglobin affected by sugar to change slowly according to diabetic control.,170.93,6.67,177.6,neutral
+"The Hemoglobin A1c levels give a three-month average BLOOD sugar, which gives",177.6,5.85,183.45,neutral
+you and your care provider a good measure about how well you are controlling your diabetes over time. ,183.45,7.65,191.1,neutral
+It's a good thing managing diabetes no longer requires tasting urine.,191.1,7.513,198.613,fear

@@ -1,0 +1,155 @@
+text,start,duration
+hi my name is tessa pierce ward,0.32,5.28
+and i'd like to talk to you today about,3.76,4.48
+sour mesh protein camera sketches for,5.6,4.88
+large scents,8.24,3.92
+sour mesh is a command line and python,10.48,4.48
+library for skilled men hash analyses,12.16,4.0
+minhash methods have been around for a,14.96,2.88
+little while and they compress data sets,16.16,4.4
+into sketches composed of representative,17.84,6.32
+subset of their cameras um,20.56,6.959
+and uh we we know that long dna cameras,24.16,4.879
+uh camera sketches can be used for,27.519,3.68
+distance estimation between samples so,29.039,4.401
+we if we have a genome and genome b then,31.199,3.921
+the sketch is here,33.44,3.76
+we can compute the jaccard index the,35.12,4.0
+intersection over the union of those,37.2,4.96
+sketches and as was published in in 2015,39.12,5.84
+2016 um the jaccard has a relationship,42.16,5.68
+to nuclear average nucleotide identity,44.96,5.2
+so we can get an estimate there,47.84,4.08
+sarah mesh actually uses a minhash,50.16,3.6
+variant scaled min hash,51.92,4.0
+which enables us to do both containment,53.76,4.08
+as well as jakarta index and in,55.92,3.52
+particular this enables comparisons,57.84,5.68
+between sets of different sizes,59.44,5.759
+the majority of minhash methods have,63.52,5.04
+focused on dna k-mers um which are most,65.199,5.041
+useful for differentiating between,68.56,4.08
+closely related sequences if we have a,70.24,6.08
+couple uh example 21 mirrors with two uh,72.64,5.2
+base pair differences,76.32,3.92
+in in many cases they are synonymous,77.84,4.48
+substitutions that uh end up as the same,80.24,4.72
+amino acid and in this example uh these,82.32,4.4
+two protein submers are exactly,84.96,3.44
+identical,86.72,3.52
+so this is um this is just to illustrate,88.4,3.52
+that protein sequences allow matching,90.24,3.519
+across anonymous substitution and of,91.92,3.36
+course we know this uh we've been using,93.759,3.521
+it for you know blast x uh protein blast,95.28,4.159
+for quite a long time and actually,97.28,4.08
+match screen is the first example of,99.439,4.0
+using uh protein k-mers for some,101.36,4.079
+identification,103.439,4.081
+we've been lately pursuing some other,105.439,4.081
+protein applications in particular we're,107.52,4.4
+exploring taxonomic classification,109.52,4.0
+there's some challenges in this realm uh,111.92,4.239
+reference databases are often incomplete,113.52,5.04
+uh highly divergent genomes sometimes,116.159,4.96
+cannot be classified or incomplete and,118.56,4.4
+contaminated genomes can can be,121.119,4.161
+misclassified and of course our goal is,122.96,4.88
+to enable real-time classification to,125.28,5.199
+keep up with the scale of incoming data,127.84,4.399
+so we've built a snake make workflow on,130.479,3.681
+top of star mesh,132.239,3.761
+that allows us to string a few commands,134.16,4.64
+together to do this,136.0,4.72
+so our first step is to use cymesh,138.8,3.84
+gather which is a greedy mintset cub,140.72,5.12
+algorithm to find the best genome match,142.64,3.92
+so,145.84,2.0
+to illustrate what this does we have a,146.56,3.28
+novel genome with some strain variation,147.84,3.44
+in there,149.84,2.64
+we can pick out the best reference,151.28,2.959
+genome here in flu,152.48,2.8
+and and here i'm just kind of,154.239,3.921
+representing these these two jams are uh,155.28,5.28
+different genuses but the same species,158.16,3.84
+um so they they're a little bit,160.56,2.959
+different there,162.0,3.92
+so we're able to get 60 match to to the,163.519,3.921
+blue genome and we can find an,165.92,3.679
+additional maybe 25 match to the other,167.44,3.04
+one,169.599,3.601
+and of course some is unmatched,170.48,4.64
+what we can do then um with the tax,173.2,4.399
+genome command is take the uh reference,175.12,4.24
+taxonomic lineages assigned to each of,177.599,4.801
+those best or matching reference genomes,179.36,5.519
+and we can uh transfer them on to the,182.4,4.96
+match percentages for our novel genome,184.879,4.561
+so in this case we're getting 60 to that,187.36,4.959
+species a and 25 to that that other,189.44,4.96
+reference genome species b,192.319,3.761
+but because these are non-overlapping,194.4,5.36
+matched regions or match percentages we,196.08,5.76
+can actually sum that to get um the,199.76,4.24
+percent match at the lowest uh the least,201.84,4.88
+common ancestor for these two so in in,204.0,6.0
+this case genus x has an 85 match,206.72,6.0
+so what we're using this for then is,210.0,5.68
+choosing a a percentage or a threshold,212.72,4.96
+for when we consider sufficient query,215.68,4.72
+match and we can assign um that,217.68,4.4
+classification that we get to to our,220.4,3.759
+novel genome,222.08,3.12
+okay,224.159,3.841
+so how well does this work uh we decided,225.2,7.36
+to do first a comparison with um gtd btk,228.0,6.959
+uh and we started out with a benchmark,232.56,5.0
+set of a thousand human gut uh,234.959,6.881
+metagenome genomes uh for magnify and uh,237.56,6.2
+and these are all likely to have similar,241.84,5.36
+genomes available in reference databases,243.76,4.479
+we,247.2,3.52
+got exact we found exact lineage matches,248.239,5.441
+for about 95 when using the full gcb,250.72,4.239
+recent release,253.68,4.079
+and the additional around four percent,254.959,4.881
+of it actually all matched at the genus,257.759,3.6
+level so,259.84,3.6
+so this is we think it's pretty doing,261.359,3.441
+pretty well even though we're using,263.44,3.039
+currently a very naive classification,264.8,3.679
+threshold of 10 of the query and we need,266.479,2.801
+to,268.479,3.361
+look into this a little bit further,269.28,5.199
+extending this to um an environmental,271.84,5.52
+set of samples we took 885 genomes from,274.479,5.361
+uh from the tara oceans from the delmont,277.36,4.96
+paper um i think neither of them really,279.84,3.68
+classified all of them but they got,282.32,2.56
+pretty close,283.52,3.28
+and here we had exact matches at about,284.88,3.039
+66,286.8,3.119
+and some match at a higher lineage rank,287.919,4.0
+at 33,289.919,3.84
+and if we break those down most of those,291.919,3.361
+lineage matches happen at the genus,293.759,2.72
+level so we,295.28,3.359
+got the exact same genius level,296.479,4.56
+uh classification but uh a different,298.639,5.84
+species was selected as the as the uh,301.039,5.521
+exact classification so we need to look,304.479,4.56
+into those differences there uh but it's,306.56,5.12
+promising uh because this is a really,309.039,4.88
+lightweight whole camera or whole,311.68,4.56
+protium camera based classification,313.919,4.081
+which means it's likely going to be a,316.24,4.32
+little more uh robust to incomplete and,318.0,4.88
+contaminated genomes and then of course,320.56,3.76
+because it's camera-based it offers near,322.88,3.039
+real-time classification and with that,324.32,2.64
+i'd like to thank you so much for,325.919,3.041
+listening um and please do find us on,326.96,4.88
+gitter github uh and and everywhere else,328.96,4.64
+on the internet for for questions and,331.84,5.199
+contributions thank you,333.6,3.439

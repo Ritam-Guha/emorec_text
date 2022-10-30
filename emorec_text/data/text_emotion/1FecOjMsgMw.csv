@@ -1,0 +1,118 @@
+text,start,duration,end,dominant_emotion
+we're often asked how does a our glucose,20.16,4.09,24.25,happy
+sensor measure the glucose,23.08,2.85,25.93,happy
+concentrations and someone with diabetes,24.25,3.96,28.21,
+and what I want to do is talk a little,25.93,4.23,30.16,
+bit about how that happens so the the,28.21,4.56,32.77,
+sensor itself is a small flexible probe,30.16,4.62,34.78,fear
+that's placed just underneath the skin,32.77,4.53,37.300000000000004,fear
+of a person with diabetes and it's in,34.78,4.529,39.309,fear
+the interstitial space so there's fluid,37.3,4.74,42.04,
+that surrounds the sensor and in that,39.309,4.551,43.86,
+fluid is the person's glucose,42.04,5.19,47.23,
+concentration and so the sensor hat is,43.86,5.229,49.089,
+an electro enzymatic sensor and what,47.23,3.87,51.099999999999994,neutral
+that means is there's a chemistry,49.089,4.231,53.32,neutral
+there's an enzyme glucose oxidase that's,51.1,5.31,56.410000000000004,neutral
+on the sensor tip which reacts in the,53.32,5.399,58.719,neutral
+presence of glucose and creates a signal,56.41,5.399,61.809,
+that we can measure there's actually a,58.719,5.311,64.03,
+number of layers to the sensing process,61.809,5.251,67.06,
+and the first step the glucose gets the,64.03,5.22,69.25,
+enzyme layer of glucose oxidase and,67.06,5.13,72.19,
+breaks down the glucose to create,69.25,6.39,75.64,
+hydrogen peroxide and other elements and,72.19,4.86,77.05,neutral
+we're concerned about the hydrogen,75.64,3.899,79.539,neutral
+peroxide that's created in that reaction,77.05,5.7,82.75,neutral
+that hydrogen peroxide then diffuses to,79.539,6.841,86.38,neutral
+a base metal layer of the sensor where,82.75,5.789,88.539,neutral
+it's oxidized and what oxidation means,86.38,4.61,90.99,
+is that the it's broken down into,88.539,5.431,93.97,
+hydrogen oxygen and electrons which we,90.99,6.04,97.03,neutral
+measure as a current so essentially what,93.97,5.129,99.099,neutral
+we're doing is glucose in the person's,97.03,5.19,102.22,neutral
+interstitial space is converted into,99.099,5.58,104.679,neutral
+hydrogen peroxide at the enzyme layer,102.22,4.86,107.08,neutral
+and then that hydrogen peroxide is,104.679,5.25,109.929,neutral
+broken down at a base metal layer into,107.08,5.01,112.09,
+electrons which we measure as a current,109.929,4.14,114.069,
+so we're measuring our current which is,112.09,4.02,116.11,
+proportional to the person's glucose,114.069,4.97,119.039,
+concentration,116.11,2.929,119.039,
+so once the glucose sensor is placed,120.17,5.14,125.31,
+underneath the skin of the person it has,122.759,4.591,127.35,
+to be connected to the transmitter,125.31,4.619,129.929,
+device the mini link and that connection,127.35,5.279,132.629,
+process occurs and once that happens,129.929,5.191,135.12,
+what what is done is that the the sensor,132.629,5.071,137.7,
+is physically connected to the,135.12,5.22,140.34,
+transmitter inside this device are the,137.7,4.95,142.64999999999998,
+electronics that operates the sensor and,140.34,5.31,145.65,
+measures the signal created by detecting,142.65,4.83,147.48000000000002,
+glucose in the body and then there's a,145.65,4.8,150.45000000000002,
+transmitting element which transmits the,147.48,6.089,153.569,
+data every five minutes to our pump or,150.45,5.789,156.23899999999998,
+the guardian monitor it's in the pump or,153.569,4.591,158.16,
+guardian monitor that the calibration,156.239,4.291,160.53,neutral
+process takes place the signals are,158.16,4.409,162.569,neutral
+transmitted from here to that device but,160.53,3.989,164.519,neutral
+once in the device that's where a meter,162.569,4.711,167.28,neutral
+value is entered into the system,164.519,4.83,169.34900000000002,neutral
+that performs the calibration processes,167.28,4.019,171.299,neutral
+so the algorithm that converts the,169.349,4.23,173.57899999999998,neutral
+signal into glucose is also housed,171.299,7.101,178.4,
+within the pump or the guardian monitor,173.579,4.821,178.4,
+so so once the sensor measures a signal,179.79,5.169,184.959,
+which is proportional to the glucose,183.34,3.629,186.969,neutral
+concentration and again that's a current,184.959,4.411,189.37,neutral
+we need to convert that signal into the,186.969,4.261,191.23,neutral
+glucose concentration and the way we do,189.37,3.089,192.459,neutral
+that is through a process called,191.23,4.56,195.79,neutral
+calibration and there's an algorithm in,192.459,4.92,197.379,neutral
+the pump system or in our Guardian,195.79,4.979,200.769,neutral
+platform which allows the user to enter,197.379,5.94,203.319,neutral
+a finger stick glucose reading into the,200.769,4.59,205.359,neutral
+device and then that reading is,203.319,4.441,207.76,neutral
+correlated to the actual signal that the,205.359,4.621,209.98000000000002,neutral
+sensors measured and it converts,207.76,3.899,211.659,neutral
+therefore it develops a factor that,209.98,3.869,213.849,neutral
+converts the sensor signal to glucose,211.659,3.961,215.62,neutral
+concentration from that point moving,213.849,3.991,217.84,neutral
+forward so that as the sensor signals,215.62,5.1,220.72,neutral
+change over time so does the calculated,217.84,4.59,222.43,neutral
+glucose reading that the state that the,220.72,4.5,225.22,neutral
+sensor is providing important safety,222.43,3.479,225.90900000000002,neutral
+information,225.22,2.79,228.01,
+Medtronic diabetes insulin infusion,225.909,4.17,230.07899999999998,
+pumps continuous glucose monitoring,228.01,4.44,232.45,
+systems and associated components are,230.079,5.101,235.18,
+limited to sale by or on the order of a,232.45,4.95,237.39999999999998,
+physician and should only be used under,235.18,3.27,238.45000000000002,
+the direction of a healthcare,237.4,3.03,240.43,
+professional familiar with the risk,238.45,4.61,243.06,
+associated with the use of these systems,240.43,4.919,245.34900000000002,
+successful operation of the insulin,243.06,4.569,247.629,
+infusion pumps and/or continuous glucose,245.349,4.35,249.69899999999998,
+monitoring systems requires adequate,247.629,4.711,252.34,
+vision and hearing to recognize alerts,249.699,6.15,255.84900000000002,
+and alarms Medtronic diabetes insulin,252.34,6.269,258.609,
+infusion pumps insulin pump therapy is,255.849,4.831,260.68,
+not recommended for individuals who are,258.609,4.921,263.53,
+unable or unwilling to perform a minimum,260.68,5.72,266.40000000000003,
+of four blood glucose tests per day,263.53,5.55,269.08,
+insulin pumps use rapid-acting insulin,266.4,4.84,271.23999999999995,
+if your insulin delivery is interrupted,269.08,4.35,273.43,
+for any reason you must be prepared to,271.24,5.33,276.57,
+replace the missed insulin immediately,273.43,5.58,279.01,
+Medtronic diabetes continuous glucose,276.57,5.29,281.86,
+monitoring systems the information,279.01,5.219,284.229,
+provided by CGM systems is intended to,281.86,4.739,286.599,
+supplement not replace blood glucose,284.229,4.141,288.37,
+information obtained using a home,286.599,4.681,291.28,
+glucose meter a confirmatory finger,288.37,6.32,294.69,
+stick is required prior to treatment,291.28,6.0,297.28,
+insertion of a glucose sensor may cause,294.69,4.659,299.349,
+bleeding or irritation at the insertion,297.28,5.04,302.32,
+site consult a physician immediately if,299.349,5.04,304.389,
+you experience significant pain or if,302.32,6.14,308.46,
+you suspect that the site is infected,304.389,4.071,308.46000000000004,

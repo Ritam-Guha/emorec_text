@@ -1,0 +1,128 @@
+text,start,duration,end,dominant_emotion
+tons of diets out there recommend eating,0.16,4.8,4.96,happy
+low glycemic index foods but what,2.0,5.52,7.52,happy
+exactly is the glycemic index let's,4.96,5.12,10.08,happy
+science it,7.52,2.56,10.08,happy
+hey welcome to nourishment i'm dr lara,11.28,4.559,15.838999999999999,neutral
+the glycemic index or gi is a method,13.28,4.72,18.0,neutral
+used to rank foods based on how they,15.839,4.481,20.32,neutral
+impact your blood glucose does eating,18.0,4.0,22.0,neutral
+this apple make your blood sugar spike,20.32,4.4,24.72,neutral
+super high and super fast or is the rise,22.0,5.119,27.119,neutral
+more gradual it was originally created,24.72,4.479,29.198999999999998,
+to help people with diabetes select,27.119,4.56,31.679,
+foods to improve their glycemic control,29.199,5.681,34.88,neutral
+by ranking foods as low medium or high,31.679,4.241,35.92,neutral
+gi,34.88,2.96,37.84,neutral
+you can't just guess the gi of a food by,35.92,4.0,39.92,neutral
+looking at the food label it has to be,37.84,4.719,42.559000000000005,neutral
+tested in order to express the impact of,39.92,4.799,44.719,
+a particular food we need a reference to,42.559,4.401,46.959999999999994,
+compare it to and we want this reference,44.719,4.401,49.120000000000005,
+to be something that has maximum spike,46.96,5.04,52.0,neutral
+potential enter the sugar drink,49.12,5.2,54.32,neutral
+50 grams of pure sucrose dissolved in,52.0,4.559,56.559,neutral
+water requires little digestion so the,54.32,4.399,58.719,
+glucose can be rapidly absorbed into the,56.559,4.241,60.8,
+bloodstream so i've fasted for over 12,58.719,3.441,62.160000000000004,
+hours and i haven't had any physical,60.8,3.759,64.559,
+activity this morning and so now i can,62.16,5.12,67.28,neutral
+drink my pure sugar drink and i'm using,64.559,5.521,70.08,neutral
+a continuous glucose monitor to measure,67.28,5.28,72.56,
+my blood glucose every five minutes,70.08,4.719,74.79899999999999,
+cheers,72.56,5.919,78.479,
+oh my goodness that's so sweet,74.799,3.68,78.47900000000001,
+okay and now i'm going to sit tight for,79.119,5.201,84.32,
+two hours so we can see the impact on my,81.84,5.04,86.88000000000001,
+blood glucose so we see a pretty rapid,84.32,4.799,89.119,neutral
+spike in blood glucose it looks like it,86.88,4.559,91.439,neutral
+peaks 45 minutes after the drink and,89.119,4.721,93.84,neutral
+then normalizes back to baseline around,91.439,4.881,96.32,neutral
+75 minutes so it's the next day and now,93.84,4.0,97.84,neutral
+we can do an experiment to find out the,96.32,4.159,100.479,
+glycemic index of a particular test food,97.84,4.559,102.399,
+so i'm going to test this,100.479,4.721,105.2,
+dave's killer bread the 21 whole grains,102.399,6.0,108.399,neutral
+and seed version not an ad just a fan so,105.2,5.04,110.24000000000001,neutral
+we want to compare like to like and,108.399,4.161,112.56,neutral
+yesterday i drank a sugar beverage with,110.24,4.72,114.96,
+50 grams of sugar so it's 50 grams of,112.56,4.559,117.119,
+digestible carbohydrate so today i'm,114.96,4.32,119.28,
+going to eat a serving of bread that,117.119,4.561,121.68,
+also gives me 50 grams of digestible,119.28,4.879,124.159,
+carbohydrate now that word digestible is,121.68,5.2,126.88000000000001,
+actually important because products like,124.159,4.16,128.31900000000002,
+whole wheat breads and other fruits and,126.88,3.84,130.72,
+vegetables they also contain fiber which,128.319,4.161,132.48,
+is a carbohydrate but we can't actually,130.72,4.0,134.72,
+digest it so when we're looking at the,132.48,4.0,136.48,neutral
+serving size that we want to eat to make,134.72,3.44,138.16,neutral
+sure we get 50 grams of digestible,136.48,3.6,140.07999999999998,
+carbohydrate we have to actually,138.16,4.32,142.48,
+subtract the fiber from the total,140.08,4.799,144.87900000000002,
+carbohydrates in the product so when i,142.48,4.64,147.11999999999998,
+look at the nutrition facts panel what i,144.879,5.201,150.07999999999998,
+see is one slice of bread has 22 grams,147.12,5.28,152.4,
+of carbohydrates in it but five of those,150.08,5.04,155.12,
+grams are fiber so i take 22 minus five,152.4,4.88,157.28,
+to get 17 grams of digestible,155.12,4.24,159.36,
+carbohydrate per slice and so if i want,157.28,4.959,162.239,
+to get 50 grams total then i need to eat,159.36,5.84,165.20000000000002,
+almost three full slices of bread still,162.239,8.441,170.68,
+not my typical breakfast but here we go,165.2,5.48,170.67999999999998,
+those killer seeds in this graph we see,172.879,4.561,177.44,neutral
+my blood glucose to the sugar drink in,175.2,4.88,180.07999999999998,neutral
+red and to the bread in blue,177.44,4.48,181.92,happy
+it's pretty striking how different they,180.08,3.92,184.0,neutral
+are over the two hours the bread caused,181.92,4.319,186.23899999999998,neutral
+a much more gradual rise in blood,184.0,4.879,188.879,neutral
+glucose and the peak was substantially,186.239,5.521,191.76,neutral
+lower compared to the sugar drink now to,188.879,4.961,193.84,
+actually calculate the glycemic index we,191.76,4.08,195.84,
+need to calculate the area under the,193.84,4.16,198.0,
+curve for both the sugar drink and the,195.84,3.84,199.68,neutral
+bread separately,198.0,3.92,201.92,neutral
+then we divide the bread test area by,199.68,4.479,204.15900000000002,neutral
+the sugar drink reference and multiply,201.92,5.039,206.95899999999997,neutral
+by 100 to express it as a percent,204.159,5.041,209.2,neutral
+using this method the glycemic index for,206.959,4.881,211.84,neutral
+dave's killer seed bread is,209.2,5.679,214.879,
+which puts it in the low gi category,211.84,4.88,216.72,
+from this n of one experiment we,214.879,3.841,218.72,neutral
+observed that dave's killer seed bread,216.72,4.72,221.44,neutral
+raises my blood glucose only 34 percent,218.72,4.96,223.68,neutral
+as much as sugar drink over a two-hour,221.44,3.28,224.72,neutral
+period,223.68,2.8,226.48000000000002,neutral
+i was actually pretty surprised at how,224.72,4.079,228.799,fear
+low the gi for this bread was i,226.48,4.24,230.72,fear
+definitely expected it to be lower than,228.799,4.481,233.28,fear
+the sugar drink due to the fiber content,230.72,4.879,235.599,fear
+since fiber slows down the absorption of,233.28,4.72,238.0,fear
+glucose but i really didn't think that,235.599,5.2,240.79899999999998,fear
+it would be categorized as a low gi food,238.0,5.2,243.2,fear
+because it's still bread and the reality,240.799,4.961,245.76000000000002,NA
+is it might not be we can't exactly,243.2,4.64,247.83999999999997,NA
+conclude that the gi of dave's killer,245.76,5.119,250.879,NA
+seed bread is for sure 34 just from this,247.84,4.16,252.0,NA
+experiment,250.879,2.961,253.84,NA
+determining the gi of a food needs to be,252.0,3.76,255.76,NA
+done in a larger sample of study,253.84,4.399,258.239,NA
+participants than just me and each,255.76,4.479,260.239,NA
+participant needs to do the experiment,258.239,4.721,262.96,NA
+in duplicate or triplicate meaning,260.239,4.481,264.71999999999997,NA
+drinking the sugar drink on three,262.96,4.0,266.96,NA
+separate days and eating the test food,264.72,4.16,268.88000000000005,NA
+on three separate days,266.96,4.08,271.03999999999996,NA
+usually that sugar drink is made of pure,268.88,4.319,273.199,NA
+glucose rather than the sucrose table,271.04,4.64,275.68,NA
+sugar that i used it also turns out that,273.199,4.56,277.759,NA
+there's a few more complications about,275.68,5.04,280.72,NA
+the glycemic index and its applicability,277.759,4.88,282.639,NA
+i dig into all of this in my video,280.72,4.96,285.68,NA
+series on glycemic responses linked here,282.639,4.721,287.36,NA
+that's what science tastes like thanks,285.68,3.36,289.04,NA
+for tuning in to nourishment check out,287.36,3.04,290.40000000000003,NA
+all my references in the video,289.04,3.36,292.40000000000003,NA
+description and be sure to subscribe to,290.4,4.75,295.15,NA
+stay up to date on all things nutrition,292.4,8.06,300.46,NA
+[Music],295.15,5.31,300.46,NA

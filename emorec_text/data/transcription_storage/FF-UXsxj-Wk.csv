@@ -1,0 +1,161 @@
+text,start,duration
+"Thanks to Brilliant for supporting this episode
+of SciShow.",0.099,2.761
+Go to Brilliant.org/SciShow to learn more.,2.86,2.66
+[♪ INTRO],5.52,3.48
+Diabetes is a big problem worldwide.,9.0,2.5
+"The International Diabetes Federation estimates
+there are around 450 million diabetics around",11.51,5.78
+"the world, and even more folks who could become
+diabetic.",17.29,2.82
+"So scientists have been looking for a quick
+and convenient way of measuring blood glucose,",20.11,3.679
+"or how much sugar is floating around in your
+blood.",23.789,2.461
+"We already have reliable tests for finding
+that number, but they make the user stab themselves",26.25,4.529
+and draw a little blood each time.,30.779,1.8
+"So developers are looking at a way of measuring
+blood glucose without using blood at all.",32.579,4.311
+"We have non-invasive wearable sensors for
+everything from your heart rate to how many",36.89,3.829
+"steps you take, so -- where’s my bloodless
+blood sugar monitor?",40.719,3.73
+"Modern blood glucose monitors were developed
+in the late 1960s, and they use some pretty",44.449,4.301
+ingenious chemistry.,48.75,1.289
+"Up until this point, clinicians had used urine
+to measure blood sugar.",50.039,3.75
+"But that reading wasn’t reliable -- it could
+be thrown off by things as simple as how much",53.789,3.68
+you’d had to drink lately.,57.469,1.09
+So they had to go to the source and use blood.,58.559,2.57
+"One of the earliest strategies used a chemical
+reaction to identify the presence of glucose.",61.129,3.901
+"The more of this reaction they could detect
+taking place, the more glucose was present",65.03,4.17
+in the sample to start with.,69.2,1.34
+"Those early glucose monitors placed a drop
+of blood on a thin membrane that held an enzyme",70.54,4.39
+"called glucose oxidase, with an electrode
+underneath.",74.93,3.079
+"That enzyme allowed glucose in the blood to
+react with oxygen, producing gluconic acid",78.009,4.041
+and hydrogen peroxide.,82.05,1.499
+"The electrode measured changes in oxygen and
+hydrogen peroxide, which were proportional",83.549,4.151
+to the amount of glucose in the sample.,87.7,1.8
+"Other strategies might measure something like
+electrons produced by the reaction, or a change",89.5,3.79
+"in how the test strip reflects light, but
+they usually center around glucose oxidase.",93.29,4.37
+"There have been plenty of changes over the
+years, like shrinking the electrodes to fit",97.66,3.62
+on those little paper test strips.,101.28,1.839
+"This design only offers a few data points
+throughout the day -- as many data points",103.119,4.011
+as you take finger sticks.,107.13,1.33
+"And, yeah, you have to prick your finger.",108.46,2.0
+"Implantable continuous glucose monitors are
+out there as an alternative for some people.",110.46,4.659
+"But they still have to be validated with finger
+sticks, and they have other drawbacks as well.",115.119,4.04
+"So for years, scientists have been trying
+to find a reliable way to measure blood glucose",119.159,3.89
+without any blood at all.,123.049,1.651
+And they have a couple of potential leads.,124.7,1.44
+One of the most logical would be to test saliva.,126.14,2.42
+"It’s very convenient to collect, and it
+contains a measurable amount of glucose.",128.56,4.19
+"Research published in 2015 compared salivary
+glucose samples to blood samples taken from",132.75,4.39
+a traditional finger prick monitor.,137.14,1.78
+"The scientists found that glucose concentrations
+in saliva corresponded with those in blood,",138.92,4.69
+both before and after eating.,143.61,1.67
+"You might think that you would find sugar
+in spit simply because people have just eaten",145.28,3.08
+food that happens to have sugar in it.,148.36,1.69
+"But multiple studies have shown that the concentration
+of glucose in saliva reflects its concentration",150.05,4.7
+"in blood, not just whether you’ve had a
+snack lately.",154.75,2.72
+"Other researchers have set out to take advantage
+of this relationship by designing a sensor",157.47,3.83
+"that could be worn as a mouth guard, and send
+a wireless signal of the wearer’s glucose levels.",161.3,4.12
+"But not every design we’ve come up with
+has the same glucose-rich source to pull from.",165.42,4.66
+"Scientists are working on a glucose sensing
+contact lens that samples sugar from your",170.09,4.38
+"tears, which actually have some glucose in
+them -- though slightly less than spit.",174.47,3.9
+"In preliminary trials done on rabbits, this
+style of monitor was shown to pick up on changes",178.37,4.53
+in glucose after the subject ate some sugar.,182.9,2.33
+"Blood sugar goes up after eating a meal, and
+any glucose monitor needs to be sensitive",185.23,4.14
+to those kinds of changes.,189.37,1.41
+"This is an active area of research, with several
+contact lenses in development.",190.78,3.94
+"Some use glucose oxidase, while some use other
+sensing methods",194.72,3.01
+"So you might want to keep your eye out for
+those!",197.73,2.25
+"Now, sweat is another good candidate, and
+quite a few sweat-based monitors have been",199.98,3.88
+"attempted, including a pair of eyeglasses.",203.86,1.99
+"Like tears and spit, sweat has less glucose
+in it than blood.",205.85,3.83
+"Plus it’s easily contaminated by all the
+gunk and grime that touches your skin all day.",209.68,3.82
+"But so far when tested under ideal conditions,
+the concentration of glucose in sweat correlates",213.56,4.74
+reliably with that of blood.,218.31,1.6
+"So these devices could eventually see more
+widespread use as well.",219.91,3.26
+"The final lead is a patch that measures glucose
+in the fluid between your skin cells, or interstitial fluid.",223.17,5.99
+"Your skin cells need nutrients, including
+glucose, which diffuses from blood into interstitial fluid.",229.16,5.88
+"And researchers can use electricity to help
+draw out those sugar molecules and measure them.",235.08,4.08
+"Skin has a slight negative charge, which the
+device can use to pull positively charged",239.16,4.44
+sodium ions towards the skin’s surface.,243.61,2.84
+"Some of the larger glucose molecules them
+get carried along for the ride to where a",246.45,3.721
+glucose oxidase sensor is waiting.,250.171,1.459
+"It’s similar to those traditional enzyme
+reaction strips, it just takes a little more",251.63,3.69
+effort to grab some glucose to sample.,255.32,1.99
+"Every device researchers have come up has
+its share of drawbacks.",257.31,3.38
+"But this is still a young field, and they
+are making progress, so noninvasive blood",260.69,4.28
+"sugar monitors might be here sooner than you
+think.",264.97,2.56
+"And while you’re waiting for them to arrive,
+maybe you’d like to learn more about how",267.53,3.26
+people design and program these kinds of gizmos.,270.79,3.3
+"Brilliant offers interactive courses in science,
+math, engineering, and computer science.",274.09,3.97
+"These courses can help you refine your math
+and science skills while learning something new.",278.06,3.88
+"The computer science courses cover everything
+from Python to machine learning.",281.94,3.84
+"The course on Python will introduce you to
+a programming language used by everyone from",285.78,3.96
+scientists and engineers to video game developers.,289.74,2.83
+There’s even a chapter on using it to draw.,292.57,1.87
+"And their courses are now available offline
+using their iOS app.",294.44,3.66
+"So if you’re traveling or have a spotty
+internet connection, you’ll be able to keep learning.",298.1,3.46
+"You can check out this course, or any of their
+tons of in-depth options, at Brilliant.org/SciShow.",301.56,5.32
+"The first 200 people to sign up using that
+url will get 20% off the annual Premium subscription.",306.88,5.46
+"So check it out and see if there’s any courses
+that you like!",312.34,2.66
+[♪OUTRO],315.0,10.24

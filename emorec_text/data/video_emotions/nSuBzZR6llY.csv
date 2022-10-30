@@ -1,0 +1,205 @@
+,frame,dominant_race,dominant_emotion,age
+0,0.jpg,,,
+1,1.jpg,,,
+2,10.jpg,white,neutral,39.0
+3,100.jpg,middle eastern,sad,35.0
+4,101.jpg,white,sad,34.0
+5,102.jpg,white,fear,43.0
+6,103.jpg,,,
+7,104.jpg,,,
+8,105.jpg,middle eastern,neutral,30.0
+9,106.jpg,middle eastern,surprise,33.0
+10,107.jpg,white,neutral,27.0
+11,108.jpg,middle eastern,neutral,39.0
+12,109.jpg,middle eastern,neutral,40.0
+13,11.jpg,middle eastern,neutral,28.0
+14,110.jpg,middle eastern,neutral,42.0
+15,111.jpg,white,sad,39.0
+16,112.jpg,white,sad,39.0
+17,113.jpg,white,fear,39.0
+18,114.jpg,middle eastern,surprise,29.0
+19,115.jpg,white,neutral,39.0
+20,116.jpg,,,
+21,117.jpg,,,
+22,118.jpg,white,sad,39.0
+23,119.jpg,white,neutral,27.0
+24,12.jpg,middle eastern,fear,41.0
+25,120.jpg,white,neutral,39.0
+26,121.jpg,white,fear,41.0
+27,122.jpg,white,sad,39.0
+28,123.jpg,white,sad,39.0
+29,124.jpg,,,
+30,125.jpg,white,sad,39.0
+31,126.jpg,white,neutral,39.0
+32,127.jpg,white,neutral,39.0
+33,128.jpg,white,neutral,26.0
+34,129.jpg,,,
+35,13.jpg,white,fear,31.0
+36,130.jpg,white,sad,36.0
+37,131.jpg,white,sad,39.0
+38,132.jpg,white,fear,26.0
+39,133.jpg,white,sad,39.0
+40,134.jpg,,,
+41,135.jpg,,,
+42,136.jpg,,,
+43,137.jpg,middle eastern,neutral,24.0
+44,138.jpg,white,sad,39.0
+45,139.jpg,white,sad,39.0
+46,14.jpg,middle eastern,neutral,44.0
+47,140.jpg,middle eastern,neutral,28.0
+48,141.jpg,white,neutral,29.0
+49,142.jpg,white,fear,42.0
+50,143.jpg,middle eastern,neutral,38.0
+51,144.jpg,middle eastern,surprise,44.0
+52,145.jpg,white,sad,39.0
+53,146.jpg,middle eastern,neutral,36.0
+54,147.jpg,white,sad,39.0
+55,148.jpg,white,neutral,40.0
+56,149.jpg,white,happy,39.0
+57,15.jpg,white,sad,36.0
+58,150.jpg,white,sad,39.0
+59,151.jpg,white,neutral,32.0
+60,152.jpg,middle eastern,neutral,26.0
+61,153.jpg,middle eastern,neutral,44.0
+62,154.jpg,,,
+63,155.jpg,asian,neutral,39.0
+64,156.jpg,white,surprise,33.0
+65,157.jpg,white,happy,39.0
+66,158.jpg,white,surprise,41.0
+67,159.jpg,,,
+68,16.jpg,middle eastern,sad,39.0
+69,160.jpg,white,neutral,30.0
+70,161.jpg,middle eastern,neutral,36.0
+71,162.jpg,white,neutral,26.0
+72,163.jpg,white,sad,39.0
+73,164.jpg,middle eastern,neutral,40.0
+74,165.jpg,middle eastern,surprise,28.0
+75,166.jpg,white,neutral,37.0
+76,167.jpg,middle eastern,angry,34.0
+77,168.jpg,white,sad,39.0
+78,169.jpg,white,sad,39.0
+79,17.jpg,,,
+80,170.jpg,,,
+81,171.jpg,middle eastern,neutral,49.0
+82,172.jpg,white,happy,39.0
+83,173.jpg,white,sad,39.0
+84,174.jpg,middle eastern,fear,29.0
+85,175.jpg,middle eastern,sad,30.0
+86,176.jpg,middle eastern,sad,36.0
+87,177.jpg,white,sad,39.0
+88,178.jpg,,,
+89,179.jpg,white,surprise,42.0
+90,18.jpg,middle eastern,neutral,31.0
+91,180.jpg,middle eastern,neutral,38.0
+92,181.jpg,middle eastern,surprise,41.0
+93,182.jpg,white,neutral,36.0
+94,183.jpg,middle eastern,sad,31.0
+95,184.jpg,,,
+96,185.jpg,,,
+97,186.jpg,,,
+98,187.jpg,,,
+99,188.jpg,,,
+100,189.jpg,,,
+101,19.jpg,latino hispanic,sad,29.0
+102,190.jpg,,,
+103,191.jpg,,,
+104,192.jpg,,,
+105,193.jpg,,,
+106,194.jpg,,,
+107,195.jpg,,,
+108,196.jpg,,,
+109,197.jpg,,,
+110,198.jpg,,,
+111,199.jpg,,,
+112,2.jpg,middle eastern,neutral,43.0
+113,20.jpg,,,
+114,200.jpg,,,
+115,201.jpg,,,
+116,202.jpg,,,
+117,203.jpg,,,
+118,21.jpg,,,
+119,22.jpg,,,
+120,23.jpg,,,
+121,24.jpg,,,
+122,25.jpg,,,
+123,26.jpg,,,
+124,27.jpg,middle eastern,neutral,25.0
+125,28.jpg,white,neutral,42.0
+126,29.jpg,,,
+127,3.jpg,middle eastern,neutral,46.0
+128,30.jpg,white,sad,41.0
+129,31.jpg,white,angry,39.0
+130,32.jpg,white,fear,45.0
+131,33.jpg,white,neutral,39.0
+132,34.jpg,white,fear,38.0
+133,35.jpg,white,sad,39.0
+134,36.jpg,white,sad,36.0
+135,37.jpg,middle eastern,neutral,34.0
+136,38.jpg,,,
+137,39.jpg,,,
+138,4.jpg,,,
+139,40.jpg,middle eastern,neutral,28.0
+140,41.jpg,white,neutral,30.0
+141,42.jpg,middle eastern,neutral,41.0
+142,43.jpg,,,
+143,44.jpg,middle eastern,angry,44.0
+144,45.jpg,white,neutral,41.0
+145,46.jpg,middle eastern,neutral,42.0
+146,47.jpg,middle eastern,neutral,24.0
+147,48.jpg,white,sad,39.0
+148,49.jpg,,,
+149,5.jpg,,,
+150,50.jpg,white,fear,39.0
+151,51.jpg,white,neutral,39.0
+152,52.jpg,white,sad,39.0
+153,53.jpg,middle eastern,fear,26.0
+154,54.jpg,white,sad,39.0
+155,55.jpg,middle eastern,fear,44.0
+156,56.jpg,white,neutral,27.0
+157,57.jpg,middle eastern,angry,30.0
+158,58.jpg,white,surprise,27.0
+159,59.jpg,middle eastern,fear,39.0
+160,6.jpg,,,
+161,60.jpg,white,neutral,39.0
+162,61.jpg,white,disgust,36.0
+163,62.jpg,white,sad,39.0
+164,63.jpg,white,sad,39.0
+165,64.jpg,white,sad,39.0
+166,65.jpg,white,surprise,35.0
+167,66.jpg,white,sad,38.0
+168,67.jpg,white,sad,41.0
+169,68.jpg,white,sad,39.0
+170,69.jpg,white,surprise,42.0
+171,7.jpg,,,
+172,70.jpg,middle eastern,fear,42.0
+173,71.jpg,white,happy,42.0
+174,72.jpg,middle eastern,angry,33.0
+175,73.jpg,white,neutral,39.0
+176,74.jpg,white,fear,30.0
+177,75.jpg,middle eastern,fear,30.0
+178,76.jpg,white,sad,39.0
+179,77.jpg,middle eastern,neutral,25.0
+180,78.jpg,white,sad,39.0
+181,79.jpg,white,neutral,27.0
+182,8.jpg,middle eastern,neutral,24.0
+183,80.jpg,middle eastern,disgust,24.0
+184,81.jpg,white,happy,47.0
+185,82.jpg,white,sad,36.0
+186,83.jpg,,,
+187,84.jpg,white,fear,39.0
+188,85.jpg,white,neutral,39.0
+189,86.jpg,white,neutral,39.0
+190,87.jpg,white,sad,39.0
+191,88.jpg,white,sad,39.0
+192,89.jpg,,,
+193,9.jpg,white,neutral,39.0
+194,90.jpg,,,
+195,91.jpg,white,angry,23.0
+196,92.jpg,white,neutral,39.0
+197,93.jpg,white,neutral,39.0
+198,94.jpg,white,neutral,39.0
+199,95.jpg,white,sad,39.0
+200,96.jpg,,,
+201,97.jpg,,,
+202,98.jpg,,,
+203,99.jpg,middle eastern,neutral,30.0

@@ -1,0 +1,428 @@
+text,start,duration,end,dominant_emotion
+in the late 70s dr david jenkins of the,0.719,5.361,6.08,
+university of toronto realized that,4.08,4.24,8.32,
+knowing the total amount of carbs in,6.08,4.16,10.24,
+foods was not enough to predict the,8.32,4.16,12.48,
+effects of these sugars on blood glucose,10.24,3.519,13.759,
+fluctuations,12.48,3.359,15.839,
+knowing the type of carbs containing a,13.759,4.161,17.92,
+food simple sugars or complex,15.839,3.2,19.039,
+carbohydrates,17.92,3.279,21.199,
+provided some clues but was far from,19.039,4.881,23.92,
+sufficient to make a correct prediction,21.199,4.32,25.519000000000002,
+there are some foods that are rich in,23.92,3.76,27.68,fear
+complex starches such as white bread,25.519,4.08,29.598999999999997,fear
+that raise blood glucose quickly and,27.68,4.16,31.84,angry
+abruptly whereas some fruits rich in,29.599,3.281,32.88,angry
+simple sugars,31.84,3.44,35.28,surprise
+such as blueberries barely raise blood,32.88,3.76,36.64,angry
+glucose at all,35.28,4.799,40.079,angry
+in 1981 jenkins and co-workers published,36.64,4.239,40.879,angry
+a landmark,40.079,2.48,42.559,fear
+article in the american journal of,40.879,3.601,44.48,angry
+clinical nutrition in which they,42.559,3.68,46.239,angry
+proposed a new indicator,44.48,4.239,48.718999999999994,angry
+that was able to measure the speed at,46.239,5.281,51.519999999999996,angry
+which sugars containing a specific food,48.719,5.121,53.84,angry
+would raise blood glucose and they call,51.52,3.359,54.879000000000005,angry
+this indicator,53.84,4.16,58.0,angry
+glycemic index propelled by numerous,54.879,5.281,60.16,fear
+findings about the detrimental effects,58.0,4.239,62.239,fear
+of repeated and elevated blood glucose,60.16,3.199,63.358999999999995,surprise
+and insulin peaks,62.239,3.2,65.439,surprise
+and their risk for fat accumulation,63.359,4.321,67.68,surprise
+obesity diabetes and cardiovascular,65.439,2.961,68.39999999999999,surprise
+disease,67.68,3.2,70.88000000000001,surprise
+the concept of glycemic index soon,68.4,4.24,72.64,fear
+became very popular,70.88,4.239,75.119,fear
+the higher the glycemic index of a food,72.64,4.08,76.72,neutral
+the faster its carbs,75.119,3.601,78.72,fear
+enter the bloodstream and raise blood,76.72,4.0,80.72,fear
+glucose causing the pancreas,78.72,4.719,83.439,angry
+to release insulin you may wonder how,80.72,4.56,85.28,angry
+this index is calculated,83.439,4.081,87.52,fear
+in a few words here's how you take a,85.28,4.799,90.07900000000001,fear
+solution of 50 grams of glucose in water,87.52,3.84,91.36,neutral
+and you give it to a group of,90.079,2.321,92.39999999999999,neutral
+individuals,91.36,3.36,94.72,fear
+then for the next two hours you draw a,92.4,4.32,96.72,fear
+drop of blood by finger puncture at,94.72,2.56,97.28,neutral
+regular,96.72,2.719,99.439,fear
+intervals and you measure blood glucose,97.28,3.519,100.799,fear
+concentrations,99.439,2.96,102.39899999999999,fear
+in this example you see that blood,100.799,4.0,104.799,angry
+glucose peaks between 30 minutes and 1,102.399,3.04,105.43900000000001,angry
+hour,104.799,2.881,107.68,neutral
+and after 2 hours is almost back to,105.439,3.441,108.88,neutral
+baseline,107.68,3.84,111.52000000000001,fear
+if you measure the area below this curve,108.88,4.559,113.439,fear
+you know it's proportional to the amount,111.52,2.559,114.079,fear
+of glucose,113.439,2.64,116.079,neutral
+that was in the bloodstream during these,114.079,3.201,117.27999999999999,neutral
+two hours,116.079,3.441,119.52,neutral
+then you take the same subjects and you,117.28,3.119,120.399,neutral
+have them eat,119.52,3.68,123.2,neutral
+a test food say a bowl of lentils in,120.399,4.641,125.04,fear
+such an amount that the quantity of,123.2,2.879,126.07900000000001,fear
+carbs they contain,125.04,3.439,128.479,fear
+is still 50 grams let me stress this,126.079,4.481,130.56,fear
+again you're not giving them 50 grams of,128.479,2.721,131.20000000000002,neutral
+lentils,130.56,3.039,133.599,neutral
+but a serving of lentils that provides,131.2,4.16,135.35999999999999,neutral
+50 grams of carbs,133.599,3.601,137.2,fear
+now you do the same measurement and in,135.36,3.599,138.959,fear
+this example you see that the peak is,137.2,3.52,140.72,fear
+about at the same time but it's much,138.959,2.401,141.36,fear
+lower,140.72,3.12,143.84,neutral
+and it doesn't decline as fast of course,141.36,4.0,145.36,fear
+different people will respond in,143.84,2.479,146.31900000000002,fear
+different ways,145.36,2.72,148.08,fear
+but this doesn't matter because you can,146.319,4.0,150.319,fear
+use the first measurement to standardize,148.08,3.36,151.44000000000003,fear
+the result,150.319,3.041,153.35999999999999,fear
+so you calculate the area under the,151.44,3.439,154.879,fear
+curve for your lentils,153.36,3.68,157.04000000000002,fear
+and divide it by the area you obtain for,154.879,3.601,158.48,fear
+the solution of glucose,157.04,4.0,161.04,fear
+times 100 to get rid of the decimals and,158.48,4.479,162.959,fear
+there you have your glycemic index of,161.04,2.88,163.92,fear
+lentils,162.959,3.28,166.239,fear
+if you have worked well you will get,163.92,4.24,168.16,fear
+very similar numbers in all your,166.239,3.521,169.76,fear
+different subjects,168.16,3.76,171.92,neutral
+to complicate things some labs have,169.76,4.559,174.319,neutral
+chosen not to use glucose in water as a,171.92,3.12,175.04,neutral
+standard,174.319,3.681,178.0,fear
+but white bread this has advantages and,175.04,5.04,180.07999999999998,fear
+disadvantages whose discussion goes,178.0,4.08,182.08,fear
+beyond the scope of our course,180.08,3.519,183.59900000000002,fear
+just keep in mind that you cannot,182.08,4.239,186.31900000000002,fear
+compare gi numbers from different tables,183.599,4.64,188.23899999999998,fear
+if they are calculated using different,186.319,3.041,189.35999999999999,neutral
+standards,188.239,3.681,191.92000000000002,neutral
+the numbers i will show you here are all,189.36,4.48,193.84,fear
+calculated using glucose,191.92,5.36,197.28,fear
+as a standard the concept of glycemic,193.84,4.16,198.0,fear
+index is,197.28,3.599,200.879,fear
+often misunderstood so let me clarify a,198.0,3.28,201.28,fear
+very,200.879,3.601,204.48,fear
+important point the glycemic index is a,201.28,5.039,206.319,fear
+measure of the speed,204.48,4.479,208.959,fear
+at which the carbs in a food raise blood,206.319,3.681,210.0,fear
+glucose levels,208.959,3.601,212.56,fear
+it is not a measure of the extent of,210.0,3.519,213.519,fear
+this effect,212.56,2.72,215.28,fear
+because the glycemic index is,213.519,4.241,217.76,fear
+independent of the amounts of carb,215.28,5.36,220.64000000000001,neutral
+contained in a food think of a man,217.76,4.479,222.239,neutral
+target shooting with a gun,220.64,4.0,224.64,fear
+the glycemic index would tell us how,222.239,4.161,226.4,fear
+fast he shoots his bullets,224.64,3.679,228.319,fear
+but he does not tell us how many bullets,226.4,3.119,229.519,fear
+he has to shoot,228.319,3.601,231.92,neutral
+if he only has a few bullets he can,229.519,4.321,233.84,neutral
+shoot them as fast as he wants,231.92,4.319,236.23899999999998,fear
+but he'll still not be very deadly so,233.84,4.88,238.72,fear
+the glycemic index only makes sense,236.239,4.801,241.04,fear
+if we consider it together with another,238.72,3.68,242.4,fear
+piece of information,241.04,3.919,244.959,fear
+which is the amount of carbs contained,242.4,3.52,245.92000000000002,neutral
+in that food,244.959,3.2,248.159,fear
+for example carrots have a relatively,245.92,3.84,249.76,fear
+high glycemic index,248.159,3.841,252.0,neutral
+but they also have very little sugar,249.76,3.92,253.67999999999998,neutral
+this means their sugar enters the,252.0,2.4,254.4,neutral
+bloodstream,253.68,3.119,256.79900000000004,fear
+fast but because it's very small amount,254.4,4.64,259.04,fear
+the overall effect of carrots on blood,256.799,3.84,260.63899999999995,fear
+glucose and insulin release,259.04,4.4,263.44,fear
+is minimal conversely the glycemic index,260.639,4.801,265.44,fear
+of potatoes is lower than that of,263.44,2.64,266.08,fear
+carrots,265.44,2.479,267.919,fear
+but while an average carrot has about,266.08,3.28,269.35999999999996,fear
+four grams of carbs,267.919,4.481,272.4,fear
+an average potato has about 25 grams,269.36,5.44,274.8,neutral
+so even if these carbs are absorbed more,272.4,4.4,276.79999999999995,fear
+slowly they still have a significant,274.8,3.6,278.40000000000003,fear
+effect on blood glucose,276.8,4.24,281.04,fear
+and insulin because they are a lot to,278.4,3.6,282.0,fear
+take into account,281.04,3.2,284.24,neutral
+was the glycemic index and the total,282.0,3.6,285.6,neutral
+amount of carbs,284.24,3.6,287.84000000000003,fear
+a group of researchers from harvard,285.6,5.44,291.04,fear
+university proposed in 1997 the concept,287.84,4.4,292.23999999999995,neutral
+of glycemic,291.04,3.76,294.8,neutral
+load it is very simple it's just a,292.24,4.48,296.72,neutral
+glycemic index of a food,294.8,4.32,299.12,fear
+times the amount of digestible carbs,296.72,4.64,301.36,fear
+contained in a standard serving of that,299.12,2.799,301.919,neutral
+food,301.36,3.119,304.47900000000004,neutral
+divided by 100 just to get rid of some,301.919,3.601,305.52,fear
+zeros,304.479,2.801,307.28,fear
+this way you have an index that,305.52,3.679,309.19899999999996,fear
+considers both factors,307.28,4.72,312.0,fear
+if a food has a low gi but a lot of,309.199,3.521,312.72,neutral
+sugars,312.0,2.96,314.96,neutral
+its glycemic load will still be high,312.72,3.12,315.84000000000003,neutral
+conversely,314.96,3.519,318.479,neutral
+if it has a high glycemic index but very,315.84,3.68,319.52,neutral
+few sugars,318.479,2.961,321.44,neutral
+its glycemic load will still be,319.52,3.44,322.96,fear
+relatively low,321.44,3.759,325.199,fear
+let's go back to our previous example,322.96,4.56,327.52,fear
+and let's consider a glycemic index of,325.199,5.361,330.56,fear
+72 for carrots and of 63 for boiled,327.52,4.0,331.52,fear
+potatoes,330.56,3.359,333.919,fear
+the glycemic load over carrot would be,331.52,4.88,336.4,fear
+72 times 4 grams of carbs,333.919,5.84,339.75899999999996,fear
+divided by 103 the glycemic load of our,336.4,5.28,341.67999999999995,fear
+potato would be 63,339.759,6.081,345.84000000000003,fear
+times 25 grams of carbs divided by 116.,341.68,6.239,347.919,fear
+so the glycemic load of our potato is,345.84,4.24,350.08,fear
+more than five fold the glycemic load of,347.919,2.961,350.88,fear
+our carrot,350.08,3.839,353.919,fear
+even though its glycemic index is slower,350.88,5.92,356.8,fear
+watermelon also has a high glycemic,353.919,4.4,358.31899999999996,fear
+index of 72,356.8,4.88,361.68,fear
+but a slice of 120 grams only has,358.319,6.32,364.639,fear
+6 grams of sugar so its glycemic load is,361.68,3.6,365.28000000000003,fear
+4.,364.639,3.12,367.759,neutral
+a banana of the same weight has a much,365.28,4.72,370.0,fear
+lower glycemic index 52,367.759,4.56,372.319,fear
+but it has 20 grams of carbs so its,370.0,4.0,374.0,fear
+glycemic load is 11,372.319,4.72,377.03900000000004,fear
+almost three times that of watermelon of,374.0,5.039,379.039,neutral
+course the glycemic load has one big,377.039,2.961,380.0,fear
+disadvantage,379.039,3.041,382.08,fear
+compared to the glycemic index the,380.0,4.72,384.72,fear
+glycemic index is always the same,382.08,4.959,387.039,fear
+independent of the amount of food the,384.72,4.16,388.88000000000005,fear
+glycemic load is always,387.039,4.88,391.919,fear
+based on a specific amount of food if i,388.88,3.439,392.319,fear
+eat,391.919,3.28,395.19899999999996,neutral
+three slices of watermelon the glycemic,392.319,5.041,397.36,neutral
+load would be three times higher,395.199,4.321,399.52000000000004,neutral
+while the glycemic index would still be,397.36,3.36,400.72,fear
+72.,399.52,4.56,404.08,fear
+take this coke its glycemic index is 58.,400.72,6.8,407.52000000000004,fear
+a small 100 milliliters glass a,404.08,6.559,410.639,fear
+meals can or a large 600 meals fast food,407.52,3.679,411.19899999999996,fear
+cup,410.639,3.521,414.16,fear
+all have a glycemic index of 58 but the,411.199,5.12,416.319,fear
+small glass has 11 grams of sugar,414.16,5.36,419.52000000000004,fear
+with a glycemic load of 6.4 the can is,416.319,5.041,421.36,fear
+37 grams of sugar,419.52,5.04,424.56,fear
+glycemic load 21.5 and the large cup,421.36,6.839,428.199,fear
+67 grams of sugar and a glycemic load of,424.56,4.88,429.44,fear
+38.9,428.199,4.601,432.8,fear
+and by the way 266 calories,429.44,5.759,435.199,fear
+the composition of a food is of course,432.8,3.76,436.56,fear
+the first determinant,435.199,4.321,439.52000000000004,neutral
+of its glycemic index in particular two,436.56,3.84,440.4,neutral
+key factors,439.52,3.36,442.88,neutral
+are the type of carbs and the presence,440.4,3.919,444.31899999999996,neutral
+of other nutrients,442.88,3.92,446.8,fear
+as far as simple sugars are concerned,444.319,4.88,449.199,fear
+glucose raises the glycemic index,446.8,5.28,452.08,fear
+much more than fructose sucrose is in,449.199,5.041,454.24,fear
+between since it mixes the two,452.08,4.88,456.96,fear
+as for complex carbs the more branched,454.24,3.679,457.919,fear
+starch is,456.96,3.359,460.31899999999996,neutral
+the lower the glycemic index because it,457.919,4.641,462.56,neutral
+will take longer to break it down,460.319,4.641,464.96000000000004,neutral
+as for other nutrients the presence of,462.56,5.039,467.599,neutral
+fiber proteins and lipids slows down,464.96,4.32,469.28,fear
+gastric emptying and intestinal,467.599,2.961,470.56,fear
+absorption of glucose,469.28,3.44,472.71999999999997,neutral
+thus lowering the glycemic index of a,470.56,4.8,475.36,neutral
+food it is easy to understand why whole,472.72,4.64,477.36,neutral
+grains and their derivative products,475.36,4.48,479.84000000000003,fear
+have lower glycemic indexes than their,477.36,4.48,481.84000000000003,fear
+refined counterparts,479.84,4.16,484.0,fear
+but many other factors affect the,481.84,4.079,485.919,fear
+glycemic index of a food,484.0,4.479,488.479,neutral
+including preparation processing and,485.919,3.441,489.35999999999996,neutral
+cooking,488.479,3.601,492.08,fear
+let's consider our potato again if we,489.36,3.6,492.96000000000004,fear
+snack on it,492.08,3.6,495.68,fear
+raw its glycemic index will be close to,492.96,5.12,498.08,fear
+zero because the starch of a raw potato,495.68,3.04,498.72,fear
+is almost,498.08,3.36,501.44,neutral
+entirely undigestible so it will travel,498.72,4.8,503.52000000000004,neutral
+intact through our small intestine,501.44,4.72,506.16,neutral
+without absorption if we boil that,503.52,3.359,506.87899999999996,neutral
+potato,506.16,3.439,509.59900000000005,fear
+its glycemic index will quickly raise to,506.879,5.6,512.479,fear
+about 60 because starch gelatinizes with,509.599,3.36,512.959,fear
+heat,512.479,3.12,515.599,fear
+and becomes easily digestible if however,512.959,3.121,516.0799999999999,fear
+we eat,515.599,3.68,519.279,neutral
+that same potato with its skin its fiber,516.08,5.36,521.44,neutral
+will slow down glucose digestion and,519.279,3.361,522.64,neutral
+absorption,521.44,4.24,525.6800000000001,neutral
+and as a result its gi will be lower,522.64,5.52,528.16,fear
+conversely if we turn that potato into a,525.68,3.76,529.4399999999999,fear
+mashed potato,528.16,4.16,532.3199999999999,neutral
+its gi will further raise because starch,529.44,3.36,532.8000000000001,neutral
+becomes,532.32,2.8,535.12,fear
+even more accessible to our digestive,532.8,4.64,537.4399999999999,fear
+enzymes which will convert it to glucose,535.12,3.68,538.8,fear
+even faster,537.44,3.6,541.0400000000001,fear
+finally if we don't eat our potato at,538.8,4.56,543.3599999999999,fear
+all and just leave it there at room temp,541.04,4.64,545.68,fear
+within a few hours its starch will start,543.36,4.4,547.76,fear
+retrogradation becoming less and less,545.68,3.04,548.7199999999999,fear
+digestible,547.76,4.0,551.76,fear
+and its gi will progressively decrease,548.72,4.96,553.6800000000001,fear
+together with the desirability of our,551.76,4.16,555.92,fear
+potato which will become less and less,553.68,5.12,558.8,fear
+soft and buttery the degree of cooking,555.92,4.16,560.0799999999999,fear
+always matters,558.8,3.84,562.64,neutral
+if raw pasta has a glycemic index close,560.08,3.439,563.519,neutral
+to zero,562.64,3.44,566.08,fear
+al dente pasta the way we italians like,563.519,4.241,567.76,fear
+it still somewhat firm,566.08,4.24,570.32,fear
+has a gi of about 50 because part of its,567.76,5.44,573.2,fear
+starch is still harder to digest,570.32,5.199,575.519,fear
+conversely overcooked pasta to the point,573.2,3.68,576.88,neutral
+it becomes soft,575.519,3.921,579.44,neutral
+that you somehow appear to like has a gi,576.88,4.48,581.36,neutral
+about 10 points higher because its,579.44,2.64,582.08,neutral
+starch,581.36,3.599,584.9590000000001,neutral
+turns to glucose much faster some,582.08,4.64,586.72,neutral
+technological processes,584.959,4.88,589.8389999999999,neutral
+also fragment starch raising gi,586.72,5.52,592.24,neutral
+such as extrusion to make potato chips,589.839,3.601,593.44,neutral
+or corn flakes,592.24,4.64,596.88,fear
+or pressure steaming to make puffed rice,593.44,6.16,599.6,fear
+as far as fruit is concerned the degree,596.88,3.68,600.56,fear
+of ripeness,599.6,4.08,603.6800000000001,fear
+influences the gi as the fruit ripens,600.56,5.68,606.2399999999999,fear
+its acids are converted to sugars the,603.68,4.32,608.0,fear
+texture becomes softer,606.24,4.8,611.04,fear
+and the gi tends to increase an overripe,608.0,5.68,613.68,neutral
+banana will have a higher glycemic index,611.04,5.12,616.16,neutral
+that one that's still green and then of,613.68,4.399,618.079,neutral
+course peeling fruits and veggies,616.16,4.239,620.399,neutral
+always raises the gi because you remove,618.079,3.521,621.5999999999999,neutral
+a lot of fiber,620.399,3.921,624.32,fear
+whenever we cut blend puree or in any,621.6,5.2,626.8000000000001,fear
+way turn the food into smaller pieces,624.32,5.28,629.6,fear
+the work of digestive enzymes is easier,626.8,4.96,631.76,fear
+and glucose absorption is faster,629.6,5.04,634.64,fear
+so the gi increases if you turn your,631.76,5.519,637.279,fear
+bottle of lentils into a lentil puree,634.64,5.439,640.079,fear
+its gi will be higher if you juice a,637.279,3.441,640.72,fear
+carrot,640.079,2.721,642.8,fear
+carrot juice will have a much higher gi,640.72,3.28,644.0,fear
+than the whole carrot,642.8,3.92,646.7199999999999,fear
+and so on so far we have talked about,644.0,4.959,648.959,fear
+individual foods but it is important to,646.72,4.16,650.88,fear
+remember that most of the time we,648.959,4.481,653.4399999999999,fear
+combine different foods in a meal,650.88,5.36,656.24,fear
+when we do that these foods mix in our,653.44,3.36,656.8000000000001,fear
+stomach,656.24,3.36,659.6,neutral
+and get digested and absorbed together,656.8,3.279,660.079,neutral
+so what,659.6,2.479,662.0790000000001,fear
+really matters in the end is not the,660.079,4.401,664.4799999999999,fear
+glycemic index or the glycemic load of,662.079,5.041,667.12,fear
+individual food items but the overall,664.48,5.52,670.0,fear
+glycemic load of the whole meal,667.12,5.68,672.8,neutral
+let's suppose with our mashed potatoes,670.0,5.36,675.36,neutral
+together with two slices of white bread,672.8,5.76,678.56,neutral
+and a can of coke or let's imagine,675.36,5.12,680.48,neutral
+eating the same mashed potato,678.56,4.64,683.1999999999999,neutral
+with just one slice of whole wheat bread,680.48,4.24,684.72,neutral
+with turkey and salad,683.2,4.48,687.6800000000001,neutral
+and a can of diet coke what do you think,684.72,3.679,688.399,neutral
+would become,687.68,3.279,690.959,fear
+of the glycemic load of the whole meal,688.399,4.321,692.72,fear
+in the first scenario we have combined,690.959,3.681,694.64,fear
+the high glycemic index food,692.72,4.16,696.88,fear
+our mashed potatoes with two other,694.64,3.84,698.48,neutral
+glycemic index foods,696.88,3.92,700.8,fear
+white bread and coke so we have turned,698.48,4.4,702.88,fear
+our meal into a glycemic bond,700.8,3.84,704.64,fear
+which will make our blood glucose and,702.88,3.68,706.56,neutral
+insulin skyrocket,704.64,3.68,708.3199999999999,neutral
+in the other scenario we have,706.56,4.32,710.88,neutral
+compensated the high glycemic index of,708.32,3.68,712.0,fear
+mashed potatoes,710.88,3.6,714.48,fear
+with the fiber and protein rich low,712.0,4.639,716.639,fear
+glycemic index whole wheat bread,714.48,4.56,719.04,
+green salad and turkey sandwich and a,716.639,5.2,721.839,
+sugar-free glycemic neutral diet coke,719.04,5.12,724.16,NA
+thus lowering the glycemic load of the,721.839,3.201,725.0400000000001,NA
+whole meal,724.16,4.239,728.399,NA
+so our pancreas will say thanks we will,725.04,5.52,730.56,NA
+go over food sources of carbs i will,728.399,3.921,732.32,NA
+show you some more glycemic index,730.56,3.12,733.68,NA
+numerical values,732.32,3.84,736.1600000000001,NA
+but make no mistake i'm not suggesting,733.68,4.32,738.0,NA
+that anybody should calculate the,736.16,3.919,740.079,NA
+glycemic index and glycemic loads of,738.0,3.2,741.2,NA
+their meals,740.079,2.801,742.88,NA
+we said at the beginning of our course,741.2,3.52,744.72,NA
+that no one should eat with tables and,742.88,3.04,745.92,NA
+calculators,744.72,3.679,748.399,NA
+besides if the concept of glycemic index,745.92,3.44,749.36,NA
+is impeccable,748.399,3.361,751.76,NA
+its numerical quantitation is rather,749.36,4.159,753.519,NA
+unprecise and variable,751.76,4.24,756.0,NA
+it's not just a problem of methodology,753.519,4.961,758.48,NA
+food in itself is highly variable,756.0,5.279,761.279,NA
+a carrot grown in italy can be extremely,758.48,5.12,763.6,NA
+different from a carrot grown in the u.s,761.279,4.401,765.68,NA
+different varieties different soil,763.6,4.08,767.6800000000001,NA
+different products used to grow it,765.68,4.24,769.92,NA
+different weather and so on and then,767.68,4.399,772.079,NA
+when it comes to food preparation such,769.92,3.919,773.8389999999999,NA
+as cookies or bread,772.079,3.601,775.68,NA
+we also have different ingredients,773.839,3.44,777.2790000000001,NA
+different proportions different,775.68,3.52,779.1999999999999,NA
+processing technologies,777.279,4.321,781.6,NA
+different cooking times or temperatures,779.2,4.319,783.519,NA
+you already know that all these factors,781.6,3.44,785.0400000000001,NA
+can greatly influence,783.519,4.56,788.079,NA
+the glycemic index if we insist on the,785.04,5.599,790.639,NA
+concept of glycemic index and glycemic,788.079,3.121,791.1999999999999,NA
+load,790.639,2.32,792.9590000000001,NA
+it's because they are very useful to,791.2,4.079,795.279,NA
+have an idea of the general metabolic,792.959,4.081,797.04,NA
+effect of different foods on blood,795.279,3.041,798.32,NA
+glucose and insulin,797.04,3.52,800.56,NA
+but certainly not to make numerical,798.32,4.079,802.399,NA
+calculations,800.56,4.48,805.04,NA
+so to recap the glycemic index is an,802.399,4.801,807.2,NA
+indicator that tells us how fast the,805.04,3.359,808.399,NA
+carbs in a food,807.2,3.92,811.12,NA
+are digested absorbed and raised blood,808.399,4.081,812.48,NA
+glucose levels,811.12,3.36,814.48,NA
+it is determined as a blood glucose,812.48,4.479,816.9590000000001,NA
+response after eating a specific food,814.48,4.32,818.8000000000001,NA
+compared to the response after eating a,816.959,3.041,820.0,NA
+standard food,818.8,3.44,822.24,NA
+glucose or white bread providing an,820.0,4.56,824.56,NA
+equivalent amount of carbohydrates,822.24,4.959,827.199,NA
+not an equivalent amount of food the,824.56,3.839,828.399,NA
+glycine index,827.199,4.0,831.199,NA
+only tells us how fast the carbs in a,828.399,3.361,831.76,NA
+food,831.199,4.08,835.279,NA
+raise glycemia not how much for that,831.76,5.439,837.199,NA
+we must also know how much carb is,835.279,4.0,839.279,NA
+inside a serving of that food,837.199,3.921,841.12,NA
+combining these two pieces of,839.279,3.601,842.88,NA
+information we can determine the,841.12,4.24,845.36,NA
+glycemic load of our meals,842.88,5.04,847.92,NA
+the general rule is that the glycemic,845.36,4.479,849.839,NA
+load of all of our meals should be as,847.92,3.359,851.279,NA
+slow as possible,849.839,3.68,853.519,NA
+we can accomplish this primarily in two,851.279,3.041,854.32,NA
+ways,853.519,4.081,857.6,NA
+one by choosing low glycemic index foods,854.32,6.56,860.88,NA
+or two by combining high glycemic index,857.6,3.84,861.44,NA
+foods,860.88,2.88,863.76,NA
+with low glycemic index fiber and,861.44,4.88,866.32,NA
+protein rich foods to lower the glycemic,863.76,2.96,866.72,NA
+load,866.32,5.519,871.839,NA
+of the overall meal,866.72,5.119,871.839,NA

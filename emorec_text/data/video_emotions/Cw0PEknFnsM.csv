@@ -1,0 +1,242 @@
+,frame,dominant_race,dominant_emotion,age
+0,0.jpg,,,
+1,1.jpg,,,
+2,10.jpg,latino hispanic,fear,31.0
+3,100.jpg,white,surprise,36.0
+4,101.jpg,white,angry,31.0
+5,102.jpg,white,fear,33.0
+6,103.jpg,white,sad,34.0
+7,104.jpg,white,angry,34.0
+8,105.jpg,white,sad,39.0
+9,106.jpg,white,sad,34.0
+10,107.jpg,white,sad,39.0
+11,108.jpg,white,sad,34.0
+12,109.jpg,latino hispanic,sad,30.0
+13,11.jpg,latino hispanic,sad,33.0
+14,110.jpg,white,sad,30.0
+15,111.jpg,latino hispanic,sad,36.0
+16,112.jpg,latino hispanic,sad,37.0
+17,113.jpg,latino hispanic,sad,32.0
+18,114.jpg,white,sad,28.0
+19,115.jpg,latino hispanic,sad,31.0
+20,116.jpg,white,angry,32.0
+21,117.jpg,latino hispanic,sad,32.0
+22,118.jpg,white,fear,33.0
+23,119.jpg,latino hispanic,sad,33.0
+24,12.jpg,white,sad,36.0
+25,120.jpg,white,sad,33.0
+26,121.jpg,white,sad,32.0
+27,122.jpg,white,sad,32.0
+28,123.jpg,white,sad,30.0
+29,124.jpg,white,neutral,38.0
+30,125.jpg,white,neutral,36.0
+31,126.jpg,white,happy,36.0
+32,127.jpg,latino hispanic,angry,31.0
+33,128.jpg,white,angry,27.0
+34,129.jpg,white,sad,24.0
+35,13.jpg,latino hispanic,neutral,32.0
+36,130.jpg,white,sad,31.0
+37,131.jpg,white,sad,27.0
+38,132.jpg,white,sad,31.0
+39,133.jpg,white,neutral,33.0
+40,134.jpg,white,sad,32.0
+41,135.jpg,latino hispanic,fear,32.0
+42,136.jpg,white,sad,34.0
+43,137.jpg,white,sad,34.0
+44,138.jpg,latino hispanic,fear,34.0
+45,139.jpg,white,neutral,35.0
+46,14.jpg,white,angry,33.0
+47,140.jpg,latino hispanic,sad,28.0
+48,141.jpg,latino hispanic,sad,31.0
+49,142.jpg,latino hispanic,fear,33.0
+50,143.jpg,white,angry,25.0
+51,144.jpg,white,sad,31.0
+52,145.jpg,white,neutral,36.0
+53,146.jpg,white,sad,29.0
+54,147.jpg,white,angry,25.0
+55,148.jpg,white,angry,35.0
+56,149.jpg,white,sad,33.0
+57,15.jpg,white,fear,37.0
+58,150.jpg,white,angry,27.0
+59,151.jpg,white,angry,34.0
+60,152.jpg,white,sad,32.0
+61,153.jpg,white,angry,33.0
+62,154.jpg,white,sad,32.0
+63,155.jpg,latino hispanic,fear,32.0
+64,156.jpg,latino hispanic,fear,32.0
+65,157.jpg,white,angry,29.0
+66,158.jpg,white,angry,30.0
+67,159.jpg,white,sad,37.0
+68,16.jpg,white,fear,31.0
+69,160.jpg,white,neutral,33.0
+70,161.jpg,white,sad,33.0
+71,162.jpg,white,neutral,27.0
+72,163.jpg,latino hispanic,sad,25.0
+73,164.jpg,latino hispanic,angry,34.0
+74,165.jpg,white,fear,33.0
+75,166.jpg,white,angry,28.0
+76,167.jpg,white,sad,30.0
+77,168.jpg,white,sad,31.0
+78,169.jpg,white,neutral,39.0
+79,17.jpg,white,fear,33.0
+80,170.jpg,white,sad,33.0
+81,171.jpg,white,sad,28.0
+82,172.jpg,white,neutral,37.0
+83,173.jpg,white,sad,35.0
+84,174.jpg,white,sad,29.0
+85,175.jpg,white,sad,36.0
+86,176.jpg,white,fear,32.0
+87,177.jpg,white,sad,32.0
+88,178.jpg,white,sad,32.0
+89,179.jpg,latino hispanic,fear,35.0
+90,18.jpg,latino hispanic,sad,33.0
+91,180.jpg,white,sad,26.0
+92,181.jpg,white,sad,32.0
+93,182.jpg,latino hispanic,fear,32.0
+94,183.jpg,white,sad,34.0
+95,184.jpg,latino hispanic,surprise,33.0
+96,185.jpg,white,happy,30.0
+97,186.jpg,white,fear,31.0
+98,187.jpg,white,sad,34.0
+99,188.jpg,white,sad,36.0
+100,189.jpg,white,sad,28.0
+101,19.jpg,latino hispanic,fear,33.0
+102,190.jpg,latino hispanic,fear,32.0
+103,191.jpg,white,sad,31.0
+104,192.jpg,latino hispanic,fear,31.0
+105,193.jpg,white,neutral,34.0
+106,194.jpg,white,sad,34.0
+107,195.jpg,latino hispanic,angry,29.0
+108,196.jpg,white,happy,37.0
+109,197.jpg,white,happy,33.0
+110,198.jpg,latino hispanic,sad,35.0
+111,199.jpg,white,neutral,32.0
+112,2.jpg,,,
+113,20.jpg,latino hispanic,fear,31.0
+114,200.jpg,white,fear,33.0
+115,201.jpg,white,neutral,31.0
+116,202.jpg,white,sad,31.0
+117,203.jpg,white,angry,29.0
+118,204.jpg,latino hispanic,fear,33.0
+119,205.jpg,latino hispanic,angry,34.0
+120,206.jpg,white,neutral,34.0
+121,207.jpg,latino hispanic,fear,32.0
+122,208.jpg,latino hispanic,neutral,30.0
+123,209.jpg,white,angry,30.0
+124,21.jpg,white,sad,32.0
+125,210.jpg,white,sad,34.0
+126,211.jpg,white,sad,35.0
+127,212.jpg,white,sad,36.0
+128,213.jpg,latino hispanic,fear,31.0
+129,214.jpg,latino hispanic,fear,32.0
+130,215.jpg,white,angry,26.0
+131,216.jpg,white,sad,28.0
+132,217.jpg,latino hispanic,fear,31.0
+133,218.jpg,white,sad,33.0
+134,219.jpg,white,sad,32.0
+135,22.jpg,latino hispanic,neutral,34.0
+136,220.jpg,white,sad,32.0
+137,221.jpg,white,angry,32.0
+138,222.jpg,white,angry,33.0
+139,223.jpg,white,sad,33.0
+140,224.jpg,white,sad,33.0
+141,225.jpg,white,neutral,33.0
+142,226.jpg,white,sad,38.0
+143,227.jpg,white,surprise,36.0
+144,228.jpg,white,sad,39.0
+145,229.jpg,white,neutral,36.0
+146,23.jpg,white,fear,30.0
+147,230.jpg,white,sad,36.0
+148,231.jpg,white,angry,32.0
+149,232.jpg,white,neutral,36.0
+150,233.jpg,white,neutral,33.0
+151,234.jpg,white,sad,32.0
+152,235.jpg,white,neutral,33.0
+153,236.jpg,white,angry,30.0
+154,237.jpg,white,sad,32.0
+155,238.jpg,white,fear,25.0
+156,239.jpg,white,angry,34.0
+157,24.jpg,white,sad,31.0
+158,240.jpg,,,
+159,25.jpg,latino hispanic,sad,36.0
+160,26.jpg,latino hispanic,fear,32.0
+161,27.jpg,white,sad,36.0
+162,28.jpg,white,sad,33.0
+163,29.jpg,white,sad,34.0
+164,3.jpg,,,
+165,30.jpg,white,fear,33.0
+166,31.jpg,latino hispanic,happy,39.0
+167,32.jpg,white,sad,35.0
+168,33.jpg,white,sad,35.0
+169,34.jpg,latino hispanic,angry,29.0
+170,35.jpg,white,sad,30.0
+171,36.jpg,latino hispanic,sad,33.0
+172,37.jpg,latino hispanic,sad,34.0
+173,38.jpg,white,sad,37.0
+174,39.jpg,white,sad,37.0
+175,4.jpg,white,sad,33.0
+176,40.jpg,white,neutral,38.0
+177,41.jpg,white,sad,31.0
+178,42.jpg,white,sad,30.0
+179,43.jpg,latino hispanic,sad,38.0
+180,44.jpg,white,sad,39.0
+181,45.jpg,white,sad,33.0
+182,46.jpg,latino hispanic,sad,34.0
+183,47.jpg,latino hispanic,sad,32.0
+184,48.jpg,latino hispanic,fear,34.0
+185,49.jpg,asian,neutral,36.0
+186,5.jpg,latino hispanic,fear,31.0
+187,50.jpg,latino hispanic,sad,33.0
+188,51.jpg,white,sad,34.0
+189,52.jpg,latino hispanic,fear,28.0
+190,53.jpg,latino hispanic,sad,29.0
+191,54.jpg,white,neutral,34.0
+192,55.jpg,latino hispanic,fear,33.0
+193,56.jpg,white,angry,33.0
+194,57.jpg,latino hispanic,fear,30.0
+195,58.jpg,latino hispanic,fear,31.0
+196,59.jpg,latino hispanic,fear,31.0
+197,6.jpg,latino hispanic,fear,31.0
+198,60.jpg,white,angry,34.0
+199,61.jpg,white,sad,33.0
+200,62.jpg,white,sad,33.0
+201,63.jpg,white,fear,39.0
+202,64.jpg,latino hispanic,fear,34.0
+203,65.jpg,white,fear,31.0
+204,66.jpg,white,sad,33.0
+205,67.jpg,white,sad,29.0
+206,68.jpg,white,sad,31.0
+207,69.jpg,white,sad,28.0
+208,7.jpg,latino hispanic,fear,30.0
+209,70.jpg,latino hispanic,sad,29.0
+210,71.jpg,white,sad,31.0
+211,72.jpg,white,sad,33.0
+212,73.jpg,white,neutral,31.0
+213,74.jpg,white,fear,29.0
+214,75.jpg,white,happy,37.0
+215,76.jpg,white,happy,31.0
+216,77.jpg,white,happy,34.0
+217,78.jpg,white,sad,35.0
+218,79.jpg,white,angry,25.0
+219,8.jpg,white,fear,31.0
+220,80.jpg,latino hispanic,fear,32.0
+221,81.jpg,latino hispanic,sad,33.0
+222,82.jpg,white,sad,32.0
+223,83.jpg,latino hispanic,sad,32.0
+224,84.jpg,white,angry,34.0
+225,85.jpg,latino hispanic,fear,32.0
+226,86.jpg,white,neutral,30.0
+227,87.jpg,white,angry,33.0
+228,88.jpg,white,angry,32.0
+229,89.jpg,latino hispanic,fear,32.0
+230,9.jpg,latino hispanic,fear,31.0
+231,90.jpg,latino hispanic,fear,32.0
+232,91.jpg,white,fear,28.0
+233,92.jpg,white,sad,26.0
+234,93.jpg,latino hispanic,fear,33.0
+235,94.jpg,white,sad,34.0
+236,95.jpg,white,neutral,37.0
+237,96.jpg,white,neutral,33.0
+238,97.jpg,white,sad,33.0
+239,98.jpg,white,sad,32.0
+240,99.jpg,white,neutral,30.0

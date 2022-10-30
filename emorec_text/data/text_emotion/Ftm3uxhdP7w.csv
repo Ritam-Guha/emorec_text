@@ -1,0 +1,155 @@
+text,start,duration,end,dominant_emotion
+hi my name is tessa pierce ward,0.32,5.28,5.6000000000000005,fear
+and i'd like to talk to you today about,3.76,4.48,8.24,fear
+sour mesh protein camera sketches for,5.6,4.88,10.48,surprise
+large scents,8.24,3.92,12.16,surprise
+sour mesh is a command line and python,10.48,4.48,14.96,fear
+library for skilled men hash analyses,12.16,4.0,16.16,fear
+minhash methods have been around for a,14.96,2.88,17.84,fear
+little while and they compress data sets,16.16,4.4,20.560000000000002,fear
+into sketches composed of representative,17.84,6.32,24.16,fear
+subset of their cameras um,20.56,6.959,27.519,
+and uh we we know that long dna cameras,24.16,4.879,29.039,
+uh camera sketches can be used for,27.519,3.68,31.198999999999998,fear
+distance estimation between samples so,29.039,4.401,33.44,fear
+we if we have a genome and genome b then,31.199,3.921,35.120000000000005,fear
+the sketch is here,33.44,3.76,37.199999999999996,fear
+we can compute the jaccard index the,35.12,4.0,39.12,fear
+intersection over the union of those,37.2,4.96,42.160000000000004,fear
+sketches and as was published in in 2015,39.12,5.84,44.959999999999994,fear
+2016 um the jaccard has a relationship,42.16,5.68,47.839999999999996,fear
+to nuclear average nucleotide identity,44.96,5.2,50.160000000000004,fear
+so we can get an estimate there,47.84,4.08,51.92,happy
+sarah mesh actually uses a minhash,50.16,3.6,53.76,happy
+variant scaled min hash,51.92,4.0,55.92,fear
+which enables us to do both containment,53.76,4.08,57.839999999999996,fear
+as well as jakarta index and in,55.92,3.52,59.440000000000005,fear
+particular this enables comparisons,57.84,5.68,63.52,fear
+between sets of different sizes,59.44,5.759,65.199,fear
+the majority of minhash methods have,63.52,5.04,68.56,fear
+focused on dna k-mers um which are most,65.199,5.041,70.24,fear
+useful for differentiating between,68.56,4.08,72.64,fear
+closely related sequences if we have a,70.24,6.08,76.32,fear
+couple uh example 21 mirrors with two uh,72.64,5.2,77.84,neutral
+base pair differences,76.32,3.92,80.24,fear
+in in many cases they are synonymous,77.84,4.48,82.32000000000001,fear
+substitutions that uh end up as the same,80.24,4.72,84.96,fear
+amino acid and in this example uh these,82.32,4.4,86.72,happy
+two protein submers are exactly,84.96,3.44,88.39999999999999,neutral
+identical,86.72,3.52,90.24,fear
+so this is um this is just to illustrate,88.4,3.52,91.92,fear
+that protein sequences allow matching,90.24,3.519,93.759,fear
+across anonymous substitution and of,91.92,3.36,95.28,fear
+course we know this uh we've been using,93.759,3.521,97.28,fear
+it for you know blast x uh protein blast,95.28,4.159,99.43900000000001,happy
+for quite a long time and actually,97.28,4.08,101.36,happy
+match screen is the first example of,99.439,4.0,103.439,neutral
+using uh protein k-mers for some,101.36,4.079,105.439,fear
+identification,103.439,4.081,107.52,fear
+we've been lately pursuing some other,105.439,4.081,109.52,fear
+protein applications in particular we're,107.52,4.4,111.92,happy
+exploring taxonomic classification,109.52,4.0,113.52,neutral
+there's some challenges in this realm uh,111.92,4.239,116.159,neutral
+reference databases are often incomplete,113.52,5.04,118.56,fear
+uh highly divergent genomes sometimes,116.159,4.96,121.119,fear
+cannot be classified or incomplete and,118.56,4.4,122.96000000000001,fear
+contaminated genomes can can be,121.119,4.161,125.28,fear
+misclassified and of course our goal is,122.96,4.88,127.83999999999999,fear
+to enable real-time classification to,125.28,5.199,130.479,fear
+keep up with the scale of incoming data,127.84,4.399,132.239,fear
+so we've built a snake make workflow on,130.479,3.681,134.16000000000003,happy
+top of star mesh,132.239,3.761,136.0,fear
+that allows us to string a few commands,134.16,4.64,138.79999999999998,fear
+together to do this,136.0,4.72,140.72,fear
+so our first step is to use cymesh,138.8,3.84,142.64000000000001,fear
+gather which is a greedy mintset cub,140.72,5.12,145.84,fear
+algorithm to find the best genome match,142.64,3.92,146.55999999999997,neutral
+so,145.84,2.0,147.84,neutral
+to illustrate what this does we have a,146.56,3.28,149.84,neutral
+novel genome with some strain variation,147.84,3.44,151.28,neutral
+in there,149.84,2.64,152.48,neutral
+we can pick out the best reference,151.28,2.959,154.239,fear
+genome here in flu,152.48,2.8,155.28,fear
+and and here i'm just kind of,154.239,3.921,158.16,fear
+representing these these two jams are uh,155.28,5.28,160.56,fear
+different genuses but the same species,158.16,3.84,162.0,fear
+um so they they're a little bit,160.56,2.959,163.519,fear
+different there,162.0,3.92,165.92,fear
+so we're able to get 60 match to to the,163.519,3.921,167.44,fear
+blue genome and we can find an,165.92,3.679,169.599,fear
+additional maybe 25 match to the other,167.44,3.04,170.48,fear
+one,169.599,3.601,173.2,fear
+and of course some is unmatched,170.48,4.64,175.11999999999998,fear
+what we can do then um with the tax,173.2,4.399,177.599,fear
+genome command is take the uh reference,175.12,4.24,179.36,neutral
+taxonomic lineages assigned to each of,177.599,4.801,182.39999999999998,fear
+those best or matching reference genomes,179.36,5.519,184.87900000000002,fear
+and we can uh transfer them on to the,182.4,4.96,187.36,fear
+match percentages for our novel genome,184.879,4.561,189.44,neutral
+so in this case we're getting 60 to that,187.36,4.959,192.31900000000002,fear
+species a and 25 to that that other,189.44,4.96,194.4,fear
+reference genome species b,192.319,3.761,196.07999999999998,neutral
+but because these are non-overlapping,194.4,5.36,199.76000000000002,fear
+matched regions or match percentages we,196.08,5.76,201.84,fear
+can actually sum that to get um the,199.76,4.24,204.0,fear
+percent match at the lowest uh the least,201.84,4.88,206.72,fear
+common ancestor for these two so in in,204.0,6.0,210.0,neutral
+this case genus x has an 85 match,206.72,6.0,212.72,neutral
+so what we're using this for then is,210.0,5.68,215.68,fear
+choosing a a percentage or a threshold,212.72,4.96,217.68,fear
+for when we consider sufficient query,215.68,4.72,220.4,fear
+match and we can assign um that,217.68,4.4,222.08,fear
+classification that we get to to our,220.4,3.759,224.159,happy
+novel genome,222.08,3.12,225.20000000000002,sad
+okay,224.159,3.841,228.0,neutral
+so how well does this work uh we decided,225.2,7.36,232.56,neutral
+to do first a comparison with um gtd btk,228.0,6.959,234.959,fear
+uh and we started out with a benchmark,232.56,5.0,237.56,fear
+set of a thousand human gut uh,234.959,6.881,241.84,fear
+metagenome genomes uh for magnify and uh,237.56,6.2,243.76,fear
+and these are all likely to have similar,241.84,5.36,247.20000000000002,fear
+genomes available in reference databases,243.76,4.479,248.239,neutral
+we,247.2,3.52,250.72,neutral
+got exact we found exact lineage matches,248.239,5.441,253.68,neutral
+for about 95 when using the full gcb,250.72,4.239,254.959,neutral
+recent release,253.68,4.079,257.759,neutral
+and the additional around four percent,254.959,4.881,259.84000000000003,neutral
+of it actually all matched at the genus,257.759,3.6,261.35900000000004,neutral
+level so,259.84,3.6,263.44,neutral
+so this is we think it's pretty doing,261.359,3.441,264.79999999999995,neutral
+pretty well even though we're using,263.44,3.039,266.479,neutral
+currently a very naive classification,264.8,3.679,268.479,neutral
+threshold of 10 of the query and we need,266.479,2.801,269.28,neutral
+to,268.479,3.361,271.84,neutral
+look into this a little bit further,269.28,5.199,274.479,fear
+extending this to um an environmental,271.84,5.52,277.35999999999996,fear
+set of samples we took 885 genomes from,274.479,5.361,279.84,fear
+uh from the tara oceans from the delmont,277.36,4.96,282.32,fear
+paper um i think neither of them really,279.84,3.68,283.52,happy
+classified all of them but they got,282.32,2.56,284.88,NA
+pretty close,283.52,3.28,286.79999999999995,NA
+and here we had exact matches at about,284.88,3.039,287.919,NA
+66,286.8,3.119,289.91900000000004,NA
+and some match at a higher lineage rank,287.919,4.0,291.919,NA
+at 33,289.919,3.84,293.75899999999996,NA
+and if we break those down most of those,291.919,3.361,295.28,NA
+lineage matches happen at the genus,293.759,2.72,296.47900000000004,NA
+level so we,295.28,3.359,298.63899999999995,NA
+got the exact same genius level,296.479,4.56,301.039,NA
+uh classification but uh a different,298.639,5.84,304.479,NA
+species was selected as the as the uh,301.039,5.521,306.56,NA
+exact classification so we need to look,304.479,4.56,309.039,NA
+into those differences there uh but it's,306.56,5.12,311.68,NA
+promising uh because this is a really,309.039,4.88,313.919,NA
+lightweight whole camera or whole,311.68,4.56,316.24,NA
+protium camera based classification,313.919,4.081,318.0,NA
+which means it's likely going to be a,316.24,4.32,320.56,NA
+little more uh robust to incomplete and,318.0,4.88,322.88,NA
+contaminated genomes and then of course,320.56,3.76,324.32,NA
+because it's camera-based it offers near,322.88,3.039,325.919,NA
+real-time classification and with that,324.32,2.64,326.96,NA
+i'd like to thank you so much for,325.919,3.041,328.96,NA
+listening um and please do find us on,326.96,4.88,331.84,NA
+gitter github uh and and everywhere else,328.96,4.64,333.59999999999997,NA
+on the internet for for questions and,331.84,5.199,337.039,NA
+contributions thank you,333.6,3.439,337.03900000000004,NA

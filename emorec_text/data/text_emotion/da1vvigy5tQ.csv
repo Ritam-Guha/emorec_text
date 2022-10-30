@@ -1,0 +1,532 @@
+text,start,duration,end,dominant_emotion
+"Translator: Anders Björk
+Reviewer: Ivan Stamenković",0.0,7.0,7.0,
+I have the best job in the world.,12.118,2.55,14.668,fear
+I'm a doctor.,14.674,1.095,15.769,neutral
+No! Believe me that's not why.,15.769,2.583,18.352,
+I'm an obesity doctor.,18.358,1.577,19.935000000000002,happy
+"I have the honor of working
+with the group of people",19.941,2.78,22.721,fear
+"subject to the last widely
+accepted prejudice: being fat.",22.732,4.754,27.485999999999997,fear
+"These people have suffered a lot
+by the time they see me:",27.503,3.61,31.113,
+"shame, guilt, blame
+and outright discrimination.",31.113,4.562,35.675,happy
+"The attitude that many take,
+including those in healthcare,",35.686,3.714,39.4,fear
+"is that these people
+are to blame for their situation.",39.4,3.385,42.785,neutral
+"If they could just control themselves,
+they wouldn't be overweight,",42.805,3.719,46.524,fear
+and they are not motivated to change.,46.524,2.363,48.887,fear
+"Please let me tell you
+this is not the case.",48.888,3.002,51.89,fear
+"The blame, if we've got
+to extend some here,",51.89,3.238,55.128,fear
+has been with our advice.,55.128,1.864,56.992,fear
+And it's time we change that.,57.008,2.329,59.337,happy
+"Obesity is a disease, it's not something
+created by lack of character.",59.337,5.02,64.357,fear
+"It's a hormonal disease,
+and there are many hormones involved.",64.357,4.16,68.517,fear
+"And one of the main ones
+is a hormone called insulin.",68.53,3.875,72.405,happy
+"Most obese individuals
+are resistant to this hormone, insulin.",72.418,4.827,77.245,fear
+"So, what does that mean exactly,
+to be resistant to insulin?",77.245,3.841,81.086,fear
+"Well, insulin resistance is essentially
+a state of pre-pre-type 2 diabetes.",81.102,5.66,86.762,fear
+"Insulin's job is to drive glucose,
+or blood sugar,",86.762,4.284,91.046,fear
+into the cells where it can be used.,91.047,2.826,93.87299999999999,fear
+"In a nutshell, when someone
+is insulin resistant,",93.899,3.062,96.961,fear
+"they are having trouble
+getting blood sugar where it needs to go,",96.991,3.861,100.852,
+into those cells.,100.852,1.516,102.36800000000001,sad
+"And it just can't hang out
+in the blood after we eat",102.377,3.086,105.463,
+"or we would all have a diabetic crisis
+after every meal!",105.468,4.31,109.778,
+"So, when someone is resistant to insulin,",109.778,2.579,112.357,
+"the body's response to this
+is to just make more of it.",112.365,3.432,115.797,
+"And insulin levels will rise and rise,",115.799,3.118,118.917,
+"and for a while, years even,
+this is going to keep up,",118.934,3.328,122.262,
+and blood sugar levels can remain normal.,122.269,3.188,125.45700000000001,fear
+"However, usually it can't keep up forever,",125.478,3.029,128.507,fear
+and even those elevated levels of insulin,128.532,3.398,131.93,fear
+"are not enough to keep blood sugar
+in the normal range.",131.936,3.868,135.804,fear
+So it starts to rise.,135.819,2.021,137.83999999999997,happy
+That's diabetes.,137.84,1.872,139.71200000000002,happy
+It probably won't surprise you to hear,139.725,1.869,141.594,fear
+"that most of my patients
+have insulin resistance or diabetes.",141.599,4.494,146.093,
+"And if you are sitting there thinking,
+""Phew, that's not me,""",146.093,3.274,149.367,fear
+"you actually might want to think again,",149.393,2.197,151.59,happy
+"because almost 50% of adult Americans
+now have diabetes or prediabetes.",151.596,6.24,157.836,fear
+That is almost 120 million of us.,157.854,3.922,161.776,fear
+"But that's hardly everyone
+who has issues with insulin.",161.798,3.948,165.746,fear
+"Because as I was saying,",165.759,1.586,167.345,fear
+"people have elevated insulin levels
+due to insulin resistance",167.364,4.369,171.733,fear
+"for years, even decades,",171.744,2.599,174.343,fear
+"before the diagnosis
+of even prediabetes is made.",174.354,3.974,178.328,happy
+"Plus it's been shown that 16-25%
+of normal-weight adults",178.339,5.132,183.471,fear
+are also insulin resistant.,183.49,2.281,185.77100000000002,
+"So, in case you're keeping track,
+this is a heck of a lot of us.",185.78,5.045,190.825,happy
+"So, the trouble
+with insulin resistance is:",190.825,3.638,194.463,happy
+"If it goes up, we are at great risk
+for developing type 2 diabetes.",194.469,5.638,200.107,fear
+"But also, insulin makes us hungry,",200.128,4.384,204.512,fear
+"and the food we eat
+much more likely to be stored as fat.",204.528,4.757,209.285,
+Insulin is our fat storage hormone.,209.302,4.115,213.417,fear
+"So we can start to see
+how it's going to be a problem",213.417,3.416,216.833,fear
+"for diseases like obesity
+and metabolic issues like diabetes.",216.859,4.682,221.541,fear
+"But what if we traced this problem
+back to the beginning,",221.551,3.223,224.774,
+"and we just didn't have
+so much glucose around",224.789,3.882,228.671,
+that insulin needed to deal with?,228.671,2.066,230.737,happy
+Let's take a look at how that could be.,230.751,2.406,233.157,fear
+Everything you eat,233.161,1.398,234.559,
+"is either a carbohydrate,
+a protein or a fat,",234.57,3.693,238.263,happy
+"and they all have very different effect
+on glucose and therefore insulin levels,",238.273,4.61,242.883,
+as you can see on the graph.,242.896,1.765,244.66099999999997,
+"So when we eat carbohydrates,",244.662,1.729,246.39100000000002,happy
+"our insulin and glucose
+are going to spike up fast.",246.398,3.404,249.802,neutral
+And with proteins it looks a lot better.,249.811,2.977,252.788,
+"But take a look at what happens
+when we eat fat.",252.789,3.232,256.021,fear
+"Essentially nothing, a flat line.",256.029,3.68,259.709,
+"And, this is going to wind up
+being very important.",259.726,4.098,263.824,
+"So, now I want to translate
+that graph for you",263.835,3.262,267.097,fear
+into a real-world situation.,267.129,2.677,269.80600000000004,fear
+I want you to go back,269.81,1.446,271.25600000000003,
+"and think about the last time you ate
+an American version of Chinese food.",271.262,5.524,276.786,fear
+"We all know there's rules
+associated with this, right?",276.801,3.402,280.203,fear
+"And the first rule is:
+You're going to overeat.",280.224,2.637,282.861,fear
+Because the stop signal doesn't get sent,282.87,2.355,285.225,fear
+"until you are literally
+busting at the seams.",285.249,2.986,288.235,
+"Rule number two is:
+In an hour you're starving.",288.256,3.452,291.70799999999997,
+Why?,291.709,1.106,292.815,
+"Well, because the rice in that meal
+caused glucose and insulin to skyrocket,",292.827,4.601,297.428,fear
+"which triggered hunger,
+fat storage and cravings.",297.441,4.09,301.53099999999995,neutral
+"So, if you are insulin
+resistant to begin with,",301.545,3.236,304.781,happy
+"and your insulin levels
+are already higher,",304.811,2.778,307.589,fear
+you really are hungrier all the time.,307.604,2.969,310.573,happy
+And we have this setup:,310.586,1.926,312.512,happy
+"Eat carbs, your glucose goes up,
+your insulin goes up,",312.523,3.74,316.26300000000003,
+and you have hunger and fat storage.,316.268,3.033,319.301,
+"So, how do we recommend
+to these people to eat,",319.326,3.598,322.92400000000004,fear
+"because it seems like that would be
+really important, and it is.",322.924,4.42,327.344,happy
+"Let's focus just on type 2 diabetes,",327.344,2.565,329.909,fear
+"because the general recommendations
+are to tell patients with type 2 diabetes",329.947,4.708,334.65500000000003,fear
+"to consume 40 to 65 grams
+of carbohydrates per meal,",334.677,5.281,339.958,fear
+plus more at snacks.,339.966,2.103,342.069,fear
+"Trust me on this, that's a lot of carbs.",342.075,2.883,344.95799999999997,fear
+"And remember what's going to happen
+to glucose and insulin,",344.965,2.85,347.815,
+"blood sugar and insulin,",347.823,1.164,348.98699999999997,
+when we eat them?,349.006,1.454,350.46,
+"Yes, we are essentially recommending",350.481,3.095,353.576,fear
+"that they eat exactly
+what's causing their problem.",353.576,4.32,357.896,
+Sound crazy?,357.905,1.499,359.404,
+"It really, really is.",359.425,2.221,361.646,
+"Because, at its root, diabetes
+is a state of carbohydrate toxicity.",361.658,5.532,367.19,
+"We can't get the blood sugar
+into the cells,",367.19,3.217,370.407,
+"and that causes a problem
+in the short term.",370.414,2.429,372.84299999999996,fear
+"But the long-term consequences
+are even greater.",372.847,3.788,376.635,fear
+"And insulin resistance is essentially
+a state of carbohydrate intolerance.",376.651,5.118,381.769,fear
+"So why, oh why, do we want to continue
+to recommend to people to eat them?",381.794,6.005,387.799,fear
+"The American Diabetes
+Association guidelines",387.811,2.956,390.767,fear
+"specifically state that there is
+inconclusive evidence",390.784,3.482,394.266,fear
+"to recommend
+a specific carbohydrate limit.",394.28,3.23,397.51,fear
+"But those guidelines go right on
+to say what we all know:",397.523,3.73,401.25300000000004,fear
+"Our carbohydrate intake is the single,
+biggest factor in blood sugar levels,",401.269,5.898,407.16700000000003,fear
+and therefore need for medication.,407.167,3.589,410.756,
+These guidelines then go on to say:,410.756,2.284,413.03999999999996,
+"Hey look, if you are taking
+certain diabetic medications,",413.044,3.726,416.77,
+"you actually have to eat carbs,
+otherwise your blood sugar can go too low.",416.807,5.218,422.02500000000003,neutral
+"Okay, so let's take a look",422.033,1.595,423.62800000000004,neutral
+"at the vicious cycle
+that that advice just set up.",423.638,3.526,427.164,fear
+"So it's: Eat carbs so you have
+to take medicine,",427.193,4.025,431.21799999999996,fear
+then you have to eat more carbs,431.218,1.518,432.736,happy
+"so you avoid the side-effect
+of those medications,",432.748,2.618,435.366,happy
+and around and around we go.,435.385,3.176,438.561,happy
+"Even worse is that nowhere
+in the ADA guidelines",438.577,4.323,442.9,fear
+is the goal of reversing type 2 diabetes.,442.906,3.609,446.515,neutral
+"This needs to be changed,",446.523,1.795,448.31800000000004,sad
+"because type 2 diabetes can be reversed,
+in many, if not most, situations,",448.345,6.991,455.336,fear
+especially if we start early.,455.343,2.163,457.50600000000003,happy
+"Not only do we need
+to let people know this,",457.512,3.302,460.814,neutral
+"but we have to start giving them
+the practical advice so they can do this.",460.825,6.357,467.182,fear
+Consider carbs.,467.245,1.625,468.87,fear
+"First, here's a shocker for you:
+We don't need them.",468.892,3.635,472.527,fear
+"Seriously! Our minimum daily requirement
+for carbohydrates is zero.",472.547,5.802,478.34900000000005,
+"We have essential amino acids,
+those are proteins,",478.362,3.361,481.723,
+"essential fatty acids,",481.723,1.45,483.173,happy
+"but, nope, no essential carb.",483.185,2.48,485.665,
+A nutrient is essential,485.682,1.377,487.059,
+"if we have to have it to function,
+and we can't make it from something else.",487.059,6.211,493.27000000000004,fear
+"We make glucose,
+plenty of it, all the time,",493.295,3.103,496.398,fear
+it's called gluconeogenesis.,496.436,2.215,498.65099999999995,
+"So, we don't need them,",498.666,2.042,500.70799999999997,fear
+"the overconsumption of them
+is making us very sick,",500.725,2.851,503.576,
+"yet we are continuing
+to recommend to patients",503.616,2.602,506.21799999999996,neutral
+"to consume close to, if not more than,",506.219,2.774,508.993,neutral
+"half of their total energy intake
+every day from them.",509.011,4.586,513.597,fear
+It doesn't make sense.,513.616,1.903,515.519,fear
+Let's talk about what does.,515.519,1.95,517.469,
+"Cutting carbs, a lot.",517.469,2.44,519.9090000000001,happy
+"Yes, in my clinic we teach patients",519.923,2.359,522.282,happy
+"to eat with carbs
+as the minority of their intake,",522.289,3.349,525.638,happy
+not the majority.,525.638,1.839,527.4770000000001,neutral
+"So, how does that work?",527.498,1.626,529.124,neutral
+"Well, when our patients
+decrease their carbs",529.143,2.766,531.909,fear
+"their glucose goes down,
+and they don't need as much insulin.",531.922,3.917,535.839,fear
+"So those insulin levels drop, and fast.",535.844,3.386,539.23,fear
+"And this is very important,",539.244,1.524,540.768,neutral
+because a study,540.785,1.394,542.179,neutral
+"looking at our National Health
+and Nutrition Examination Survey data,",542.183,3.873,546.056,happy
+"better known as NHANES,",546.056,1.743,547.7990000000001,happy
+"showed that the single,
+biggest risk factor",547.799,3.098,550.8969999999999,happy
+for coronary artery disease,550.897,1.741,552.638,happy
+is insulin resistance.,552.638,2.468,555.106,
+"It is responsible
+for a whopping 42% of heart attacks.",555.119,5.155,560.274,
+Low-carb intervention works so fast,560.3,3.175,563.4749999999999,fear
+"that we can literally pull people off
+of hundreds of units of insulin",563.5,4.571,568.071,fear
+in days to weeks.,568.11,2.0,570.11,fear
+"One of my favorite stories
+is a very recent one.",570.115,2.676,572.791,fear
+"A young gal, but who had an almost
+20-year history of type 2 diabetes,",572.809,4.891,577.6999999999999,fear
+"came in when a physician from another
+clinic told her she was just sick,",577.719,3.487,581.206,fear
+and she'd probably get used to it.,581.215,1.975,583.19,
+Her diabetes was way out of control.,583.192,2.759,585.951,
+"This despite the fact that she
+was on multiple medications,",585.96,3.875,589.835,
+"including almost 300 units of insulin,",589.835,4.382,594.217,
+"that was being injected into her
+continuously every day via a pump.",594.217,5.87,600.087,fear
+"All of this, remember,
+blood sugar still out of control.",600.087,3.23,603.317,
+"So we put her on a low-carb diet,
+and now let's fast-forward four months.",603.355,4.053,607.408,fear
+"She lost weight, yes,
+but, better than that, sick no more.",607.41,4.566,611.976,fear
+"Her blood sugar levels
+were now normal all of the time.",611.985,4.125,616.11,fear
+"This on, get this, no diabetes medication.",616.118,4.511,620.629,fear
+"Gone was the 300 units of insulin,",620.65,2.242,622.8919999999999,sad
+"no more insulin pump,",622.9,1.716,624.616,neutral
+"no more pricking her finger
+multiple times each day,",624.623,3.837,628.46,fear
+"gone, all of it, no more diabetes.",628.475,3.544,632.019,
+"One of the greatest joys of my job
+is to be able to tell a patient like this",632.019,4.593,636.612,fear
+"that they no longer have diabetes,",636.638,2.413,639.051,fear
+"and we ceremoniously take it off
+their problem list together.",639.057,3.237,642.294,fear
+"So, are they cured, is this a miracle?",642.325,3.008,645.3330000000001,
+"We'll leave that grandstanding
+to Doctor Oz.",645.334,2.674,648.0079999999999,
+Cured would imply that it can't come back.,648.03,2.47,650.5,fear
+"And if they start eating
+excessive carbs again, it will.",650.515,3.587,654.102,fear
+"So no not cured, but they don't have
+diabetes any longer.",654.126,4.678,658.804,fear
+"It's resolved, and it can stay that way
+as long as we keep away the cause.",658.804,5.729,664.533,
+"So, what does this look like then?
+How does somebody eat this way?",664.565,3.177,667.7420000000001,fear
+"Well, first, let me tell you
+what it's not.",667.772,2.297,670.0690000000001,fear
+"Low-carb is not zero carb,
+and it is not high protein.",670.094,5.149,675.243,
+"These are common criticism
+that are so frustrating",675.274,2.829,678.103,fear
+because they are not true.,678.116,2.153,680.269,
+"Next, if we take the carbs out,
+what are we going to put in?",680.282,3.022,683.3040000000001,happy
+"Because, remember,
+there's only three macronutrients:",683.318,2.484,685.802,happy
+"if one goes down, one has to go up.",685.83,2.218,688.048,fear
+"My patients eat fat, and a lot of it.",688.056,4.256,692.312,fear
+"""What!?"" you say. What's going
+to happen when you eat fat?",692.318,3.181,695.499,fear
+"Well, let me tell you, you're
+going to be happy,",695.519,2.371,697.89,fear
+"because fat tastes great,
+and it is incredibly satisfying.",697.913,3.782,701.695,fear
+(Applause),701.716,1.925,703.641,
+(Laughter),703.641,2.162,705.803,
+"But, remember, fat
+is the only macronutrient",705.803,3.238,709.041,
+"that's going to keep our glucose -
+blood sugar - and insulin levels low,",709.051,4.235,713.2860000000001,fear
+and that is so important.,713.286,2.625,715.911,
+"So, I want you to now hear
+my simple rules for eating.",716.663,4.282,720.945,
+"These rules, you have to remember,
+are even going to be more important",720.945,3.367,724.312,
+"if you are one of the tens
+of millions of Americans",724.333,3.172,727.505,
+who have trouble with insulin levels.,727.538,2.601,730.139,
+"Rule number one: If it says light, low fat
+or fat-free, stays in grocery store.",730.156,3.794,733.9499999999999,
+"because they took the fat out,
+they put carbs and chemicals in.",734.186,3.219,737.4050000000001,fear
+Rule number two: Eat food.,737.405,2.076,739.481,
+"The most important rule
+in low-carb nutrition:",739.485,2.717,742.202,sad
+"Real food does not come in a box,",742.209,1.908,744.117,neutral
+"and no-one should have to tell you
+real food is natural.",744.121,2.65,746.771,happy
+You should know that when you look at it.,746.778,2.198,748.976,
+Don't eat anything you don't like.,749.005,2.979,751.984,
+"And eat when you're hungry;
+don't eat when you're not,",751.995,2.567,754.562,fear
+no matter what the clock says.,754.569,2.115,756.684,
+"And number five is a simple way
+to remember what we want to avoid.",756.697,3.542,760.239,
+"No GPS: no grains,
+no potatoes and no sugar.",760.617,4.786,765.4029999999999,
+"That last one is a biggie,
+right, no grains?",765.403,2.311,767.714,happy
+"Na, no grains.",767.714,1.31,769.024,
+But we have to have them.,769.04,1.326,770.366,fear
+"Nope, they're a carb.",770.366,1.784,772.15,fear
+But whole grains are so good for us.,772.166,1.967,774.133,
+"Well, first of all, there are actually
+very few foods out there",774.15,3.587,777.737,fear
+"that are truly whole grain
+even when they say they are.",777.744,2.838,780.582,
+"Most foods that purport themselves
+to be wholegrain",780.586,2.654,783.24,
+"are highly processed
+and the fiber benefit ruined.",783.241,3.189,786.43,
+"Or they're coming
+with highly refined flour,",786.449,2.611,789.06,fear
+usually both of these things.,789.06,1.712,790.7719999999999,fear
+"So if you are one of the truly
+insulin-sensitive people,",790.772,2.738,793.5100000000001,neutral
+"you can eat real, whole grain.",793.513,2.298,795.811,neutral
+"But if you're in the enormous slice
+of our population with insulin issues,",795.82,4.753,800.5730000000001,neutral
+it's making things worse.,800.577,2.298,802.875,neutral
+"So what if you are one
+of the real insulin-sensitive people?",803.451,2.866,806.317,fear
+Can you still eat this way?,806.329,1.379,807.708,fear
+Yes! I am a great example.,807.736,2.467,810.203,
+"Over a year ago I decided
+I would cut my carbs",810.221,2.942,813.163,
+"as low as I recommend
+to my diabetic patients.",813.196,2.635,815.831,
+"Now, it's not mandatory for my health
+like it is for theirs;",815.85,3.577,819.427,fear
+"I'm not insulin resistant,
+so would this be a problem?",819.45,2.818,822.268,fear
+No! That's just the thing.,822.29,2.094,824.384,
+"Unless you have
+an exceedingly rare syndrome,",824.413,2.289,826.702,
+"then cutting carbs
+is going to be good for you,",826.72,2.362,829.082,
+even if it's not necessary.,829.132,2.638,831.77,
+"I want to show you a couple of pictures
+of my radical food.",831.78,4.101,835.881,
+"So, this is a common breakfast
+in my house.",835.881,2.625,838.506,fear
+"So does it look like
+I just broke my own rule?",838.517,2.278,840.7950000000001,neutral
+"I didn't because this muffin
+is made with coconut flour.",840.815,4.007,844.822,
+I bake all the time still.,844.822,1.99,846.812,
+"I just use non-grain-based flours:
+coconut, almond, hazelnut, flax.",846.814,4.715,851.529,
+They make delicious things.,851.529,1.784,853.313,
+"And this is a typical dinner in my house
+with a typical starch.",853.356,3.542,856.898,
+That would be the sautéed mushrooms.,856.926,2.594,859.5200000000001,
+"No, my patients and I eat delightful food
+all of the time and enjoy it.",859.566,5.446,865.0120000000001,fear
+But what about the research on this?,865.012,1.999,867.011,fear
+"I mean is this just anecdotal
+evidence now from my clinic?",867.024,2.929,869.953,
+No!,869.96,1.073,871.033,fear
+"There are dozens of
+randomized controlled trials",871.04,2.617,873.6569999999999,
+looking at low-carb intervention,873.665,1.745,875.41,neutral
+"for things like diabetes,
+cardiovascular risk factors, obesity.",875.421,4.301,879.7220000000001,neutral
+They're consistent. It works!,879.748,2.204,881.952,fear
+"There are even a large number
+of studies showing",881.995,3.234,885.229,fear
+"that low-carb nutrition
+decreases inflammatory markers,",885.24,3.656,888.896,fear
+"which is making it really exciting
+for diseases like cancer.",888.928,4.278,893.206,fear
+We just finished a study in our clinic.,893.24,3.086,896.326,fear
+"And what we did is,",896.345,1.317,897.662,sad
+we took 50 type 2 diabetic patients,897.673,2.607,900.28,
+"that were treated with
+our low-carb-high-fat-based program,",900.295,3.391,903.6859999999999,
+and we compared them to 50 patients,903.689,1.981,905.67,
+who were treated with the ADA guidelines.,905.681,2.491,908.172,
+"And after six months,",908.172,1.21,909.3820000000001,fear
+"not only did we find
+a significant metabolic advantage",909.39,3.283,912.673,fear
+"for the low-carb group,",912.683,1.284,913.967,fear
+"but, and let's face it, this is important,
+a huge cost savings.",913.988,4.903,918.8910000000001,
+"Our analysis showed that our patients
+could save over $2,000 a year",918.906,5.367,924.2729999999999,fear
+"just on the diabetes meds
+they were no longer taking.",924.303,3.824,928.127,fear
+Just think how fast that adds up.,928.162,2.053,930.215,fear
+We are in a diabetes epidemic now,930.246,1.777,932.023,fear
+"that we are spending
+$250 billion a year on in this country.",932.031,4.158,936.189,neutral
+"So, I want to show you a slide now",936.831,1.661,938.492,happy
+"that demonstrates where
+those savings are coming from.",938.498,3.953,942.451,fear
+"So this is looking
+just at the insulin difference",942.463,3.169,945.632,fear
+in the two groups after six months.,945.653,2.102,947.755,
+And what we can see is,947.76,1.52,949.28,
+"that the low-carb group
+was able to decrease their insulin",949.299,3.269,952.568,
+by almost 500 units a day.,952.577,2.904,955.481,
+"Whereas in the ADA treated group,",955.507,2.013,957.52,happy
+"they had to increase their insulin
+by almost 350 units a day.",957.534,4.456,961.99,happy
+Two important things.,961.995,1.312,963.307,neutral
+Number one: Insulin is expensive.,963.313,3.198,966.511,happy
+"And number two: Not all the people
+in this study were even on insulin,",966.533,5.638,972.171,happy
+"which makes these results
+even more impressive.",972.198,3.198,975.396,neutral
+"But what I would say is
+that this graph really represents",975.412,3.218,978.63,neutral
+"two different approaches
+to treating this disease.",978.654,3.167,981.821,neutral
+"The first, our group,
+with the goal of reversing disease,",981.841,3.891,985.732,fear
+meaning they need less medicine.,985.746,1.992,987.7379999999999,fear
+"And the second group, which very clearly
+aligns with the ADA guidelines,",987.742,4.387,992.1289999999999,fear
+"which state that diabetes
+is a progressive disease,",992.144,3.634,995.778,
+requiring more medicine over time.,995.783,2.582,998.365,
+Progressive unless we take away the cause.,998.38,3.84,1002.22,
+"So, what's the problem then?",1002.247,1.524,1003.771,sad
+"Why is this not everywhere?
+Why isn't low carb the norm?",1003.771,3.238,1007.009,fear
+There's two big reasons.,1007.029,1.421,1008.45,fear
+"Number one: status quo.
+It is hard to break.",1008.48,4.525,1013.005,fear
+There are many agendas involved.,1013.042,2.244,1015.2860000000001,neutral
+"We got this notion that low fat
+was the way to go decades ago.",1015.318,4.246,1019.564,
+But a recent study just came out,1019.593,1.724,1021.317,sad
+"showing that there was
+zero randomized control evidence",1021.325,3.342,1024.6670000000001,fear
+"to recommend to Americans
+to remove the fat from our diet.",1024.675,3.654,1028.329,fear
+And that's how the carbs got added in.,1028.342,2.586,1030.928,
+"It was essentially a huge experiment
+on millions of people,",1030.943,5.189,1036.132,fear
+and it failed miserably.,1036.16,2.472,1038.632,neutral
+"The second reason we don't
+see it everywhere is money.",1038.648,2.845,1041.493,fear
+"Don't be fooled, there's a lot of money
+to be made from keeping you sick.",1041.511,4.232,1045.743,
+"And what we see is,
+with these specialty guideline panels,",1045.759,3.166,1048.925,fear
+"they are stacked
+with conflict of interest.",1048.94,3.739,1052.679,neutral
+"So, the solution to the diabetes epidemic
+in my clinic is exceedingly clear:",1052.687,6.27,1058.9569999999999,
+Stop using medicine to treat food.,1058.978,4.869,1063.847,
+"And for a disease
+whose root cause is carbohydrates,",1063.862,4.326,1068.188,
+"take away the carbohydrates,
+or at least cut them,",1068.193,3.229,1071.422,neutral
+"so we can remember
+what we used to know.",1071.436,3.393,1074.829,
+"We knew it a long time ago,",1074.829,1.61,1076.4389999999999,
+"this was said thousands of years ago,",1076.445,2.191,1078.636,fear
+"and we need, in this day and age,
+to get back to that notion.",1078.651,4.062,1082.713,fear
+Thank you.,1082.74,1.475,1084.215,
+(Applause),1084.228,2.699,1086.9270000000001,

@@ -1,0 +1,128 @@
+text,start,duration,end,dominant_emotion
+hey how far is it to the farmers market,0.03,4.499,4.529,fear
+about 15 minutes from here this is an,2.25,4.2,6.45,fear
+example of how sometimes we ask a,4.529,4.201,8.73,fear
+question using one measure the distance,6.45,4.2,10.65,fear
+to the farmers market and answer it,8.73,3.72,12.450000000000001,fear
+using a different measure while it is,10.65,3.75,14.4,fear
+convenient to describe the travel time,12.45,4.05,16.5,surprise
+to the market and make some assumptions,14.4,4.17,18.57,surprise
+about our mode of transportation and it,16.5,3.72,20.22,surprise
+doesn't actually use the units of,18.57,5.4,23.97,fear
+distance body mass index or BMI is kind,20.22,6.54,26.759999999999998,fear
+of like that for our health BMI is used,23.97,4.889,28.858999999999998,fear
+as an indicator of body fat to assess,26.76,4.439,31.199,fear
+disease risk but it doesn't actually,28.859,5.311,34.17,fear
+measure body fat so why is BMI the go-to,31.199,11.79,42.989000000000004,fear
+marker hey nerville I'm dr. Laura body,34.17,12.15,46.32,fear
+mass index abbreviated as BMI is used as,42.989,5.851,48.839999999999996,surprise
+an indicator for body fat BMI is,46.32,4.44,50.76,
+calculated by dividing your weight in,48.84,3.48,52.32,
+kilograms by your height in meters,50.76,3.24,54.0,
+squared to give you a value that,52.32,3.12,55.44,
+determines your weight category,54.0,3.93,57.93,
+according to the CDC a healthy weight,55.44,4.83,60.269999999999996,
+BMI is eighteen point five to twenty,57.93,4.62,62.55,
+four point nine underweight as below,60.27,4.889,65.159,
+eighteen point five overweight as twenty,62.55,4.889,67.439,
+five to twenty nine point nine and obese,65.159,4.201,69.36,
+is greater than thirty you can use an,67.439,4.11,71.54899999999999,
+online calculator to determine your BMI,69.36,4.259,73.619,
+then you can avoid those pesky unit,71.549,4.801,76.35000000000001,
+conversions as you can see BMI is really,73.619,4.771,78.39,fear
+quick and easy to calculate so it's been,76.35,3.78,80.13,fear
+used to monitor obesity trends in,78.39,3.72,82.11,
+populations and to screen patients and,80.13,3.96,84.08999999999999,fear
+doctors offices research studies have,82.11,4.23,86.34,fear
+consistently demonstrated that a BMI in,84.09,4.529,88.619,fear
+the obese range strongly correlates with,86.34,4.56,90.9,fear
+many chronic diseases including type-2,88.619,4.621,93.24,fear
+diabetes cardiovascular disease and,90.9,4.679,95.57900000000001,fear
+metabolic syndrome however correlation,93.24,4.559,97.79899999999999,fear
+is not causation and it turns out that,95.579,4.741,100.32,fear
+BMI has many caveats when used to screen,97.799,4.081,101.88000000000001,fear
+for health conditions related to body,100.32,4.259,104.579,fear
+fat first BMI can't differentiate,101.88,5.07,106.94999999999999,fear
+between body fat and lean body mass,104.579,5.131,109.71,fear
+which is the weight of your bones organs,106.95,5.58,112.53,fear
+and muscles at the population level BMI,109.71,5.339,115.04899999999999,fear
+does correlate with body fat but this,112.53,4.17,116.7,surprise
+isn't always the case at the individual,115.049,3.871,118.92,fear
+level for example athletes tend to have,116.7,4.199,120.899,fear
+more muscle mass which is heavier than,118.92,4.86,123.78,
+fat so sometimes their BMI classifies,120.899,4.981,125.88,
+them as overweight or obese despite,123.78,4.019,127.799,
+being very healthy the opposite is also,125.88,3.96,129.84,
+true in elderly individuals who tend to,127.799,2.82,130.619,
+lose muscle,129.84,2.58,132.42000000000002,
+and replace it with fact meaning that,130.619,3.93,134.549,
+they may have a healthy BMI despite a,132.42,4.95,137.36999999999998,fear
+high percent body fat second the BMI,134.549,4.5,139.049,fear
+weight categories were originally,137.37,3.449,140.81900000000002,fear
+determined using research on white,139.049,3.631,142.68,fear
+subjects different ethnicities have,140.819,3.871,144.69,fear
+variations in body composition and,142.68,4.35,147.03,fear
+metabolism meaning that the obese BMI,144.69,4.56,149.25,fear
+range should be different by ethnicity,147.03,4.11,151.14000000000001,happy
+for example if we look at a white woman,149.25,4.26,153.51,happy
+a black woman and an Asian woman who all,151.14,5.28,156.42,happy
+have the same BMI the black woman would,153.51,5.039,158.54899999999998,happy
+have a lower risk of type 2 diabetes and,156.42,4.2,160.61999999999998,happy
+the Asian woman would have a higher risk,158.549,4.711,163.26000000000002,happy
+compared to the white woman third BMI,160.62,4.52,165.14000000000001,happy
+doesn't indicate body fat distribution,163.26,4.289,167.54899999999998,fear
+it's not just the percentage of total,165.14,4.87,170.01,fear
+body fat but rather where that fat is,167.549,4.201,171.75,fear
+located on the body that plays a,170.01,3.63,173.64,fear
+causative role in disease development,171.75,4.29,176.04,fear
+central obesity is the accumulation of,173.64,4.53,178.17,
+fat around the abdomen this deep belly,176.04,4.529,180.569,
+fat also called visceral fat functions,178.17,4.17,182.33999999999997,
+differently than the subcutaneous fat,180.569,3.361,183.92999999999998,
+that is immediately under our skin,182.34,3.479,185.81900000000002,fear
+visceral fat tends to be more,183.93,4.05,187.98000000000002,fear
+inflammatory and less sensitive to the,185.819,4.771,190.58999999999997,
+hormone insulin factors which drive the,187.98,4.53,192.51,
+development of diseases like type 2,190.59,3.959,194.549,angry
+diabetes and cardiovascular disease,192.51,3.99,196.5,fear
+there are some alternative measures to,194.549,3.331,197.88,fear
+assess body fat that are better,196.5,3.239,199.739,fear
+predictors of disease risk waist,197.88,3.84,201.72,fear
+circumference more directly measures,199.739,3.571,203.31,fear
+central obesity so it's a better,201.72,3.66,205.38,
+reflection of body fat distribution at,203.31,4.44,207.75,
+high risk areas currently American,205.38,4.439,209.819,
+organizations classify central obesity,207.75,4.139,211.889,happy
+as a waist circumference greater than 35,209.819,4.2,214.01899999999998,happy
+inches in women and greater than 40,211.889,4.291,216.18,fear
+inches in men the International Diabetes,214.019,4.11,218.12900000000002,fear
+Federation has published separate,216.18,4.38,220.56,fear
+classifications by ethnicity to take,218.129,4.5,222.629,fear
+body composition variation into account,220.56,4.2,224.76,fear
+waist circumference is not perfect and,222.629,3.841,226.47,fear
+there are many other more direct,224.76,3.72,228.48,fear
+measures of body fat that are useful in,226.47,4.049,230.519,fear
+research settings but not feasible at,228.48,4.349,232.82899999999998,fear
+the population or clinical level BMI is,230.519,4.5,235.019,fear
+a convenient but inaccurate measure,232.829,4.171,237.0,fear
+especially when applied to individuals,235.019,4.05,239.06900000000002,
+waist circumference is equivalently,237.0,4.199,241.199,
+feasible to measure and may be a better,239.069,3.991,243.06,fear
+tool at both the population and,241.199,3.63,244.829,fear
+individual level because it more,243.06,3.78,246.84,fear
+directly assesses the causative factors,244.829,3.78,248.609,fear
+of central obesity both of these,246.84,3.899,250.739,fear
+measures are meant for screening only,248.609,5.011,253.62,fear
+and not as diagnostic tools regardless,250.739,4.981,255.72,fear
+of your BMI or waist circumference there,253.62,3.51,257.13,fear
+are some behaviors that should be the,255.72,3.359,259.079,happy
+foundation of all healthy lifestyles,257.13,3.5,260.63,happy
+like eating a balanced diet,259.079,3.921,263.0,fear
+hi in fruits and vegetables limiting,260.63,4.65,265.28,fear
+added sugars and engaging in super fun,263.0,4.05,267.05,fear
+physical activity and that's what,265.28,3.81,269.09,fear
+science tastes like thanks for tuning in,267.05,3.48,270.53000000000003,fear
+to nourish Abel if you like what you're,269.09,3.54,272.63,happy
+learning please share subscribe and ring,270.53,3.63,274.15999999999997,fear
+the bell for new video alert,272.63,10.439,283.069,fear
+[Music],274.16,8.909,283.069,fear

@@ -1,0 +1,2572 @@
+text,start,duration,end,dominant_emotion
+"The following
+content is provided",0.06,1.72,1.78,
+"under a Creative
+Commons license.",1.78,2.239,4.019,
+"Your support will help MIT
+OpenCourseWare continue",4.019,2.851,6.87,
+"to offer high quality
+educational resources for free.",6.87,3.86,10.73,
+"To make a donation or
+view additional materials",10.73,2.61,13.34,
+"from hundreds of MIT courses,
+visit MIT OpenCourseWare",13.34,3.877,17.217,
+at ocw.mit.edu.,17.217,0.625,17.842,
+"PROFESSOR: So everybody
+ready to rock and roll today?",26.167,3.548,29.715000000000003,
+Or at least roll?,29.715,1.425,31.14,
+"OK, if not rock.",31.14,2.21,33.35,
+Welcome back to lecture 20.,33.35,2.75,36.1,
+"On Thursday, we have a special
+guest appearance just for you",36.1,4.8,40.9,
+from Professor Ron Weiss.,40.9,1.36,42.26,
+"He's going to be talking
+about synthetic biology.",42.26,2.842,45.102,
+"You know, on Richard
+Feynman's blackboard,",45.102,3.118,48.22,
+"when he died, was a little
+statement I've always",48.22,3.3,51.519999999999996,
+"really enjoyed that was actually
+encased in a little chalk line.",51.52,3.82,55.34,
+"And it said, ""What I cannot
+create, I do not understand.""",55.34,3.48,58.82,
+"And so synthetic
+biology is one way",58.82,2.4,61.22,
+"to approach questions in
+the biological sciences",61.22,2.807,64.027,neutral
+"by seeing what we
+can make-- you know,",64.027,1.583,65.61,neutral
+"whole organisms, new
+genomes, rewiring circuitry.",65.61,3.179,68.789,
+"So I think you'll find it to be
+a very interesting discussion",68.789,2.541,71.33,
+on Thursday.,71.33,1.39,72.72,neutral
+"But first, before we talk
+about synthetic biology,",72.72,3.45,76.17,
+"we have the very
+exciting discussion today",76.17,3.13,79.3,
+"on human genetics, which of
+course concerns all of us.",79.3,2.85,82.14999999999999,
+"And so we're going to
+have an exploration today.",82.15,2.52,84.67,
+"And you know, as I
+prepared today's lecture,",84.67,2.68,87.35000000000001,
+"I wanted to give you the latest
+and greatest research findings.",87.35,3.76,91.11,
+"So we're going to talk today
+from fundamental techniques",91.11,2.8,93.91,neutral
+"to things that are very
+controversial that have caused",93.91,3.65,97.56,
+"fistfights in bars, so
+I'm hopeful that you'll",97.56,2.74,100.3,
+"be as engaged as the
+people drinking beer are.",100.3,3.01,103.31,
+"So we'll be turning to that
+at the end of the lecture,",103.31,2.96,106.27,
+"but first I wanted to tell you
+about the broad narrative arc",106.27,5.54,111.81,
+"once again that we're going
+to be talking about today.",111.81,2.42,114.23,
+"And we're going to
+be looking at how",114.23,2.28,116.51,
+to discover human variation.,116.51,2.49,119.0,
+"We're all different, about
+1 based in every 1,000.",119.0,3.45,122.45,
+"And there are two different
+broad approaches historically",122.45,4.47,126.92,
+people have used.,126.92,1.719,128.639,
+"Microarrays for
+discovering variants,",128.639,2.177,130.816,
+"and we'll talk about
+how those were designed.",130.816,1.874,132.69,
+"And we'll talk about
+how to actually test",132.69,2.236,134.926,
+"for the significance
+of human variation",134.926,1.624,136.54999999999998,
+"with respect to a particular
+disease in a case and control",136.55,3.38,139.93,
+study.,139.93,0.96,140.89000000000001,
+"And then we'll talk about how
+to use whole genome read data",140.89,4.64,145.52999999999997,
+"to detect variation
+between humans",145.53,2.22,147.75,
+"and some of the
+challenges in that,",147.75,1.86,149.61,
+"because it does not
+make as many assumptions",149.61,3.26,152.87,
+"as the microarray studies,
+and therefore is much, much",152.87,4.36,157.23000000000002,
+more complicated to process.,157.23,1.99,159.22,
+"And so we're going to
+take a view into the best",159.22,2.71,161.93,
+"practices of processing
+human read data",161.93,3.35,165.28,
+"so you can understand what
+the state of the art is.",165.28,2.72,168.0,
+"And then we're going to
+turn to a study showing",168.0,3.45,171.45,
+"how we can bring together
+different threads we've",171.45,2.64,174.08999999999997,
+talked about in this subject.,174.09,3.08,177.17000000000002,
+"In particular, we've
+talked about the idea",177.17,2.27,179.44,
+"that we can use other genomic
+signals such as histone marks",179.44,4.65,184.09,
+"to identify things like
+regulatory elements.",184.09,2.77,186.86,
+"So we're going to talk about
+how we can take that lens",186.86,3.61,190.47000000000003,
+"and focus it on the
+genome to discover",190.47,2.14,192.60999999999999,
+"particular genomic variants that
+have been revealed to be very",192.61,5.16,197.77,
+"important in a
+particular disease.",197.77,3.93,201.70000000000002,
+"And finally, we'll
+talk about the idea",201.7,2.8,204.5,
+"that what-- the beginning
+we're going to talk about today",204.5,2.4,206.9,
+is all about correlation.,206.9,3.05,209.95000000000002,
+"And as all of you go forward
+in your scientific career,",209.95,4.33,214.28,
+"I'm hopeful that you'll always
+be careful to not confuse",214.28,3.89,218.17,
+"association or correlation
+with causation.",218.17,4.46,222.63,
+"You're always respected
+when you clearly",222.63,1.794,224.424,
+"articulate the difference when
+you're giving a talk saying",224.424,2.416,226.84,
+"that this is correlated,
+but we don't necessarily",226.84,2.83,229.67000000000002,
+"know it's causative until we do
+the right set of experiments.",229.67,4.82,234.48999999999998,
+"OK, on that note, we'll turn
+to the computational approaches",234.49,5.427,239.917,
+we're going to talk about.,239.917,1.083,241.0,
+"We'll talk about contingency
+tables and various ways",241.0,2.92,243.92,
+"of thinking about
+them when we discuss",243.92,3.29,247.20999999999998,
+"how to identify whether or not
+a particular SNP is associated",247.21,4.5,251.71,
+"with a disease using
+various kinds of tests.",251.71,4.79,256.5,
+"And then we talk
+about read data,",256.5,1.769,258.269,
+"and we'll talk about
+likelihood based tests.",258.269,2.901,261.17,
+"How to do things like
+take a population",261.17,2.66,263.83000000000004,
+"of individuals and
+their read data",263.83,1.71,265.53999999999996,
+"and estimate the
+genotypic frequencies",265.54,2.36,267.90000000000003,
+"at a particular
+locus using that data",267.9,2.51,270.40999999999997,
+"in toto using EM
+based techniques.",270.41,3.25,273.66,
+OK?,273.66,1.01,274.67,
+So let us begin then.,274.67,2.07,276.74,
+"Some of the things we're
+not going to talk about",279.3,2.0,281.3,
+"include non-random
+genotyping failure,",281.3,4.17,285.47,
+"methods to correct for
+population stratification,",285.47,2.94,288.41,
+"and structural variants
+and copy number variations.",288.41,3.47,291.88000000000005,
+"Point three we'll
+just briefly touch on,",291.88,2.6,294.48,
+"but fundamentally they're
+just embellishments",294.48,3.43,297.91,
+"on the fundamental techniques
+we're talking about,",297.91,2.45,300.36,
+"and so I didn't really want
+to confuse today's discussion.",300.36,5.81,306.17,
+"Now a Mendelian
+disorder is a disorder",306.17,5.13,311.3,
+"defined by a single gene,
+and therefore, they're",311.3,5.95,317.25,
+relatively easy to map.,317.25,2.68,319.93,
+"And they also tend to
+be in low frequency",319.93,3.13,323.06,
+"in the population because
+they're selected against,",323.06,3.16,326.22,
+"especially the more severe
+Mendelian disorders.",326.22,3.07,329.29,
+"And therefore, they correspond
+to very rare mutations",329.29,2.92,332.21000000000004,
+in the population.,332.21,2.89,335.09999999999997,
+"By point of contrast, if you
+thought about the genetics",335.1,3.36,338.46000000000004,
+"we discussed last
+time, if you think",338.46,2.342,340.80199999999996,
+"about a trait that
+actually perhaps",340.802,1.458,342.26000000000005,
+"is influenced by 200 genes and
+maybe that one of those genes",342.26,5.15,347.40999999999997,
+"is not necessary or sufficient
+for a particular disease.",347.41,3.73,351.14000000000004,
+"As a consequence, it could
+be a fairly common variant",351.14,3.2,354.34,
+"and it's only if you're unlucky
+enough to get all the other 199",354.34,3.69,358.03,
+"variants will you actually
+come down with that syndrome.",358.03,3.69,361.71999999999997,
+"And therefore, you can see
+that the effect of variation",361.72,3.66,365.38000000000005,
+"in the human genome
+is inversely related",365.38,2.83,368.21,
+"to its frequency-- that
+fairly rare variants can have",368.21,4.45,372.65999999999997,
+"very serious effects, whereas
+fairly common variants tend",372.66,4.33,376.99,
+to have fewer effects.,376.99,3.23,380.22,
+"And in the first phase of
+mapping human variation,",380.22,3.14,383.36,
+"people thought that
+common variants",383.36,1.76,385.12,
+"were things that had
+an allelic frequency",385.12,1.91,387.03000000000003,
+"in the population
+of 5% or greater.",387.03,3.95,390.97999999999996,
+"And then to burrow down deeper,
+the 1000 Genomes Project",390.98,3.96,394.94,
+"surveyed a collection of
+different populations.",394.94,3.28,398.21999999999997,
+"And therefore, if you
+thought that a variant was",398.22,3.71,401.93,
+"prevalent in the
+population at frequency",401.93,1.87,403.8,
+"of 0.5%, how many people
+would have in the 1000 Genomes",403.8,3.04,406.84000000000003,
+Project roughly?,406.84,0.78,407.61999999999995,
+"Just make sure among you
+we're phase-locked here.",411.7,3.44,415.14,
+"0.5%, 1,000 people--",415.14,2.49,417.63,
+AUDIENCE: 5.,417.63,0.5,418.13,
+"PROFESSOR: 5, great.",418.13,0.97,419.1,
+OK.,419.1,0.97,420.07000000000005,
+Good.,420.07,1.86,421.93,
+"Now of course, these are three
+different populations or more,",421.93,2.6,424.53000000000003,
+"and so it might be that,
+in fact, that variant's",424.53,2.9,427.42999999999995,
+"only present in one
+of the population.",427.43,1.69,429.12,
+"So it just might be
+one or two people",429.12,1.541,430.661,sad
+"that actually have a
+particular variant.",430.661,2.509,433.17,
+"So the idea is that the way that
+you design SNP chips to detect",433.17,6.15,439.32,
+"single nucleotide polymorphisms,
+otherwise known as ""SNPs,""",439.32,4.11,443.43,
+"is that you do these
+population-based sequencing",443.43,2.68,446.11,
+"studies and you
+design the array based",446.11,3.68,449.79,neutral
+"upon all of the common
+variants that you find, OK?",449.79,5.09,454.88,
+"And therefore, the array
+gives you a direct readout",454.88,2.42,457.3,
+"in terms of the
+variation, in terms",457.3,1.49,458.79,neutral
+of all of these common variants.,458.79,2.13,460.92,neutral
+That's where we'll start today.,460.92,1.89,462.81,
+"And where we'll end today is
+sequencing based approaches,",462.81,3.73,466.54,
+"which make no assumptions
+whatsoever and just all hell",466.54,4.26,470.8,
+breaks loose.,470.8,1.51,472.31,
+"So you'll see what happens, OK?",472.31,2.33,474.64,
+"But I wanted just to
+reinforce the idea",474.64,2.41,477.05,
+"that there are different
+allelic frequencies of variants",477.05,3.92,480.97,
+"and that as we get down to
+rarer and rarer alleles, right,",480.97,4.66,485.63000000000005,
+we have larger effects.,485.63,2.04,487.67,
+"But these higher
+frequency alleles",487.67,1.63,489.3,
+"could also have effects even
+though they're much smaller.",489.3,5.51,494.81,
+"OK, so let's talk about
+how these variants arise",494.81,4.68,499.49,
+"and what they mean in terms
+of a small little cartoon.",499.49,5.24,504.73,
+"So long, long ago,
+in a world far,",504.73,3.31,508.04,
+"far away, a mutation
+occurred where",508.04,3.89,511.93,
+"a base G got mutated
+to a base A, OK?",511.93,5.05,516.98,
+"And this was in the context of
+a population of individuals--",516.98,5.53,522.51,
+"all happy, smiling individuals
+because they all actually",522.51,3.299,525.809,
+do not have a disease.,525.809,0.916,526.725,
+"And our story goes,
+what happens is",529.86,2.5,532.36,
+"that we had yet another
+generation of people who",532.36,2.26,534.62,
+"are all happy, smiling because
+they do not have the disease.",534.62,3.311,537.931,
+Right?,537.931,0.499,538.4300000000001,
+"Yes, I do tell
+stories at night, too.",541.34,3.46,544.8000000000001,
+"And then another
+mutation occurred.",544.8,7.49,552.29,neutral
+"And that mutation caused
+some subset of those people",552.29,3.37,555.66,neutral
+"to get the mutation and for
+them to get the disease.",555.66,3.07,558.73,neutral
+"So the original mutation was
+not sufficient for people",558.73,4.97,563.7,neutral
+to get this genetic disease.,563.7,1.86,565.5600000000001,neutral
+"It required a second
+mutation for them",565.56,2.04,567.5999999999999,
+"to get the genetic disease, OK?",567.6,2.78,570.38,
+"So we got at least two
+genes involved in it.",570.38,2.713,573.093,
+"OK, the other thing
+that we know is",577.83,1.88,579.71,
+"that, in this particular
+case, some of the people",579.71,3.16,582.87,
+"have the disease that
+don't have this mutation.",582.87,3.88,586.75,
+"And therefore, this
+mutation is not necessary.",586.75,3.89,590.64,neutral
+"It's neither necessary
+nor sufficient.",590.64,4.06,594.6999999999999,neutral
+"Still, it is a marker of a
+gene that increases risk.",594.7,6.09,600.7900000000001,neutral
+"And that's a
+fundamental idea, right,",600.79,1.75,602.54,
+"that you can increase
+risk without being",602.54,2.22,604.76,
+"necessary or sufficient to cause
+a particular genetic disorder.",604.76,5.71,610.47,
+OK?,610.47,1.1,611.57,
+"And so you get this association
+then between genotype",611.57,3.51,615.08,neutral
+"and phenotype, and
+that's what we're",615.08,1.5,616.58,neutral
+"going to go looking
+for right now.",616.58,1.64,618.22,neutral
+We're on the hunt.,618.22,1.12,619.34,neutral
+"We're going to go looking
+for this relationship.",619.34,4.02,623.36,neutral
+"So in certain older
+individuals-- hopefully,",623.36,5.19,628.5500000000001,neutral
+"not myself in the
+future-- what happens",628.55,3.07,631.62,neutral
+"is that your maculus, which
+is the center of your eye,",631.62,4.27,635.89,neutral
+degenerates as shown here.,635.89,2.25,638.14,neutral
+"And you get this
+unfortunate property",638.14,2.32,640.46,happy
+"where you can't actually
+see in the center",640.46,2.36,642.82,happy
+of your field of vision.,642.82,1.77,644.59,happy
+"It's called age-related
+macular degeneration.",644.59,3.81,648.4,happy
+"So to look for the
+causes of this, which",648.4,2.5,650.9,happy
+"is known to be
+genetically related,",650.9,3.05,653.9499999999999,happy
+"the authors of the study
+collected a collection--",653.95,3.19,657.1400000000001,
+"a cohort, as it's called--
+of these European-descent",657.14,3.24,660.38,
+"individuals, all who are at
+least 60 years old, to study",660.38,4.95,665.33,
+"the genetic foundations
+for this disorder.",665.33,2.85,668.1800000000001,
+"And so they found
+934 controls that",670.82,7.13,677.95,
+"were unaffected by age-related
+macular degeneration and 1,238",677.95,6.77,684.72,happy
+"cases, and they genotyped
+them all using arrays.",684.72,3.805,688.525,happy
+"Now the question is, are
+any of the identified",691.13,3.06,694.1899999999999,
+"SNPs on the array related
+to this particular disorder?",694.19,6.22,700.4100000000001,
+"So I'll give you
+the answer first",703.34,1.514,704.854,
+"and then we'll
+talk about a couple",704.854,1.416,706.2700000000001,neutral
+"of different ways of
+thinking about this data, OK?",706.27,3.94,710.21,
+So here's the answer.,710.21,2.05,712.26,
+"Here's a particular
+SNP, rs1061170.",712.26,5.07,717.33,
+"There are the individuals
+with AMD and the controls.",717.33,3.942,721.272,
+"And what you're
+looking at up here,",721.272,1.458,722.73,
+"these numbers are the
+allelic counts, all right?",722.73,2.28,725.01,
+"So each person has
+how many alleles?",725.01,3.35,728.36,
+"Two, right?",728.36,1.4,729.76,
+"That's double the
+number of individuals.",729.76,2.82,732.58,
+"And the question is,
+are the C and T alleles",732.58,4.88,737.46,
+"associated with the cases
+or controls significantly?",737.46,7.31,744.77,
+"And so you can compute
+a Chi-square metric",744.77,2.9,747.67,
+"on this so-called
+contingency table.",747.67,2.15,749.8199999999999,
+"And one of the things
+about contingency tables",749.82,2.397,752.2170000000001,
+"that I think is
+important to point out",752.217,1.583,753.8,
+"is that you hear about
+marginal probabilities, right?",753.8,3.11,756.91,
+"And people probably
+know that originally",756.91,1.73,758.64,
+"derived from the
+idea of these margins",758.64,1.7,760.34,
+"along the side of a
+contingency table, right?",760.34,3.05,763.39,
+"If you think about the marginal
+probability of somebody",763.39,3.1,766.49,
+"having a C allele, regardless
+of whether a case or control,",766.49,2.98,769.47,
+"it would be 2,192
+over 4,344, right?",769.47,6.51,775.98,
+"So the formula for computing
+the Chi-square statistic",775.98,2.46,778.44,
+is shown here.,778.44,1.27,779.71,
+"It's this sort of
+scary-looking polynomial.",779.71,3.75,783.46,
+"And the number of
+degrees of freedom is 1.",783.46,3.27,786.73,
+"It's the number of rows
+minus 1 times the number",786.73,3.22,789.95,
+of columns minus 1.,789.95,1.93,791.88,
+"And the P-value we get is
+indeed quite small-- 10",791.88,3.54,795.42,
+to the minus 62.,795.42,2.03,797.4499999999999,
+"Therefore, the
+chance this happened",797.45,1.47,798.9200000000001,
+"at random-- even with
+multiple hypothesis",798.92,2.75,801.67,
+"correction, given that we're
+testing a million SNPs--",801.67,3.57,805.24,
+"is indeed very, very low.",805.24,3.36,808.6,
+This looks like a winner.,808.6,1.08,809.6800000000001,
+"Looks like we've got a
+SNP that is associated",809.68,3.26,812.9399999999999,
+with this particular disease.,812.94,3.59,816.5300000000001,
+"Now just to remind you about
+Chi-square statistics--",816.53,3.58,820.11,
+"I'm sure people have seen this
+before-- the usual formulation",820.11,3.98,824.09,
+"is that you compute this
+Chi-square polynomial",824.09,6.06,830.15,
+"on the right-hand side,
+which is the observed",830.15,2.304,832.454,
+"number of something minus the
+expected number of something",832.454,2.416,834.87,
+"squared over the expected
+number or something, right?",834.87,3.69,838.5600000000001,
+"And you sum it up over
+all the different cases.",838.56,3.314,841.8739999999999,
+"And you can see that the
+expected number of As",841.874,1.916,843.7900000000001,
+"is given by the little
+formula on the left.",843.79,3.56,847.3499999999999,
+"Suffice to say, if you expand
+that formula and manipulate it,",847.35,4.03,851.38,
+"you get the equation we
+had on the previous slide.",851.38,2.85,854.23,
+"So it's still that fuzzy,
+friendly Chi-square formula",854.23,2.83,857.0600000000001,sad
+"you always knew, just
+in a different form, OK?",857.06,5.72,862.78,
+"Now is there
+another way to think",862.78,2.37,865.15,
+"about computing the likelihood
+of seeing data in a contingency",865.15,4.99,870.14,
+"table at random, right?",870.14,1.77,871.91,
+"Because we're always asking,
+could this just be random?",871.91,3.35,875.26,
+"I mean, could this have
+occurred by chance,",875.26,2.12,877.38,
+"that we see the data arranged
+in this particular form?",877.38,4.75,882.13,
+"Well, we've another
+convenient way",882.13,2.33,884.46,
+"of thinking about
+this, which is we could",884.46,3.78,888.24,
+"do Fisher's Exact Test,
+which is very related",888.24,4.16,892.4,
+"to the idea of the
+hypergeometric test",892.4,3.077,895.477,
+"that we've talked
+about before, right?",895.477,1.583,897.06,
+"What are the chances we would
+see exactly this arrangement?",897.06,6.75,903.81,
+"Well, we would need to have,
+out of a plus b C alleles,",903.81,3.83,907.64,
+"we'd have 8 of them be cases,
+which is the first term there",907.64,6.51,914.15,
+in that equation.,914.15,4.85,919.0,
+"And of the T alleles, we need to
+have c of them out of c plus d",919.0,3.536,922.536,
+be there.,922.536,1.004,923.54,
+"And then we need to have a
+plus b plus c plus d choose",923.54,2.72,926.26,
+"a plus c-- that's the
+total number of chances",926.26,2.82,929.08,
+of seeing things.,929.08,1.21,930.2900000000001,
+"So this is the probability
+of the arrangement",930.29,3.15,933.4399999999999,
+"in the table in this
+particular form.",933.44,3.53,936.97,
+"Now people-- I'll let
+you digest that for one",936.97,2.78,939.75,
+second before I go on.,939.75,1.29,941.04,
+"So this is the number of ways
+on the numerator of arranging",944.73,6.65,951.38,
+"things to get the table
+the way that we see it",951.38,2.45,953.83,
+"over the total number or
+ways of arranging the table,",953.83,2.45,956.2800000000001,
+"keeping the marginal
+totals the same.",956.28,2.9,959.18,
+Is that clear?,961.93,2.03,963.9599999999999,
+"So this is the probability,
+the exact probability,",963.96,3.43,967.39,
+"of seeing the table
+in this configuration.",967.39,2.69,970.08,
+"And then what you do is you
+take that probability and all",970.08,2.475,972.5550000000001,
+"of the probabilities for all the
+more extreme values, say, of a.",972.555,6.665,979.2199999999999,
+"And you sum them all
+up and that gives you",979.22,2.74,981.96,
+"the probability of
+a null hypothesis.",981.96,2.97,984.9300000000001,
+"So this is another
+way to approach",984.93,3.92,988.8499999999999,
+"looking at the chance a
+particular contingency table",988.85,3.81,992.66,sad
+"set of values would
+occur at random.",992.66,2.5,995.16,
+"So if people talk about
+Fisher's Exact Test-- you know,",995.16,2.7,997.86,
+tonight at that cocktail party.,997.86,1.404,999.264,
+"""Oh yeah, I know about that.",999.264,1.166,1000.4300000000001,
+"Yeah, it's like
+the hypergeometric.",1000.43,1.25,1001.68,
+"It's no big deal.""",1001.68,0.73,1002.41,
+You know?,1002.41,0.47,1002.88,
+Right.,1002.88,0.499,1003.379,
+All right.,1005.88,2.05,1007.93,
+"So now let us suppose that
+we do an association test",1007.93,7.46,1015.39,
+and you do the following design.,1015.39,1.67,1017.06,
+"You say, well, I've
+got all my cases.",1017.06,3.27,1020.3299999999999,
+"They're all at Mass General and
+I want to genotype them all.",1020.33,5.333,1025.663,
+"And Mass General
+is the best place",1025.663,1.416,1027.079,
+"for this particular disease,
+so I'm going to go up there.",1027.079,2.375,1029.454,
+"I need some controls but I'm
+running out of budgetary money,",1029.454,3.226,1032.68,
+"so I'm going to do all my
+controls in China, right?",1032.68,3.294,1035.9740000000002,
+"Because I know it's going
+to be less expensive there",1035.974,2.166,1038.1399999999999,
+to genotype them.,1038.14,0.85,1038.99,
+"And furthermore--
+as a little aside,",1038.99,4.36,1043.35,
+"I was once meeting
+with this guy who",1043.35,1.499,1044.849,
+"is like one of the ministers
+of research in China.",1044.849,5.151,1050.0,
+He came to my office.,1050.0,1.01,1051.01,
+"I said, so what do
+you do in China?",1051.01,2.125,1053.135,
+"And he said, well, I guess
+the best way to describe",1053.135,2.125,1055.26,
+"it is that I'm in charge of the
+equivalent of the NSF, DARPA,",1055.26,2.73,1057.99,neutral
+and the NIH.,1057.99,1.355,1059.345,
+"I said, oh.",1059.345,2.465,1061.81,
+"I said, would like to
+meet the president?",1061.81,2.39,1064.2,
+"Because I'd be happy to
+call MIT's president.",1064.2,2.09,1066.29,
+"I'm sure they'd be
+happy to meet with you.",1066.29,1.06,1067.35,
+"He said, no.",1067.35,0.88,1068.23,
+"He said, I like going direct.",1068.23,2.2,1070.43,
+"So, at any rate,
+I told him I was",1070.43,2.72,1073.15,
+working in stem cell research.,1073.15,1.53,1074.68,
+"He said, you know, one thing I
+can say about China-- in China,",1074.68,2.91,1077.5900000000001,
+"stem cells, ethics, no problem.",1077.59,1.78,1079.37,
+[LAUGHTER],1079.37,4.98,1084.35,
+"At any rate, so you go to
+China to do your controls, OK?",1084.35,5.16,1089.51,
+"And why is that a bad
+experimental design?",1089.51,3.67,1093.18,
+Can anybody tell me?,1093.18,0.84,1094.02,
+"You do all your cases here,
+you do your controls in China.",1098.128,2.416,1100.5439999999999,
+Yes?,1100.544,0.452,1100.996,
+"AUDIENCE: Because
+the SNPs in China",1100.996,1.458,1102.4540000000002,
+are not necessarily the same.,1102.454,1.256,1103.71,
+PROFESSOR: Yes.,1103.71,0.68,1104.39,
+"The Chinese population's
+going to have",1104.39,1.95,1106.3400000000001,
+"a different set of SNPs,
+right, because it's",1106.34,1.853,1108.193,
+been a contained population.,1108.193,1.199,1109.392,
+"So you're going to
+pick up all these SNPs",1109.392,1.708,1111.1000000000001,
+"that you think are going to
+be related to the disease that",1111.1,2.62,1113.7199999999998,
+"are simply a consequence of
+population stratification,",1113.72,3.05,1116.77,
+right?,1116.77,1.1,1117.87,
+"So what you need to do
+is to control for that.",1117.87,3.12,1120.9899999999998,
+"And the way you do that is you
+pick a bunch of control SNPs",1120.99,3.04,1124.03,
+"that you think are
+unrelated to a disease",1124.03,2.54,1126.57,
+"and you do a Chi-square
+test on those",1126.57,1.99,1128.56,
+"to make sure that they're
+not significant, right?",1128.56,4.39,1132.95,
+"And methodologies for
+controlling for population",1132.95,2.68,1135.63,
+"stratification by picking
+apart your individuals",1135.63,3.02,1138.65,
+"and re-clustering
+them is something",1138.65,2.211,1140.861,
+"that is a topic of
+current research.",1140.861,1.499,1142.3600000000001,
+"And finally, the good news
+about age-related macular",1145.84,3.79,1149.6299999999999,
+"degeneration is that
+there are three genes",1149.63,2.91,1152.5400000000002,happy
+"with five common variants
+that explain 50% of the risk.",1152.54,3.14,1155.68,happy
+"And so it has been viewed as
+sort of a very successful study",1155.68,5.16,1160.8400000000001,happy
+"of a polygenic-- that
+is, multiple gene--",1160.84,3.38,1164.22,happy
+"genetic disorder that
+has been dissected",1164.22,2.02,1166.24,happy
+using this methodology.,1166.24,1.24,1167.48,happy
+"And with these genes, now
+people can go after them",1167.48,3.31,1170.79,happy
+"and see if they can come up
+appropriate therapeutics.",1170.79,4.22,1175.01,neutral
+"Now using the same idea-- cases,
+controls-- you look at each SNP",1175.01,6.33,1181.34,
+"individually and you
+query it for significance",1181.34,4.23,1185.57,
+based upon a null model.,1185.57,1.9,1187.47,
+"You can take a wide
+range of common diseases",1187.47,5.53,1193.0,
+"and ask whether or
+not you can detect",1193.0,3.38,1196.38,
+"any genetic elements that
+might influence risk.",1196.38,7.07,1203.45,
+"And so here are a set
+of different diseases,",1203.45,2.8,1206.25,
+"starting with bipolar
+disorder at the top,",1206.25,1.75,1208.0,
+"going down to type 2
+diabetes at the bottom.",1208.0,2.74,1210.74,
+"This is a so-called
+Manhattan plot,",1210.74,3.48,1214.22,
+"because you see the buildings
+along the plot, right?",1214.22,3.002,1217.222,
+"And when there are
+skyscrapers, you",1217.222,1.458,1218.68,
+"go, whoa, that could be
+a problem, all right?",1218.68,3.14,1221.8200000000002,
+"And so this is the
+style-- you see,",1221.82,2.81,1224.6299999999999,
+"this came out in
+2007-- of research",1224.63,3.62,1228.25,
+"that attempts to do genome
+wide scans for loci that",1228.25,4.022,1232.272,
+"are related to
+particular diseases.",1232.272,1.458,1233.73,
+"OK, now, I'd like to go on
+and talk about other ways",1236.89,5.61,1242.5,
+"that these studies can
+be influenced, which",1242.5,7.89,1250.39,
+"is the idea of linkage
+disequilibrium.",1250.39,8.1,1258.49,
+"So for example, let us say that
+I have a particular individual",1258.49,16.32,1274.81,
+"who's going to produce a
+gamete and the gamete's going",1274.81,5.66,1280.47,
+"to be haploid, right?",1280.47,4.02,1284.49,
+"And it's going have one
+allele from one of these two",1284.49,5.83,1290.32,
+"chromosomes and one allele from
+one of these two chromosomes.",1290.32,3.51,1293.83,
+"We've talked about
+this before last time.",1293.83,2.76,1296.59,
+"And there are four
+possibilities--",1296.59,2.08,1298.6699999999998,
+"AB, aB, Ab, and ab, OK?",1298.67,9.85,1308.52,
+"And if this was a
+coin flip, then each",1308.52,4.3,1312.82,
+"of these genotypes
+for this gamete",1312.82,3.75,1316.57,
+"would be identical, right?",1316.57,4.23,1320.8,
+"But let us suppose
+that I tell you",1320.8,2.66,1323.46,
+"that there are only two
+that result-- this one, AB,",1323.46,6.81,1330.27,
+"and the small one, ab, OK?",1330.27,3.705,1333.975,
+"If you look at this, you
+say, aha, these two things",1336.67,3.21,1339.88,sad
+"are linked and they're
+very closely linked.",1339.88,4.39,1344.2700000000002,
+"And so, if they're always
+inherited together,",1344.27,3.69,1347.96,
+"we might think that the distance
+between them on the genome",1347.96,7.59,1355.55,
+is small.,1355.55,1.27,1356.82,
+"So in the human genome,
+what's the average distance",1359.67,3.2,1362.8700000000001,
+"between crossover events
+during a meiotic event?",1362.87,3.08,1365.9499999999998,
+"Does anybody know, roughly
+speaking, how many bases?",1365.95,3.691,1369.641,
+Hm?,1369.641,0.499,1370.14,
+AUDIENCE: A megabase?,1370.14,0.874,1371.0140000000001,
+PROFESSOR: A megabase.,1371.014,0.936,1371.9499999999998,
+Little low.,1371.95,1.18,1373.13,
+"How many centimorgans
+long is the human genome?",1376.22,3.24,1379.46,
+All right?,1383.46,1.751,1385.211,
+Anybody know?,1385.211,2.939,1388.15,
+"3,000?",1388.15,0.75,1388.9,
+"4,000?",1388.9,1.776,1390.6760000000002,
+Something like that?,1390.676,2.444,1393.12,
+"So maybe 50 to 100 megabases
+between crossover events, OK?",1393.12,6.12,1399.2399999999998,
+"So if these markers
+are very closely",1399.24,9.38,1408.6200000000001,
+"organized along the genome,
+the likelihood of a crossover",1408.62,3.04,1411.6599999999999,
+is very small.,1411.66,2.27,1413.93,
+"And therefore, they're going
+to be in very high LD, right?",1413.93,3.53,1417.46,
+"And a way to measure that is
+with the following formula,",1420.16,6.18,1426.3400000000001,
+"which is that if you link the
+two locuses-- we have L1 and L2",1426.34,3.47,1429.81,
+here.,1429.81,1.02,1430.83,
+"And now we're talking about
+the population instead",1430.83,2.91,1433.74,
+of a particular individual.,1433.74,3.34,1437.08,
+"If the likelihood of the
+capital allele A is piece of A",1437.08,6.66,1443.74,
+"and the probability
+of the big B allele",1443.74,2.91,1446.65,
+"is piece of B, then if they
+were completely unlinked,",1446.65,5.784,1452.4340000000002,
+"then the likelihood of
+inheriting both of them",1452.434,1.916,1454.35,
+"together with would be
+piece of A times piece of B,",1454.35,3.97,1458.32,
+showing independence.,1458.32,2.2,1460.52,
+"However if they
+aren't independent,",1460.52,2.2,1462.72,
+"we can come up
+with a single value",1462.72,1.62,1464.34,
+"D which allows us to quantify
+the amount of disequilibrium",1464.34,5.81,1470.1499999999999,
+between those two alleles.,1470.15,2.4,1472.5500000000002,
+"And the formula for D
+is given on the slide.",1472.55,4.54,1477.09,
+"And furthermore, if it's
+more convenient for you",1477.09,2.48,1479.57,
+"to think about in terms
+of r-squared correlation,",1479.57,2.62,1482.1899999999998,
+"we can define the
+r-squared correlation",1482.19,2.23,1484.42,
+"as D squared over
+PA, QA, PB, QB,",1484.42,3.0,1487.42,
+"as shown in the lower left
+hand part of this slide, OK?",1487.42,4.24,1491.66,
+"This is simply a
+way of describing",1491.66,3.87,1495.53,
+"how skewed the
+probabilities are from being",1495.53,2.96,1498.49,
+"independent for
+inheriting these two",1498.49,3.87,1502.36,
+different loci in a population.,1502.36,5.49,1507.85,
+"Are there any questions
+at all about that,",1507.85,3.03,1510.8799999999999,
+the details of that?,1510.88,3.26,1514.14,
+OK.,1514.14,0.8,1514.94,
+"So just to give you an example,
+if you look at chromosome 22,",1514.94,5.86,1520.8,
+"the physical distance on
+the bottom is in kilobases,",1520.8,3.66,1524.46,
+"so that's from 0 to 1
+megabase on the bottom.",1524.46,4.45,1528.91,
+"And you look at the
+r-squared values,",1528.91,2.23,1531.14,
+"you can see things that
+are quite physically close,",1531.14,3.5,1534.64,
+"as we suggested earlier,
+have a high r-squared value.",1534.64,3.22,1537.8600000000001,
+"But there are still
+some things that",1537.86,1.5,1539.36,
+"are pretty far away
+that have surprisingly",1539.36,2.87,1542.2299999999998,
+high r-squared values.,1542.23,1.275,1543.505,
+"There are recombination
+hot spots in the genome.",1546.17,2.72,1548.89,
+"And it's, once again, a topic
+of current research trying",1548.89,3.8,1552.69,
+"to figure out how the genome
+recombines and recombination is",1552.69,3.33,1556.02,
+targeted.,1556.02,0.697,1556.7169999999999,
+"But suffice it to say, as you
+can see, it's not uniform.",1556.717,2.333,1559.0500000000002,
+"Now what happens as
+a consequence of this",1562.19,2.95,1565.14,
+"is that you get regions
+of the genome where",1565.14,3.5,1568.64,
+"things stick together, right?",1568.64,1.42,1570.0600000000002,
+"They're all drinking
+buddies, right?",1570.06,1.5,1571.56,
+"They all hang out together, OK?",1571.56,3.31,1574.87,
+"But here's what I'm going to ask
+you-- how much of your genome",1574.87,2.87,1577.7399999999998,
+came from your dad?,1577.74,1.0,1578.74,
+Half.,1581.392,0.888,1582.28,neutral
+"How much came from
+your dad's dad?",1582.28,1.482,1583.762,neutral
+AUDIENCE: A quarter.,1583.762,1.146,1584.908,
+"PROFESSOR: And from
+your dad's dad's dad?",1584.908,1.708,1586.616,
+AUDIENCE: An eighth.,1586.616,0.833,1587.449,
+"PROFESSOR: An eighth, OK?",1587.449,1.151,1588.6000000000001,
+"So the amount of your genome
+going back up the family tree",1588.6,3.13,1591.73,
+"is falling off exponentially
+up a particular path, right?",1591.73,3.93,1595.66,
+"So if you think about groups
+of things that came together",1595.66,3.31,1598.97,
+"from your great,
+great grandfather",1598.97,1.47,1600.44,
+"or his great, great
+grandfather, right,",1600.44,2.47,1602.91,
+"the further back you go, the
+less and less contribution",1602.91,3.249,1606.159,
+"they're going to
+have to your genome.",1606.159,1.541,1607.7,
+"And so the blocks are
+going to be smaller--",1607.7,2.88,1610.5800000000002,
+"that is, the amount
+of information",1610.58,1.89,1612.47,
+"you're getting from
+way back up the tree.",1612.47,3.73,1616.2,
+"So if you think about
+this, the question",1616.2,2.86,1619.06,
+"of what blocks of things
+are inherited together",1619.06,3.51,1622.57,
+"is not something that you
+can write an equation for.",1622.57,2.82,1625.3899999999999,
+"It's something that you
+study in a population.",1625.39,2.19,1627.5800000000002,
+"You go out and you
+ask, what things do we",1627.58,2.28,1629.86,
+observe coming together?,1629.86,1.53,1631.3899999999999,
+"And generally, larger
+blocks of things",1631.39,3.95,1635.3400000000001,
+"are inherited together, occur
+in more recent generations,",1635.34,4.42,1639.76,
+"because there's less
+dilution, right?",1639.76,2.17,1641.93,
+"Whereas if you go way
+back in time-- not quite",1641.93,2.326,1644.256,
+"to where the dinosaurs
+roamed the land,",1644.256,1.624,1645.88,surprise
+"but you get the idea-- the
+blocks are, fact, quite small.",1645.88,3.84,1649.72,
+"And so, the HapMap project
+went about looking at blocks",1649.72,5.17,1654.89,
+"and how they were
+inherited in the genome.",1654.89,2.81,1657.7,
+"And what suffices to know is
+that they found blocks-- here",1657.7,4.73,1662.43,
+"you can see three
+different blocks.",1662.43,4.03,1666.46,
+"And these are called
+haplotype blocks",1666.46,1.99,1668.45,
+"and the things that
+are colored red",1668.45,1.95,1670.4,
+"are high r-squared
+values between",1670.4,2.42,1672.8200000000002,
+different genetic markers.,1672.82,2.54,1675.36,
+"And we talked earlier
+about how to compute",1675.36,1.75,1677.11,
+that r-squared value.,1677.11,1.49,1678.6,
+"So those blocks typically
+are inherited together.",1678.6,4.05,1682.6499999999999,
+Yes?,1682.65,0.5,1683.15,
+"AUDIENCE: Are these blocks
+like fuzzy boundaries?",1683.15,3.626,1686.776,
+PROFESSOR: No.,1686.776,0.804,1687.5800000000002,
+"Well, remember in this
+particular example,",1687.58,3.94,1691.52,
+"we're only querying at
+specified markers which",1691.52,3.39,1694.91,
+"are not necessarily at regular
+intervals along the genome.",1694.91,4.1,1699.01,
+"So in this case, the blocks
+don't have fuzzy boundaries.",1699.01,2.65,1701.66,
+"As we get into
+sequencing-based approaches,",1701.66,2.462,1704.122,
+"they could have
+fuzzier boundaries.",1704.122,1.458,1705.5800000000002,
+"But haplotype
+blocks are typically",1705.58,1.5,1707.08,
+"thought to be discrete blocks
+that are inherited, OK?",1707.08,4.0,1711.08,
+Good question.,1711.08,0.61,1711.6899999999998,
+Any other questions?,1711.69,0.833,1712.5230000000001,
+OK.,1716.84,0.51,1717.35,
+"So I want to impress
+upon the idea",1717.35,3.69,1721.04,
+"that this is empirical, right?",1721.04,2.01,1723.05,neutral
+"There's no magic here in
+terms of fundamental theory",1723.05,3.96,1727.01,
+"about what things should
+be haplotype blocks.",1727.01,2.63,1729.64,
+"It's simply that you
+look at a population",1729.64,1.91,1731.5500000000002,fear
+"and you're look at what
+markers are drinking buddies",1731.55,3.13,1734.68,
+"and those make haplotype blocks
+and you empirically categorize",1734.68,4.07,1738.75,
+"and catalog them-- which can
+be very helpful, as you'll see.",1738.75,5.47,1744.22,
+"And thus, when we think
+about genetic studies,",1744.22,2.93,1747.15,
+"when we think about the
+length of shared segments,",1747.15,3.84,1750.99,
+"if you're thinking
+about studying a family,",1750.99,1.99,1752.98,
+"like a trio-- a trio is a mom,
+a dad, and a child, right?",1752.98,3.954,1756.934,
+"They're going to share a
+lot of genetic information,",1756.934,2.166,1759.1,
+"and so the haplotype blocks that
+are shared amongst those three",1759.1,2.86,1761.9599999999998,
+"individuals are going
+to be very large indeed.",1761.96,3.43,1765.39,
+"Whereas if you go
+back generations,",1765.39,1.92,1767.3100000000002,
+"the blocks-- like the
+second cousins or things",1767.31,2.78,1770.09,
+"like that-- the
+blocks get smaller.",1770.09,2.09,1772.1799999999998,
+"So the x-axis on this
+plot is the median length",1772.18,4.08,1776.26,
+of a shared segment.,1776.26,2.22,1778.48,
+"And as an association
+study, which",1778.48,1.93,1780.41,
+"is taking random people
+out of the population,",1780.41,3.85,1784.26,
+"has very small shared
+blocks indeed, OK?",1784.26,3.894,1788.154,
+"And so the techniques
+that we're talking about",1788.154,1.916,1790.07,
+"today are applicable
+almost in any range,",1790.07,2.96,1793.03,
+"but they're particularly
+useful where",1793.03,2.63,1795.66,
+"you can't depend upon
+the fact that you're",1795.66,2.12,1797.78,
+"sharing a lot of information
+along the genome proximal",1797.78,2.47,1800.25,
+"to where the marker
+is that's associated",1800.25,1.912,1802.162,
+with a particular disease.,1802.162,1.083,1803.2450000000001,
+"Now the other thing
+that is true is",1807.21,3.56,1810.77,
+"that we should note that
+the fact that markers have",1810.77,4.35,1815.12,neutral
+"this LD associated
+with them means",1815.12,2.99,1818.11,neutral
+"that it may be that a particular
+marker is bang on-- what's",1818.11,7.19,1825.3,neutral
+called a causative SNP.,1825.3,1.89,1827.19,sad
+"Or something that,
+for example, sits",1827.19,2.04,1829.23,sad
+"in the middle of a gene
+causing a missense mutation.",1829.23,4.42,1833.65,
+"Or it sits right in the middle
+of a protein binding site,",1833.65,2.96,1836.6100000000001,
+"causing the factor
+not to bind anymore.",1836.61,2.88,1839.49,
+"But also it could be something
+that is actually a little bit",1839.49,2.83,1842.32,
+"away, but is highly correlated
+to the causative SNP.",1842.32,5.76,1848.08,
+"So just keep in mind that
+when you have an association",1848.08,2.45,1850.53,neutral
+"and you're looking at a SNP, it
+may not be the causative SNP.",1850.53,5.4,1855.93,neutral
+"It might be just linked
+to the causative SNP.",1855.93,2.714,1858.644,neutral
+"And sometimes these things
+are called proxy SNPs.",1858.644,2.041,1860.685,neutral
+"OK, so we've talked
+about the idea of SNPs",1863.29,9.24,1872.53,
+and discovering them.,1872.53,1.93,1874.46,
+"Let me ask you one more question
+about where these SNPs reside",1874.46,5.055,1879.515,
+"and see if you
+could help me out.",1879.515,1.715,1881.23,
+"OK, this is a really
+important gene, OK?",1890.68,7.82,1898.5,fear
+"Call it RIG for short, OK?",1898.5,2.42,1900.92,
+"Now let us suppose that
+you know that there",1900.92,3.43,1904.3500000000001,
+are some mutations here.,1904.35,1.75,1906.1,
+"And my question for you is,
+does it matter whether or not",1906.1,5.98,1912.08,
+"the two mutations look
+like this or the mutations",1912.08,6.33,1918.4099999999999,
+"look like this, in your opinion?",1918.41,4.85,1923.26,
+"That is, both mutations
+occur in one copy",1926.99,2.48,1929.47,
+"or on one chromosome
+of the gene,",1929.47,2.86,1932.33,
+"whereas in the other case, we
+see two different SNPs that",1932.33,3.01,1935.34,
+"are different than
+reference, but they're",1935.34,1.77,1937.11,
+"referring in both
+mom and dad alleles.",1937.11,2.13,1939.24,
+"Is there a difference
+between those two cases?",1944.26,4.131,1948.391,
+Yeah?,1948.391,0.499,1948.89,
+"AUDIENCE: In terms of
+the phenotype displayed?",1948.89,1.956,1950.846,
+"PROFESSOR: In terms of
+the phenotype, sorry.",1950.846,2.445,1953.291,
+AUDIENCE: It depends.,1953.291,1.467,1954.758,
+PROFESSOR: It depends?,1954.758,0.978,1955.736,
+AUDIENCE: Yes.,1955.736,0.583,1956.3190000000002,
+PROFESSOR: OK.,1956.319,0.884,1957.203,
+"AUDIENCE: So if it causes a
+recessive mutation, then no,",1957.203,3.912,1961.115,
+"because other genes will
+be able to rescue it.",1961.115,5.379,1966.494,
+"But if it's dominant,
+then it'll still--",1966.494,1.667,1968.1609999999998,
+"PROFESSOR: It's actually
+the other way around.",1968.161,1.916,1970.077,
+"If it's recessive,
+this does matter.",1970.077,1.803,1971.88,fear
+"AUDIENCE: Oh, I see.",1971.88,1.59,1973.47,
+"PROFESSOR: Because in this
+case, with the purple ones,",1973.47,2.25,1975.72,
+"you still have one good
+copy of the gene, right?",1975.72,3.52,1979.24,
+"However, with the
+green ones, it's",1979.24,1.86,1981.1,
+"possible that you have
+ablated both good copies",1981.1,3.21,1984.31,
+"of the gene, this
+really important gene,",1984.31,2.37,1986.6799999999998,
+"and therefore, you're
+going to get a higher",1986.68,2.23,1988.91,neutral
+"risk of having a
+genetic disorder.",1988.91,3.37,1992.28,
+"So when you're scanning down
+the genome then-- you know,",1992.28,5.15,1997.43,
+"we've been asking where
+are there differences",1997.43,3.25,2000.68,
+"from reference or from
+between cases and controls",2000.68,3.76,2004.44,
+"down the genome, but we
+haven't asked whether or not",2004.44,3.89,2008.3300000000002,
+"they're on mom or dad, right?",2008.33,2.969,2011.299,neutral
+"We're just asking,
+are they there?",2011.299,1.416,2012.715,neutral
+"But it turns out that
+for questions like this,",2015.41,3.79,2019.2,
+"we have to know whether or
+not the mutation occurred",2019.2,5.35,2024.55,
+"in only in mom's chromosome
+or in both chromosomes",2024.55,3.9,2028.45,
+"in this particular
+neighborhood, all right?",2028.45,4.75,2033.2,sad
+"This is called phasing
+of the variants.",2033.2,4.86,2038.06,
+"Phasing means
+placing the variants",2038.06,2.2,2040.26,
+on a particular chromosome.,2040.26,5.08,2045.34,
+"And then, by phasing
+the variants,",2045.34,1.96,2047.3,
+"you can figure out some
+of the possible phenotypic",2047.3,2.839,2050.139,neutral
+consequences of them.,2050.139,1.691,2051.83,
+"Because if they're not
+they phased, in this case,",2051.83,4.0,2055.83,
+"it's going to be much less
+clear what's going on.",2055.83,4.014,2059.844,
+"So then the question
+becomes, how",2059.844,1.375,2061.219,
+"do we phase variants, right?",2061.219,2.801,2064.02,
+"So phasing assigns alleles
+to the parental chromosomes.",2064.02,4.65,2068.67,
+"And so, the set of alleles along
+a chromosomes is a haplotype.",2068.67,4.33,2073.0,
+"We've talked about the
+idea of haplotypes.",2073.0,2.98,2075.98,
+"So imagine one way to phase
+is that if I tell you,",2075.98,5.8,2081.78,
+"by magic, in this population
+you're looking at,",2081.78,3.1,2084.88,
+"here are all the
+haplotypes and these",2084.88,3.16,2088.04,
+are the only ones that exist.,2088.04,2.57,2090.61,
+"You look in your
+haplotypes and you go, aha,",2090.61,3.98,2094.59,
+"this haplotype exists but
+this one does not, right?",2094.59,5.97,2100.56,
+"That this is a haplotype--
+this two purples together",2100.56,2.98,2103.54,
+"is a haplotype, and
+this green without one",2103.54,1.77,2105.31,
+is another haplotype.,2105.31,1.245,2106.555,
+"So you see which
+haplotypes exist-- that is,",2106.555,4.135,2110.69,neutral
+"what patterns of inheritance
+of alleles along a chromosome",2110.69,4.68,2115.37,
+you can detect.,2115.37,2.23,2117.6,
+"And using the established
+empirical haplotypes,",2117.6,3.48,2121.08,neutral
+"you can phase the variants, OK?",2121.08,4.11,2125.19,
+"Now the other way to
+phase the variants",2125.19,2.39,2127.58,
+"is much, much simpler
+and much better, right?",2127.58,4.504,2132.084,
+"The other way to
+phase variants is",2132.084,1.416,2133.5,
+"you just have a single read that
+covers the entire thing, right?",2133.5,5.83,2139.33,
+"And then the read, it
+will be manifest, right?",2139.33,2.78,2142.11,
+"The read will cover
+the entire region",2142.11,2.12,2144.23,
+"and then you see
+the two mutations",2144.23,2.76,2146.9900000000002,neutral
+"in that single
+region of the genome.",2146.99,1.86,2148.85,neutral
+"The problem we're up against
+is that most of our reads",2148.85,2.56,2151.41,
+"are quite short and we're
+reassembling our genotypes",2151.41,4.93,2156.3399999999997,
+from a shattered genome.,2156.34,2.8,2159.1400000000003,neutral
+"If the genome wasn't
+shattered, then we",2159.14,2.18,2161.3199999999997,
+wouldn't have this problem.,2161.32,2.0,2163.32,
+"So everybody's
+working to fix this.",2163.32,3.46,2166.78,
+"Illumina has sort of a
+cute trick for fixing this.",2166.78,5.31,2172.09,
+"And PacBio, which is
+another sequence instrument",2172.09,3.26,2175.3500000000004,
+"manufacturer, can produce reads
+that are tens of thousands",2175.35,3.62,2178.97,
+"of bases long, which allows
+you to directly phase",2178.97,3.204,2182.174,neutral
+the variants from the reads.,2182.174,1.166,2183.34,sad
+"But if somebody,
+once again, comes up",2185.519,1.541,2187.06,
+"to you at the cocktail party
+tonight and says, you know,",2187.06,2.59,2189.65,
+"I've never understood why
+you have to phase variants.",2189.65,4.6,2194.25,
+"You know, this is a popular
+question I get all the time.",2194.25,2.76,2197.01,
+[LAUGHTER],2197.01,1.744,2198.7540000000004,
+"You can tell them,
+hey, you know,",2198.754,2.666,2201.42,
+"you have to know whether or
+not mom and dad both have",2201.42,3.2,2204.62,
+"got big problems or just all
+the problems are with mom, OK?",2204.62,4.42,2209.04,neutral
+Or dad.,2209.04,1.41,2210.45,neutral
+"So you can put
+their mind at ease",2210.45,3.23,2213.68,
+"as you're finishing
+off the hors d'oeuvres.",2213.68,1.93,2215.6099999999997,
+"OK, so I wanted just to tell
+you about phasing variants",2215.61,3.63,2219.2400000000002,
+"because we're about to go on to
+the next part of our discussion",2219.24,4.16,2223.3999999999996,
+today.,2223.4,1.46,2224.86,
+"We are leaving the very
+clean and pristine world",2224.86,3.17,2228.03,
+"of very defined SNPs,
+defined by microarrays,",2228.03,3.52,2231.55,
+"into the wild and woolly world
+of sequencing data, right?",2231.55,4.48,2236.03,
+Which is all bets are off.,2236.03,2.81,2238.84,
+"It's all raw
+sequencing data and you",2238.84,2.53,2241.3700000000003,
+"have to make sense
+of it-- hundreds",2241.37,3.13,2244.5,
+of millions of sequencing reads.,2244.5,2.93,2247.43,
+"So today's lecture is drawn from
+a couple of different sources.",2247.43,5.05,2252.48,
+"I've posted some of
+them on the internet.",2252.48,3.24,2255.72,
+"There's a very nice article
+by Heng Li on the underlying",2255.72,2.88,2258.6,
+"mathematics of SNP calling and
+variation which I've posted.",2258.6,4.41,2263.0099999999998,
+"In addition, some of
+the material today",2263.01,2.74,2265.75,
+"is taken from the Genome
+Analysis Toolkit, which",2265.75,2.43,2268.18,
+"is a set of tools
+over at the Broad,",2268.18,2.18,2270.3599999999997,
+"and we'll be talking about
+that during today's lecture.",2270.36,3.562,2273.922,
+"The best possible case when
+you're looking at sequence data",2273.922,2.458,2276.38,
+"today is that you get
+something like this, all right?",2276.38,2.62,2279.0,
+"Which is that you have
+a collection of reads",2279.0,2.34,2281.34,
+"for one individual and you
+align them to the genome",2281.34,6.03,2287.3700000000003,
+"and then you see that
+some of the reads",2287.37,2.01,2289.38,
+"have a C at a particular base
+position and other of the reads",2289.38,3.31,2292.69,
+have a T at that base position.,2292.69,3.8,2296.4900000000002,
+"And so it's a very
+clean call, right?",2296.49,2.17,2298.66,
+"You have a CT heterozygote
+at that position-- that",2298.66,4.32,2302.98,
+"is, whatever person that
+is is a heterozygote there.",2302.98,4.26,2307.2400000000002,
+"You can see the reference genome
+at the very bottom, right?",2307.24,2.576,2309.816,
+"So it's very difficult for
+you to read in the back,",2309.816,2.124,2311.9399999999996,
+but C is the reference allele.,2311.94,2.81,2314.75,
+"And the way that
+the IGV viewer works",2314.75,3.82,2318.57,
+"is that it shows non-reference
+alleles in color,",2318.57,2.57,2321.1400000000003,
+"so all those are the T alleles
+you see there in red, OK?",2321.14,5.27,2326.41,
+"And it's very, very
+beautiful, right?",2326.41,3.257,2329.667,
+"I mean you can tell
+exactly what's going on.",2329.667,1.833,2331.5,
+"Now we don't know whether
+or not the C or the T allele",2331.5,4.39,2335.89,
+"are a mom and dad
+respectively, right?",2335.89,1.937,2337.8269999999998,
+"We don't know which of the
+chromosomes they're on,",2337.827,2.083,2339.9100000000003,
+"but suffice to say,
+it's very clean.",2339.91,4.43,2344.3399999999997,
+"And the way that all of
+this starts, of course,",2344.34,1.96,2346.3,
+is with a BAM file.,2346.3,2.58,2348.88,
+"You guys have seen
+BAM files before.",2348.88,1.88,2350.76,
+I'm not going to belabor this.,2350.76,1.61,2352.3700000000003,
+"There's a definition
+here and you",2352.37,2.1,2354.47,
+"can add extra
+annotations on BAM files.",2354.47,2.012,2356.482,
+"But the other thing
+I wanted to point out",2356.482,1.708,2358.19,
+"is that you know that BAM
+files include quality scores.",2358.19,3.56,2361.75,
+"So we'll be using those quality
+scores in our discussion.",2361.75,3.7,2365.45,
+"The output of all
+this typically is",2365.45,2.6,2368.0499999999997,
+"something called a variant
+call file or a VCF file.",2368.05,6.27,2374.32,
+"And just so you are
+not completely scared",2374.32,6.49,2380.81,
+"by these files, I want to
+describe just a little bit",2380.81,2.18,2382.99,
+about their structure.,2382.99,1.52,2384.5099999999998,
+"So there's a header
+at the top telling you",2384.51,2.29,2386.8,
+what you actually did.,2386.8,1.76,2388.5600000000004,
+"And then chromosome 20 at this
+base location has this SNP.",2388.56,4.71,2393.27,
+"The reference allele is
+G, the alternative allele",2393.27,2.84,2396.11,
+"is A. This is some
+of the statistics",2396.11,4.334,2400.444,
+"as described by this
+header information,",2400.444,1.666,2402.11,
+like DP is the read depth.,2402.11,3.13,2405.2400000000002,
+"And this tells you the status
+of a trio that you processed.",2405.24,4.63,2409.87,
+"So this is the
+allele number for one",2409.87,12.099,2421.969,
+"of the chromosomes,
+which is 0, which",2421.969,1.541,2423.51,
+"is a G. The other one's
+a G, and so forth.",2423.51,3.1,2426.61,
+"And then this data right
+here is GT, GQ, GP,",2426.61,4.047,2430.657,
+which are defined up here.,2430.657,1.083,2431.7400000000002,
+"So you have one person,
+second person, third person,",2431.74,4.08,2435.8199999999997,
+"along with which one
+of the alleles, 0 or 1,",2435.82,4.17,2439.9900000000002,
+"they have on each of
+their chromosomes, OK?",2439.99,3.12,2443.1099999999997,
+So this is the output.,2443.11,1.37,2444.48,neutral
+"You put in raw reads
+and what you get out",2444.48,2.37,2446.85,
+"is a VCF file that for
+bases along the genome",2446.85,3.4,2450.25,
+"calls variance, OK?",2450.25,5.01,2455.26,
+"So that's all there
+is to it, right?",2455.26,1.93,2457.19,
+You take in your read data.,2457.19,2.34,2459.53,
+"You take your genome, throw
+it through the sequencer.",2459.53,3.14,2462.67,
+"You take the BAM file,
+you call the variants,",2462.67,3.63,2466.3,
+"and then you make your
+medical diagnosis, right?",2466.3,3.6,2469.9,
+"So what we're going to
+talk about is what goes on",2469.9,2.49,2472.39,
+"in the middle there,
+that little step-- how",2472.39,1.91,2474.2999999999997,
+"do you actually
+call the variants?",2474.3,2.21,2476.51,
+"And you might say, gee,
+that does not seem too hard.",2476.51,2.179,2478.6890000000003,
+"I mean, I looked at
+the slide you showed me",2478.689,1.791,2480.48,
+with the CT heterozygote.,2480.48,1.49,2481.97,sad
+"That looked beautiful, right?",2481.97,1.7,2483.6699999999996,
+"I mean, that was just gorgeous.",2483.67,1.82,2485.4900000000002,
+"I mean, these sequencers are
+so great and do so many reads,",2485.49,2.95,2488.4399999999996,
+"what can be hard
+about this, after all?",2488.44,2.43,2490.87,
+"You know, it's a quarter
+to 2:00, time to go home.",2490.87,3.44,2494.31,
+"Not quite, OK?",2494.31,0.86,2495.17,
+Not quite.,2495.17,0.5,2495.67,
+"The reason is actual
+data looks like this.",2495.67,4.72,2500.39,
+"So these are all reads
+aligned to the genome",2500.39,1.87,2502.2599999999998,
+"and, as I told you
+before, all the colors are",2502.26,1.874,2504.134,
+non-reference bases.,2504.134,2.376,2506.51,
+"And so you can see that
+the reads that come out",2506.51,4.01,2510.5200000000004,
+"of an individual are
+very messy indeed.",2510.52,3.55,2514.07,
+"And so we need to deal with
+those in a principled way.",2514.07,2.57,2516.6400000000003,
+"We need to make good,
+probabilistic assessments of",2516.64,3.41,2520.0499999999997,
+"whether or not there's a
+variant at a particular base.",2520.05,4.29,2524.34,
+"And I'm not going to belabor
+all the steps of the Genome",2524.34,4.06,2528.4,
+"Analysis Toolkit,
+suffice to say,",2528.4,1.98,2530.38,
+"here is a flow chart of all
+the steps that go through it.",2530.38,3.24,2533.62,
+"First, you map your reads.",2533.62,2.3,2535.92,
+You recalibrate the scores.,2535.92,2.8,2538.7200000000003,
+"You compress the
+read set and then",2538.72,2.4,2541.12,
+"you have read sets for
+n different individuals.",2541.12,3.83,2544.95,
+"And then you jointly call
+the variants and then you",2544.95,2.48,2547.43,
+"improve upon the variants
+and then you evaluate, OK?",2547.43,4.7,2552.1299999999997,
+"So I'll touch upon some of
+the aspects of this pipeline,",2552.13,2.95,2555.08,
+"the ones that I think
+are most relevant,",2555.08,2.01,2557.09,
+"so that you can appreciate
+some of the complexity",2557.09,4.31,2561.4,
+in dealing with this.,2561.4,1.832,2563.232,
+"Let me begin with the
+following question.",2563.232,1.708,2564.94,
+"Let us suppose that you have
+a reference genome here,",2567.46,7.29,2574.75,
+"indicated by this line,
+and you align a read to it.",2574.75,3.43,2578.18,
+"And then there's some base
+errors that are non-reference,",2578.18,3.525,2581.705,
+"so it's variants calls down
+at this end of the read, OK?",2581.705,3.765,2585.47,
+"So this is the five
+prime, three prime.",2585.47,2.48,2587.95,
+"And then you align a read
+from the opposite strand",2587.95,6.05,2594.0,
+"and you have some variant
+calls on the opposite end",2594.0,6.71,2600.71,
+of the read like this.,2600.71,0.95,2601.66,
+"And you'll say to yourself,
+what could be going on here,",2604.137,2.333,2606.4700000000003,
+you know?,2606.47,0.95,2607.4199999999996,
+"Why is it that they're
+not concordant, right,",2607.42,4.05,2611.4700000000003,
+"when they're mapped, but
+they're in the same region",2611.47,3.84,2615.31,
+of the genome?,2615.31,0.6,2615.91,
+"And then you think
+to yourself, well,",2618.71,2.2,2620.91,
+"what happens if I map this
+successfully here correctly",2620.91,4.827,2625.737,
+"to the reference genome
+and this correctly",2625.737,1.749,2627.486,
+"to the reference genome here,
+but this individual actually",2627.486,4.524,2632.0099999999998,
+"had a chromosome that had
+a deletion right here, OK?",2632.01,9.226,2641.2360000000003,
+"Then what would happen would
+be that all these reads down",2641.236,2.374,2643.6099999999997,
+"here are going to be
+misaligned, all of these bases",2643.61,2.734,2646.344,
+"are going to be misaligned
+with the reference.",2646.344,1.916,2648.26,
+"And so you're going
+to get variant calls.",2648.26,2.33,2650.59,
+"And these bases will be also
+misaligned with the reference,",2650.59,3.07,2653.6600000000003,
+you'll get variant calls.,2653.66,2.54,2656.2,
+"So deletions in
+an individual can",2656.2,4.21,2660.41,
+"cause things to
+be mapped but you",2660.41,2.75,2663.16,
+get variant calls at the end.,2663.16,4.38,2667.54,
+"And so that is shown
+here, where you",2667.54,3.21,2670.75,
+"have reads that are being mapped
+and you have variant calls",2670.75,3.87,2674.62,
+at the end of the reads.,2674.62,2.71,2677.33,
+"And it's also a
+little suspicious",2677.33,1.48,2678.81,
+"because in the middle here is
+a seven-base pair homopolymer",2678.81,6.17,2684.98,
+which is all T's.,2684.98,1.97,2686.95,
+"And as we know,
+sequencers are notoriously",2686.95,2.57,2689.52,
+"bad at correctly
+reading homopolymers.",2689.52,4.09,2693.61,
+"So if you then
+correct things, you",2693.61,4.09,2697.7000000000003,
+"discover that some
+fraction of the reads",2697.7,2.77,2700.47,
+"actually have one of the T's
+missing and all the variants",2700.47,6.6,2707.0699999999997,
+"that were present
+before go away.",2707.07,3.82,2710.8900000000003,
+"So this is a process
+of INDEL adjustment",2710.89,4.91,2715.7999999999997,
+"when you are mapping the
+region looking for variants.",2715.8,3.93,2719.73,
+"Now this does not occur we're
+talking about SNP microarrays.",2719.73,6.46,2726.19,
+"So this is a problem
+that's unique to the fact",2726.19,3.01,2729.2000000000003,
+"that we're making many
+fewer assumptions when",2729.2,2.82,2732.02,
+"we map reads to
+the genome de novo.",2732.02,2.33,2734.35,
+"The second and another
+very important step",2737.07,2.4,2739.4700000000003,neutral
+"that they're very proud
+of is essentially--",2739.47,4.62,2744.0899999999997,
+"I guess how to put this
+politely-- finding out",2744.09,2.31,2746.4,
+"that manufacturers of
+sequencing instruments,",2746.4,2.72,2749.12,
+"as you know, for every
+base that they give you,",2749.12,2.042,2751.162,
+"they give you an estimate
+of the probability",2751.162,1.833,2752.995,neutral
+"that the base is correct--
+or it's wrong, actually.",2752.995,3.245,2756.24,
+"A so-called Phred score--
+we've talked about that before.",2756.24,3.11,2759.35,
+"And as you would imagine,
+manufacturers' instruments",2759.35,3.73,2763.08,
+"are sometimes optimistic,
+to say the least, about",2763.08,3.24,2766.3199999999997,
+the quality of their scores.,2766.32,1.98,2768.3,
+"And so they did a survey of
+a whole bunch of instruments",2768.3,4.01,2772.3100000000004,
+"and they plotted the reported
+score against the actual score,",2772.31,4.692,2777.002,
+OK?,2777.002,1.358,2778.36,
+"And then they have a whole
+step in their pipeline",2778.36,2.15,2780.51,
+"to adjust the scores, whether
+you be a Solexa GA instrument,",2780.51,4.34,2784.8500000000004,
+"a 454 instrument, a SOLiD
+instrument, a HiSeq instrument,",2784.85,3.52,2788.37,
+or what have you.,2788.37,1.84,2790.21,
+"And there is a way to adjust the
+score based upon the raw score",2790.21,5.0,2795.21,
+"and also how far down
+the read you are,",2795.21,2.6,2797.81,
+as the second line shows.,2797.81,2.18,2799.99,
+"The second line is a
+function of score correction",2799.99,3.25,2803.24,
+"versus how far down the read or
+number of cycles you have gone.",2803.24,3.91,2807.1499999999996,
+"And the bottom is adjustments
+for dinucleotides,",2807.15,6.154,2813.304,
+"because some
+instruments are worse",2813.304,1.416,2814.7200000000003,
+"a certain dinucleotides
+than others.",2814.72,1.846,2816.566,
+"As you can see, they're very
+proud of the upper left hand",2816.566,2.374,2818.9399999999996,
+part.,2818.94,0.5,2819.44,
+"This is one of the major
+methodological advances",2819.44,2.06,2821.5,
+"of 1000 Genome
+Project, figuring out",2821.5,3.11,2824.61,
+"how to recalibrate quality
+scores for instruments.",2824.61,6.76,2831.3700000000003,
+Why is this so important?,2831.37,2.95,2834.3199999999997,
+"The reason it's important
+is that the estimate",2834.32,3.97,2838.29,
+"of the veracity of
+bases figures centrally",2838.29,4.79,2843.08,
+"in determining whether or
+not a variant is real or not.",2843.08,4.16,2847.24,
+"So you need to have as best
+an estimate as you possibly",2847.24,3.29,2850.5299999999997,
+"can of whether or not a base
+coming out of the sequencer",2850.53,4.02,2854.55,
+"is correct, OK?",2854.55,2.11,2856.6600000000003,
+"Now if you're doing
+lots of sequencing",2860.72,3.34,2864.06,
+"of either individuals
+or exomes--",2864.06,2.92,2866.98,neutral
+"I should talk about exome
+sequencing for a moment.",2866.98,3.73,2870.71,
+"Up until recently,
+it has not really",2870.71,1.5,2872.21,
+"been practical to
+do whole genome",2872.21,1.94,2874.15,
+sequencing of individuals.,2874.15,2.43,2876.58,
+"That's why these SNP arrays
+were originally invented.",2876.58,3.72,2880.2999999999997,
+"Instead, people sequenced the
+expressed part of the genome,",2880.3,4.25,2884.55,
+right?,2884.55,0.5,2885.05,
+All of the genes.,2885.05,3.1,2888.15,
+"And they can do this
+by capture, right?",2888.15,2.01,2890.1600000000003,
+They go fishing.,2890.16,2.79,2892.95,
+"They create fishing poles out of
+the genes that they care about",2892.95,6.53,2899.48,
+"and they pull out the
+sequences of those genes",2899.48,3.07,2902.55,
+and they sequence them.,2902.55,1.06,2903.61,
+"So you're looking at a
+subset of the genome,",2903.61,2.7,2906.31,
+but it's an important part.,2906.31,2.66,2908.97,
+"Nonetheless, whether or
+not you do exome sequencing",2908.97,3.16,2912.1299999999997,
+"or you do sequencing
+of the entire genome,",2912.13,2.89,2915.02,
+you have a lot of reads.,2915.02,1.57,2916.59,
+"And so the reads that you
+care about are the reads that",2916.59,3.59,2920.1800000000003,
+are different from reference.,2920.18,2.97,2923.1499999999996,
+"And so you can reduce the
+representation of their BAM",2923.15,3.97,2927.12,
+"file simply by throwing all
+the reads on the floor that",2927.12,3.39,2930.5099999999998,
+"don't matter, right?",2930.51,1.67,2932.1800000000003,
+"And so here's an example of
+the original BAM file and all",2932.18,2.92,2935.1,
+"the reads, and what
+you do is you just",2935.1,1.96,2937.06,
+"trim it to only the
+variable regions, right?",2937.06,4.67,2941.73,
+"And so you are
+stripping information",2941.73,3.61,2945.34,
+"around the variant regions
+out of the BAM file",2945.34,6.6,2951.94,
+"and things greatly compress
+and the downstream processing",2951.94,3.85,2955.79,
+becomes much more efficient.,2955.79,1.175,2956.965,
+OK.,2959.54,1.93,2961.47,
+"Now let's turn to the
+methodological approaches",2961.47,4.77,2966.24,
+"once we have gotten the
+data in as good a form",2966.24,2.53,2968.77,
+"as we possibly can get it, we
+have the best quality scores",2968.77,3.73,2972.5,
+"that we can possibly
+come up with,",2972.5,2.43,2974.93,
+"and for every base position,
+we have an indication",2974.93,5.5,2980.43,
+"of how many reads say
+that the base is this",2980.43,2.73,2983.16,
+"and how many reads say
+the base is that, OK?",2983.16,2.84,2986.0,
+"So we have these raw read counts
+of the different allelic forms.",2986.0,5.86,2991.86,
+"And returning to this,
+we now can go back",2991.86,4.39,2996.25,
+"and we can attempt
+to take these reads",2996.25,2.81,2999.06,
+"and determine what the
+underlying genotypes are",2999.06,3.831,3002.891,
+for an individual.,3002.891,0.749,3003.64,
+"Now I want to be clear
+about the difference",3006.419,1.791,3008.21,
+"between a genotype
+for an individual",3008.21,1.6,3009.81,
+"and an allelic spectrum
+for a population.",3009.81,3.5,3013.31,
+"A genotype for an
+individual thinks",3013.31,2.51,3015.82,
+"about both of the alleles
+that that individual has,",3015.82,2.75,3018.57,
+"and they can be phased
+or unphased, right?",3018.57,2.26,3020.8300000000004,
+"If they're phased,
+it means you know",3020.83,1.57,3022.4,
+"which allele belongs to mom and
+which allele belongs to dad,",3022.4,3.06,3025.46,
+"so to speak, right?",3025.46,2.2,3027.66,
+"If they're unphased, you
+simply know the number",3027.66,3.92,3031.58,
+"of reference alleles that
+you have in that individual.",3031.58,3.78,3035.36,
+"Typically, people think about
+there being a reference allele",3035.36,3.21,3038.57,
+"and an alternative allele,
+which means that a genotype can",3038.57,6.87,3045.44,
+"be expressed as
+0, 1, or 2, which",3045.44,3.72,3049.16,
+"is the number of
+reference alleles",3049.16,1.52,3050.68,
+"present at a particular base
+if it's unphased, right?",3050.68,4.98,3055.66,
+"0, 1, or 2-- 0 mean there are
+no reference alleles there,",3055.66,3.61,3059.27,
+"1 meaning that it's
+a heterozygote,",3059.27,1.88,3061.15,
+"2 mean there are two reference
+alleles in that individual.",3061.15,4.77,3065.92,
+OK?,3065.92,1.772,3067.692,
+"So there are different ways
+of representing genotype,",3067.692,2.208,3069.9,
+"but once again, it represents
+the different allelic forms",3069.9,4.71,3074.61,
+of the two chromosomes.,3074.61,2.83,3077.44,
+"And whatever form you
+choose, the probability",3077.44,4.0,3081.44,
+"over those genotypes
+has to sum to 1.",3081.44,2.674,3084.114,
+"You can think about
+the genotype ranging",3084.114,1.666,3085.78,
+"over all the possible bases from
+mom and from dad or over 0, 1,",3085.78,6.15,3091.9300000000003,
+and 2.,3091.93,0.535,3092.4649999999997,
+"Doesn't really matter,
+depending upon which way you",3092.465,2.125,3094.59,
+want to simplify the problem.,3094.59,3.38,3097.9700000000003,
+"And what we would like to do
+is, for a given population--",3097.97,4.23,3102.2,
+"let's say cases
+or controls-- we'd",3102.2,2.52,3104.72,
+"like to compute the
+probability over the genotypes",3104.72,3.15,3107.87,
+"with high veracity, OK?",3107.87,6.54,3114.41,
+"So in order to do
+that, we'll start",3114.41,4.79,3119.2,
+"by taking all the
+reads for each one",3119.2,2.13,3121.33,
+"of the individuals
+in a population, OK?",3121.33,3.695,3125.025,
+"And we're going to compute
+the genotype likelihoods",3125.025,2.255,3127.28,
+for each individual.,3127.28,2.89,3130.17,
+"So let's talk about
+how to do that.",3130.17,3.71,3133.88,
+"Now everything I've written on
+the board is on the next slide.",3133.88,2.86,3136.7400000000002,
+"The problem is, if I
+put it on the slide,",3136.74,2.02,3138.7599999999998,
+"it will flash in front
+of you and you'll go,",3138.76,2.04,3140.8,
+"yes, I understand that, I think.",3140.8,3.259,3144.059,
+"This way, I'll put
+it on the board first",3144.059,1.666,3145.7250000000004,neutral
+"and you'll look at
+it and you'll say,",3145.725,1.085,3146.81,
+"hm, maybe I don't
+understand that, I think.",3146.81,1.955,3148.765,
+"And then you'll
+ask any questions",3148.765,1.375,3150.14,
+"and we can look at the
+slide in a moment, OK?",3150.14,2.24,3152.3799999999997,
+"But here's the fundamental
+idea, all right?",3152.38,4.3,3156.6800000000003,
+"At a given base in the
+genome, the probability",3156.68,2.74,3159.4199999999996,
+"of the reads that we see based
+upon the genotype that we think",3159.42,3.4,3162.82,
+"is there can be expressed
+in the following form, which",3162.82,5.73,3168.55,
+"is that we take the product over
+all the reads that we see, OK?",3168.55,3.92,3172.4700000000003,
+"And the genotype is going to
+be a composition of the base we",3172.47,6.852,3179.3219999999997,
+"get from mom and the base
+that we get from dad,",3179.322,1.958,3181.28,
+"or it could simply
+be 0, 1, and 2.",3181.28,4.2,3185.48,
+"We'll put that
+aside for a moment.",3185.48,3.31,3188.79,
+"So what's the chance that
+we inherited something",3188.79,3.06,3191.85,
+from a particular base from mom?,3191.85,4.41,3196.2599999999998,
+"It's this base over
+a particular read.",3196.26,4.33,3200.59,
+"What's the chance
+a particular read",3200.59,1.75,3202.34,
+came from mom's chromosome?,3202.34,2.69,3205.03,
+"That's one half
+times the probability",3205.03,1.8,3206.8300000000004,
+"of the data given
+the base that we see.",3206.83,5.1,3211.93,
+"And once again, since
+it could be a coin",3211.93,1.91,3213.8399999999997,
+"flip whether the read came
+from mom or dad's chromosome,",3213.84,3.23,3217.07,
+"divide it by 2-- the
+probability of the data",3217.07,2.64,3219.71,
+"that we see with dad's version
+of that particular base.",3219.71,3.845,3223.555,
+"So once again, for
+all the reads we're",3226.09,3.97,3230.06,
+"going to compute the
+probability of the read set",3230.06,2.06,3232.12,
+"that we see given a particular
+hypothesized genotype",3232.12,4.61,3236.73,
+"by looking at what's the
+likelihood or the probability",3236.73,4.35,3241.08,
+of all those reads.,3241.08,2.347,3243.427,
+"And for each read,
+we don't know if it",3243.427,1.583,3245.01,
+came from mom or from dad.,3245.01,1.237,3246.2470000000003,
+"But in any event, we're going
+to compute the probability",3246.247,2.333,3248.58,
+"on the next blackboard,
+this bit right here.",3248.58,3.1,3251.68,
+OK?,3251.68,1.78,3253.46,
+Yes?,3253.46,1.846,3255.306,
+"AUDIENCE: So if you assume
+that mom and dad have",3255.306,2.426,3257.732,
+"a different phase at
+a particular base,",3257.732,5.815,3263.547,
+"couldn't that possibly
+skew the probability",3263.547,1.791,3265.338,
+"of getting a read from mom's
+chromosome or dad's chromosome?",3265.338,2.976,3268.3140000000003,
+PROFESSOR: A different phase?,3271.336,2.098,3273.4339999999997,
+"AUDIENCE: So the composition
+of bases affect what you get.",3273.434,6.368,3279.802,
+"I think certain
+base compositions",3279.802,5.456,3285.2580000000003,
+"are more likely to be
+sequenced, for example.",3285.258,2.992,3288.25,
+PROFESSOR: Yes.,3288.25,0.68,3288.93,
+AUDIENCE: Could that bias--,3288.93,1.98,3290.91,
+PROFESSOR: Yes.,3290.91,0.625,3291.535,
+"In fact, that's why on,
+I think, the third slide,",3291.535,3.185,3294.72,
+"I said non-random genotyping
+error was being excluded.",3294.72,3.22,3297.9399999999996,
+AUDIENCE: Oh.,3297.94,1.352,3299.292,
+PROFESSOR: Right?,3299.292,0.708,3300.0,neutral
+From our discussion today?,3300.0,1.01,3301.01,neutral
+"But you're right that it might
+be that certain sequences are",3301.01,2.5,3303.51,happy
+"more difficult to
+see, but we're going",3303.51,3.73,3307.2400000000002,
+"to exclude that
+for the time being.",3307.24,1.79,3309.0299999999997,
+OK?,3309.03,2.19,3311.2200000000003,
+"So this is the
+probability of the reads",3311.22,1.79,3313.0099999999998,
+"that we see given a
+hypothesized genotype.",3313.01,4.31,3317.32,
+"And I'll just show you,
+that's very simple.",3317.32,3.18,3320.5,
+"That we have a read, let's
+call the read D sub j,",3320.5,2.89,3323.39,
+"and we have the base that
+we think we should see.",3323.39,3.38,3326.77,
+"And if the base is correct,
+then the probability",3326.77,3.23,3330.0,
+"that that's correct is 1
+minus the error, right,",3330.0,3.21,3333.21,
+that the machine reported.,3333.21,1.88,3335.09,
+"And if it isn't
+correct, the probability",3335.09,1.76,3336.8500000000004,neutral
+"is just the error at that base
+that the machine reported.",3336.85,4.5,3341.35,
+"So we're using the error
+statistics from the machine",3341.35,3.18,3344.5299999999997,
+"and if it matches what we
+expect, it's 1 minus the error.",3344.53,4.362,3348.8920000000003,
+"And if it doesn't match,
+it's just simply going",3348.892,1.958,3350.85,
+"to be the error
+that's reported, OK?",3350.85,3.74,3354.5899999999997,
+"So this is the probability of
+seeing a particular read given",3354.59,2.977,3357.567,
+"a hypothesized base
+that should be there.",3357.567,1.708,3359.275,
+"Here's how we use that, looking
+at all the possible bases that",3362.27,3.28,3365.55,
+"could be there given a
+hypothesized genotype.",3365.55,3.99,3369.54,
+"Remember, this genotype is
+only going to be one pair.",3369.54,2.8,3372.34,
+"It's only going to be AA or
+TT or what have you, right?",3372.34,2.38,3374.7200000000003,
+So it's going to be one pair.,3374.72,2.15,3376.87,
+"So we're going to be testing
+for either one or two bases",3376.87,4.3,3381.17,
+being present.,3381.17,2.1,3383.27,
+"And finally, we want to
+compute the posterior",3383.27,5.79,3389.06,
+"of the genotype given the
+data we have observed, OK?",3389.06,4.34,3393.4,
+"So we want to compute what's
+the probability of the genotype",3393.4,4.53,3397.9300000000003,
+"given the reads that
+we have in our hand.",3397.93,2.849,3400.779,
+This is really important.,3400.779,1.041,3401.82,
+"That is what that genotype
+likelihood is up there.",3401.82,5.72,3407.54,
+"It's the probability of the read
+set given the genotype times",3407.54,3.837,3411.377,
+"the probability of
+the genotype-- this",3411.377,1.583,3412.96,
+"is a prior-- over the
+probability of the data.",3412.96,3.326,3416.286,
+This is simply Bayes' Rule.,3416.286,1.124,3417.41,
+"So with this, for
+an individual now,",3420.12,4.27,3424.39,
+"we can compute the
+posterior of the genotype",3424.39,2.76,3427.15,
+given the read set.,3427.15,3.0,3430.15,
+Very simple concept.,3430.15,2.12,3432.27,
+"So in another form, you can
+see the same thing here,",3432.27,4.72,3436.99,
+which is the Bayesian model.,3436.99,2.97,3439.9599999999996,
+"And we've talked about this
+haploid likelihood function,",3439.96,2.67,3442.63,
+"which was on the
+blackboard I showed you.",3442.63,4.25,3446.88,
+"And we're assuming all
+the reads are independent",3446.88,2.24,3449.12,
+"and that they're
+going to come equally",3449.12,2.05,3451.17,
+"from mom and dad, more
+or less, et cetera, OK?",3451.17,5.77,3456.94,
+"And the haploid likelihood
+function, once again,",3456.94,6.11,3463.05,
+"just is using the error
+statistics for the machine.",3463.05,4.36,3467.4100000000003,
+"So I'm asking if the
+machine says this is an A",3467.41,3.115,3470.5249999999996,
+"and I think it's an A, then the
+probability that that's correct",3470.525,4.375,3474.9,
+"is 1 minus the error
+of the machine.",3474.9,3.67,3478.57,
+"If the two are not
+in agreement, it's",3478.57,2.3,3480.8700000000003,
+"simply the error in the
+machine that I'm using.",3480.87,2.38,3483.25,
+"So this allows me now to
+give a posterior probability",3483.25,5.45,3488.7,neutral
+"of a genotype given a
+whole bunch of reads.",3488.7,3.62,3492.3199999999997,
+"And the one part that
+we haven't discussed",3495.03,4.06,3499.09,
+"is this prior,
+which is how do we",3499.09,3.71,3502.8,
+"establish what we think is
+going on in the population",3502.8,2.945,3505.7450000000003,
+and how do we set that?,3505.745,3.445,3509.19,
+"So if you look back
+at the slide again,",3509.19,2.77,3511.96,
+"you can see that we
+have these individuals",3511.96,1.86,3513.82,
+"and there's this magic step
+on the right-hand side, which",3513.82,3.1,3516.92,
+"is that somehow we're
+going to compute",3516.92,2.52,3519.44,
+"a joint estimate
+across all the samples",3519.44,3.22,3522.66,
+"to come up with an estimate
+of what the genotypes are",3522.66,3.34,3526.0,
+in a particular SNP position.,3526.0,5.0,3531.0,
+"And the way that we can do
+that is with an iterative EM",3531.0,4.66,3535.66,
+"procedure-- looks
+like this-- so we",3535.66,3.43,3539.0899999999997,
+"can estimate the probability
+of the population genotype",3539.09,7.75,3546.84,
+"iteratively using this
+equation until convergence.",3546.84,5.502,3552.342,
+And there are various tricks.,3552.342,1.208,3553.55,neutral
+"As you'll see if you
+want to delve further",3553.55,2.06,3555.61,neutral
+"into this in the
+paper I posted, there",3555.61,2.32,3557.9300000000003,neutral
+"are ways to deal with some
+of the numerical issues",3557.93,3.11,3561.04,
+"and do allele count
+frequencies and so forth.",3561.04,2.25,3563.29,
+"But fundamentally,
+in a population",3563.29,2.57,3565.86,
+"we're going to
+estimate a probability",3565.86,1.98,3567.84,
+"over the genotypes for
+a particular position.",3567.84,4.342,3572.1820000000002,
+"And just to keep
+it simple, you can",3572.182,1.458,3573.64,
+"think about the
+genotypes being 0, 1,",3573.64,3.14,3576.7799999999997,
+"or 2-- 0, no reference
+alleles present;",3576.78,4.21,3580.9900000000002,
+"1, one reference allele present
+to that site; 2, two reference",3580.99,3.99,3584.9799999999996,
+"alleles present
+to that site, OK?",3584.98,3.202,3588.1820000000002,
+"So we get a
+probability of each one",3588.182,1.458,3589.64,
+"of those states for
+that population.",3589.64,1.88,3591.52,
+Any questions at all about that?,3597.31,3.45,3600.7599999999998,
+The details or anything at all?,3600.76,1.52,3602.28,
+"People get the general idea
+that what we're just doing",3606.01,2.29,3608.3,
+"is we're taking a bunch of
+reads at a particular position",3608.3,4.6,3612.9,
+"for an individual and
+computing the posterior",3612.9,3.76,3616.6600000000003,
+"probability of a genotype
+seeing all of those reads",3616.66,3.41,3620.0699999999997,
+"and then, when we think about
+the entire population-- say",3620.07,3.9,3623.9700000000003,
+"either the cases
+or the controls--",3623.97,2.37,3626.3399999999997,
+"we're computing the
+probability over the genotypes",3626.34,2.66,3629.0,
+"within that population
+using this kind",3629.0,2.43,3631.43,
+of iterative procedure.,3631.43,1.184,3632.614,
+"OK, so going on then, if
+we go back to our 0, 1,",3637.72,6.99,3644.7099999999996,
+"2 kind of genotype
+representation,",3644.71,2.55,3647.26,
+"we can marginalize psi,
+which is the probability",3647.26,3.93,3651.19,
+"of the reference allele
+being in the population,",3651.19,2.005,3653.195,
+"and 1 minus psi
+being the probability",3653.195,1.62,3654.815,
+"of the non-reference allele,
+where the capital alleles are",3654.815,3.465,3658.28,
+"reference and the little
+ones are non-reference.",3658.28,3.59,3661.8700000000003,
+"And then we could also
+for epsilon 0, epsilon 1,",3661.87,4.0,3665.87,
+"And Epsilon 2, those
+are the probabilities",3665.87,2.67,3668.54,
+"of the various allelic
+forms, the various genotypes.",3668.54,4.28,3672.82,
+"And actually, I think
+epsilon 0 should be little A,",3675.33,2.41,3677.74,
+"little A. Must have
+got the two of them",3677.74,2.08,3679.8199999999997,
+"flipped, but it's not
+really that important.",3679.82,3.92,3683.7400000000002,
+"OK, so what do we know
+about a population?",3683.74,5.17,3688.91,
+"Who's heard about
+Hardy-Weinberg before?",3688.91,2.14,3691.0499999999997,
+Hardy-Weinberg equilibrium?,3691.05,2.37,3693.42,
+OK.,3693.42,1.55,3694.9700000000003,
+"So Hardy-Weinberg equilibrium
+says that, for example,",3694.97,3.24,3698.2099999999996,
+"in a population, if the allelic
+frequency of the reference",3698.21,2.53,3700.7400000000002,
+"allele is psi, right, what's
+the chance that an individual",3700.74,4.07,3704.81,
+"should be AA, big A, big
+A, reference, reference?",3704.81,3.88,3708.69,
+In a population?,3711.63,3.35,3714.98,
+Pardon?,3714.98,2.289,3717.2690000000002,
+I think I heard it.,3717.269,0.791,3718.06,
+"Psi squared, right?",3718.06,2.13,3720.19,
+"We're going to assume
+diploid organisms,",3720.19,2.45,3722.64,
+"we're going to
+assume random mating,",3722.64,1.602,3724.2419999999997,
+"we're going to
+assume no selection,",3724.242,1.458,3725.7000000000003,
+"we're going to assume no
+bottlenecks, and so forth,",3725.7,3.73,3729.43,
+right?,3729.43,0.68,3730.1099999999997,
+"That over time, the population
+will come to its equilibrium",3730.11,3.716,3733.826,
+in the exchange of alleles.,3733.826,1.474,3735.3,
+"However, if there's
+strong selection",3735.3,2.48,3737.78,
+"or if part of the
+population gets up and moves",3737.78,2.68,3740.46,
+"to a different continent
+or something of that sort,",3740.46,2.57,3743.03,
+you can get out of equilibrium.,3743.03,2.89,3745.92,
+"And so one question,
+whenever you're",3745.92,1.5,3747.42,
+"doing a genetic
+study like this--",3747.42,1.374,3748.794,
+"is your population in
+equilibrium or not?",3748.794,2.526,3751.3199999999997,
+"And we have a direct way for
+testing for that because we're",3754.27,3.3,3757.57,
+"actually estimating
+the genotypes, right?",3757.57,2.76,3760.3300000000004,
+So what we can do is this test.,3760.33,4.34,3764.67,
+"We can do a log likelihood
+test directly, right?",3764.67,3.35,3768.02,
+"And we can compare the
+probability of the observed",3768.02,4.04,3772.06,
+"genotypes-- these are E1 and
+E2, where the number indicates",3772.06,6.03,3778.09,
+"the number of reference
+copies-- over the probability",3778.09,4.25,3782.34,
+"of the genotypes being
+composed directly",3782.34,5.75,3788.09,
+"from the frequency of
+the reference allele.",3788.09,4.89,3792.98,
+"And this will tell
+us whether or not",3792.98,4.18,3797.16,
+these are concordant or not.,3797.16,3.17,3800.33,
+"And if the Chi-square
+value is large enough,",3800.33,2.08,3802.41,
+"we're going to say that this
+divergence couldn't have",3802.41,4.34,3806.75,
+"occurred at random and
+therefore the population is not",3806.75,2.88,3809.63,
+in equilibrium.,3809.63,0.625,3810.255,
+"And you might say,
+well, gee, why",3812.95,2.62,3815.5699999999997,
+"do I really care if it's
+in equilibrium or not?",3815.57,2.0,3817.57,
+"I mean, you know,
+what relevance does",3817.57,3.9,3821.4700000000003,
+"that have to me when
+I'm doing my test?",3821.47,3.03,3824.5,
+"Well, here's the issue.",3824.5,2.21,3826.71,
+"The issue is this-- you're going
+to be testing whether or not",3826.71,4.7,3831.41,neutral
+"genotypes are different
+between a case and a control",3831.41,3.88,3835.29,
+"population, let's say, OK?",3835.29,2.88,3838.17,
+"And you have a couple
+different tests you can do.",3838.17,3.5,3841.67,
+"The first test is
+the test on the top",3841.67,3.11,3844.78,
+"and the second test is
+the test on the bottom.",3844.78,2.31,3847.09,
+"Let's look at the test on
+the bottom for a moment, OK?",3847.09,2.92,3850.01,
+"The test in the bottom
+is saying you consider",3850.01,3.57,3853.5800000000004,
+"the likelihood of
+the data in group one",3853.58,4.05,3857.63,
+"and group two
+multiplied together",3857.63,1.66,3859.29,
+"over the probability of the
+data with the groups combined",3859.29,3.54,3862.83,
+"and you ask whether or not the
+increased likelihood-- you're",3862.83,8.6,3871.43,
+"willing to pay for that given
+the two degrees of freedom",3871.43,4.32,3875.75,
+"that model implies, right?",3875.75,3.37,3879.12,
+"Because you have to have two
+additional degrees of freedom",3879.12,8.67,3887.79,
+to pay for that in the bottom.,3887.79,2.51,3890.3,
+"On the other hand,
+in the top, you only",3890.3,2.46,3892.76,
+"have one degree of
+additional freedom",3892.76,2.75,3895.51,
+"to pay for the difference in
+simply the reference allele",3895.51,2.54,3898.05,
+frequency.,3898.05,1.997,3900.047,
+"And so these are two
+different metrics",3900.047,1.583,3901.63,
+"you can use to test
+for associations",3901.63,2.15,3903.78,
+"for a particular SNP in two
+different case and control",3903.78,4.4,3908.1800000000003,
+populations.,3908.18,2.02,3910.2,
+"The problem comes is that if the
+population is in equilibrium,",3910.2,4.09,3914.29,
+"then the bottom has too many
+degrees of freedom, right?",3914.29,4.92,3919.21,
+"Because the bottom,
+in some sense,",3919.21,1.42,3920.63,
+"can be computed
+directly from the top.",3920.63,1.94,3922.57,
+"You can compute the epsilons
+directly from the size",3922.57,2.25,3924.82,
+if it's in equilibrium.,3924.82,2.6,3927.42,
+"So you need to
+know whether or not",3927.42,1.63,3929.05,
+"you're in equilibrium or not
+to figure out what kind of test",3929.05,2.5,3931.55,
+"to use to see whether or not a
+particular SNP is significant.",3931.55,4.155,3935.7050000000004,
+"OK, so just a brief review where
+we've come to at this point.",3938.89,5.24,3944.1299999999997,
+"I've handed you a
+basket of reads.",3944.13,2.09,3946.2200000000003,
+"We're focusing on a particular
+location in the genome.",3946.22,3.43,3949.6499999999996,
+"For an individual, we can
+look at that basket of reads",3949.65,3.57,3953.2200000000003,
+"and compute a posterior
+probability of the genotype",3953.22,3.0,3956.22,
+at that location.,3956.22,2.41,3958.6299999999997,
+"We then asked if we take
+all of the individuals",3958.63,2.26,3960.8900000000003,
+"in a given interesting
+population, like the cases,",3960.89,3.87,3964.7599999999998,
+"we could compute the
+posterior or the probability",3964.76,2.24,3967.0,
+"of the genotype over
+all those cases.",3967.0,3.16,3970.16,
+"We then can take the
+cases and the controls",3970.16,2.75,3972.91,
+"and test for associations using
+this likelihood ratio, OK?",3972.91,6.95,3979.8599999999997,
+"So that is the way to go
+at the question of SNPs.",3979.86,6.93,3986.79,
+"And I'll pause here
+and see if there",3986.79,2.68,3989.47,
+any other questions about this.,3989.47,2.369,3991.839,
+"OK, now there are
+lots of other ways",3997.11,1.57,3998.6800000000003,
+"of approaching
+structural variation.",3998.68,2.96,4001.64,
+I said I would touch upon it.,4001.64,2.44,4004.08,
+"There is another
+method which is--",4004.08,3.24,4007.3199999999997,sad
+"we've not been here assigning
+what haplotypes to things",4007.32,3.71,4011.03,
+"or paying attention to
+which chromosome or mom",4011.03,4.87,4015.9,
+"or dad a particularly
+allele came from.",4015.9,2.52,4018.42,
+"But suffice to
+say-- I'll let you",4018.42,1.73,4020.15,
+"read this slide
+at your leisure--",4020.15,2.18,4022.33,
+"the key thing is that, imagine
+you have a bunch of reads.",4022.33,4.62,4026.95,
+"What you can do in
+a particular area",4026.95,1.78,4028.73,
+"there's going to
+be a variant is you",4028.73,1.5,4030.23,
+"can do local assembly
+of the reads.",4030.23,2.85,4033.08,
+"We want to do local assembly
+because local assembly handles",4033.08,4.5,4037.58,
+"general cases of
+structural variation.",4037.58,1.76,4039.34,
+"And if you then take
+the most likely cases",4041.9,3.59,4045.4900000000002,
+"of the local assembly
+supported by reads,",4045.49,2.87,4048.3599999999997,
+"you have the different possible
+haplotypes or collections",4048.36,4.7,4053.06,
+"of bases along the
+genome from the assembly.",4053.06,5.12,4058.18,
+"And we've already talked
+about, earlier in class,",4058.18,3.15,4061.33,
+"how to take a given
+sequence of bases",4061.33,2.86,4064.19,
+"and estimate the probability
+of the divergence",4064.19,2.11,4066.3,
+from another string.,4066.3,2.31,4068.61,
+"So you can estimate
+the divergence",4068.61,1.9,4070.51,
+"of each one of those
+assemblies from the reference",4070.51,2.67,4073.1800000000003,
+"and compute likelihoods, like
+we did before for single bases,",4073.18,3.05,4076.23,
+"although it's
+somewhat more complex.",4076.23,2.96,4079.19,
+"And so another way
+to approach this",4079.19,1.87,4081.06,
+"is, instead of asking
+about individual bases",4081.06,3.85,4084.91,
+"and looking at the likelihood
+of individual bases,",4084.91,3.33,4088.24,
+"you can look at doing
+localized assembly of the reads",4088.24,4.9,4093.14,
+"that handle
+structural variation.",4093.14,1.43,4094.5699999999997,
+"And if you do that,
+what happens is",4097.49,5.56,4103.05,
+"that you can recover
+INDEL issues that",4103.05,6.87,4109.92,
+"appear to call SNP variants that
+actually are actually induced",4109.92,8.609,4118.529,
+"by insertions and deletions
+in one of the chromosomes.",4118.529,5.881,4124.410000000001,
+"So as you can see, as things
+get more sophisticated",4124.41,6.1,4130.51,
+"in the analysis of
+human genome data,",4130.51,2.269,4132.779,
+"one needs a variety
+of techniques,",4132.779,1.941,4134.72,
+"including local assembly,
+to be able to recover",4134.72,3.11,4137.83,
+what's going on.,4137.83,0.67,4138.5,
+"Because of course,
+the reference genome",4138.5,1.729,4140.229,
+"is only an approximate
+idea of what's",4140.229,2.451,4142.68,
+"there and is being
+used as a scaffold.",4142.68,3.96,4146.64,
+"So we've already talked
+about the idea of phasing,",4146.64,7.009,4153.649,
+"and we talked about why phasing
+is important, especially",4153.649,4.141,4157.79,
+"when we're trying to
+recover whether or not",4157.79,4.689,4162.479,
+"you have a loss of
+function event, right?",4162.479,2.271,4164.75,
+"And so the phasing
+part of genomics",4164.75,4.069,4168.819,
+"right now is highly
+heuristic, relies partly",4168.819,3.71,4172.529,
+"upon empirical data from
+things like the HapMap Project",4172.529,4.561,4177.09,
+"and is outside the
+scope of what we're",4177.09,2.0,4179.09,
+"going to talk about,
+because we could talk",4179.09,1.75,4180.84,
+"about phasing for
+an entire lecture.",4180.84,1.689,4182.529,
+"But suffice it to
+say, it's important.",4182.529,2.351,4184.88,
+"And if you look at
+what actually goes on,",4184.88,2.42,4187.3,
+"here's a trio, mom,
+dad, and the daughter.",4187.3,3.47,4190.77,
+"You can see down at the
+bottom, you see mom's reads.",4190.77,3.22,4193.990000000001,
+"And you see dad actually
+has two haplotypes.",4193.99,2.35,4196.34,
+"He got one haplotype
+from one of his parents",4196.34,1.87,4198.21,
+"and the other haplotype
+from both of his parents.",4198.21,4.37,4202.58,
+"And then the daughter actually
+has the haplotype number one",4202.58,6.83,4209.41,
+"from dad and no haplotype
+number one from mom.",4209.41,4.1,4213.51,
+"So you can see how these
+blocks of mutations",4213.51,3.99,4217.5,
+"are inherited through the
+generation in this form.",4217.5,6.9,4224.4,
+"And finally, if you
+look at a VCF file,",4227.26,4.48,4231.74,
+"if you see a
+vertical bar, that's",4231.74,4.4,4236.139999999999,
+"telling you that the
+chromosomal origin is fixed.",4236.14,7.27,4243.410000000001,
+"So it tells you, for
+example, in this case,",4243.41,2.48,4245.889999999999,
+"the one where the
+arrow's pointed to",4245.89,1.5,4247.39,
+"is that variant
+number one, which",4247.39,2.29,4249.68,
+"is the alternative
+variant T came from mom",4249.68,3.0,4252.68,
+and a T came from dad.,4252.68,2.44,4255.12,
+"So VCF, when it has
+slashes between the two",4255.12,5.25,4260.37,
+"different alleles of a
+genotype is unphased,",4260.37,4.82,4265.19,
+"but you can actually have
+a phased VCF version.",4265.19,2.91,4268.099999999999,neutral
+"And so there's a whole
+phase in the GATK tool kit",4268.1,4.4,4272.5,
+that does phasing.,4272.5,2.88,4275.38,
+"And finally, we get
+through all this,",4275.38,3.01,4278.39,
+"the question is how important
+are the variants you discover?",4278.39,3.58,4281.97,
+"And so there's a
+variant analysis phase",4281.97,3.0,4284.97,
+"and it will go through and
+annotate all the variants.",4284.97,3.19,4288.16,
+"For example, this is a
+splice site acceptor variant",4288.16,5.25,4293.41,
+"which is in a
+protein coating gene",4293.41,2.71,4296.12,
+"and it's thought
+to be important.",4296.12,3.12,4299.24,
+"And so at the end
+of this pipeline,",4299.24,1.87,4301.11,
+"what's going to
+happen is you're going",4301.11,1.583,4302.692999999999,neutral
+"to be spitting out not
+only the variants but,",4302.693,3.397,4306.09,
+"for some of them, what
+their annotated function is.",4306.09,2.87,4308.96,
+"OK, so that ends the
+part of our lecture",4311.96,2.54,4314.5,neutral
+"where we're talking about
+how to process raw read data.",4314.5,4.34,4318.84,
+"And I encourage you to look
+at the GATK and other websites",4318.84,5.082,4323.9220000000005,
+"to actually look at
+the state of the art.",4323.922,1.708,4325.629999999999,
+"But as you can see, it's
+an evolving discipline",4325.63,5.37,4331.0,
+"that has a kernel of principal
+probabilistic analysis in part",4331.0,6.17,4337.17,
+"of its core surrounded by
+a whole lot of baling wire,",4337.17,5.579,4342.749,
+"right, to hold it all together.",4342.749,1.291,4344.04,neutral
+"And you get the
+reads marshalled,",4344.04,1.83,4345.87,neutral
+"organized, compressed,
+aligned properly, phased,",4345.87,5.64,4351.51,
+"and so forth, OK?",4351.51,4.49,4356.0,
+"Let's talk now about how
+to prioritize variants.",4356.0,3.83,4359.83,
+"And I just wanted to show you
+a very beautiful result that",4359.83,4.33,4364.16,
+"is represented by this paper,
+which came out very recently.",4364.16,6.46,4370.62,
+"And here is a portion
+of the genome.",4370.62,4.37,4374.99,
+"And we're looking
+here at-- you see",4374.99,4.1,4379.09,
+here-- a pancreatic disorder.,4379.09,7.38,4386.47,
+"And there is an enhancer
+on the right-hand side",4386.47,2.87,4389.34,
+"of the screen where that
+little red square is.",4389.34,2.84,4392.18,
+"And recall that we said that
+certain histone marks were",4392.18,4.68,4396.860000000001,
+"present typically
+over active enhancers.",4396.86,2.48,4399.339999999999,
+"And so you can see the
+H3K4 mono-methyl mark being",4399.34,3.75,4403.09,
+"present over that little
+red box as well as",4403.09,1.94,4405.03,
+"the binding of two pancreatic
+regulators, FoxA2 and Pdx1.",4405.03,5.35,4410.38,
+"And within that
+enhancer you can see",4410.38,2.292,4412.6720000000005,
+"there are a whole lot of
+variants being called.",4412.672,1.958,4414.629999999999,
+"Well, not a whole lot.",4414.63,0.76,4415.39,
+"There are actually
+five different variants",4415.39,1.3,4416.6900000000005,
+being called.,4416.69,0.74,4417.429999999999,
+"And in addition to those
+five specific SNP variants,",4417.43,3.83,4421.26,
+"there's also another
+variation that was observed",4421.26,2.23,4423.49,
+"in the population of a 7.6-kb
+deletion right around that",4423.49,3.61,4427.099999999999,
+enhancer.,4427.1,2.04,4429.14,
+"And if you look at the
+inheritance of those mutations",4429.14,6.27,4435.410000000001,
+"with disease
+prevalence, you can see",4435.41,2.7,4438.11,
+"that there's a very
+marked correlation.",4438.11,3.305,4441.415,
+"That when you inherit
+these variants,",4441.415,4.655,4446.07,
+you get this Mendelian disorder.,4446.07,3.38,4449.45,
+"So it's a single
+gene disorder really.",4449.45,1.72,4451.17,
+"And in order to confirm this,
+what the authors of this study",4454.07,6.2,4460.2699999999995,
+"did was they took
+that enhancer and they",4460.27,3.71,4463.9800000000005,
+"looked at all the different
+SNPs and they mutated it.",4463.98,4.76,4468.74,
+"And in the upper
+left-hand corner,",4468.74,2.12,4470.86,
+"you can see that the five little
+asterisks note the decrease",4470.86,5.37,4476.23,
+"in activity of that
+enhancer when they mutated",4476.23,5.93,4482.16,
+"the bases indicated
+at SNP positions.",4482.16,3.28,4485.44,
+"The three C's on the
+panel on the right",4485.44,3.32,4488.759999999999,
+"with the y-axis being
+relative interaction",4488.76,2.61,4491.37,
+"shows that that
+enhancer is interacting",4491.37,1.91,4493.28,
+with the promoter of that gene.,4493.28,3.01,4496.29,
+"And they further
+elucidated the motifs",4496.29,2.59,4498.88,
+"that were being interacted with
+and the little arrows point",4498.88,4.36,4503.24,
+"to where the mutations
+in those motifs occur.",4503.24,4.44,4507.679999999999,
+"So they've gone
+from an association",4507.68,2.5,4510.18,
+"with that particular disease
+to the actual functional",4510.18,6.36,4516.54,
+"characterization
+of what's going on.",4516.54,3.22,4519.76,
+"I'll leave you with a final
+thought to think about.",4519.76,2.62,4522.38,
+"This is the thing
+that caused the brawls",4522.38,3.207,4525.587,
+"in the bars I told you about
+at the beginning of today's",4525.587,2.333,4527.92,
+lecture.,4527.92,1.78,4529.7,
+"Let's suppose you look
+at identical twins,",4529.7,2.22,4531.92,
+"monozygotic twins, and you
+ask the following question.",4531.92,2.35,4534.27,
+"You say, OK, in
+monozygotic twins,",4534.27,2.78,4537.05,
+"the prevalence of a particular
+disease is a 30% correlative.",4537.05,6.13,4543.18,
+"That is, if one individual
+in a twin has the disease,",4543.18,3.68,4546.860000000001,
+"there's a 30% chance that the
+other twin's going to get it.",4546.86,4.44,4551.299999999999,
+"Now there are two
+possibilities here,",4551.3,1.64,4552.9400000000005,
+"which is that for
+all pairs of twins,",4552.94,3.564,4556.504,
+"there's a very low risk
+that you're going to get it,",4556.504,2.166,4558.67,
+"or that there are some
+subset of genotypes where",4558.67,4.48,4563.15,
+"if one twin has it, the other
+one's always going to get it.",4563.15,4.03,4567.179999999999,
+"So the author of the
+study actually looked",4567.18,3.14,4570.320000000001,
+"at a block of identical twin
+data and asked two questions.",4570.32,2.79,4573.11,
+"The first was if you look at
+the percentage of cases that",4573.11,4.85,4577.96,
+"would test positive, making
+no assumptions about genotype,",4577.96,5.06,4583.02,
+"using twin data, you
+can see the percentage",4583.02,2.909,4585.929,
+"of people that actually
+have a disease that",4585.929,1.791,4587.72,
+"will test positive
+is actually fairly",4587.72,2.28,4590.0,
+"low for a wide
+variety of diseases.",4590.0,2.32,4592.32,
+"All these diseases were
+studied in the context",4592.32,2.89,4595.21,
+of identical twins.,4595.21,3.2,4598.41,
+"And this suggested to
+them that, in fact,",4598.41,5.15,4603.5599999999995,
+"personal genomic
+sequencing might not",4603.56,2.94,4606.5,
+"be as predictive
+as one might like.",4606.5,4.04,4610.54,
+"That is, if you have a disease,
+for over half of these,",4610.54,4.15,4614.69,
+the test will not be positive.,4614.69,3.57,4618.259999999999,
+"And furthermore, if you test
+negative for the disease,",4618.26,3.91,4622.17,
+"your relative risk--
+that is, the chance",4622.17,1.82,4623.99,
+"you're going to get this
+disease to the chance you get it",4623.99,2.6,4626.59,
+"at random in the population--
+is not really reduced that much.",4626.59,5.36,4631.95,
+"And so, since this study
+relied solely on twin data",4631.95,4.01,4635.96,
+"and didn't make any
+other assumptions,",4635.96,2.19,4638.15,
+"it raised the question in
+the field of to what extent",4638.15,4.46,4642.61,
+"is personal genome sequencing
+going to be really helpful?",4642.61,3.46,4646.07,
+"So on that note, we've
+talked a lot today",4646.07,2.34,4648.41,
+"about the analysis of
+human genetic variation.",4648.41,4.03,4652.44,
+I hope you've enjoyed it.,4652.44,1.54,4653.98,
+"Once again, on Thursday
+we have Ron Weiss coming.",4653.98,4.477,4658.456999999999,
+Thank you very much.,4658.457,0.833,4659.29,
+"This concludes lecture 20 of the
+formal material in the course",4659.29,3.142,4662.432,
+and we'll see you in lecture.,4662.432,1.208,4663.639999999999,
+Thank you very much.,4663.64,2.15,4665.79,

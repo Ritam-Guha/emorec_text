@@ -1,0 +1,97 @@
+text,start,duration
+"Hey, how's it going, Dave 2D here,",5.04,1.52
+"So when Samsung announced the S9 and the S9 Plus, one of the things that they",6.62,3.6
+"talked about really briefly in their keynote was the inclusion of a new heart sensor,",10.22,4.12
+and that one was really interesting to me because it was the first heart sensor;,14.34,3.56
+It was the first phone that could supposedly measure blood pressure,18.04,2.54
+"with just a touch, which is pretty impressive.",20.9,3.04
+"Now I mentioned this briefly before in another video and people are like ""who cares?"",",23.94,3.04
+"""you know Samsung phones have had heart sensors forever!""",26.98,2.02
+"This is new. The old ones could measure heart rate, which is basically how fast your heart beats in a minute",29.26,5.33
+"which is cool, but this measures blood pressure,",34.59,2.79
+"which is the, I guess the amount of pressure that your blood exerts on your, the walls of your blood vessels?",37.38,6.119
+"It's-it's a very complex thing to measure, like you can't just measure it",43.54,4.129
+"Traditionally you need equipment to do it, you need a cuff that inflates",47.739,3.11
+And then you need a stethoscope to hear what's going on inside there.,50.85,2.25
+They have equipment to like speed it up,53.1,1.92
+But it's not a one-touch process. The other reason why I find it interesting is that.,55.02,4.68
+"Okay, it's actually the more important reason is that blood pressure is",59.7,5.0
+One of the leading risk factors when it comes to cardiovascular disease and cardiovascular disease,64.78,5.02
+"is the number one leading cause of death,",69.8,2.53
+"Globally, it's literally like the number one thing",72.85,2.538
+"that kills people in the world, 
+cardiovascular disease.",75.388,2.792
+"And if you have a device, like a phone, that you can hold in your hand that can measure blood pressure;",78.18,4.889
+"Like that that could change the world, that could literally save lives",83.83,3.709
+"So I wanted to see what this thing could do. I wanted to see if this thing was accurate,",87.67,3.199
+"I wanted to see if the sensor worked like I thought it would work, and yeah, there's some good things,",90.869,4.56
+"there's some bad things, but we're just gonna going to go through real quickly. So to make this whole thing work",95.43,3.959
+"You need to get an app it's specific to the S9 and  the S9 Plus. It doesn't work on other phones,",99.39,3.55
+it's called My BP Lab and it's made in conjunction with Samsung;,103.799,3.87
+"It's through some university, and it's the only app that currently uses the blood pressure sensor.",107.67,3.782
+Now this may change in the future,111.452,1.287
+"But as of today, in the middle of March",112.74,2.22
+That's the only way they can use this blood pressure sensor on the S9 and the S9 plus,115.22,4.82
+"Okay, so when you set this thing up, the first thing you'll notice is that this is a",120.06,3.78
+research study and the data that this app measures and collects is used to kind of,124.02,3.92
+see the relationship between stress and health,127.944,2.756
+"It's an interesting study, but I mean I'm here just for the blood pressure measurement",130.7,4.32
+"That's all I really care about. Okay, so you have to sign a whole bunch of consent things,",135.04,3.6
+but it's pretty easy to get it up and running,138.64,1.69
+"Now the first time you use this, it asks you to do a base measurement for your blood pressure",140.33,4.279
+"and that's where things get a little bit weird, the app doesn't tell you an",144.61,3.779
+actual number like you don't know your blood pressure value.,148.55,2.809
+You just know that that's your base measurement and any subsequent measurement that you do with the app it just tells you if it's gone,151.36,5.309
+Up or down as a percentage it never actually gives you a number,156.67,3.509
+Now there is a way to get a number into the system you have to calibrate it using external hardware,160.18,3.69
+So you need a blood pressure cuff or a blood pressure,163.87,2.25
+machine of some sort or you can go to your physician and get it done,166.22,2.839
+But you can in put an actual known,169.06,1.929
+measurement for your base blood pressure so that the app knows what that base value is,170.989,5.0
+So every time you remeasure it if it goes up or down,176.209,1.701
+It'll kind of just calculate what the difference is and just give you the new updated value,177.91,5.22
+So the app doesn't actually measure blood pressure,183.319,1.431
+It just kind of measures the change in blood pressure,185.25,1.869
+So if you have like a base value that the app knows it can give you a number,187.12,3.66
+but if you don't you don't have an actual measurement,190.78,3.02
+So the sensor uses ppg to try to measure the blood pressure,193.8,3.73
+it's basically an optical measurement,197.53,1.63
+The sensor has a couple of LEDs and it measures the way that the light reflects off of your fingertip when it's covering the sensor to,199.16,5.569
+Obtain a value so I calibrated this thing to my blood pressure,204.73,3.3
+but when I use the app on my family members and friends,208.03,2.25
+some of them who I know have,210.53,1.35
+drastically different blood pressures from me the app and the sensor just weren't picking up proper differences now it is possible or even very likely,211.88,7.22
+that the app kind of caters to the user like because it's calibrated to me it wouldn't work on other people,219.1,6.059
+I think that's very likely,225.16,1.329
+but I did test this thing out in a different way so what I did was I just,226.489,3.29
+exercise and exercis does elevate blood pressure a bit and the app does pick up that increase in blood pressure,230.03,4.82
+but it doesn't seem to be as accurate as a blood pressure cuff now,234.92,3.409
+It could be a new limitation with the actual sensor like maybe it's not designed to measure,238.329,4.35
+elevated blood pressure from exercise because that's like not how you want to measure blood pressure normally,242.84,4.1
+but I mean that's just that's the only way that I can really test or,247.04,4.22
+pretend to test its accuracy,251.5,2.0
+Now there are other limitations one I noticed that cold fingers don't work very well,253.7,4.2
+Dry fingers as well like I have can some dry hands from the winter and just like it doesn't always work reliably and the app,258.109,5.9
+itself mentions that certain skin pigmentation may not work,264.01,3.019
+But I think the big limitation comes from the sensor itself or at least the algorithm that the sensor is using to calculate blood pressure,267.04,6.769
+So I think it's weird that it doesn't measure blood pressure,273.91,3.41
+But it did a little research on this whole technology and that seems to be an issue with the tech look,277.32,4.769
+"There's a feasibility study on this stuff, and they're saying that you could measure the relative variation of blood pressure",282.09,4.739
+but they couldn't find the absolute pressure value like I'm not even comfortable saying that this thing can measure blood pressure it can measure the,286.93,6.2
+"change in blood pressure, but it can't actually measure your blood pressure at least not with the current iteration of this app now",293.13,6.419
+I think this app and this hardware and this whole thing can get way better,299.55,3.36
+and I think that may be why,302.91,1.66
+Samsung is doing this partnership with University like maybe,304.57,2.539
+they're gonna be taking the data from like all the people that have been using this app and,307.18,3.589
+using it to improve the sensor or the algorithm that is used in this,310.84,4.429
+sensor and like that could just make it better over time,315.43,2.929
+but right now the app and the sensor feel kind of mediocre to me,318.36,3.63
+So the idea of a phone that you could use to check your blood pressure intermittently is awesome,322.09,5.0
+and I think for some very very rare cases,327.09,2.04
+It could technically save a life even in its current,329.169,2.39
+Iteration like if you were someone that didn't know anything about your blood pressure,331.69,2.779
+and you started using this thing and you notice that it was elevated,334.47,2.79
+You could kind of do something to monitor or manage that that's cool,337.26,3.269
+but for the vast majority of people that are interested in this phone like I would not consider the blood pressure monitor a,340.53,5.579
+substantial feature at least not enough to warrant the purchase of this phone because of that feature okay,347.32,5.299
+Hope you guys enjoyed this video. Thumbs if you liked it. Subs  if you loved it. See you guys next time,352.62,3.66

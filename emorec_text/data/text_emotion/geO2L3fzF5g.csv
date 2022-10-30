@@ -1,0 +1,153 @@
+text,start,duration,end,dominant_emotion
+"- Hi. I'm Bob Eckel at the
+University of Colorado,",5.602,2.114,7.716,angry
+"Anschutz Medical Campus in
+Aurora just east of Denver,",7.716,3.564,11.280000000000001,angry
+and I'm here to report on a publication,11.28,3.204,14.484,angry
+"just released by the
+American Heart Association",14.484,2.543,17.027,angry
+that deals with cardiovascular disease,17.027,2.6,19.627000000000002,angry
+"in patients with type 1 diabetes,",19.627,2.45,22.076999999999998,angry
+"I was the senior author
+on a multi-authored paper",22.077,2.763,24.840000000000003,angry
+"that Sarah de Ferranti from
+the Boston Children's Hospital",24.84,4.234,29.073999999999998,angry
+assumed the role of the first author.,29.074,2.233,31.307000000000002,angry
+The purpose of this manuscript really is,31.307,2.601,33.908,angry
+to bring to light the fact that,33.908,2.055,35.963,angry
+"cardiovascular disease in
+patients with type 1 diabetes",35.963,2.728,38.691,angry
+"may not be the same entity
+that it is in type 2 diabetes.",38.691,4.296,42.987,angry
+"Now I should point out, too,",42.987,1.23,44.217,angry
+"the American Diabetes Association
+teamed up with the AHA",44.217,2.345,46.562,angry
+"on this document, so it's been reviewed",46.562,1.741,48.303,angry
+by both organizations.,48.303,2.033,50.336,angry
+But I think a couple of the key points,50.336,1.764,52.1,angry
+"that we want to bring that
+we want to bring forth",52.1,0.9,53.0,angry
+on this manuscript is:,53.0,2.31,55.31,angry
+"number one,
+Are their risk factors",55.31,1.585,56.895,angry
+"the same?
+And they may not be.",56.895,2.52,59.415000000000006,angry
+"Other than duration of diabetes,",59.415,2.019,61.434,angry
+"and perhaps hypertension,",61.434,2.114,63.547999999999995,angry
+"and perhaps glucose control,
+that could be debated,",63.548,3.718,67.266,angry
+"the risk factors for atherosclerotic
+cardiovascular disease",67.266,2.74,70.006,angry
+and type 1 are quite a bit different.,70.006,1.822,71.828,angry
+The lipids are very different.,71.828,1.672,73.5,angry
+Patients with type 1 diabetes,73.5,1.544,75.044,angry
+"have higher levels of HDL cholesterol,",75.044,2.587,77.631,angry
+"but yet, they have a burden
+of cardiovascular disease,",77.631,2.996,80.627,angry
+particularly the atherosclerotic form.,80.627,1.996,82.62299999999999,angry
+Why is that?,82.623,1.033,83.656,angry
+Is the HDL not working correctly?,83.656,2.566,86.22200000000001,angry
+"Or, in fact, is the high HDL, in fact,",86.222,2.763,88.985,
+"dysfunctional, in fact, causing harm?",88.985,2.543,91.528,angry
+I don't think we have an answer to that.,91.528,2.194,93.72200000000001,angry
+What are the other risk factors,93.722,1.394,95.116,angry
+"that relate the atherosclerotic
+cardiovascular disease",95.116,1.996,97.112,angry
+and type 1 diabetes?,97.112,1.057,98.169,angry
+This manuscript really reviews,98.169,1.614,99.783,angry
+all the potential risk factors,99.783,1.521,101.304,
+"and brings you up to date on that,",101.304,2.078,103.382,
+but really reveals the fact that,103.382,1.439,104.821,
+we don't know a lot about the,104.821,1.103,105.92399999999999,
+"atherosclerotic disease in
+patients with type 1 diabetes.",105.924,3.681,109.605,angry
+"Another area is the plaque.
+Is the plaque the same?",109.605,2.821,112.426,angry
+Is it so lipid laden?,112.426,2.101,114.527,angry
+"And not only is HDL higher
+in type 1 diabetic patients,",114.527,3.402,117.929,angry
+"but actually LDL
+cholesterols are the same,",117.929,1.916,119.845,angry
+or lower.,119.845,0.94,120.785,angry
+Triglycerides are almost never abnormal,120.785,2.124,122.90899999999999,angry
+"unless control is pitifully,
+poorly controlled.",122.909,2.973,125.882,angry
+"I think we've got these issues
+related to the plaque itself.",125.882,2.948,128.83,angry
+Maybe the plaque is less lipid laden.,128.83,2.973,131.80300000000003,angry
+I think one hypothesis is the plaque,131.803,2.101,133.904,angry
+"is more calcified, more fibrotic,",133.904,1.951,135.855,angry
+"and may actually be more
+stable in patients with type 1.",135.855,3.042,138.897,angry
+Is the disease the same?,138.897,2.136,141.033,angry
+"Another area is the acute
+coronary syndrome setting.",141.033,3.878,144.911,angry
+When the late George Eisenbarth and I,144.911,1.66,146.571,angry
+"did an editorial actually
+in translational science",146.571,3.703,150.274,angry
+"before George left us,
+unfortunately prematurely,",150.274,3.542,153.816,angry
+"we brought up the fact that
+the acute coronary syndrome",153.816,2.255,156.071,angry
+"has never actually been
+studied in type 1 patients.",156.071,3.622,159.69299999999998,angry
+Everything that links diabetes to,159.693,1.855,161.548,angry
+cardiovascular disease is type 2.,161.548,2.38,163.928,angry
+"But, in fact, what the group at the Joslin",163.928,1.729,165.657,angry
+has identified is that after a,165.657,1.859,167.51600000000002,angry
+"myocardial infarction on
+a mass model in type 1,",167.516,3.017,170.533,angry
+"there is a antibody mediated
+myocarditis developed.",170.533,3.832,174.36499999999998,angry
+"But, when George and I wrote the editorial",174.365,2.044,176.40900000000002,angry
+"we couldn't find any evidence
+the acute coronoary syndrome",176.409,2.821,179.23,angry
+has actually been studied well,179.23,1.834,181.064,angry
+in patients with type 1 diabetes.,181.064,1.753,182.81699999999998,angry
+"In fact, is there an
+antibody mediated myocarditis",182.817,3.645,186.46200000000002,angry
+that results in a greater likelihood,186.462,1.696,188.158,angry
+"of congestive heart failure
+and the acute coronary syndrome",188.158,2.542,190.7,angry
+"in patients with type 1?
+We don't know.",190.7,2.996,193.696,angry
+"Finally, interventions in
+type 1 just haven't ensued.",193.696,3.599,197.295,angry
+What about statin trials in type 1?,197.295,2.113,199.408,angry
+When did we start a type 1 child,199.408,1.962,201.36999999999998,angry
+with type 1 diabetes on a statin?,201.37,2.357,203.727,angry
+What about anti-hypertensive therapy,203.727,2.067,205.794,angry
+and cardiovascular disease outcomes,205.794,1.938,207.732,angry
+in patients with type 1?,207.732,1.556,209.288,angry
+I think what the manuscript does,209.288,1.498,210.786,angry
+"is really reveal these
+absent areas of knowledge",210.786,3.97,214.756,angry
+about type 1 diabetes and how it relates,214.756,2.078,216.834,
+"to coronary heart disease, and
+peripheral vascular disease,",216.834,2.532,219.366,
+"and stroke in patients
+with type 1 diabetes.",219.366,3.123,222.489,NA
+"In fact, I think what
+we've learned from this",222.489,1.926,224.415,NA
+"is that there's so many
+unanswered questions",224.415,2.38,226.795,NA
+"that when I was at a meeting
+at the NIDDK in the last year,",226.795,4.83,231.625,NA
+"ultimately I brought to
+the attention to NIDDK",231.625,2.822,234.447,NA
+"that this area really needs more science,",234.447,2.29,236.737,NA
+"and, in fact, what's
+happened subsequent to that",236.737,3.015,239.75199999999998,NA
+"is that NHOBI and NIDDK are
+sponsoring a joint symposium,",239.752,4.761,244.513,NA
+"a workshop, on coronary
+disease and type 1 diabetes",244.513,3.668,248.181,NA
+that's going to take place this October.,248.181,2.636,250.817,NA
+We're excited about the opportunity,250.817,1.683,252.5,NA
+to bring scientists from around the world,252.5,1.951,254.451,NA
+"together on a topic that's
+been poorly studied,",254.451,2.74,257.191,NA
+and I think this manuscript in circulation,257.191,3.204,260.395,NA
+really highlights the need for additional,260.395,2.543,262.938,NA
+"science and medicine in
+this particular area.",262.938,3.75,266.688,NA
