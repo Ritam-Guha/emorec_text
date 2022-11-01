@@ -12,7 +12,7 @@ download transcript.<br>
 The transcript will get stored in csv format in
 <code>emorec_text/data/transcription_storage/<video_id>.csv</code>
 
-## creating the ground truth data
+## Creating the ground truth data
 Given that the transcriptions are stored in <code>emorec_text/data/transcription_storage</code>
 and the Deepface emotions are stored in <code>emorec_text/data/video_emotions</code>, the ground truth data
 can be created by running the python script <code>emorec_text/code/data_utils/combine_data.py</code>.
