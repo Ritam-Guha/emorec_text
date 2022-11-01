@@ -1,0 +1,1 @@
+python -m emorec_text.code.models.text_emotion_recognition
