@@ -64,7 +64,10 @@ class DataLoader:
                 df_emotion = df_emotion.fillna("NA")
                 data[partition_type]["video_id"].append(video_id)
                 data[partition_type]["text"].append(list(df_emotion["text"]))
-                data[partition_type]["emotion"].append(list(df_emotion["dominant_emotion"]))
+                list_emotions = []
+                for emotion in df_emotion["dominant_emotion"]:
+                    list_emotions.append([(i == emotion) * 1 for i in config.emotions])
+                data[partition_type]["emotion"].append(torch.DoubleTensor(list_emotions))
                 if self.type_data == "embedding":
                     cur_embedding_list = []
                     for text in list(df_emotion["text"]):
@@ -74,14 +77,15 @@ class DataLoader:
                     data[partition_type]["embedding"].append(cur_embedding_tensor)
 
                 print(f"{partition_type} video file {i} loading done...")
+            # data[partition_type]["emotion"] = torch.DoubleTensor(data[partition_type]["emotion"])
 
         return data
 
     def get_data(self):
         return self.data
 
-    def preprocess_string(self,
-                          text):
+    @staticmethod
+    def preprocess_string(text):
         # remove punctuations
         text = "".join([i for i in text if i not in string.punctuation])
 
@@ -116,6 +120,7 @@ class DataLoader:
 def main():
     data_loader = DataLoader(type_data="embedding",
                              save_object=True)
+    pickle.dump(data_loader, open(f"{config.BASE_PATH}/code/data_utils/data_loader_obj.pickle", "wb"))
 
 
 if __name__ == "__main__":
