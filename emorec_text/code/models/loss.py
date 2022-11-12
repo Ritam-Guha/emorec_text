@@ -21,6 +21,14 @@ def get_ground_truth_indices(target):
     return ground_truth_indices
 
 def cross_entropy_loss_function(hidden, ground_truth):
+    """
+    Input:
+    hidden: the hidden layers of LSTM model, which is 1xN embedding vector
+    ground_truth: the 1xN ground_truch vector correspond to the embeddings.
+
+    Output of this function:
+    tensor(5.2485, grad_fn=<NllLossBackward0>)
+    """
 
     ground_truth_indices = get_ground_truth_indices(ground_truth)
     # taking log b/c torch.nn.CrossEntropyLoss() assumes
