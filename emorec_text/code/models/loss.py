@@ -1,12 +1,6 @@
 import torch
 import numpy as np
 
-hidden = torch.rand(3, 5, requires_grad=True)
-
-ground_truth = torch.tensor([[1., 0., 0., 0., 0.],
-                            [0., 1., 0., 0., 0.],
-                            [0., 0., 1., 0., 0.]])
-
 def get_ground_truth_indices(target):
     """
     Return a 1-D tensor object that contains the indices of
