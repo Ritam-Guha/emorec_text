@@ -36,7 +36,7 @@ def combine_data():
                 list_cur_dominant_emotions = list(df_video_emotions[df_video_emotions["frame"].between(cur_start_time, cur_end_time)]["dominant_emotion"])
 
                 try:
-                    list_dominant_emotions.append(max(set(list_cur_dominant_emotions), key = list_dominant_emotions.count))
+                    list_dominant_emotions.append(max(set(list_cur_dominant_emotions), key=list_dominant_emotions.count))
                 except:
                     list_dominant_emotions.append("NA")
 

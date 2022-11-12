@@ -10,6 +10,8 @@ import re
 import torch
 import nltk
 import pickle
+from torch.utils.data import Dataset
+import time
 
 # download nltk data elements
 nltk.download('stopwords')
@@ -17,24 +19,32 @@ nltk.download('wordnet')
 nltk.download('omw-1.4')
 
 
-class DataLoader:
+class EmotionData(Dataset):
     def __init__(self,
+                 device="cpu",
                  seed=0,
                  train_percent=0.7,
                  type_data="text",
-                 save_object=False):
+                 type_partition="test",
+                 save_data=False):
 
         assert(type_data in ["text", "embedding"])
         self.data_path = f"{config.BASE_PATH}/data/text_emotion"
         self.train_percent = train_percent
         self.seed = seed
+        self.device = device
         self.type_data = type_data
-        self.save_object = save_object
-        self.data = self.read_data()
+        self.save_data = save_data
+        self.type_partition = type_partition
 
-        if self.save_object:
+        if os.path.exists(f"{config.BASE_PATH}/data/object_storage/data.pickle"):
+            self.data = pickle.load(open(f"{config.BASE_PATH}/data/object_storage/data.pickle", "rb"))
+        else:
+            self.data = self.read_data()
+
+        if self.save_data:
             create_dir("data/object_storage")
-            pickle.dump(self, open(f"{config.BASE_PATH}/data/object_storage/data_loader.pickle", "wb"))
+            pickle.dump(self.data, open(f"{config.BASE_PATH}/data/object_storage/data.pickle", "wb"))
 
     def read_data(self):
         list_files = os.listdir(self.data_path)
@@ -61,7 +71,9 @@ class DataLoader:
         for partition_type in ["train", "test"]:
             for i, video_id in enumerate(list_data_files[partition_type]):
                 df_emotion = pd.read_csv(f"{config.BASE_PATH}/data/text_emotion/{video_id}")
-                df_emotion = df_emotion.fillna("NA")
+                if df_emotion.isnull().any().any():
+                    continue
+
                 data[partition_type]["video_id"].append(video_id)
                 data[partition_type]["text"].append(list(df_emotion["text"]))
                 list_emotions = []
@@ -69,9 +81,10 @@ class DataLoader:
                     list_emotions.append([(i == emotion) * 1 for i in config.emotions])
                 data[partition_type]["emotion"].append(torch.DoubleTensor(list_emotions))
                 if self.type_data == "embedding":
-                    cur_embedding_list = []
+                    cur_text_list = []
                     for text in list(df_emotion["text"]):
-                        cur_embedding_list.append(self.string_encoding(self.preprocess_string(text)))
+                        cur_text_list.append(self.preprocess_string(text))
+                    cur_embedding_list = self.string_encoding(cur_text_list)
 
                     cur_embedding_tensor = torch.DoubleTensor(cur_embedding_list)
                     data[partition_type]["embedding"].append(cur_embedding_tensor)
@@ -112,15 +125,23 @@ class DataLoader:
                         text):
 
         # use the bert encoding
-        sbert_model = SentenceTransformer('bert-base-nli-mean-tokens')
+        sbert_model = SentenceTransformer('bert-base-nli-mean-tokens').to(self.device)
         embedded_data = sbert_model.encode(text)
         return embedded_data
 
+    def __len__(self):
+        return len(self.data[self.type_partition]["embedding"])
+
+    def __getitem__(self, idx):
+        return self.data[self.type_partition]["embedding"][idx], self.data[self.type_partition]["emotion"][idx]
+
 
 def main():
-    data_loader = DataLoader(type_data="embedding",
-                             save_object=True)
-    pickle.dump(data_loader, open(f"{config.BASE_PATH}/code/data_utils/data_loader_obj.pickle", "wb"))
+    # obj = pickle.load(open(f"{config.BASE_PATH}/data/object_storage/data_loader.pickle", "rb"))
+    start_time = time.time()
+    data_loader = EmotionData(type_data="embedding",
+                              save_data=True)
+    print(f"--- {(time.time() - start_time) / 3600} hours ---")
 
 
 if __name__ == "__main__":
