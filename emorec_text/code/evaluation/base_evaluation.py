@@ -49,11 +49,13 @@ class Evaluator:
             loss_curve = pickle.load(open(path, "rb"))
 
             for partition_type in ["train", "val"]:
-                plt.plot(np.arange(len(loss_curve[partition_type])), loss_curve[partition_type], label=f"{partition_type}_loss")
+                cur_loss = np.array(loss_curve[partition_type])
+                cur_loss = (cur_loss - np.min(cur_loss))/(np.max(cur_loss) - np.min(cur_loss))
+                plt.plot(np.arange(len(loss_curve[partition_type])), cur_loss, label=f"{partition_type}_loss")
             plt.title(f"convergence curve for {self.type_model} training")
             plt.legend(loc="upper right")
             plt.xlabel("epochs")
-            plt.ylabel("loss")
+            plt.ylabel("normalized loss")
             plt.show()
             plt.savefig(f"{config.BASE_PATH}/code/model_storage/{self.type_model}/training_curve.jpg", dpi=400)
 
