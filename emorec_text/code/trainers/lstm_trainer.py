@@ -40,9 +40,9 @@ class LSTMTrainer(Trainer):
                 continue
 
             if i == 0:
-                loss = torch.nn.MSELoss()(pred_emotion, emotion).to(self.device)
+                loss = torch.nn.CrossEntropyLoss()(emotion, pred_emotion).to(self.device)
             else:
-                loss += torch.nn.MSELoss()(pred_emotion, emotion).to(self.device)
+                loss += torch.nn.CrossEntropyLoss()(emotion, pred_emotion).to(self.device)
             i += 1
 
         if type_process == "train":
