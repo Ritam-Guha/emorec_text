@@ -55,6 +55,7 @@ class Evaluator:
             ax.legend(loc="upper right")
             ax.set_xlabel("epochs")
             ax.set_ylabel("loss")
+            fig.show()
             fig.savefig(f"{config.BASE_PATH}/code/model_storage/{self.type_model}/training_curve.jpg", dpi=400)
 
     def load_model(self):
