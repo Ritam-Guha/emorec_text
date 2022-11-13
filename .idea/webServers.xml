@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="1a1709d1-b862-45d4-82fe-846841d60a16" name="coin" url="http:///">
+        <fileTransfer rootFolder="/mnt/hdd/guharita/Projects/emorec_text" accessType="SFTP" host="coinlab.dhcp.egr.msu.edu" port="22" sshConfigId="72f8a625-21d4-4f73-986c-11faeca19685" sshConfig="guharita@coinlab.dhcp.egr.msu.edu:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

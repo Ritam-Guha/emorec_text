@@ -4,7 +4,7 @@ import torch
 import emorec_text.config as config
 
 
-class LSTMModel(torch.nn.Module):
+class GRUModel(torch.nn.Module):
     def __init__(self,
                  device="cpu",
                  input_size=768,
@@ -13,7 +13,6 @@ class LSTMModel(torch.nn.Module):
                  num_outputs=len(config.emotions),
                  seed=0,
                  **kwargs):
-
         super(LSTMModel, self).__init__()
 
         self.device = device
@@ -23,23 +22,23 @@ class LSTMModel(torch.nn.Module):
         self.num_outputs = num_outputs
         self.seed = seed
 
-        self.lstm = nn.LSTM(input_size=self.input_size,
-                            hidden_size=self.hidden_size,
-                            num_layers=self.num_layers,
-                            batch_first=True,
-                            bias=True,
-                            dropout=0.2,
-                            **kwargs)
+        self.gru = nn.GRU(input_size=self.input_size,
+                          hidden_size=self.hidden_size,
+                          num_layers=self.num_layers,
+                          batch_first=True,
+                          bias=True,
+                          dropout=0.2,
+                          **kwargs)
 
         self.classifier = nn.Sequential(nn.ReLU(),
                                         nn.Linear(self.hidden_size, self.num_outputs))
 
     def forward(self, x):
         # initialize the hidden states and cell states
-        h_0 = torch.zeros(self.num_layers, x.size(0), self.hidden_size, dtype=torch.double).to(self.device).to(self.device)
-        c_0 = torch.zeros(self.num_layers, x.size(0), self.hidden_size, dtype=torch.double).to(self.device).to(self.device)
+        h_0 = torch.zeros(self.num_layers, x.size(0), self.hidden_size, dtype=torch.double).to(self.device).to(
+            self.device)
 
-        hidden, (h_, c_) = self.lstm(x, (h_0, c_0))
+        hidden, h_ = self.gru(x, h_0)
 
         emotions = self.classifier(hidden)
 
