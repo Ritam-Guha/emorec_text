@@ -25,9 +25,11 @@ class Trainer:
     def train(self,
               model,
               train_loader,
+              val_loader,
               test_loader,
               n_epochs=5000):
         data_loader = {"train": train_loader,
+                       "val": val_loader,
                        "test": test_loader}
 
         # initialize the optimizer
@@ -41,30 +43,40 @@ class Trainer:
                                                          last_epoch=-1)
 
         prev_loss = 1e33
-        training_loss_curve = []
-        for epoch in range(n_epochs):
-            loss = self.process_one_epoch(net=model,
-                                          data_loader=data_loader["train"],
-                                          optimizer=self.optimizer,
-                                          type_process="train")
-            print(f"epoch: {epoch}, loss: {loss}")
-            training_loss_curve.append(loss)
+        val_loss = 1e33
 
-            if loss < prev_loss:
-                prev_loss = loss
+        loss_curve = {"train": [], "val": []}
+        for epoch in range(n_epochs):
+            train_loss = self.process_one_epoch(net=model,
+                                                data_loader=data_loader["train"],
+                                                optimizer=self.optimizer,
+                                                type_process="train")
+
+            val_loss = self.process_one_epoch(net=model,
+                                              data_loader=data_loader["val"],
+                                              optimizer=self.optimizer,
+                                              type_process="train")
+            print(f"epoch: {epoch}, train_loss: {train_loss}, val loss: {train_loss}")
+
+            loss_curve["train"].append(train_loss)
+            loss_curve["val"].append(val_loss)
+
+            if val_loss < prev_loss:
+                prev_loss = val_loss
                 self.checkpoint(epoch=epoch,
                                 model=copy.deepcopy(model),
                                 optimizer=copy.deepcopy(self.optimizer),
                                 lr_sched=copy.deepcopy(self.scheduler))
 
-            self.scheduler.step(loss)
+            self.scheduler.step(val_loss)
 
         test_loss = self.process_one_epoch(net=model,
                                            data_loader=data_loader["test"],
                                            optimizer=self.optimizer,
                                            type_process="test")
         print(test_loss)
-        pickle.dump(training_loss_curve, open(f"{config.BASE_PATH}/code/model_storage/{self.type_model}/training_loss_curve.pickle", "wb"))
+        pickle.dump(loss_curve,
+                    open(f"{config.BASE_PATH}/code/model_storage/{self.type_model}/training_loss_curve.pickle", "wb"))
 
     def checkpoint(self,
                    epoch,

@@ -26,13 +26,14 @@ class TrainScript:
         start_time = time.time()
         trained_loss = self.trainer.train(model=self.model,
                                           train_loader=self.data_loader["train"],
+                                          val_loader=self.data_loader["val"],
                                           test_loader=self.data_loader["test"])
         print(f"--- {(time.time() - start_time) / 3600} hours ---")
         print(f"final loss: {trained_loss}")
 
     def get_data_loader(self):
         data_dict = {}
-        for type_partition in ["train", "test"]:
+        for type_partition in ["train", "val", "test"]:
             data_dict[type_partition] = EmotionData(type_partition=type_partition)
             print(f"{type_partition} size: {data_dict[type_partition].__len__()}")
             self.data_loader[type_partition] = DataLoader(data_dict[type_partition],
