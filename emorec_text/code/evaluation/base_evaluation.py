@@ -47,7 +47,6 @@ class Evaluator:
         path = f"{config.BASE_PATH}/code/model_storage/{self.type_model}/training_loss_curve.pickle"
         if os.path.exists(path):
             loss_curve = pickle.load(open(path, "rb"))
-            fig = plt.figure()
 
             for partition_type in ["train", "val"]:
                 plt.plot(np.arange(len(loss_curve[partition_type])), loss_curve[partition_type], label=f"{partition_type}_loss")
@@ -55,8 +54,8 @@ class Evaluator:
             plt.legend(loc="upper right")
             plt.xlabel("epochs")
             plt.ylabel("loss")
-            fig.show()
-            fig.savefig(f"{config.BASE_PATH}/code/model_storage/{self.type_model}/training_curve.jpg", dpi=400)
+            plt.show()
+            plt.savefig(f"{config.BASE_PATH}/code/model_storage/{self.type_model}/training_curve.jpg", dpi=400)
 
     def load_model(self):
         pass
