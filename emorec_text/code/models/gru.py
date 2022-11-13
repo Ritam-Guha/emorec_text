@@ -13,7 +13,7 @@ class GRUModel(torch.nn.Module):
                  num_outputs=len(config.emotions),
                  seed=0,
                  **kwargs):
-        super(LSTMModel, self).__init__()
+        super(GRUModel, self).__init__()
 
         self.device = device
         self.input_size = input_size
@@ -52,7 +52,7 @@ class GRUModel(torch.nn.Module):
 
 
 def main():
-    model = LSTMModel()
+    model = GRUModel()
     print(model)
 
 

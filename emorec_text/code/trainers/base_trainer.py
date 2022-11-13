@@ -26,7 +26,7 @@ class Trainer:
               model,
               train_loader,
               test_loader,
-              n_epochs=1500):
+              n_epochs=5000):
         data_loader = {"train": train_loader,
                        "test": test_loader}
 

@@ -3,7 +3,7 @@ from emorec_text.code.models.gru import GRUModel
 from emorec_text.code.trainers.gru_trainer import GRUTrainer
 
 
-class gruTrainScript(TrainScript):
+class GRUTrainScript(TrainScript):
     def __init__(self,
                  device="cpu"):
         super().__init__(type_model="gru",
@@ -21,7 +21,7 @@ class gruTrainScript(TrainScript):
 
 
 def main():
-    train_script = gruTrainScript(device="cuda")
+    train_script = GRUTrainScript(device="cpu")
     train_script.train()
 
 
