@@ -3,13 +3,19 @@ from emorec_text.code.utils.path_utils import create_dir
 
 import copy
 import torch
+import pickle
+import warnings
+
+warnings.filterwarnings("ignore")
 
 
 class Trainer:
     def __init__(self,
                  type_model,
+                 device="cpu",
                  lr=1e-5):
         self.type_model = type_model
+        self.device = device
         self.lr = lr
         self.optimizer = None
         self.scheduler = None
@@ -20,7 +26,7 @@ class Trainer:
               model,
               train_loader,
               test_loader,
-              n_epochs=100):
+              n_epochs=1500):
         data_loader = {"train": train_loader,
                        "test": test_loader}
 
@@ -35,12 +41,14 @@ class Trainer:
                                                          last_epoch=-1)
 
         prev_loss = 1e33
+        training_loss_curve = []
         for epoch in range(n_epochs):
             loss = self.process_one_epoch(net=model,
                                           data_loader=data_loader["train"],
                                           optimizer=self.optimizer,
                                           type_process="train")
             print(f"epoch: {epoch}, loss: {loss}")
+            training_loss_curve.append(loss)
 
             if loss < prev_loss:
                 prev_loss = loss
@@ -49,11 +57,14 @@ class Trainer:
                                 optimizer=copy.deepcopy(self.optimizer),
                                 lr_sched=copy.deepcopy(self.scheduler))
 
+            self.scheduler.step(loss)
+
         test_loss = self.process_one_epoch(net=model,
                                            data_loader=data_loader["test"],
                                            optimizer=self.optimizer,
                                            type_process="test")
         print(test_loss)
+        pickle.dump(training_loss_curve, open(f"{config.BASE_PATH}/code/model_storage/{self.type_model}/training_loss_curve.pickle", "wb"))
 
     def checkpoint(self,
                    epoch,

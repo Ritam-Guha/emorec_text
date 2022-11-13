@@ -36,8 +36,8 @@ class LSTMModel(torch.nn.Module):
 
     def forward(self, x):
         # initialize the hidden states and cell states
-        h_0 = torch.zeros(self.num_layers, x.size(0), self.hidden_size, dtype=torch.double).to(self.device)
-        c_0 = torch.zeros(self.num_layers, x.size(0), self.hidden_size, dtype=torch.double).to(self.device)
+        h_0 = torch.zeros(self.num_layers, x.size(0), self.hidden_size, dtype=torch.double).to(self.device).to(self.device)
+        c_0 = torch.zeros(self.num_layers, x.size(0), self.hidden_size, dtype=torch.double).to(self.device).to(self.device)
 
         hidden, (h_, c_) = self.lstm(x, (h_0, c_0))
 

@@ -1,3 +1,5 @@
+import os.path
+
 import emorec_text.config as config
 from emorec_text.code.data_utils.data_loader import EmotionData
 
@@ -43,7 +45,9 @@ class TrainScript:
         pass
 
     def load_model(self):
-        pass
+        path = f"{config.BASE_PATH}/code/model_storage/{self.type_model}/training_best.pt"
+        if os.path.exists(path):
+            self.model.load_weights(path)
 
     def get_trainer(self):
         pass

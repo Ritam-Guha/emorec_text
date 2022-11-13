@@ -5,8 +5,11 @@ from emorec_text.code.trainers.loss import L1loss
 
 
 class LSTMTrainer(Trainer):
-    def __init__(self, type_model):
-        super().__init__(type_model)
+    def __init__(self,
+                 type_model,
+                 device):
+        super().__init__(type_model,
+                         device)
         self.type_model = "lstm"
 
     def process_one_epoch(self,
@@ -26,16 +29,20 @@ class LSTMTrainer(Trainer):
         #     print(param.grad)
 
         for embedding, emotion in data_loader:
-            if i > 50:
-                break
-
-            pred_emotion = net(embedding).squeeze()
+            embedding = embedding.to(self.device)
+            pred_emotion = net(embedding).squeeze().to(self.device)
             emotion = emotion.squeeze()
+            mask = emotion[:, -1] != 1
+            pred_emotion = pred_emotion[mask].to(self.device)
+            emotion = emotion[mask].to(self.device)
+
+            if pred_emotion.shape[0] == 0:
+                continue
 
             if i == 0:
-                loss = torch.nn.MSELoss()(pred_emotion, emotion)
+                loss = torch.nn.MSELoss()(pred_emotion, emotion).to(self.device)
             else:
-                loss += torch.nn.MSELoss()(pred_emotion, emotion)
+                loss += torch.nn.MSELoss()(pred_emotion, emotion).to(self.device)
             i += 1
 
         if type_process == "train":
@@ -45,7 +52,7 @@ class LSTMTrainer(Trainer):
             # torch.nn.utils.clip_grad_norm_(net.parameters(), 3.0)
             optimizer.step()
 
-        return loss
+        return loss.item()
 
 # def train_model(model):
 #     train_data = get_data(type_data="train") # get the ground truth embeddings from data loader
