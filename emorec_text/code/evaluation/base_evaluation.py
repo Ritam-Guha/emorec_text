@@ -31,8 +31,8 @@ class Evaluator:
                 pred_emotion = pred_emotion[mask]
 
                 if emotion.shape[0] != 0:
-                    gt_idx = torch.argmplt(emotion, dim=1)
-                    pred_idx = torch.argmplt(pred_emotion, dim=1)
+                    gt_idx = torch.argmax(emotion, dim=1)
+                    pred_idx = torch.argmax(pred_emotion, dim=1)
                     cur_acc = sum(gt_idx == pred_idx).item()/len(gt_idx) * 100
                     mean_acc += cur_acc
                     count += 1
