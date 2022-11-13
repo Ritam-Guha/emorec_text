@@ -21,7 +21,7 @@ class GRUTrainScript(TrainScript):
 
 
 def main():
-    train_script = GRUTrainScript(device="cpu")
+    train_script = GRUTrainScript(device="cuda")
     train_script.train()
 
 

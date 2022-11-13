@@ -16,6 +16,7 @@ class TrainScript:
         self.data_loader = {}
         self.model = None
         self.trainer = None
+        print(f"device: {self.device}")
 
     def train(self):
         self.get_model()

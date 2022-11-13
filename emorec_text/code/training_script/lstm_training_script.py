@@ -21,7 +21,7 @@ class LSTMTrainScript(TrainScript):
 
 
 def main():
-    train_script = LSTMTrainScript(device="cpu")
+    train_script = LSTMTrainScript(device="cuda")
     train_script.train()
 
 
