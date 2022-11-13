@@ -31,8 +31,8 @@ class Evaluator:
                 pred_emotion = pred_emotion[mask]
 
                 if emotion.shape[0] != 0:
-                    gt_idx = torch.argmax(emotion, dim=1)
-                    pred_idx = torch.argmax(pred_emotion, dim=1)
+                    gt_idx = torch.argmplt(emotion, dim=1)
+                    pred_idx = torch.argmplt(pred_emotion, dim=1)
                     cur_acc = sum(gt_idx == pred_idx).item()/len(gt_idx) * 100
                     mean_acc += cur_acc
                     count += 1
@@ -47,14 +47,14 @@ class Evaluator:
         path = f"{config.BASE_PATH}/code/model_storage/{self.type_model}/training_loss_curve.pickle"
         if os.path.exists(path):
             loss_curve = pickle.load(open(path, "rb"))
-            fig, ax = plt.figure()
+            fig = plt.figure()
 
             for partition_type in ["train", "val"]:
-                ax.plot(np.arange(len(loss_curve[partition_type])), loss_curve[partition_type], label=f"{partition_type}_loss")
-            ax.set_title(f"convergence curve for {self.type_model} training")
-            ax.legend(loc="upper right")
-            ax.set_xlabel("epochs")
-            ax.set_ylabel("loss")
+                plt.plot(np.arange(len(loss_curve[partition_type])), loss_curve[partition_type], label=f"{partition_type}_loss")
+            plt.title(f"convergence curve for {self.type_model} training")
+            plt.legend(loc="upper right")
+            plt.xlabel("epochs")
+            plt.ylabel("loss")
             fig.show()
             fig.savefig(f"{config.BASE_PATH}/code/model_storage/{self.type_model}/training_curve.jpg", dpi=400)
 
