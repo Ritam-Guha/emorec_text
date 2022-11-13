@@ -1,7 +1,13 @@
+import os.path
+
 import emorec_text.config as config
 from emorec_text.code.data_utils.data_loader import EmotionData
 
 import torch
+import matplotlib.pyplot as plt
+import numpy as np
+import pickle
+
 
 class Evaluator:
     def __init__(self,
@@ -35,6 +41,22 @@ class Evaluator:
             acc[type_partition] = mean_acc
 
         return acc
+
+    def plot_training_curve(self):
+        path = f"{config.BASE_PATH}/code/model_storage/{self.type_model}/training_loss_curve.pickle"
+        if os.path.exists(path):
+            loss_curve = pickle.load(open(path, "rb"))
+            fig, ax = plt.subplots()
+
+            for partition_type in ["train", "val"]:
+                ax.plot(np.arange(len(loss_curve[partition_type])), loss_curve[partition_type], label=f"{partition_type}_loss")
+            ax.set_title(f"convergence curve for {self.type_model} training")
+            ax.legend(loc="upper right")
+            ax.set_xlabel("epochs")
+            ax.set_ylabel("loss")
+            fig.savefig(f"{config.BASE_PATH}/code/model_storage/{self.type_model}/training_curve.jpg", dpi=400)
+
+        ax.plot()
 
     def load_model(self):
         pass

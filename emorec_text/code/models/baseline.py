@@ -1,5 +1,7 @@
+import torch
+
 import emorec_text.config as config
-from emorec_text.code.data_utils.data_loader import DataLoader
+from emorec_text.code.data_utils.data_loader import EmotionData
 from emorec_text.code.utils.path_utils import create_dir
 
 from abc import abstractmethod
@@ -26,6 +28,7 @@ def evaluate(data,
         mask_index = list(np.nonzero(mask_emotions)[0])
         all_index = list(np.arange(len(emotions)))
         selected_index = list(set(all_index) - set(mask_index))
+        emotions = [config.emotions[torch.nonzero(emotions[0])[0][0].item()] for emotion in emotions]
 
         if len(selected_index) == 0:
             video_id_list.remove(video_id_list[count])
@@ -71,7 +74,7 @@ class Text2EmotionModel:
 
 
 def main():
-    data_loader = DataLoader(type_data="text")
+    data_loader = EmotionData(type_data="text")
     data = data_loader.get_data()
     model = Text2EmotionModel()
     type_partition = "test"
