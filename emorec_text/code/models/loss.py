@@ -13,6 +13,7 @@ def get_ground_truth_indices(target):
     target = tensor([[1., 0., 0., 0., 0.],
                     [0., 1., 0., 0., 0.],
                     [0., 0., 1., 0., 0.]])
+                    
     Output:
     tensor([0, 1, 2])
     """
