@@ -56,7 +56,7 @@ class Trainer:
                                               data_loader=data_loader["val"],
                                               optimizer=self.optimizer,
                                               type_process="train")
-            print(f"epoch: {epoch}, train_loss: {train_loss}, val loss: {train_loss}")
+            print(f"epoch: {epoch}, train_loss: {train_loss}, val loss: {val_loss}")
 
             loss_curve["train"].append(train_loss)
             loss_curve["val"].append(val_loss)
