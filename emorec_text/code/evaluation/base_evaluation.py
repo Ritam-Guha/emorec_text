@@ -18,6 +18,7 @@ class Evaluator:
     def evaluate(self):
         acc = {}
         self.load_model()
+        self.plot_training_curve()
         for type_partition in ["train", "test"]:
             mean_acc = 0
             count = 0
@@ -55,8 +56,6 @@ class Evaluator:
             ax.set_xlabel("epochs")
             ax.set_ylabel("loss")
             fig.savefig(f"{config.BASE_PATH}/code/model_storage/{self.type_model}/training_curve.jpg", dpi=400)
-
-        ax.plot()
 
     def load_model(self):
         pass
