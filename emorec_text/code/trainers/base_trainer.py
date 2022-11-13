@@ -55,7 +55,7 @@ class Trainer:
             val_loss = self.process_one_epoch(net=model,
                                               data_loader=data_loader["val"],
                                               optimizer=self.optimizer,
-                                              type_process="train")
+                                              type_process="val")
             print(f"epoch: {epoch}, train_loss: {train_loss}, val loss: {val_loss}")
 
             loss_curve["train"].append(train_loss)
