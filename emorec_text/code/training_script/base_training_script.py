@@ -18,7 +18,9 @@ class TrainScript:
         self.trainer = None
         print(f"device: {self.device}")
 
-    def train(self):
+    def train(self,
+              lr=1e-5,
+              n_epochs=500):
         self.get_model()
         self.load_model()
         self.get_trainer()
@@ -28,7 +30,9 @@ class TrainScript:
         trained_loss = self.trainer.train(model=self.model,
                                           train_loader=self.data_loader["train"],
                                           val_loader=self.data_loader["val"],
-                                          test_loader=self.data_loader["test"])
+                                          test_loader=self.data_loader["test"],
+                                          lr=lr,
+                                          n_epochs=n_epochs)
         print(f"--- {(time.time() - start_time) / 3600} hours ---")
         print(f"final loss: {trained_loss}")
 

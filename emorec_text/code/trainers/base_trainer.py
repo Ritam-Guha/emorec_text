@@ -12,13 +12,12 @@ warnings.filterwarnings("ignore")
 class Trainer:
     def __init__(self,
                  type_model,
-                 device="cpu",
-                 lr=1e-5):
+                 device="cpu"):
         self.type_model = type_model
         self.device = device
-        self.lr = lr
         self.optimizer = None
         self.scheduler = None
+        self.lr = None
         create_dir(f"code/model_storage/{self.type_model}")
         self.save = f"{config.BASE_PATH}/code/model_storage/{self.type_model}"
 
@@ -27,7 +26,9 @@ class Trainer:
               train_loader,
               val_loader,
               test_loader,
-              n_epochs=1000):
+              n_epochs=1000,
+              lr=1e-5):
+        self.lr = lr
         data_loader = {"train": train_loader,
                        "val": val_loader,
                        "test": test_loader}
