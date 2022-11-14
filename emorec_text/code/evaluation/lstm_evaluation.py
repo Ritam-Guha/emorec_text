@@ -8,7 +8,7 @@ import os
 class LSTMEvaluator(Evaluator):
     def __init__(self):
         super().__init__(type_model="lstm")
-        self.model = LSTMModel().eval()
+        self.model = LSTMModel()
 
     def load_model(self):
         path = f"{config.BASE_PATH}/code/model_storage/{self.type_model}/training_best.pt"

@@ -23,8 +23,9 @@ class Evaluator:
             mean_acc = 0
             count = 0
 
-            for embedding, emotion in zip(self.data.data[type_partition]["embedding"],
-                                          self.data.data[type_partition]["emotion"]):
+            for embedding, emotion, video_id in zip(self.data.data[type_partition]["embedding"],
+                                                    self.data.data[type_partition]["emotion"],
+                                                    self.data.data[type_partition]["video_id"],):
                 pred_emotion = self.model(embedding.unsqueeze(dim=0)).squeeze()
                 mask = (emotion[:, -1] != 1)
                 emotion = emotion[mask]
@@ -34,8 +35,14 @@ class Evaluator:
                     gt_idx = torch.argmax(emotion, dim=1)
                     pred_idx = torch.argmax(pred_emotion, dim=1)
                     cur_acc = sum(gt_idx == pred_idx).item()/len(gt_idx) * 100
+                    print(f"file: {video_id} acc: {cur_acc}")
                     mean_acc += cur_acc
                     count += 1
+
+                    if video_id == "k1qtkFqQDBs.csv":
+                        list_gt = [config.emotions[idx] for idx in gt_idx]
+                        list_pred = [config.emotions[idx] for idx in pred_idx]                        print(list_gt)
+                        print(list_pred)
 
             mean_acc /= count
             print(f"mean {type_partition} acc: {mean_acc}")

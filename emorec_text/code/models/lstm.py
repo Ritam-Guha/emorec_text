@@ -8,8 +8,8 @@ class LSTMModel(torch.nn.Module):
     def __init__(self,
                  device="cpu",
                  input_size=768,
-                 hidden_size=256,
-                 num_layers=1,
+                 hidden_size=512,
+                 num_layers=2,
                  num_outputs=len(config.emotions),
                  seed=0,
                  **kwargs):
@@ -32,7 +32,9 @@ class LSTMModel(torch.nn.Module):
                             **kwargs)
 
         self.classifier = nn.Sequential(nn.ReLU(),
-                                        nn.Linear(self.hidden_size, self.num_outputs))
+                                        nn.Linear(self.hidden_size, (self.hidden_size//2)),
+                                        nn.ReLU(),
+                                        nn.Linear((self.hidden_size//2), self.num_outputs))
 
     def forward(self, x):
         # initialize the hidden states and cell states
