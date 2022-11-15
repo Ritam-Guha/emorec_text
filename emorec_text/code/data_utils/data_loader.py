@@ -75,7 +75,11 @@ class EmotionData(Dataset):
 
         for partition_type in ["train", "val", "test"]:
             for i, video_id in enumerate(list_data_files[partition_type]):
-                df_emotion = pd.read_csv(f"{config.BASE_PATH}/data/text_emotion/{video_id}")
+                try:
+                    df_emotion = pd.read_csv(f"{config.BASE_PATH}/data/text_emotion/{video_id}")
+                except:
+                    continue
+
                 df_emotion = df_emotion.fillna("NA")
                 data[partition_type]["video_id"].append(video_id)
                 data[partition_type]["text"].append(list(df_emotion["text"]))

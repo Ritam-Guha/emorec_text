@@ -60,6 +60,7 @@ class Evaluator:
             mean_acc /= count
             print(f"mean {type_partition} acc: {mean_acc}")
             acc[type_partition] = mean_acc
+            print(sum([x == "angry" for x in pred]))
 
             conf_mat = confusion_matrix(gt, pred, labels=config.emotions[:-1])
             sns.heatmap(conf_mat, square=True, annot=True, cmap='Blues', fmt='d', cbar=False,
@@ -67,9 +68,9 @@ class Evaluator:
             plt.show()
 
         acc_df = pd.DataFrame()
-        acc_df["train_acc"] = acc["train"]
-        acc_df["val_acc"] = acc["val"]
-        acc_df["test_acc"] = acc["test"]
+        acc_df["train_acc"] = [acc["train"]]
+        acc_df["val_acc"] = [acc["val"]]
+        acc_df["test_acc"] = [acc["test"]]
         acc_df.to_csv(f"{config.BASE_PATH}/code/model_storage/{self.type_model}/accuracy.csv", index=False)
 
         return acc
