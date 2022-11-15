@@ -1,82 +1,18 @@
 text,start,duration,end,dominant_emotion
-hello this is dr. Ford Brewer with,0.03,5.749,5.779,neutral
-state-of-the-art preventive medicine,2.87,5.29,8.16,neutral
-available to all at least all with,5.779,5.021,10.8,neutral
-access to YouTube today we're going to,8.16,4.41,12.57,happy
-talk about insulin resistance or,10.8,5.28,16.080000000000002,happy
-pre-diabetes and the oral medications,12.57,7.619,20.189,happy
-for diabetes and pre-diabetes the two,16.08,6.51,22.589999999999996,neutral
-most popular are metformin and,20.189,7.58,27.769,neutral
-pioglitazone most consider pilot ism,22.59,8.37,30.96,neutral
-running a very poor second they consider,27.769,8.531,36.3,neutral
-pioglitazone being a very difficult drug,30.96,7.41,38.370000000000005,neutral
-to take we'll go over some of that in,36.3,4.68,40.98,neutral
-the in the video first of all though,38.37,4.74,43.11,fear
-let's understand quickly what a cochrane,40.98,6.75,47.73,fear
-study is cochran CEO CHR II and II look,43.11,8.179,51.289,fear
-that up on Wikipedia in fact you'll find,47.73,6.54,54.269999999999996,neutral
-that the Cochran organization does have,51.289,7.781,59.07,neutral
-a partnership with Wikipedia and there,54.27,8.39,62.660000000000004,neutral
-"are over 300,000 cochrane participants",59.07,7.229,66.299,neutral
-what they do is look at a meta-analysis,62.66,8.65,71.31,neutral
-a meta-analysis is an attempt to put,66.299,6.901,73.2,neutral
-different studies on a similar topic,71.31,6.66,77.97,neutral
-together so and it's almost like a,73.2,7.26,80.46000000000001,neutral
-review of the literature on an exhibit,77.97,7.68,85.65,neutral
-on an existing item so let's let's talk,80.46,7.62,88.08,neutral
-about the Cochran studies in this area,85.65,4.859,90.509,neutral
-in 2010 there was a there was a cochrane,88.08,4.2,92.28,neutral
-study that showed something very,90.509,6.271,96.78,neutral
-important about metformin risk metformin,92.28,9.299,101.57900000000001,neutral
-was first discovered in the 1920s it was,96.78,9.119,105.899,neutral
-available in the UK in 1960s it was not,101.579,7.131,108.71,neutral
-made available in the u.s. until the,105.899,7.29,113.18900000000001,neutral
-1990s midnight in fact 1995 part of the,108.71,6.61,115.32,neutral
-reason for that was a fear associated,113.189,9.811,123.0,neutral
-with lactic acidosis well in in 2010 the,115.32,9.81,125.13,neutral
-Cochrane reviews indicated that when you,123.0,5.879,128.879,neutral
-actually study metformin there was no,125.13,6.76,131.89,neutral
-danger of lactic acidosis,128.879,5.53,134.409,neutral
-it was associated with that class of,131.89,5.159,137.04899999999998,neutral
-drugs that class is called biguanide,134.409,7.321,141.73,fear
-and other members of the biguanide drug,137.049,7.8,144.84900000000002,NA
-class did have lactic acidosis but not,141.73,7.679,149.409,NA
-metformin metformin has become the,144.849,7.56,152.409,NA
-frontline recommendation from,149.409,4.92,154.32899999999998,NA
-organizations like the American College,152.409,8.491,160.89999999999998,NA
-of endocrinology the WHI World Health,154.329,8.761,163.09,NA
-Organization did a lit review looking at,160.9,4.709,165.609,NA
-metformin and found it to be superior in,163.09,7.079,170.169,NA
-terms of cardiovascular outcomes impact,165.609,6.66,172.269,NA
-on cholesterol and triglycerides and,170.169,8.19,178.359,NA
-safety and side effects so what what,172.269,8.58,180.84900000000002,NA
-have we seen on the side of pioglitazone,178.359,6.38,184.739,NA
-and the other day I was in Diane's,180.849,6.211,187.06,NA
-pioglitazone tends to have better,184.739,3.84,188.579,NA
-results in terms of decreased,187.06,4.679,191.739,NA
-cardiovascular events and mortality this,188.579,5.681,194.26000000000002,NA
-is probably due to a positive impact on,191.739,6.27,198.00900000000001,NA
-cardiovascular inflammation that is the,194.26,6.8,201.06,NA
-finding of a recent cochrane study so,198.009,8.781,206.79,NA
-why would there be so little use of,201.06,8.41,209.47,NA
-Toyota's own and so much you submit,206.79,5.199,211.989,NA
-Foreman if the studies actually show,209.47,4.829,214.299,NA
-improved outcomes well here's why,211.989,4.59,216.579,NA
-there's also increased side effects,214.299,5.52,219.81900000000002,NA
-specifically edema that edema can even,216.579,6.211,222.79000000000002,NA
-lead to heart failure in certain,219.819,7.28,227.099,NA
-patients so again it's like the,222.79,7.08,229.87,NA
-situation with ACE inhibitors versus,227.099,5.681,232.78,NA
-ARBs ACE inhibitors do have improved,229.87,5.579,235.449,NA
-outcomes it's probably due to decreased,232.78,6.389,239.169,NA
-a cardiovascular inflammation but they,235.449,6.51,241.959,NA
-also have some negative impact and,239.169,7.47,246.639,NA
-safety issues compared to arcs same,241.959,6.9,248.859,NA
-thing here piyo does have improved,246.639,6.84,253.479,NA
-outcomes and decreased cardiovascular,248.859,8.97,257.829,NA
-events however there is increased safety,253.479,7.881,261.36,NA
-concerns due to edema,257.829,6.601,264.43,NA
-it's like rosanna rosanna Dennis said,261.36,3.59,264.95,NA
-for the,264.43,3.04,267.47,NA
-of us who remember it's still always,264.95,6.62,271.57,NA
+hello this is dr. Ford Brewer with state-of-the-art preventive medicine available to all at least all with access to YouTube today we're going to talk about insulin resistance or,0.03,25.75,25.78,neutral
+pre-diabetes and the oral medications for diabetes and pre-diabetes the two most popular are metformin and pioglitazone most consider pilot ism running a very poor second they consider,12.57,38.61,51.18,neutral
+pioglitazone being a very difficult drug to take we'll go over some of that in the in the video first of all though let's understand quickly what a cochrane study is cochran CEO CHR II and II look,30.96,31.759,62.719,neutral
+"that up on Wikipedia in fact you'll find that the Cochran organization does have a partnership with Wikipedia and there are over 300,000 cochrane participants what they do is look at a meta-analysis",47.73,38.589999999999996,86.32,neutral
+a meta-analysis is an attempt to put different studies on a similar topic together so and it's almost like a review of the literature on an exhibit on an existing item so let's let's talk,66.299,36.120999999999995,102.42,neutral
+about the Cochran studies in this area in 2010 there was a there was a cochrane study that showed something very important about metformin risk metformin was first discovered in the 1920s it was,85.65,33.748000000000005,119.39800000000001,neutral
+available in the UK in 1960s it was not made available in the u.s. until the 1990s midnight in fact 1995 part of the reason for that was a fear associated with lactic acidosis well in in 2010 the,101.579,40.652,142.231,neutral
+Cochrane reviews indicated that when you actually study metformin there was no danger of lactic acidosis it was associated with that class of drugs that class is called biguanide,123.0,30.649,153.649,neutral
+and other members of the biguanide drug class did have lactic acidosis but not metformin metformin has become the frontline recommendation from organizations like the American College,137.049,36.449999999999996,173.499,NA
+of endocrinology the WHI World Health Organization did a lit review looking at metformin and found it to be superior in terms of cardiovascular outcomes impact on cholesterol and triglycerides and,154.329,35.399,189.728,NA
+safety and side effects so what what have we seen on the side of pioglitazone and the other day I was in Diane's pioglitazone tends to have better results in terms of decreased,172.269,29.689999999999998,201.959,NA
+cardiovascular events and mortality this is probably due to a positive impact on cardiovascular inflammation that is the finding of a recent cochrane study so why would there be so little use of,188.579,35.94200000000001,224.52100000000002,NA
+Toyota's own and so much you submit Foreman if the studies actually show improved outcomes well here's why there's also increased side effects specifically edema that edema can even,206.79,26.348999999999997,233.13899999999998,NA
+lead to heart failure in certain patients so again it's like the situation with ACE inhibitors versus ARBs ACE inhibitors do have improved outcomes it's probably due to decreased,219.819,32.009,251.82799999999997,NA
+a cardiovascular inflammation but they also have some negative impact and safety issues compared to arcs same thing here piyo does have improved outcomes and decreased cardiovascular,235.449,36.690000000000005,272.139,NA
+events however there is increased safety concerns due to edema it's like rosanna rosanna Dennis said for the of us who remember it's still always,253.479,27.732,281.211,NA
 something thank you again,267.47,4.1,271.57000000000005,NA

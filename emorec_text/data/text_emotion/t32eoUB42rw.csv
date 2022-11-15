@@ -1,116 +1,61 @@
 text,start,duration,end,dominant_emotion
 "Everytime I drink something with aspartame
-in it, I can't help but worry to myself: AM",0.28,3.53,3.8099999999999996,happy
-I DRINKING CANCER?,3.81,2.85,6.66,
-"Hey everyone, Laci Green here for DNews.",6.66,6.45,13.11,
-"Artificial sweeteners have been a hotbed of
-scientific debate for decades.",13.11,3.75,16.86,
-"There's so much to be said about it -- but
-here's a quick roundup of a few things you",16.86,2.99,19.85,
+in it, I can't help but worry to myself: AM I DRINKING CANCER? Hey everyone, Laci Green here for DNews. Artificial sweeteners have been a hotbed of
+scientific debate for decades. There's so much to be said about it -- but
+here's a quick roundup of a few things you",0.28,19.57,19.85,sad
 "should know about the most common artificial
-sweeteners.",19.85,2.75,22.6,
-"Saccharin AKA Sweet n Low was the first artificial
-sweetener discovered waaay back in 1879 while",22.6,5.47,28.07,
-"scientists were formulating chemical dyes
-from coal tar.",28.07,2.94,31.01,happy
-I know: YUM!,31.01,1.2,32.21,
-"In the 70s, studies came out finding that
-saccharin caused bladder cancer in rats - and",32.21,3.739,35.949,
+sweeteners. Saccharin AKA Sweet n Low was the first artificial
+sweetener discovered waaay back in 1879 while scientists were formulating chemical dyes
+from coal tar. I know: YUM! In the 70s, studies came out finding that
+saccharin caused bladder cancer in rats - and",19.85,16.098999999999997,35.949,NA
 "so the government required a cancer warning
-on the label.",35.949,2.651,38.599999999999994,
-"They tried to take it off the market, but
-the diet industry was making big bucks and",38.6,3.979,42.579,
-weren't gonna have any of that.,42.579,1.591,44.17,
-"Fast forward to the 90s and studies begin
-to suggest that the bladder cancer effect",44.17,3.729,47.899,
-"is ONLY in rodents, not humans, and by 2000,
-the warning label was removed.",47.899,4.58,52.479,
+on the label. They tried to take it off the market, but
+the diet industry was making big bucks and weren't gonna have any of that. Fast forward to the 90s and studies begin
+to suggest that the bladder cancer effect is ONLY in rodents, not humans, and by 2000,
+the warning label was removed.",35.949,16.53,52.479,NA
 "However, the Center for Science in the Public
-Interest, which is a non-profit watchdog group,",52.479,4.391,56.87,
-"has saccharin on their ""avoid"" list.",56.87,1.369,58.239,fear
-"Saccharin has lost a lot of its popularity
-because of the controversy.",58.239,3.5,61.739,
-"The most common artificial sweetener on the
-market today is sucralose AKA Splenda.",61.739,3.53,65.26899999999999,
-"There's a lot of talk about how Splenda is
-unsafe and hasn't been tested...but since",65.269,4.191,69.46000000000001,
+Interest, which is a non-profit watchdog group, has saccharin on their ""avoid"" list. Saccharin has lost a lot of its popularity
+because of the controversy. The most common artificial sweetener on the
+market today is sucralose AKA Splenda. There's a lot of talk about how Splenda is
+unsafe and hasn't been tested...but since",52.479,16.980999999999998,69.46,NA
 "its discovery in 1976, it has been the subject
-of over 100 long and short-term animal and",69.46,5.339,74.79899999999999,
-human studies.,74.799,1.0,75.799,neutral
-"And except for a couple highly questioned
-studies, no ill effects have been found, so",75.799,3.57,79.369,
-"long as you aren't eating a tub of sucralose
-for dinner.",79.369,2.71,82.079,
-"The FDA approved it in 1998 and the CSPI also
-agrees it's a safe, non-carcinogenic alternative",82.079,5.29,87.369,
-to sugar.,87.369,1.0,88.369,happy
-"Lastly, the biggie: aspartame.",88.369,2.6,90.969,
-"It's found in sooo many products these days,
-from to drinks, to candy, gum, jam, processed",90.969,4.04,95.009,
-foods.,95.009,1.78,96.789,
-"Aspartame came about in the 60's when scientists
-were looking for ulcer treatments.",96.789,3.661,100.45,
-It's been widely studied since then.,100.45,1.54,101.99000000000001,fear
-"The main things you should know is that the
-cancer concerns come mostly from a set of",101.99,3.711,105.701,happy
-"high profile studies done in Italy where they
-fed extremely high amounts of aspartame to",105.701,4.268,109.969,
-rats throughout their lifespan.,109.969,1.18,111.149,
-"The rats developed blood and breast cancers
-as well as kidney tumors, which are extremely",111.149,3.96,115.109,
-rare in the breed of rat used.,115.109,1.851,116.96,
-"However, the FDA and the EFSA both rejected
-the studies on the (rather vague) grounds",116.96,4.38,121.33999999999999,
-"that they ""lacked important data"" and approved
-Aspartame anyway.",121.34,3.56,124.9,
-As for studies on people?,124.9,1.029,125.929,
-"The largest study was done by the National
-Cancer Institute examining cancer rates in",125.929,4.141,130.07,
-a half million adults.,130.07,1.05,131.12,fear
-"Between groups that did and did not consume
-products with aspartame, there was no increased",131.12,4.449,135.56900000000002,
-risk of cancer for those that did.,135.569,1.81,137.379,
-"The watchdog group argues that this study
-was incomplete: it didn't include the very",137.379,3.97,141.349,
-"elderly, nor people who had consumed aspartame
-since childhood.",141.349,4.271,145.61999999999998,
+of over 100 long and short-term animal and human studies. And except for a couple highly questioned
+studies, no ill effects have been found, so long as you aren't eating a tub of sucralose
+for dinner. The FDA approved it in 1998 and the CSPI also
+agrees it's a safe, non-carcinogenic alternative",69.46,17.909,87.369,NA
+"to sugar. Lastly, the biggie: aspartame. It's found in sooo many products these days,
+from to drinks, to candy, gum, jam, processed foods. Aspartame came about in the 60's when scientists
+were looking for ulcer treatments.",87.369,13.081,100.45,NA
+"It's been widely studied since then. The main things you should know is that the
+cancer concerns come mostly from a set of high profile studies done in Italy where they
+fed extremely high amounts of aspartame to rats throughout their lifespan. The rats developed blood and breast cancers
+as well as kidney tumors, which are extremely",100.45,14.658999999999999,115.10900000000001,NA
+"rare in the breed of rat used. However, the FDA and the EFSA both rejected
+the studies on the (rather vague) grounds that they ""lacked important data"" and approved
+Aspartame anyway. As for studies on people? The largest study was done by the National
+Cancer Institute examining cancer rates in",115.109,14.961,130.07,NA
+"a half million adults. Between groups that did and did not consume
+products with aspartame, there was no increased risk of cancer for those that did. The watchdog group argues that this study
+was incomplete: it didn't include the very elderly, nor people who had consumed aspartame
+since childhood.",130.07,15.55,145.62,NA
 "Aspartame intake was also self reported - which
-is a serious flaw when you consider the fact",145.62,3.22,148.84,
-"that a lot of the time people don't know it's
-in their food.",148.84,2.33,151.17000000000002,
-"The CSPI gives aspartame it's lowest food
-safety ranking and argues that it is not safe",151.17,4.67,155.83999999999997,
-for human consumption.,155.84,1.0,156.84,
-"I've read lots of reports out of concern for
-my own health, and you should too if you're",156.84,3.15,159.99,
-interested!,159.99,1.0,160.99,fear
-"The bottom line seems to be: sucralose is
-the safest for regular consumption.",160.99,3.8,164.79000000000002,
-"Aspartame and saccharin are more questionable,
-so if you're going to consume them, maybe",164.79,2.979,167.769,
-don't have too much.,167.769,1.151,168.92000000000002,fear
-"Also: if you're using artificial sweeteners
-to lose weight, there's a STRONG body of research",168.92,3.849,172.76899999999998,
-that suggests it doesn't help.,172.769,1.751,174.52,happy
-"In fact, across several large studies done
-at Yale for the National Institute of Health:",174.52,4.04,178.56,
-"people who use artificial sweeteners actually
-gain weight over time.",178.56,3.22,181.78,
-"They're still trying to figure out why this
-happens.",181.78,2.06,183.84,
-"Scientists are also just starting to study
-a relatively new artificial sweetener touted",183.84,4.07,187.91,happy
+is a serious flaw when you consider the fact that a lot of the time people don't know it's
+in their food. The CSPI gives aspartame it's lowest food
+safety ranking and argues that it is not safe for human consumption. I've read lots of reports out of concern for
+my own health, and you should too if you're",145.62,14.370000000000001,159.99,NA
+"interested! The bottom line seems to be: sucralose is
+the safest for regular consumption. Aspartame and saccharin are more questionable,
+so if you're going to consume them, maybe don't have too much. Also: if you're using artificial sweeteners
+to lose weight, there's a STRONG body of research",159.99,12.779,172.769,NA
+"that suggests it doesn't help. In fact, across several large studies done
+at Yale for the National Institute of Health: people who use artificial sweeteners actually
+gain weight over time. They're still trying to figure out why this
+happens. Scientists are also just starting to study
+a relatively new artificial sweetener touted",172.769,15.141000000000002,187.91,NA
 "as a ""natural alternative to sugar"" called
-Stevia, or Truvia.",187.91,3.45,191.35999999999999,
-"With the limited studies that are out there,
-it looks like it could be safe, and the CSPI",191.36,3.56,194.92000000000002,
-"statements seem more positive about the potential
-for Stevia.",194.92,3.16,198.07999999999998,
-OH MAN.,198.08,1.359,199.43900000000002,neutral
-Lotsa facts today!,199.439,1.0,200.439,neutral
-Hope this was useful to some of you out there.,200.439,1.531,201.97,neutral
-"I'm gonna put lots of further reading in the
-description, check it out, and let me know",201.97,2.48,204.45,happy
-"what you think about artificial sweeteners
-in the comments below.",204.45,2.739,207.189,happy
-"Thanks for joining me, I'll see you next time!",207.189,1.681,208.87,
+Stevia, or Truvia. With the limited studies that are out there,
+it looks like it could be safe, and the CSPI statements seem more positive about the potential
+for Stevia. OH MAN. Lotsa facts today!",187.91,12.529,200.439,NA
+"Hope this was useful to some of you out there. I'm gonna put lots of further reading in the
+description, check it out, and let me know what you think about artificial sweeteners
+in the comments below. Thanks for joining me, I'll see you next time!",200.439,8.431000000000001,208.87,NA

@@ -1,42 +1,10 @@
 text,start,duration,end,dominant_emotion
-obviously pre-diabetes is a major burden,0.0,5.46,5.46,happy
-here in America pre-diabetes is when you,2.58,5.729,8.309000000000001,happy
-basically have a high blood sugar but,5.46,4.08,9.54,
-it's not high enough to be called,8.309,3.921,12.229999999999999,
-diabetes so we know that there is a,9.54,5.82,15.36,
-significant genetic component a family,12.23,5.71,17.94,happy
-history when it comes to diabetes but it,15.36,4.32,19.68,happy
-doesn't necessarily mean that you will,17.94,4.02,21.96,happy
-develop diabetes if you make the right,19.68,4.769,24.448999999999998,happy
-decisions I make the right choices the,21.96,4.829,26.789,happy
-fact the things you do every day has an,24.449,5.281,29.73,happy
-impact diabetes comes from resistance to,26.789,5.761,32.550000000000004,happy
-insulin in some patients and then obese,29.73,5.579,35.309,fear
-increases that risk so when you lose,32.55,4.97,37.519999999999996,fear
-weight your body's resistance to insulin,35.309,4.77,40.07899999999999,sad
-you know is less and you don't have,37.52,4.21,41.730000000000004,sad
-diabetes or the risk is reduced,40.079,3.541,43.62,fear
-significantly the thing that we,41.73,3.809,45.538999999999994,happy
-recommend for patients to do will have a,43.62,4.14,47.76,happy
-high blood sugar like pre-diabetes is,45.539,4.831,50.370000000000005,happy
-basically to know to exercise but that's,47.76,5.31,53.07,happy
-very important you know 30 to 45 minutes,50.37,4.619,54.989,
-every day if you can do it most days of,53.07,4.52,57.59,happy
-the week or you also want to eat right,54.989,5.191,60.18,happy
-avoiding simple carbs you want to eat,57.59,4.69,62.28,
-more fruits vegetable fibers there are,60.18,4.32,64.5,
-30 million Americans I have diabetes but,62.28,3.629,65.909,
-you're almost 90 million I have,64.5,3.78,68.28,
-pre-diabetes and studies have shown that,65.909,4.32,70.22900000000001,
-within three to five years if you do,68.28,3.39,71.67,
-have pre-diabetes and you don't do,70.229,3.301,73.53,
-anything you will develop full-blown,71.67,4.559,76.229,happy
-diabetes there's good news because,73.53,4.409,77.93900000000001,happy
-numerous studies have shown that,76.229,4.621,80.85,happy
-diabetes is totally preventable and it,77.939,5.401,83.33999999999999,happy
-can be mitigated to a large extent by,80.85,4.32,85.16999999999999,happy
-your daily choices what you eat,83.34,4.02,87.36,sad
-powerfully exercise you know and,85.17,4.32,89.49000000000001,sad
-maintain your healthy habits that's a,87.36,3.12,90.48,
-good one,89.49,3.05,92.53999999999999,
-you,90.48,2.06,92.54,
+obviously pre-diabetes is a major burden here in America pre-diabetes is when you basically have a high blood sugar but it's not high enough to be called diabetes so we know that there is a,0.0,25.01,25.01,angry
+significant genetic component a family history when it comes to diabetes but it doesn't necessarily mean that you will develop diabetes if you make the right decisions I make the right choices the,12.23,23.648000000000003,35.878,angry
+fact the things you do every day has an impact diabetes comes from resistance to insulin in some patients and then obese increases that risk so when you lose weight your body's resistance to insulin,24.449,26.360999999999997,50.81,angry
+you know is less and you don't have diabetes or the risk is reduced significantly the thing that we recommend for patients to do will have a high blood sugar like pre-diabetes is,37.52,20.531,58.051,sad
+basically to know to exercise but that's very important you know 30 to 45 minutes every day if you can do it most days of the week or you also want to eat right avoiding simple carbs you want to eat,47.76,24.33,72.09,sad
+more fruits vegetable fibers there are 30 million Americans I have diabetes but you're almost 90 million I have pre-diabetes and studies have shown that within three to five years if you do,60.18,19.439,79.619,sad
+have pre-diabetes and you don't do anything you will develop full-blown diabetes there's good news because numerous studies have shown that diabetes is totally preventable and it,70.229,22.291,92.52,sad
+can be mitigated to a large extent by your daily choices what you eat powerfully exercise you know and maintain your healthy habits that's a good one,80.85,18.830000000000002,99.67999999999999,sad
+you,90.48,2.06,92.54,NA

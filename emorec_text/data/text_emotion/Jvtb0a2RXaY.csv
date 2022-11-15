@@ -1,271 +1,154 @@
 text,start,duration,end,dominant_emotion
-"Technically, we’re all just meat.",0.11,2.029,2.139,fear
-"Yeah, you could say that what makes us human
-is our emotions, or thoughts, or memories,",2.139,3.72,5.859,fear
-"but physically, we’re not all that different
-from this.",5.86,2.7,8.56,
-"We’re used to thinking of meat as the muscle
-tissue that people cook and eat -- but the",8.57,3.279,11.849,fear
-"fact is, you could eat that stuff raw. A chicken
-breast or a steak or a pork chop is tender",11.849,4.791,16.64,fear
-enough that it doesn’t need cooking.,16.64,1.97,18.61,fear
-"What does need cooking is all of the connective
-tissue that’s in and around the muscle,",18.61,4.6,23.21,fear
-and gets in the way of our meal.,23.21,1.35,24.560000000000002,
-"So one of the main reasons humans began to
-roast, and boil, and bake meat in the first",24.56,3.62,28.18,fear
-"place, was to break down those connective tissues
-that we can’t chew, so we could get the meat.",28.18,4.88,33.06,fear
+"Technically, we’re all just meat. Yeah, you could say that what makes us human
+is our emotions, or thoughts, or memories, but physically, we’re not all that different
+from this. We’re used to thinking of meat as the muscle
+tissue that people cook and eat -- but the fact is, you could eat that stuff raw. A chicken
+breast or a steak or a pork chop is tender",0.11,16.519000000000002,16.629,angry
+"enough that it doesn’t need cooking. What does need cooking is all of the connective
+tissue that’s in and around the muscle, and gets in the way of our meal. So one of the main reasons humans began to
+roast, and boil, and bake meat in the first place, was to break down those connective tissues
+that we can’t chew, so we could get the meat.",16.64,16.419999999999998,33.06,angry
 "Now, you might’ve noticed that connective
-tissues kind of seem like a grab bag of materials",33.06,3.54,36.6,
-that don’t really fit in other groups.,36.6,2.52,39.120000000000005,
-"Our muscle, nervous, and epithelial tissue
-types are more uniform, more obviously grouped",39.12,4.74,43.86,fear
-"together. Sometimes, our connective tissues just
-seem like the leftovers you throw in the stew pot.",43.87,4.39,48.26,fear
-"But appearances are deceiving, and our inability
-as a species to tolerate these tissues in",48.26,4.42,52.68,
+tissues kind of seem like a grab bag of materials that don’t really fit in other groups. Our muscle, nervous, and epithelial tissue
+types are more uniform, more obviously grouped together. Sometimes, our connective tissues just
+seem like the leftovers you throw in the stew pot. But appearances are deceiving, and our inability
+as a species to tolerate these tissues in",33.06,19.61,52.67,angry
 "our food is just one reminder that no matter
-how different tendon, bone, or a hunk of fat",52.68,5.18,57.86,fear
-"may appear, they are indeed very closely related.",57.86,3.039,60.899,fear
-"They all spring from the same embryonic cells,
-and their structures are dominated, not by",60.899,3.74,64.639,
-"cells, but by an extracellular matrix full
-of fibers.",64.64,2.9,67.54,angry
-"And it’s those fibers that have given humans
-the most trouble in our meat-eating history.",67.549,4.521,72.07000000000001,fear
+how different tendon, bone, or a hunk of fat may appear, they are indeed very closely related. They all spring from the same embryonic cells,
+and their structures are dominated, not by cells, but by an extracellular matrix full
+of fibers. And it’s those fibers that have given humans
+the most trouble in our meat-eating history.",52.68,19.38,72.06,angry
 "It wasn’t until we figured out how to cook the
-stuff the that we were able to denature, or",72.07,4.28,76.35,fear
-"change the natural structure of, those protein
-fibers so that they became soft and pliable.",76.35,4.01,80.36,fear
-"Take a chicken for example. You couldn’t
-just pull the skin off a living bird -- like",80.36,4.95,85.31,fear
-"ethically you couldn’t do that but also
-you probably couldn’t.",85.31,2.669,87.979,
-"Its living skin is anchored by connective
-tissue that’s full of collagen fibers. But",87.979,4.221,92.2,
+stuff the that we were able to denature, or change the natural structure of, those protein
+fibers so that they became soft and pliable. Take a chicken for example. You couldn’t
+just pull the skin off a living bird -- like ethically you couldn’t do that but also
+you probably couldn’t. Its living skin is anchored by connective
+tissue that’s full of collagen fibers. But",72.07,20.13,92.19999999999999,NA
 "if you roast that chicken, and break apart
-that collagen, suddenly the skin just peels",92.2,4.22,96.42,fear
-right off with no effort at all.,96.42,1.41,97.83,
-"So connective tissues, as evidenced by this
-mess here, are good reminders of how sometimes",97.83,4.44,102.27,fear
-things are more similar than they appear.,102.27,1.79,104.06,
-"They’re also delicious . . . if you’re
-into that.",104.06,2.9,106.96000000000001,
+that collagen, suddenly the skin just peels right off with no effort at all. So connective tissues, as evidenced by this
+mess here, are good reminders of how sometimes things are more similar than they appear. They’re also delicious . . . if you’re
+into that.",92.2,14.76,106.96000000000001,NA
 "So we know what our connective tissues have
-in common, and we know that we’ve got four",117.16,3.04,120.2,angry
-"different types -- but what do they look like,
-what do they do, and where are they found",120.21,4.13,124.33999999999999,fear
-"-- both in your butcher shop, and on your
-body?",124.34,2.38,126.72,fear
-"Perhaps your most diverse type is your classic
-connective tissue proper. It comes in both",126.72,4.61,131.33,fear
-"loose and dense subclasses, based on how many
-fibers it has in its ground substance.",131.33,4.409,135.739,fear
+in common, and we know that we’ve got four different types -- but what do they look like,
+what do they do, and where are they found -- both in your butcher shop, and on your
+body? Perhaps your most diverse type is your classic
+connective tissue proper. It comes in both loose and dense subclasses, based on how many
+fibers it has in its ground substance.",117.16,18.569,135.72899999999998,angry
 "Pull on the back of your hand. See that fleshy
-tent there? That’s one example of loose",135.739,4.341,140.08,
-"connective tissue. There’s a lot of ground
-substance in here, and the elastin fibers",140.08,4.55,144.63000000000002,
-"help it snap back into place, while the collagen
-helps anchor it so you can’t, like, snag",144.63,4.77,149.4,
-"your skin on a zipper and watch it just fly
-off.",149.4,2.89,152.29,fear
-"But try pulling on your Achilles’ tendon,
-or these wing tendons here, and there isn’t",152.29,3.48,155.76999999999998,fear
+tent there? That’s one example of loose connective tissue. There’s a lot of ground
+substance in here, and the elastin fibers help it snap back into place, while the collagen
+helps anchor it so you can’t, like, snag your skin on a zipper and watch it just fly
+off. But try pulling on your Achilles’ tendon,
+or these wing tendons here, and there isn’t",135.739,20.031,155.77,angry
 "a lot of give. That’s because a tendon is
-an example of dense connective tissue, with",155.77,4.43,160.20000000000002,fear
-"a lot more collagen. You could chew and chew
-and chew on a collagen-dense tendon and never",160.2,5.86,166.06,fear
-"get anywhere. That’s why butchers trim off most dense
-connective tissue before selling cuts of meat.",166.06,4.4,170.46,
-"So loose connective tissues have fewer fibers,
-and more cells and more ground substance.",170.46,4.54,175.0,fear
-"Areolar tissue is the most common loose connective
-tissue you have, found ALL over your body,",175.0,4.34,179.34,fear
+an example of dense connective tissue, with a lot more collagen. You could chew and chew
+and chew on a collagen-dense tendon and never get anywhere. That’s why butchers trim off most dense
+connective tissue before selling cuts of meat. So loose connective tissues have fewer fibers,
+and more cells and more ground substance. Areolar tissue is the most common loose connective
+tissue you have, found ALL over your body,",155.77,23.57,179.34,angry
 "just under your epithelial tissue, and wrapped
-around your organs.",179.34,3.1,182.44,
-"It’s got a loose and random arrangement
-of fibers, with just a few fibroblast cells",182.44,4.159,186.599,fear
-"that make those fibers. If you look at it
-under a microscope you’ll see that its most",186.599,3.591,190.19,fear
-"obvious feature is that it looks like it has
-a lot of open space in it.",190.19,3.579,193.769,fear
-"This makes areolar tissue makes it great at
-holding the watery, salty ground substance",193.769,4.36,198.12900000000002,
-that surrounding tissues draw from.,198.129,1.851,199.98,
-"Your adipose tissue, meanwhile, is your fat
-tissue, the loose connective tissue that’s in here.",199.98,4.64,204.61999999999998,fear
-"Rather than being mostly ground substance,
-this one is mostly cells -- adipocytes -- which",204.62,3.94,208.56,fear
-"store lipids for later use, insulate the body against
-heat loss, and grow pot bellies and love handles.",208.56,4.66,213.22,
-"The average person’s weight is about 18
-percent adipose tissue, and it’s those fat",213.23,3.369,216.599,
+around your organs. It’s got a loose and random arrangement
+of fibers, with just a few fibroblast cells that make those fibers. If you look at it
+under a microscope you’ll see that its most obvious feature is that it looks like it has
+a lot of open space in it. This makes areolar tissue makes it great at
+holding the watery, salty ground substance",179.34,18.789,198.12900000000002,angry
+"that surrounding tissues draw from. Your adipose tissue, meanwhile, is your fat
+tissue, the loose connective tissue that’s in here. Rather than being mostly ground substance,
+this one is mostly cells -- adipocytes -- which store lipids for later use, insulate the body against
+heat loss, and grow pot bellies and love handles. The average person’s weight is about 18
+percent adipose tissue, and it’s those fat",198.129,18.46,216.589,NA
 "stores that keep us alive when food is scarce.
-With no fat stores, you’d die within a few",216.599,4.4,220.999,fear
-days of your last sandwich.,221.0,1.54,222.54,
-"Reticular tissue is like areolar tissue, but
-with a woven mess of reticular fibers -- rather",222.54,4.48,227.01999999999998,
-"than collagen and elastin fibers -- hence
-the name.",227.03,2.789,229.819,
-"This tissue provides the soft internal framework,
-or stroma, of the spleen, lymph nodes, and",229.819,4.98,234.79899999999998,
+With no fat stores, you’d die within a few days of your last sandwich. Reticular tissue is like areolar tissue, but
+with a woven mess of reticular fibers -- rather than collagen and elastin fibers -- hence
+the name. This tissue provides the soft internal framework,
+or stroma, of the spleen, lymph nodes, and",216.599,18.189,234.78799999999998,NA
 "bone marrow, and it supports lots of developing
-blood cells. Just as your areolar tissue is",234.8,4.76,239.56,
-"a kind of sponge for watery ground substance,
-your reticular tissue is what holds your blood",239.56,4.459,244.019,fear
-in place in many of your organs.,244.019,1.571,245.59,fear
-"Really, all of these loose connective tissue
-proper types share an airy dispersal of fibers",245.59,5.41,251.0,fear
-"... which is why they’re easier to eat after cooking --
-and why you can pull cooked chicken skin apart.",251.0,4.82,255.82,fear
+blood cells. Just as your areolar tissue is a kind of sponge for watery ground substance,
+your reticular tissue is what holds your blood in place in many of your organs. Really, all of these loose connective tissue
+proper types share an airy dispersal of fibers ... which is why they’re easier to eat after cooking --
+and why you can pull cooked chicken skin apart.",234.8,21.02,255.82000000000002,NA
 "On the other hand, you can’t easily rip
-a tendon or ligament in two, or even chew",255.82,4.0,259.82,
-"it, because it’s made of that dense regular
-tissue, full of tight bundles of collagen",259.82,4.42,264.24,
-fibers all running parallel.,264.249,1.571,265.82000000000005,
-"You can see how neat and smooth a slide sample
-looks under a scope, the fibers being those",265.82,4.64,270.46,fear
-"white, flexible structures. They provide great
-resistance to tension when that tension is",270.469,4.961,275.43,fear
-exerted in one direction.,275.43,1.29,276.72,
-"That’s why you find this tissue in your
-tendons, which connect muscle to bone or other",276.72,4.119,280.83900000000006,fear
-"muscle, and your ligaments, which bind bones
-together anywhere you’ve got a joint.",280.839,3.48,284.319,fear
-"But what if those collagen fibers aren’t
-all stacked regularly in rows?",284.319,4.07,288.389,fear
-"Then it forms dense irregular tissue, whose
-fibers are thicker and arranged erratically",288.389,5.24,293.629,fear
+a tendon or ligament in two, or even chew it, because it’s made of that dense regular
+tissue, full of tight bundles of collagen fibers all running parallel. You can see how neat and smooth a slide sample
+looks under a scope, the fibers being those white, flexible structures. They provide great
+resistance to tension when that tension is",255.82,19.592,275.412,NA
+"exerted in one direction. That’s why you find this tissue in your
+tendons, which connect muscle to bone or other muscle, and your ligaments, which bind bones
+together anywhere you’ve got a joint. But what if those collagen fibers aren’t
+all stacked regularly in rows? Then it forms dense irregular tissue, whose
+fibers are thicker and arranged erratically",275.43,18.198999999999998,293.629,angry
 "-- it’s found wherever tension might be
-exerted in lots of different directions, like",293.629,4.231,297.86,fear
-the leathery dermis underlying your skin.,297.86,2.25,300.11,fear
-"And finally, your body has places that require
-more elasticity than rigidity, like say, around",300.11,4.789,304.899,fear
-"your joints. That’s where you’ll find
-dense elastic tissue -- for example, connecting",304.899,4.621,309.52,
-"your vertebrae so that your spine can curve
-and twist.",309.52,2.69,312.21,
+exerted in lots of different directions, like the leathery dermis underlying your skin. And finally, your body has places that require
+more elasticity than rigidity, like say, around your joints. That’s where you’ll find
+dense elastic tissue -- for example, connecting your vertebrae so that your spine can curve
+and twist.",293.629,18.581,312.21000000000004,angry
 "Some of our largest artery walls are made
-of this stretchy elastic tissue, too, which",312.21,4.229,316.43899999999996,
-provides both support and flexibility.,316.439,2.46,318.899,neutral
-"From fat to tendons, connective tissue proper
-is the most diverse group in this tissue family.",318.899,4.58,323.479,fear
-"But for the last few minutes you’ve also
-been watching a different type of connective",323.479,3.32,326.799,fear
-tissue bob up and down as I talk -- cartilage,326.8,3.36,330.16,
+of this stretchy elastic tissue, too, which provides both support and flexibility. From fat to tendons, connective tissue proper
+is the most diverse group in this tissue family. But for the last few minutes you’ve also
+been watching a different type of connective tissue bob up and down as I talk -- cartilage",312.21,17.949,330.159,angry
 "Cartilage doesn’t have any blood or nerves,
-and it stands up against both tension and",330.169,3.52,333.68899999999996,
-"compression pretty well -- it’s that whitish
-gristle you see at the end of pork ribs or",333.689,4.44,338.129,
-"chicken wings in your grocer’s freezer -- and
-it’s another thing that you’re not going",338.129,3.53,341.659,
-to have much luck chewing.,341.659,1.171,342.83,
-"Hyaline cartilage is your most common type
--- it’s kind of glassy looking and provides",342.83,3.91,346.74,
+and it stands up against both tension and compression pretty well -- it’s that whitish
+gristle you see at the end of pork ribs or chicken wings in your grocer’s freezer -- and
+it’s another thing that you’re not going to have much luck chewing. Hyaline cartilage is your most common type
+-- it’s kind of glassy looking and provides",330.169,16.570999999999998,346.74,NA
 "pliable support. It connects your ribs to your
-sternum and keeps the tip of your nose all perky.",346.74,5.04,351.78000000000003,
-"Its ground substance is rich with those sticky,
-starchy proteoglycans, and although it has",351.78,5.66,357.44,
-"collagen fibers, when you look at it under
-a scope, you can’t really see them -- instead",357.449,3.8,361.249,angry
-"the tissue looks glassy, hence the name “hyal”
-meaning glassy, or transparent.",361.249,4.86,366.10900000000004,fear
-"Elastic cartilage is very similar to hyaline,
-but with more elastic fibers that are easier",366.109,3.851,369.96,
+sternum and keeps the tip of your nose all perky. Its ground substance is rich with those sticky,
+starchy proteoglycans, and although it has collagen fibers, when you look at it under
+a scope, you can’t really see them -- instead the tissue looks glassy, hence the name “hyal”
+meaning glassy, or transparent. Elastic cartilage is very similar to hyaline,
+but with more elastic fibers that are easier",346.74,23.211,369.951,angry
 "to see, and it’s found in places where strength
-and stretchability are needed. Like, it’s",369.969,4.06,374.029,fear
-"why I can pull on my ear without it ripping
-off.",374.029,2.681,376.71,fear
-"And just as your body needs firm parts and
-stretchy parts, it also needs shock absorbers.",376.71,4.25,380.96,fear
-"That’s where your fibrocartilage comes in.
-It’s dominated by thick fibers of collagen",380.96,5.5,386.46,
-"and is good at withstanding lots of pressure,
-so it makes up the discs between your vertebrae,",386.46,4.15,390.60999999999996,
+and stretchability are needed. Like, it’s why I can pull on my ear without it ripping
+off. And just as your body needs firm parts and
+stretchy parts, it also needs shock absorbers. That’s where your fibrocartilage comes in.
+It’s dominated by thick fibers of collagen and is good at withstanding lots of pressure,
+so it makes up the discs between your vertebrae,",369.969,20.641,390.61,NA
 "and your knee joints where it keeps your bones
-from grinding together.",390.61,3.089,393.699,
-And speaking of bones!,393.699,1.19,394.889,sad
-"Although you might not think of something
-so hard and durable as living tissue, bones",394.889,4.03,398.919,fear
-definitely are.,398.919,0.98,399.899,fear
-"The word “bone” can refer to an entire
-organ -- like your femur or scapula -- or",399.899,4.401,404.3,fear
+from grinding together. And speaking of bones! Although you might not think of something
+so hard and durable as living tissue, bones definitely are. The word “bone” can refer to an entire
+organ -- like your femur or scapula -- or",390.61,13.690000000000001,404.3,NA
 "just bone tissue. And that bone, or osseous
-tissue, is just calcified connective tissue,",404.3,5.539,409.839,fear
-"perfect for supporting and protecting your
-body’s various structures.",409.839,3.34,413.179,fear
-"Spongy bone tissue is typically found in the
-heads of long bones and in the inner layer",413.18,3.94,417.12,fear
-"of flat bones like the sternum. This spongy
-tissue is strong, but porous, even to the",417.129,4.87,421.999,fear
-"naked eye, and it uses this extra room to
-make and store bone marrow.",421.999,4.06,426.059,fear
+tissue, is just calcified connective tissue, perfect for supporting and protecting your
+body’s various structures. Spongy bone tissue is typically found in the
+heads of long bones and in the inner layer of flat bones like the sternum. This spongy
+tissue is strong, but porous, even to the naked eye, and it uses this extra room to
+make and store bone marrow.",404.3,21.749,426.04900000000004,angry
 "Compact bone tissue on the other hand is quite
-dense, with no visible spaces. It forms the",426.06,3.919,429.979,fear
-"external layer of your bones and stores calcium
-for bone cells to use to make more tissue.",429.979,4.8,434.779,fear
-"Now, if bone doesn’t conjure up your traditional
-image of a tissue, blood probably doesn’t",434.779,4.051,438.83,fear
-"either -- I mean, it doesn’t seem to connect
-things, or lend support, and yet, blood is",438.83,4.839,443.669,angry
-our fourth type of connective tissue.,443.669,2.26,445.929,fear
+dense, with no visible spaces. It forms the external layer of your bones and stores calcium
+for bone cells to use to make more tissue. Now, if bone doesn’t conjure up your traditional
+image of a tissue, blood probably doesn’t either -- I mean, it doesn’t seem to connect
+things, or lend support, and yet, blood is our fourth type of connective tissue.",426.06,19.869,445.929,angry
 "And when you think about it, it clearly does
-connect distant parts of your body and provides",445.929,4.5,450.429,fear
-some rigidity to other parts.,450.429,1.6,452.029,fear
-"Just like other connective tissues, blood
-develops from mesenchyme and is made up of",452.029,3.35,455.379,fear
-"cells surrounded by an extracellular nonliving
-matrix: In this case, the ground substance",455.379,5.41,460.78900000000004,fear
-"is your blood plasma, which has protein fibers
-floating around in it.",460.789,3.511,464.3,
+connect distant parts of your body and provides some rigidity to other parts. Just like other connective tissues, blood
+develops from mesenchyme and is made up of cells surrounded by an extracellular nonliving
+matrix: In this case, the ground substance is your blood plasma, which has protein fibers
+floating around in it.",445.929,18.371,464.29999999999995,angry
 "Your blood’s main job, of course, is delivering
-goods -- it transports cells, and nutrients,",464.3,4.409,468.709,
-"and hormones, and wastes, and all kinds of
-other stuff, keeping all the parts of your",468.709,3.61,472.319,NA
-body connected in the process.,472.319,1.43,473.749,NA
-"Most of your blood cells are erythrocytes,
-or your famous red blood cells that zoom around,",473.749,4.64,478.389,NA
-"carrying oxygen and carbon dioxide through
-your body. You’ve also got larger, infection-fighting",478.389,4.5,482.889,NA
+goods -- it transports cells, and nutrients, and hormones, and wastes, and all kinds of
+other stuff, keeping all the parts of your body connected in the process. Most of your blood cells are erythrocytes,
+or your famous red blood cells that zoom around, carrying oxygen and carbon dioxide through
+your body. You’ve also got larger, infection-fighting",464.3,18.589,482.889,NA
 "white blood cells, or leukocytes in the mix,
-and your platelets, the small cell fragments",482.889,5.29,488.17900000000003,NA
-"needed for blood clotting so that a paper
-cut doesn’t bleed you dry.",488.179,3.38,491.55899999999997,NA
-"Unlike other connective tissues, it doesn’t
-really have what you would call fibers, but",491.559,3.67,495.22900000000004,NA
-"instead has a bunch of protein dissolved in
-the plasma, and those protein molecules will",495.229,5.3,500.529,NA
-"form fiber-like structures when your blood
-needs to clot.",500.529,3.61,504.139,NA
+and your platelets, the small cell fragments needed for blood clotting so that a paper
+cut doesn’t bleed you dry. Unlike other connective tissues, it doesn’t
+really have what you would call fibers, but instead has a bunch of protein dissolved in
+the plasma, and those protein molecules will form fiber-like structures when your blood
+needs to clot.",482.889,21.25,504.139,NA
 "So. You take your four primary types of tissues,
-and all of the subtypes of each that’s taken",504.139,5.161,509.3,NA
-"us weeks to explore, and you can probably
-see how they can come together in many, many",509.3,4.919,514.219,NA
-"combinations to form all of your body’s
-organs.",514.219,2.831,517.0500000000001,NA
-"And just like that chaotic cafeteria packed
-with middle-schoolers -- we’d be hopeless",517.05,3.7,520.75,NA
-"messes without our hierarchy of organization,
-our inner and outer boundaries, and the ability",520.75,4.86,525.61,NA
-of our systems to communicate with each other.,525.61,2.26,527.87,NA
-"THAT is what our tissues do for us, and we
-wouldn’t exist without them.",527.87,3.63,531.5,NA
-"Today we wrapped up our four-episode series
-on tissues, with a survey of the sub-groups",531.509,4.26,535.769,NA
-"of loose and dense connective tissue, including
-areolar, adipose, reticular, tendons, ligaments,",535.769,5.521,541.29,NA
-"dense irregular, and dense elastic tissue.
-We also talked about the three cartilage types,",541.29,4.0,545.29,NA
+and all of the subtypes of each that’s taken us weeks to explore, and you can probably
+see how they can come together in many, many combinations to form all of your body’s
+organs. And just like that chaotic cafeteria packed
+with middle-schoolers -- we’d be hopeless messes without our hierarchy of organization,
+our inner and outer boundaries, and the ability",504.139,21.470999999999997,525.61,NA
+"of our systems to communicate with each other. THAT is what our tissues do for us, and we
+wouldn’t exist without them. Today we wrapped up our four-episode series
+on tissues, with a survey of the sub-groups of loose and dense connective tissue, including
+areolar, adipose, reticular, tendons, ligaments, dense irregular, and dense elastic tissue.
+We also talked about the three cartilage types,",525.61,19.671,545.2810000000001,NA
 "spongy and compact bone connective tissue, and how
-and why our blood is also a connective tissue type.",545.29,6.01,551.3,NA
-"Thanks to all of you for watching, especially to our
-Subbable subscribers, who make Crash Course",551.3,3.92,555.2199999999999,NA
-"possible to themselves and also to the rest of the world. To find out how you can become a supporter, you",555.22,4.68,559.9,NA
-"can go to Subbable.com. And don’t forget to
-go to Youtube.com/CrashCourse and subscribe.",559.9,4.9,564.8,NA
-"This episode was written by Kathleen Yale,
-the script was edited by Blake de Pastino,",564.8,3.18,567.9799999999999,NA
+and why our blood is also a connective tissue type. Thanks to all of you for watching, especially to our
+Subbable subscribers, who make Crash Course possible to themselves and also to the rest of the world. To find out how you can become a supporter, you can go to Subbable.com. And don’t forget to
+go to Youtube.com/CrashCourse and subscribe. This episode was written by Kathleen Yale,
+the script was edited by Blake de Pastino,",545.29,22.689999999999998,567.98,NA
 "and our consultant is Dr. Brandon Jackson.
-It was directed by Nicholas Jenkins & Michael",567.98,4.169,572.149,NA
-Aranda and our graphics team is Thought Cafe.,572.149,2.4,574.549,NA
+It was directed by Nicholas Jenkins & Michael Aranda and our graphics team is Thought Cafe.",567.98,6.568999999999999,574.549,NA

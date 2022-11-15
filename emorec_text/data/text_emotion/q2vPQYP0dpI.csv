@@ -1,233 +1,116 @@
 text,start,duration,end,dominant_emotion
-"Hey, guys, Dr. Berg here.",1.78,1.41,3.19,fear
-"I want to do a video on the most important
-electrolyte.",3.19,3.169,6.359,fear
-Let me explain what electrolyte is.,6.359,2.751,9.11,fear
-"If you ever take salt and put it in water
-and dissolve it, it disassociates.",9.11,4.89,14.0,fear
-"The sodium and chloride disconnect and they
-become two separate minerals.",14.0,7.77,21.77,fear
-That fluid is very electrically conductive.,21.77,3.28,25.05,fear
-"Basically, electrolytes have to do with minerals
-that help conduct electricity in the body.",25.05,6.88,31.93,fear
-They help with a lot of different things.,31.93,2.29,34.22,fear
-"As far as electrolytes, it would be potassium,
-sodium, magnesium, calcium, chlorides, all",34.22,9.299,43.519,fear
-those minerals.,43.519,1.851,45.37,fear
+"Hey, guys, Dr. Berg here. I want to do a video on the most important
+electrolyte. Let me explain what electrolyte is. If you ever take salt and put it in water
+and dissolve it, it disassociates. The sodium and chloride disconnect and they
+become two separate minerals.",1.78,19.99,21.77,angry
+"That fluid is very electrically conductive. Basically, electrolytes have to do with minerals
+that help conduct electricity in the body. They help with a lot of different things. As far as electrolytes, it would be potassium,
+sodium, magnesium, calcium, chlorides, all those minerals.",21.77,23.599999999999998,45.37,angry
 "Potassium, out of all of the electrolytes,
-is the one that we need in very large quantities.",45.37,7.009,52.379,fear
-"I was curious, why is that?",52.379,2.421,54.8,fear
-"Why do we need the potassium in such large
-amounts?",54.8,1.809,56.608999999999995,fear
-"I'm talking 4,700 milligrams to 6,000 milligrams
-every single day.",56.609,6.77,63.379000000000005,fear
-"That's equivalent to 7-10+ cups of salad or
-vegetable every single day.",63.379,6.78,70.15899999999999,surprise
-That's a lot.,70.159,1.56,71.71900000000001,happy
-That's odd to me.,71.719,1.33,73.04899999999999,happy
-No one consumes that much.,73.049,2.621,75.67,fear
-"Let's go dig further on exactly why we need
-potassium.",75.67,4.1,79.77,fear
-"There's something in the body called the sodium-potassium
-pump.",79.77,7.36,87.13,fear
+is the one that we need in very large quantities. I was curious, why is that? Why do we need the potassium in such large
+amounts? I'm talking 4,700 milligrams to 6,000 milligrams
+every single day. That's equivalent to 7-10+ cups of salad or
+vegetable every single day.",45.37,24.789,70.15899999999999,angry
+"That's a lot. That's odd to me. No one consumes that much. Let's go dig further on exactly why we need
+potassium. There's something in the body called the sodium-potassium
+pump.",70.159,16.971,87.13000000000001,angry
 "It's built in a little protein connected to
-an enzyme.",87.13,4.0,91.13,fear
-"It forms a whole enzyme on the surface of
-your cells.",91.13,4.769,95.899,fear
-"You have between 800,000 to 30 million of
-these little, tiny pumps.",95.899,6.631,102.53,fear
-"They're little generators that generate electricity
-to allow things to go through the cell.",102.53,6.509,109.039,fear
-They take a lot of energy to work.,109.039,3.111,112.15,fear
+an enzyme. It forms a whole enzyme on the surface of
+your cells. You have between 800,000 to 30 million of
+these little, tiny pumps. They're little generators that generate electricity
+to allow things to go through the cell. They take a lot of energy to work.",87.13,25.02,112.14999999999999,angry
 "In fact, 1/3 of all the food that you eat,
-the energy of 1/3 of your diet, goes to running",112.15,7.749,119.899,fear
-those pumps.,119.899,2.89,122.789,fear
-"You also have another pump in the stomach
-called the hydrogen potassium ATPase.",122.789,6.781,129.57,fear
-"Don't worry about the name, but it's basically
-another pump that's build with potassium that",129.57,5.08,134.65,happy
-"allows you to create stomach acid to help
-you digest.",134.65,4.169,138.81900000000002,fear
+the energy of 1/3 of your diet, goes to running those pumps. You also have another pump in the stomach
+called the hydrogen potassium ATPase. Don't worry about the name, but it's basically
+another pump that's build with potassium that allows you to create stomach acid to help
+you digest.",112.15,26.669,138.81900000000002,angry
 "These pumps also are in the muscles, they're
-in the nervous system, and the pumps in the",138.819,5.95,144.76899999999998,fear
-"nervous system use about 60% of your body's
-caloric intake of energy.",144.769,7.08,151.84900000000002,fear
-"In other words, these pumps are really critically
-important in exchanging nutrition, glucose,",151.849,8.051,159.89999999999998,fear
-"amino acids, and other minerals to allow them
-to transport in and out of the cell.",159.9,7.05,166.95000000000002,fear
-"Potassium is essential for building the pumps
-to allow these functions right here.",166.95,6.05,173.0,fear
-They charge the cell electrically.,173.0,2.45,175.45,fear
-"Your cells have certain voltage that allows
-things to work and go in and out of the cell",175.45,4.239,179.689,
-and create different energy.,179.689,1.301,180.98999999999998,fear
-"In fact, your energy that you have that controls
-your metabolism is controlled partly by this",180.99,7.26,188.25,fear
-little pump.,188.25,1.45,189.7,fear
-It charges the cell electrically.,189.7,1.459,191.159,fear
-It gives you energy.,191.159,1.471,192.63,fear
-"It helps the muscles contract to relax because
-it allows calcium to go into the cell, as",192.63,5.609,198.239,fear
-well.,198.239,1.0,199.239,neutral
-It controls the transport of calcium.,199.239,2.491,201.73000000000002,happy
-"Wow, interesting.",201.73,2.56,204.29,surprise
-"If you're low on something in this pump and
-these pumps aren't working, your calcium is",204.29,6.44,210.73,fear
-"not going to relax the muscle, so you'll get
-muscle cramps from potassium, but it's really",210.73,5.63,216.35999999999999,fear
-"calcium, but we can't fix it by giving you
-calcium.",216.36,2.5,218.86,fear
-We have to give you potassium.,218.86,1.63,220.49,fear
-I'll get more into that.,220.49,1.65,222.14000000000001,fear
-The muscle needs this pump.,222.14,2.44,224.57999999999998,fear
-"The nerves to conduct electricity need this
-pump desperately.",224.58,5.04,229.62,fear
-"Fluid, the transport of fluid, the hydration
-of your body is controlled by this pump and",229.62,6.4,236.02,fear
-your overall physical energy.,236.02,3.029,239.049,fear
+in the nervous system, and the pumps in the nervous system use about 60% of your body's
+caloric intake of energy. In other words, these pumps are really critically
+important in exchanging nutrition, glucose, amino acids, and other minerals to allow them
+to transport in and out of the cell. Potassium is essential for building the pumps
+to allow these functions right here.",138.819,34.181000000000004,173.0,angry
+"They charge the cell electrically. Your cells have certain voltage that allows
+things to work and go in and out of the cell and create different energy. In fact, your energy that you have that controls
+your metabolism is controlled partly by this little pump.",173.0,16.7,189.7,angry
+"It charges the cell electrically. It gives you energy. It helps the muscles contract to relax because
+it allows calcium to go into the cell, as well. It controls the transport of calcium.",189.7,12.03,201.73,sad
+"Wow, interesting. If you're low on something in this pump and
+these pumps aren't working, your calcium is not going to relax the muscle, so you'll get
+muscle cramps from potassium, but it's really calcium, but we can't fix it by giving you
+calcium. We have to give you potassium.",201.73,18.759999999999998,220.48999999999998,sad
+"I'll get more into that. The muscle needs this pump. The nerves to conduct electricity need this
+pump desperately. Fluid, the transport of fluid, the hydration
+of your body is controlled by this pump and your overall physical energy.",220.49,18.558999999999997,239.049,angry
 "Since potassium is so hard to get in the diet
-because people don't realize how much need",239.049,4.261,243.31,fear
-"and they're not eating enough vegetables,
-you can experience a set of symptoms that",243.31,5.16,248.47,fear
-"I'm going to describe to you and you might
-have some of these.",248.47,2.019,250.489,fear
-"Number one, fatigue.",250.489,2.231,252.72,happy
-"Fatigue can come from a potassium deficiency
-because if you don't have enough potassium,",252.72,5.69,258.41,fear
+because people don't realize how much need and they're not eating enough vegetables,
+you can experience a set of symptoms that I'm going to describe to you and you might
+have some of these. Number one, fatigue. Fatigue can come from a potassium deficiency
+because if you don't have enough potassium,",239.049,19.361,258.41,angry
 "your cells, electrically, are going to be
-way, way, way down there.",258.41,3.169,261.579,fear
-You can't pump anymore.,261.579,1.87,263.449,happy
-"That's why when people start eating more potassium
-foods, they have some more energy.",263.449,3.391,266.84000000000003,happy
-"The problem is if you try to take a potassium
-pill, it only is comprising about 40 milligrams,",266.84,5.97,272.81,fear
-maybe 90 milligrams.,272.81,1.63,274.44,fear
-"You need 4,700 milligrams.",274.44,1.88,276.32,fear
-You'd have to have a whole bottle.,276.32,2.67,278.99,fear
-The pills are not going to work.,278.99,1.79,280.78000000000003,fear
-"Plus, if you took that much potassium without
-the other minerals, you can throw it out of",280.78,3.76,284.53999999999996,fear
-balance.,284.54,1.0,285.54,
+way, way, way down there. You can't pump anymore. That's why when people start eating more potassium
+foods, they have some more energy. The problem is if you try to take a potassium
+pill, it only is comprising about 40 milligrams, maybe 90 milligrams.",258.41,16.029999999999998,274.44,angry
+"You need 4,700 milligrams. You'd have to have a whole bottle. The pills are not going to work. Plus, if you took that much potassium without
+the other minerals, you can throw it out of balance.",274.44,11.1,285.54,sad
 "You want to get your potassium from food or
-food concentrates.",285.54,2.93,288.47,fear
-Then we have energy fatigue.,288.47,5.449,293.91900000000004,fear
-We have muscle fatigue.,293.919,1.951,295.87,fear
-"If you go up a flight of stairs and you feel
-like your legs are really heavy or you don't",295.87,4.43,300.3,fear
-"have the endurance, that is a potassium deficiency.",300.3,3.399,303.699,fear
+food concentrates. Then we have energy fatigue. We have muscle fatigue. If you go up a flight of stairs and you feel
+like your legs are really heavy or you don't have the endurance, that is a potassium deficiency.",285.54,18.159,303.699,angry
 "Nerve, if the nerve is tired, your electrical
-impulses won't work, so you have arrhythmias,",303.699,6.331,310.03000000000003,fear
-"you'll have an alteration in heartbeat problems,
-skip beats, atrial fib, [inaudible 00:05:16]",310.03,7.21,317.23999999999995,fear
-electrolyte deficiency.,317.24,1.62,318.86,fear
-"Fluid, fluid retention, swollen ankles.",318.86,4.2,323.06,fear
-That's a potassium deficiency.,323.06,1.72,324.78000000000003,happy
-What do doctors do?,324.78,1.0,325.78,
-They tell you to avoid salt.,325.78,2.16,327.94,
-Big mistake.,327.94,1.27,329.21,
-You should increase potassium.,329.21,1.75,330.96,
-"Then overall, just energy in the cell to work
-correctly.",330.96,5.06,336.02,fear
+impulses won't work, so you have arrhythmias, you'll have an alteration in heartbeat problems,
+skip beats, atrial fib, [inaudible 00:05:16] electrolyte deficiency. Fluid, fluid retention, swollen ankles. That's a potassium deficiency.",303.699,21.081,324.78000000000003,angry
+"What do doctors do? They tell you to avoid salt. Big mistake. You should increase potassium. Then overall, just energy in the cell to work
+correctly.",324.78,11.239999999999998,336.02,sad
 "In the stomach, if you don't have enough potassium,
-you can't create the acid that you need to",336.02,5.61,341.63,fear
-help digest protein and absorb other minerals.,341.63,3.319,344.949,
-"Again, the potassium is needed for the stomach,
-the nerves, the muscles, for energy, for fluid,",344.949,5.411,350.36,fear
-"for hydration, all of these things.",350.36,2.55,352.91,fear
-"Now that you know that, let's talk about how
-you become deficient.",352.91,2.72,355.63000000000005,fear
+you can't create the acid that you need to help digest protein and absorb other minerals. Again, the potassium is needed for the stomach,
+the nerves, the muscles, for energy, for fluid, for hydration, all of these things. Now that you know that, let's talk about how
+you become deficient.",336.02,19.61,355.63,angry
 "Number one reason is you don't have enough
-potassium in the diet.",355.63,4.36,359.99,fear
-"You need to consume 7-10 cups of vegetable
-or salad a day to achieve this.",359.99,7.679,367.669,fear
-"I enhance this with food concentrates a lot
-of times if I can't get the quantity, and",367.669,5.381,373.04999999999995,fear
-I use my wheat grass juice powder.,373.05,1.36,374.41,fear
-"I take a teaspoon of that, and that will give
-me a blend of a lot of potassium and magnesium",374.41,5.229,379.639,fear
+potassium in the diet. You need to consume 7-10 cups of vegetable
+or salad a day to achieve this. I enhance this with food concentrates a lot
+of times if I can't get the quantity, and I use my wheat grass juice powder. I take a teaspoon of that, and that will give
+me a blend of a lot of potassium and magnesium",355.63,24.009,379.639,sad
 "and a lot of other things to be able to spike
-that sodium-potassium pump, to boost my energy,",379.639,6.701,386.34000000000003,fear
-as well.,386.34,1.0,387.34,happy
-"Vomiting, diarrhea will also create a deficiency.",387.34,2.66,390.0,happy
-"Surgery, when you get a surgery, what happens
-is your potassium just dumps because of the",390.0,6.25,396.25,fear
-stress.,396.25,1.0,397.25,fear
+that sodium-potassium pump, to boost my energy, as well. Vomiting, diarrhea will also create a deficiency. Surgery, when you get a surgery, what happens
+is your potassium just dumps because of the stress.",379.639,17.611,397.25,angry
 "That's why they always give you a potassium
-IV because to replenish that potassium.",397.25,4.77,402.02,fear
-Stress will also decrease potassium.,402.02,3.2,405.21999999999997,fear
-"Let me just grab this book right here, my
-favorite CIBA Encyclopedia for Endocrinology.",405.22,8.57,413.79,fear
-"We got right here, adrenal stress.",413.79,3.129,416.91900000000004,
-"Right here, it creates potassium loss.",416.919,4.721,421.64,fear
+IV because to replenish that potassium. Stress will also decrease potassium. Let me just grab this book right here, my
+favorite CIBA Encyclopedia for Endocrinology. We got right here, adrenal stress. Right here, it creates potassium loss.",397.25,24.39,421.64,angry
 "It's stress create a loss of potassium through
-the urine.",421.64,7.38,429.02,fear
-Sugar creates a deficiency of potassium.,429.02,3.22,432.24,
-Why?,432.24,1.12,433.36,fear
-"Because insulin is the hormone that helps
-you absorb nutrients.",433.36,5.029,438.389,fear
-It also causes everything to go into fat.,438.389,2.261,440.65000000000003,fear
+the urine. Sugar creates a deficiency of potassium. Why? Because insulin is the hormone that helps
+you absorb nutrients. It also causes everything to go into fat.",421.64,19.009999999999998,440.65,angry
 "If you have a problem with insulin, like insulin
-resistance, you can't pull glucose into the",440.65,4.48,445.13,fear
-"cell, and that's why your craving sweets,
-by the way, but, see, what insulin does, it",445.13,7.111,452.241,fear
-"only acts as a trigger for the sodium-potassium
-pump to trigger the absorption of nutrients.",452.241,4.909,457.15,fear
-"That doesn't get triggered, so you can't absorb
-things.",457.15,3.43,460.58,
-"By taking more potassium, you can actually
-decrease the need for insulin, and that's",460.58,5.92,466.5,fear
-what I recommend for my diabetics.,466.5,1.49,467.99,fear
-"It's very difficult to fix diabetes without
-enough potassium, without enough vegetable.",467.99,8.359,476.349,fear
-"If you have a lot of sugar, that'll deplete
-potassium.",476.349,2.651,479.0,
-"If you take potassium, it'll help with cravings
-and decrease your need for insulin.",479.0,5.2,484.2,
-"Diuretics, blood pressure, if you're low in
-potassium, your blood pressure will go up,",484.2,6.71,490.90999999999997,NA
+resistance, you can't pull glucose into the cell, and that's why your craving sweets,
+by the way, but, see, what insulin does, it only acts as a trigger for the sodium-potassium
+pump to trigger the absorption of nutrients. That doesn't get triggered, so you can't absorb
+things. By taking more potassium, you can actually
+decrease the need for insulin, and that's",440.65,25.85,466.5,angry
+"what I recommend for my diabetics. It's very difficult to fix diabetes without
+enough potassium, without enough vegetable. If you have a lot of sugar, that'll deplete
+potassium. If you take potassium, it'll help with cravings
+and decrease your need for insulin. Diuretics, blood pressure, if you're low in
+potassium, your blood pressure will go up,",466.5,24.41,490.91,angry
 "and you also have problems with calcium not
-moving in the correct places.",490.91,5.479,496.389,NA
-"That's why the doctors give you a diuretic
-to get rid of fluid, and they give you a calcium",496.389,4.461,500.85,NA
-"channel blocker for high blood pressure, but
-they don't recommend enough potassium.",500.85,5.569,506.41900000000004,NA
-"There's so many people that consume enough
-potassium and their blood pressure comes down.",506.419,4.5,510.919,NA
-Diuretics will deplete your potassium.,510.919,1.801,512.72,NA
+moving in the correct places. That's why the doctors give you a diuretic
+to get rid of fluid, and they give you a calcium channel blocker for high blood pressure, but
+they don't recommend enough potassium. There's so many people that consume enough
+potassium and their blood pressure comes down. Diuretics will deplete your potassium.",490.91,21.81,512.72,NA
 "They get rid of electrolytes, your blood pressure
-stays high.",512.72,3.37,516.09,NA
-"Salt, sodium-potassium, they always work in
-a balance.",516.09,4.16,520.25,NA
-"The reason I'm not talking about salt is that
-your body will tend to conserve salt more",520.25,4.7,524.95,NA
-"than potassium and also people have a lot
-of extra salt in their diet, naturally just",524.95,5.76,530.71,NA
-"eat more salt than potassium, so they're rarely
-deficient in salt.",530.71,5.99,536.7,NA
-Too much salt can deplete potassium.,536.7,2.21,538.9100000000001,NA
-Alcohol will deplete potassium.,538.91,2.4,541.31,NA
-"The last one is ketogenic diets, which is
-interesting.",541.31,4.17,545.4799999999999,NA
-"You go on a higher fat, low carb diet, what
-happens, you will deplete potassium.",545.48,5.94,551.4200000000001,NA
-"Thus, the reason why I tell you to consume
-more vegetable when you do a high fat diet,",551.42,6.27,557.6899999999999,NA
+stays high. Salt, sodium-potassium, they always work in
+a balance. The reason I'm not talking about salt is that
+your body will tend to conserve salt more than potassium and also people have a lot
+of extra salt in their diet, naturally just eat more salt than potassium, so they're rarely
+deficient in salt.",512.72,23.980000000000004,536.7,NA
+"Too much salt can deplete potassium. Alcohol will deplete potassium. The last one is ketogenic diets, which is
+interesting. You go on a higher fat, low carb diet, what
+happens, you will deplete potassium. Thus, the reason why I tell you to consume
+more vegetable when you do a high fat diet,",536.7,20.99,557.69,NA
 "so you can replenish the potassium and feel
-fine because a lot of times you'll dump a",557.69,5.87,563.5600000000001,NA
-"lot of water from losing a lot of fat, as
-well, when you're burning fat or you might",563.56,4.4,567.9599999999999,NA
-feel fatigued or you might feel constipated.,567.96,3.59,571.5500000000001,NA
-"By adding more potassium from the vegetable
-... It's not the fiber.",571.55,3.96,575.51,NA
-"It's potassium in that food that will help
-flush you out and you keep the liver clean",575.51,3.98,579.49,NA
-and help these pumps work a lot better.,579.49,2.48,581.97,NA
-"I just wanted to give you an idea of the most
-important electrolyte, what it does in your",581.97,6.46,588.4300000000001,NA
-body.,588.43,1.0,589.43,NA
-That's what electrolytes do.,589.43,1.39,590.8199999999999,NA
-"Then also how you become deficient and what
-you need to do to correct this.",590.82,4.8,595.62,NA
-Hope this helped.,595.62,1.0,596.62,NA
-I will see you in the next video.,596.62,0.7,597.32,NA
+fine because a lot of times you'll dump a lot of water from losing a lot of fat, as
+well, when you're burning fat or you might feel fatigued or you might feel constipated. By adding more potassium from the vegetable
+... It's not the fiber. It's potassium in that food that will help
+flush you out and you keep the liver clean",557.69,21.8,579.49,NA
+"and help these pumps work a lot better. I just wanted to give you an idea of the most
+important electrolyte, what it does in your body. That's what electrolytes do. Then also how you become deficient and what
+you need to do to correct this.",579.49,16.13,595.62,NA
+Hope this helped. I will see you in the next video.,595.62,1.7,597.32,NA

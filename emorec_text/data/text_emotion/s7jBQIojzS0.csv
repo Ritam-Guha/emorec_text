@@ -1,2451 +1,1373 @@
 text,start,duration,end,dominant_emotion
-FRANK: Good afternoon.,2.044,0.916,2.96,
-Thank you for joining us.,2.96,1.76,4.72,
-"I'm really excited to
-introduce Dr. James Shapiro.",4.72,3.19,7.91,
-"Dr. Shapiro's been working
-on diabetes research",7.91,1.98,9.89,
-"for a long time, and
-in particular he's",9.89,2.43,12.32,
+"FRANK: Good afternoon. Thank you for joining us. I'm really excited to
+introduce Dr. James Shapiro. Dr. Shapiro's been working
+on diabetes research for a long time, and
+in particular he's",2.044,10.276,12.32,NA
 "credited with
-developing the Edmonton",12.32,1.92,14.24,neutral
-"Protocol for human islet
-cell transplantation, which",14.24,3.264,17.504,
-"was published in the New
-England Journal of Medicine",17.504,2.166,19.67,
-in the year 2000.,19.67,1.58,21.25,neutral
-"He's currently
-continuing this research",21.25,1.96,23.21,neutral
+developing the Edmonton Protocol for human islet
+cell transplantation, which was published in the New
+England Journal of Medicine in the year 2000. He's currently
+continuing this research",12.32,10.89,23.21,NA
 "at the University of
-Alberta in Edmonton, Canada.",23.21,3.25,26.46,neutral
-"And he also holds the
-Canadian Research Chair",26.46,2.44,28.900000000000002,neutral
-"in transplantation and
-regenerative medicine.",28.9,4.0,32.9,neutral
-"Dr. Shapiro's received
-quite a lot of awards,",32.9,3.08,35.98,neutral
-"including a Hunterian
-medal from the Royal",35.98,1.95,37.93,neutral
-College of Surgeons of England.,37.93,2.4,40.33,neutral
-"And he's also
-recently been inducted",40.33,1.65,41.98,neutral
-"as a fellow of the
-Royal Society of Canada.",41.98,2.96,44.94,neutral
-"And with that, please help
-me welcome Dr. Shapiro.",44.94,2.26,47.199999999999996,neutral
-"DR. JAMES SHAPIRO: Frank,
-thank you very much indeed.",51.342,2.208,53.55,
+Alberta in Edmonton, Canada. And he also holds the
+Canadian Research Chair in transplantation and
+regenerative medicine. Dr. Shapiro's received
+quite a lot of awards, including a Hunterian
+medal from the Royal",23.21,14.719999999999999,37.93,neutral
+"College of Surgeons of England. And he's also
+recently been inducted as a fellow of the
+Royal Society of Canada. And with that, please help
+me welcome Dr. Shapiro. DR. JAMES SHAPIRO: Frank,
+thank you very much indeed.",37.93,11.478,49.408,NA
 "It's very kind of you
-to invite me to Google.",53.55,2.08,55.629999999999995,
-"I'm very impressed
-with my tour so far.",55.63,2.362,57.992000000000004,
-"And I'm very excited
-about the discussion",57.992,1.708,59.699999999999996,
-"that we're going to have
-later on this afternoon.",59.7,2.041,61.741,
-"So it's a great privilege
-to be here and be with you",61.741,2.578,64.319,
+to invite me to Google. I'm very impressed
+with my tour so far. And I'm very excited
+about the discussion that we're going to have
+later on this afternoon. So it's a great privilege
+to be here and be with you",53.55,10.769,64.319,NA
 "and share our hopes and trials
-and tribulations and progress",64.319,5.681,70.0,
-"in some of the treatments for
-the condition of diabetes.",70.0,4.725,74.725,
-"So we're trying
-to get to a point",74.725,1.375,76.1,
-"where we have
-diabetes cured once",76.1,1.6,77.69999999999999,
-and for all for the future.,77.7,2.07,79.77,
+and tribulations and progress in some of the treatments for
+the condition of diabetes. So we're trying
+to get to a point where we have
+diabetes cured once and for all for the future.",64.319,15.450999999999999,79.77,NA
 "But it's not easy to do
-that in one fell swoop.",79.77,3.07,82.83999999999999,
-"So we've got several
-strategies, and it's really",82.84,2.2,85.04,
-"a team and global effort
-in diabetes research,",85.04,3.24,88.28,neutral
-"to try and take a point
-where we have insulin today",88.28,3.48,91.76,
-"and hopefully no injections,
-no monitoring for the future.",91.76,2.54,94.30000000000001,
+that in one fell swoop. So we've got several
+strategies, and it's really a team and global effort
+in diabetes research, to try and take a point
+where we have insulin today and hopefully no injections,
+no monitoring for the future.",79.77,14.530000000000001,94.3,NA
 "And I'll try and take
-you along that journey",94.3,1.935,96.235,
-"of cutting edge islet and stem
-cell transplant treatments",96.235,3.675,99.91,
-"in the clinic for diabetes
-as we move forward today.",99.91,4.06,103.97,
-So diabetes.,103.97,0.826,104.79599999999999,
-"Most of you will know
-what diabetes is,",104.796,1.624,106.42,
+you along that journey of cutting edge islet and stem
+cell transplant treatments in the clinic for diabetes
+as we move forward today. So diabetes. Most of you will know
+what diabetes is,",94.3,12.12,106.42,NA
 "but just the start
-of the basics.",106.42,1.57,107.99,
-"Diabetes is a condition
-where patients",107.99,2.32,110.30999999999999,
-"lose the ability to
-adjust their blood sugar.",110.31,2.525,112.83500000000001,
-"And there are two main
-types of diabetes--",112.835,1.75,114.585,
-"there are several subtypes--
-but two main types.",114.585,2.845,117.42999999999999,
+of the basics. Diabetes is a condition
+where patients lose the ability to
+adjust their blood sugar. And there are two main
+types of diabetes-- there are several subtypes--
+but two main types.",106.42,11.01,117.43,NA
 "Type one, where the
-pancreas basically",117.43,2.63,120.06,
-"has lost its ability
-to make insulin.",120.06,2.854,122.914,
-"The cells in the pancreas
-that make insulin",122.914,1.791,124.705,
-are called islets of Langerhans.,124.705,1.995,126.7,neutral
-"And inside those collections
-of cells there are beta cells,",126.7,2.821,129.52100000000002,neutral
+pancreas basically has lost its ability
+to make insulin. The cells in the pancreas
+that make insulin are called islets of Langerhans. And inside those collections
+of cells there are beta cells,",117.43,12.091,129.52100000000002,NA
 "and those are the beta cells
-are the ones that make insulin.",129.521,2.499,132.01999999999998,
-"So in someone who has
-type I diabetes then",132.02,3.32,135.34,neutral
-"the body has basically destroyed
-those cells-- destroyed",135.34,3.16,138.5,
-"the beta cells inside the
-pancreas inside the islets",138.5,2.27,140.77,
-that make insulin.,140.77,1.12,141.89000000000001,
+are the ones that make insulin. So in someone who has
+type I diabetes then the body has basically destroyed
+those cells-- destroyed the beta cells inside the
+pancreas inside the islets that make insulin.",129.521,12.369,141.89,NA
 "So the patients have an
-absolute deficiency of insulin.",141.89,3.625,145.515,
-"And the other type
-of diabetes-- which",145.515,1.615,147.13,
-"is of course much more common
-and increasing in number as",147.13,3.12,150.25,
-"well-- is type 2
-diabetes, where patients",150.25,1.93,152.18,
-become resistant to insulin.,152.18,2.11,154.29000000000002,
+absolute deficiency of insulin. And the other type
+of diabetes-- which is of course much more common
+and increasing in number as well-- is type 2
+diabetes, where patients become resistant to insulin.",141.89,12.399999999999999,154.29,NA
 "And therefore when
-they receive insulin,",154.29,1.79,156.07999999999998,
-"or the pancreas
-is making insulin,",156.08,2.1,158.18,
-"the body's needs for
-insulin are basically",158.18,3.49,161.67000000000002,neutral
-"what the pancreas can
-release is insufficient.",161.67,4.95,166.61999999999998,
-"So diabetes is a very
-common condition.",166.62,2.39,169.01,
+they receive insulin, or the pancreas
+is making insulin, the body's needs for
+insulin are basically what the pancreas can
+release is insufficient. So diabetes is a very
+common condition.",154.29,14.720000000000002,169.01,NA
 "There are about
-381 million people",169.01,2.01,171.01999999999998,
-"with diabetes in
-the world today,",171.02,1.58,172.60000000000002,
-"based on the world estimates
-from the Diabetes Federation",172.6,3.71,176.31,
-2013.,176.31,1.46,177.77,
-"Type I diabetes represents about
-10% of the world population.",177.77,4.12,181.89000000000001,
+381 million people with diabetes in
+the world today, based on the world estimates
+from the Diabetes Federation 2013. Type I diabetes represents about
+10% of the world population.",169.01,12.879999999999999,181.89,NA
 "By 2030, this population with
-type I and type 2 diabetes",181.89,3.73,185.61999999999998,
-will double.,185.62,1.01,186.63,
-"So it's going to be a huge, huge
-health burden for the future.",186.63,4.33,190.96,
-"The national cost of diabetes
-in this country and the US",190.96,2.48,193.44,
-"alone is greater than $245
-billion estimated last year.",193.44,5.77,199.21,
+type I and type 2 diabetes will double. So it's going to be a huge, huge
+health burden for the future. The national cost of diabetes
+in this country and the US alone is greater than $245
+billion estimated last year.",181.89,17.32,199.20999999999998,NA
 "And that increased from
-$174 billion in 2007.",199.21,4.14,203.35,
-"And clearly, with
-the massive increase",203.35,1.94,205.29,
-"in numbers of patients
-with diabetes,",205.29,1.85,207.14,
-"this is going to become
-uncontrollable and super",207.14,2.7,209.83999999999997,neutral
-"saturate the ability
-of health care systems",209.84,2.41,212.25,
-to deliver appropriate care.,212.25,2.924,215.174,
-"So insulin has been around for
-a long time, as some of you",215.174,2.416,217.59,neutral
-may know.,217.59,0.78,218.37,neutral
-"Banting/Best-- and this
-is Frederick Banting",218.37,3.08,221.45000000000002,neutral
-"in the physiology laboratories
-in London, Canada in 1920,",221.45,7.39,228.83999999999997,
+$174 billion in 2007. And clearly, with
+the massive increase in numbers of patients
+with diabetes, this is going to become
+uncontrollable and super saturate the ability
+of health care systems",199.21,13.04,212.25,NA
+"to deliver appropriate care. So insulin has been around for
+a long time, as some of you may know. Banting/Best-- and this
+is Frederick Banting in the physiology laboratories
+in London, Canada in 1920,",212.25,16.59,228.84,NA
 "1921, 1922 when the
-team was working",228.84,2.45,231.29,
-"on the discovery of insulin
-Banting, Best, Collip,",231.29,2.53,233.82,
-and Macleod.,233.82,1.48,235.29999999999998,
-"And insulin injection
-therapy clearly",235.3,2.02,237.32000000000002,
-"has been life-saving for many,
-many patients with type 1",237.32,4.085,241.405,
+team was working on the discovery of insulin
+Banting, Best, Collip, and Macleod. And insulin injection
+therapy clearly has been life-saving for many,
+many patients with type 1",228.84,12.565000000000001,241.405,NA
 "and some patients
-with type 2 diabetes.",241.405,2.215,243.62,
-"So injections of
-insulin from the outside",243.62,2.49,246.11,
-"can substitute for the pancreas'
-ability to make insulin.",246.11,5.524,251.63400000000001,
-"And we measure insulin
-in the number of units.",251.634,1.916,253.54999999999998,
-"So most patients will take 20,
-30, 40 units on insulin a day.",253.55,3.7,257.25,
+with type 2 diabetes. So injections of
+insulin from the outside can substitute for the pancreas'
+ability to make insulin. And we measure insulin
+in the number of units. So most patients will take 20,
+30, 40 units on insulin a day.",241.405,15.844999999999999,257.25,NA
 "And they measure the number
-of units of insulin--",257.25,2.519,259.769,
-"it was a crude amount-- it was
-the amount of insulin needed,",259.769,3.061,262.83,
-"one unit of instant to cause
-hypoglycemia in a rabbit.",262.83,3.21,266.03999999999996,
-"That's how they
-originally discovered it",266.04,1.79,267.83000000000004,
-"when Banting and Best
-were working on this.",267.83,3.96,271.78999999999996,
+of units of insulin-- it was a crude amount-- it was
+the amount of insulin needed, one unit of instant to cause
+hypoglycemia in a rabbit. That's how they
+originally discovered it when Banting and Best
+were working on this.",257.25,14.54,271.79,NA
 "Diabetes is a dangerous
-condition to have overall.",271.79,2.97,274.76000000000005,
-"Kidney failure is a
-problem-- 25 times more",274.76,2.31,277.07,
-"risk than the
-general population.",277.07,2.45,279.52,
-"Heart attacks-- two to
-five times more risk",279.52,2.08,281.59999999999997,
-than the general population.,281.6,1.71,283.31,
+condition to have overall. Kidney failure is a
+problem-- 25 times more risk than the
+general population. Heart attacks-- two to
+five times more risk than the general population.",271.79,11.52,283.31,NA
 "Strokes-- two to
-three times more risk.",283.31,1.63,284.94,
-"And life expectancy for
-patients with diabetes",284.94,3.58,288.52,
-"is at least 10 years shorter
-than the rest of the world",288.52,2.59,291.10999999999996,
-without diabetes.,291.11,3.04,294.15000000000003,
-"Diabetes is the leading
-cause of vision loss",294.15,2.53,296.67999999999995,
-in working age adults.,296.68,1.55,298.23,neutral
-"It's the commonest cause of
-end stage kidney failure,",298.23,3.29,301.52000000000004,
-"and of non-traumatic
-lower limb amputations,",301.52,2.292,303.81199999999995,
-"because the blood
-vessels basically",303.812,1.458,305.27000000000004,
-"become destroyed when the
-body's glucose becomes awry.",305.27,5.7,310.96999999999997,
+three times more risk. And life expectancy for
+patients with diabetes is at least 10 years shorter
+than the rest of the world without diabetes. Diabetes is the leading
+cause of vision loss",283.31,13.37,296.68,NA
+"in working age adults. It's the commonest cause of
+end stage kidney failure, and of non-traumatic
+lower limb amputations, because the blood
+vessels basically become destroyed when the
+body's glucose becomes awry.",296.68,14.29,310.97,NA
 "There's been lots
-of improvements",310.97,1.82,312.79,
-"in the treatment of diabetes
-over the course of time.",312.79,2.4,315.19,
-"As I mentioned, before
-the discovery of insulin",315.19,1.958,317.148,
-"in 1921, 1922, diabetes
-was a fatal condition.",317.148,3.702,320.85,
-"When insulin was first
-tried in patients,",320.85,2.23,323.08000000000004,
+of improvements in the treatment of diabetes
+over the course of time. As I mentioned, before
+the discovery of insulin in 1921, 1922, diabetes
+was a fatal condition. When insulin was first
+tried in patients,",310.97,12.11,323.08000000000004,NA
 "it led to complications--
-infection, sepsis.",323.08,4.767,327.847,
-"Then there's been
-various improvements",327.847,1.583,329.43,
-"in different types of insulin--
-short acting, long acting",329.43,3.84,333.27,
-"insulin-- in different
-ways of delivering insulin",333.27,2.15,335.41999999999996,
-"over the course of time,
-including insulin pumps,",335.42,2.63,338.05,
+infection, sepsis. Then there's been
+various improvements in different types of insulin--
+short acting, long acting insulin-- in different
+ways of delivering insulin over the course of time,
+including insulin pumps,",323.08,14.970000000000002,338.05,NA
 "including continuous blood
-glucose monitoring systems.",338.05,3.18,341.23,
-"And the whole idea here is to
-try to tighten up the sugar",341.23,2.6,343.83000000000004,neutral
-"control so that patients
-are at less risk of getting",343.83,3.27,347.09999999999997,
-"the end stage complications
-of diabetes-- the micro",347.1,2.62,349.72,
-"and the macro
-complications of diabetes.",349.72,2.13,351.85,
+glucose monitoring systems. And the whole idea here is to
+try to tighten up the sugar control so that patients
+are at less risk of getting the end stage complications
+of diabetes-- the micro and the macro
+complications of diabetes.",338.05,13.8,351.85,NA
 "And the reverse side
-of that equation",351.85,1.84,353.69,
-"is we try to tighten
-up the control",353.69,1.92,355.61,
-"as the patients get much
-more of this condition, which",355.61,2.81,358.42,
-"is a iatrogenic condition--
-in other words, caused",358.42,2.46,360.88,
-"by doctors-- which is
-called hypoglycemia.",360.88,1.92,362.8,
+of that equation is we try to tighten
+up the control as the patients get much
+more of this condition, which is a iatrogenic condition--
+in other words, caused by doctors-- which is
+called hypoglycemia.",351.85,10.950000000000001,362.8,NA
 "So when the blood sugar falls
-below a certain threshold,",362.8,3.33,366.13,
-"then patients
-become susceptible,",366.13,1.43,367.56,
-"because the brain absolutely
-requires glucose to function.",367.56,3.85,371.41,
-"As soon as the blood glucose
-drops below a certain level,",371.41,3.18,374.59000000000003,
-"then the brain can
-no longer function.",374.59,2.46,377.04999999999995,
+below a certain threshold, then patients
+become susceptible, because the brain absolutely
+requires glucose to function. As soon as the blood glucose
+drops below a certain level, then the brain can
+no longer function.",362.8,14.25,377.05,NA
 "So islet cell transplantation
-has been around since the 1970s",377.05,6.08,383.13,
-experimentally.,383.13,1.28,384.40999999999997,
-"And first trials in patients
-happened in the 1980s.",384.41,3.21,387.62,
-"And it really took
-off in 2000, and there",387.62,3.032,390.652,
-have been several done.,390.652,0.958,391.61,
+has been around since the 1970s experimentally. And first trials in patients
+happened in the 1980s. And it really took
+off in 2000, and there have been several done.",377.05,14.56,391.61,NA
 "I'm now going to
-explain and tell you",391.61,1.541,393.151,
-"the story about
-transportation shortly.",393.151,2.389,395.54,
-"But really our indications
-for islet transplantation",395.54,2.67,398.21000000000004,
-"have been to try to reduce
-this risk of hypoglycemia,",398.21,3.94,402.15,
-"reducing the risk
-of lows in patients",402.15,1.6,403.75,
-that are needing insulin.,403.75,2.62,406.37,
-"So why do we try to run
-the blood sugar low?",406.37,1.91,408.28000000000003,
-"This is really based on
-some very large trials",408.28,2.73,411.01,
-in patients with diabetes.,411.01,1.09,412.09999999999997,
-"We know from these
-curves for example,",412.1,2.02,414.12,
+explain and tell you the story about
+transportation shortly. But really our indications
+for islet transplantation have been to try to reduce
+this risk of hypoglycemia, reducing the risk
+of lows in patients",391.61,12.139999999999999,403.75,NA
+"that are needing insulin. So why do we try to run
+the blood sugar low? This is really based on
+some very large trials in patients with diabetes. We know from these
+curves for example,",403.75,10.37,414.12,NA
 "as we try to tighten up
-the blood sugar control,",414.12,2.0,416.12,
-"we can definitely reduce
-the risk of complications",416.12,2.16,418.28000000000003,
-"such as this one on the right,
-called retinopathy, which",418.28,2.333,420.613,
-"is where the blood vessels in
-the back of the eye accelerate,",420.613,2.817,423.43,
-"and grow, and cause
-the blindness.",423.43,2.77,426.2,
+the blood sugar control, we can definitely reduce
+the risk of complications such as this one on the right,
+called retinopathy, which is where the blood vessels in
+the back of the eye accelerate, and grow, and cause
+the blindness.",414.12,12.08,426.2,NA
 "But, as we tighten
-up the control,",426.2,1.53,427.72999999999996,
-"then patients are more and
-more at risk of getting lows.",427.73,3.07,430.8,
-"And we measure this by
-the glycated hemoglobin,",430.8,2.86,433.66,
-"which is a marker in the
-bloodstream that really tells",433.66,2.252,435.91200000000003,
-"you how good or
-bad the blood sugar",435.912,1.458,437.37,neutral
-control is over several months.,437.37,3.04,440.41,
-"So here's a patient that's
-wearing a state-of-the-art",440.41,2.91,443.32000000000005,
-continuous glucose monitor.,443.32,2.52,445.84,
-"And you can see across
-day one and day two,",445.84,1.97,447.81,
-"this patient has quite
-wide fluctuations",447.81,2.24,450.05,
-in blood sugar control.,450.05,2.31,452.36,
-"And at 8:00 in the
-morning on the second day,",452.36,2.6,454.96000000000004,
-"you can see the
-blood glucose drops,",454.96,1.9,456.85999999999996,
-"the patient is on their
-own, not monitored.",456.86,2.515,459.375,
-"And unfortunately,
-that patient's",459.375,1.375,460.75,
+up the control, then patients are more and
+more at risk of getting lows. And we measure this by
+the glycated hemoglobin, which is a marker in the
+bloodstream that really tells you how good or
+bad the blood sugar",426.2,11.17,437.37,NA
+"control is over several months. So here's a patient that's
+wearing a state-of-the-art continuous glucose monitor. And you can see across
+day one and day two, this patient has quite
+wide fluctuations",437.37,12.680000000000001,450.05,NA
+"in blood sugar control. And at 8:00 in the
+morning on the second day, you can see the
+blood glucose drops, the patient is on their
+own, not monitored. And unfortunately,
+that patient's",450.05,10.700000000000001,460.75,NA
 "found dead in bed
-at 9:00 an hour",460.75,1.96,462.71,
-"later, from a fatal
-hypoglycemic event.",462.71,2.84,465.54999999999995,
-"And fortunately, this
-is relatively rare,",465.55,2.02,467.57,
-but it does happen.,467.57,1.01,468.58,
-"And it happens in young
-adults with type 1 diabetes",468.58,2.97,471.55,
-that have poor control.,471.55,3.36,474.91,
-"Now this is what we can achieve
-today with an islet cell",474.91,2.35,477.26000000000005,
-"transplant in the
-lower panel here.",477.26,1.56,478.82,
-"You can see very
-wide fluctuations",478.82,2.73,481.55,
-"in blood sugar over
-the course of time,",481.55,1.96,483.51,
+at 9:00 an hour later, from a fatal
+hypoglycemic event. And fortunately, this
+is relatively rare, but it does happen. And it happens in young
+adults with type 1 diabetes",460.75,10.8,471.55,NA
+"that have poor control. Now this is what we can achieve
+today with an islet cell transplant in the
+lower panel here. You can see very
+wide fluctuations in blood sugar over
+the course of time,",471.55,11.96,483.51,NA
 "up until that red arrow
-when the patient receives",483.51,2.4,485.90999999999997,
-an islet transplant.,485.91,1.41,487.32000000000005,
-"This is a transplant that
-actually is done in Miami.",487.32,3.25,490.57,
-"Dr. Camillo Ricordi shared
-this slide and data with me.",490.57,3.08,493.65,
-"But it's very typical of
-what we can achieve routinely",493.65,2.7,496.34999999999997,
-with an islet cell transplant.,496.35,1.25,497.6,
-"And here you can see, after
-the islet transplant, when",497.6,2.5,500.1,
-"the patient discontinues
-insulin, the blood sugar",500.1,2.39,502.49,
-"control becomes very tight,
-is in the normal range",502.49,3.46,505.95,
-or near normal range.,505.95,1.244,507.194,
+when the patient receives an islet transplant. This is a transplant that
+actually is done in Miami. Dr. Camillo Ricordi shared
+this slide and data with me. But it's very typical of
+what we can achieve routinely",483.51,12.84,496.34999999999997,NA
+"with an islet cell transplant. And here you can see, after
+the islet transplant, when the patient discontinues
+insulin, the blood sugar control becomes very tight,
+is in the normal range or near normal range.",496.35,10.844000000000001,507.194,NA
 "The price of this however,
-is that the patient",507.194,1.916,509.11,
-"needs a procedure-- a small
-procedure to receive cells--",509.11,3.52,512.63,
-"and has to have
-immunosuppressive drugs",512.63,1.97,514.6,
-"in order for the body not
-to reject these cells.",514.6,2.629,517.229,
-"They're transplanted
-cells from organ donors,",517.229,2.061,519.2900000000001,
+is that the patient needs a procedure-- a small
+procedure to receive cells-- and has to have
+immunosuppressive drugs in order for the body not
+to reject these cells. They're transplanted
+cells from organ donors,",507.194,12.096,519.29,NA
 "and they are
-therefore potentially",519.29,1.619,520.909,
-foreign to the body.,520.909,1.431,522.34,
-"And also the process
-that caused diabetes",522.34,2.62,524.96,
-"in the first place, which
-is an autoimmune process,",524.96,2.23,527.19,
-meaning the body attacks itself.,527.19,2.42,529.61,
+therefore potentially foreign to the body. And also the process
+that caused diabetes in the first place, which
+is an autoimmune process, meaning the body attacks itself.",519.29,10.32,529.61,NA
 "This will happen
-again after an islet",529.61,1.92,531.53,
-"transparent to the new cells,
-unless the anti-rejection drugs",531.53,3.28,534.81,
-are given.,534.81,1.5,536.31,
-"So there's been real progress
-in islet cell transplantation.",536.31,2.809,539.1189999999999,
-I'll explain that to you.,539.119,1.041,540.1600000000001,
+again after an islet transparent to the new cells,
+unless the anti-rejection drugs are given. So there's been real progress
+in islet cell transplantation. I'll explain that to you.",529.61,10.55,540.16,NA
 "But I think we're somewhere
-along this hype cycle",540.16,1.94,542.1,
-"right now, perhaps
-somewhere along",542.1,1.416,543.5160000000001,
-the slope of enlightenment.,543.516,1.634,545.15,
-"We haven't got to
-Nirvana yet, but we're",545.15,1.86,547.01,
-"trying to get there along
-the plateau of productivity.",547.01,3.59,550.6,
+along this hype cycle right now, perhaps
+somewhere along the slope of enlightenment. We haven't got to
+Nirvana yet, but we're trying to get there along
+the plateau of productivity.",540.16,10.440000000000001,550.6,NA
 "And still I think
-if you can read",550.6,2.46,553.0600000000001,
-"and you can Google lots
-of negative reviews",553.06,3.002,556.0619999999999,
-"on islet transplantation,
-because I",556.062,1.458,557.52,
-"think the knowledge
-in this area probably",557.52,1.77,559.29,
-"hasn't reached all
-of the community.",559.29,3.114,562.404,
+if you can read and you can Google lots
+of negative reviews on islet transplantation,
+because I think the knowledge
+in this area probably hasn't reached all
+of the community.",550.6,11.803999999999998,562.404,NA
 "But I'm sharing with you
-today some of the progress.",562.404,2.166,564.57,
-"But there's been progress
-throughout diabetes.",564.57,2.049,566.619,
-"And here for example,
-is a trial that",566.619,1.541,568.1600000000001,
-"was just completed in
-September last year, looking",568.16,2.77,570.93,
-"at a special instant pump that
-switches off when the blood",570.93,3.19,574.12,
+today some of the progress. But there's been progress
+throughout diabetes. And here for example,
+is a trial that was just completed in
+September last year, looking at a special instant pump that
+switches off when the blood",562.404,11.716,574.12,NA
 "sugar reaches a certain low
-threshold, low glucose suspend.",574.12,4.79,578.91,
-"And when this is
-applied to patients,",578.91,1.59,580.5,
-"then the risk of patients
-getting hypoglycemia",580.5,2.62,583.12,
-"is certainly a lot less
-than it would be otherwise.",583.12,2.685,585.805,
-"So there's been
-lots of progress.",585.805,1.375,587.18,
+threshold, low glucose suspend. And when this is
+applied to patients, then the risk of patients
+getting hypoglycemia is certainly a lot less
+than it would be otherwise. So there's been
+lots of progress.",574.12,13.06,587.18,NA
 "And I'm also very
-excited this afternoon",587.18,1.79,588.9699999999999,
-"to meet with your Google
-contact lens team.",588.97,2.06,591.03,
-"Because I think the areas of
-monitoring for blood sugar",591.03,2.48,593.51,
-"control, and our
-ability to monitor",593.51,2.586,596.096,
-"the function of our cell
-transplant therapies",596.096,1.874,597.97,
+excited this afternoon to meet with your Google
+contact lens team. Because I think the areas of
+monitoring for blood sugar control, and our
+ability to monitor the function of our cell
+transplant therapies",587.18,10.790000000000001,597.9699999999999,NA
 "over time with this
-kind of technology",597.97,2.09,600.0600000000001,
-"will be enormously informative
-and allow us to tighten up",600.06,3.63,603.6899999999999,
-"our control, minimize
-the stress on the cells,",603.69,2.66,606.35,
-"and allow us all to learn a
-lot about controlling diabetes.",606.35,4.16,610.51,
-"So who do we offer an
-islet transplant to today?",610.51,2.32,612.83,
+kind of technology will be enormously informative
+and allow us to tighten up our control, minimize
+the stress on the cells, and allow us all to learn a
+lot about controlling diabetes. So who do we offer an
+islet transplant to today?",597.97,14.86,612.83,NA
 "We have two real
-major categories--",612.83,3.14,615.97,
-"those with patients who have
-an islet transplant alone.",615.97,3.01,618.98,
-"In other words, they haven't
-had a previous transplant.",618.98,2.291,621.2710000000001,
-"They have to have
-type 1 diabetes",621.271,1.729,623.0,
-for more than five years.,623.0,1.204,624.204,
+major categories-- those with patients who have
+an islet transplant alone. In other words, they haven't
+had a previous transplant. They have to have
+type 1 diabetes for more than five years.",612.83,11.374000000000002,624.2040000000001,NA
 "They have to fail on all the
-standard therapies, including",624.204,2.416,626.62,
-insulin pumps if available.,626.62,2.185,628.805,
-"And we have various
-scoring systems,",628.805,1.5,630.305,
-"which I won't dwell on,
-but they're basically",630.305,2.195,632.5,
-"to demonstrate that the
-patient has severe lows,",632.5,3.89,636.39,
+standard therapies, including insulin pumps if available. And we have various
+scoring systems, which I won't dwell on,
+but they're basically to demonstrate that the
+patient has severe lows,",624.204,12.186,636.39,NA
 "despite their ability to control
-the glucose as best they can.",636.39,3.74,640.13,
-"And about 5% to 10% of
-the population with type 1",640.13,2.87,643.0,
-"diabetes-- at least
-in Canada-- would",643.0,1.7,644.7,
-"fulfill these very
-strict criteria",644.7,2.1,646.8000000000001,
-"to justify adding
-immunosuppression and receiving",646.8,3.46,650.26,
-a cell infusion.,650.26,2.154,652.414,
-"The other side of
-the equation are",652.414,1.416,653.83,
-"patients who have already
-had a successful transplant,",653.83,1.99,655.82,
-"like a heart, a lung, or in
-this case, a kidney transplant.",655.82,2.7,658.5200000000001,
-"So they're already on
-the anti-rejection drugs,",658.52,2.12,660.64,
+the glucose as best they can. And about 5% to 10% of
+the population with type 1 diabetes-- at least
+in Canada-- would fulfill these very
+strict criteria to justify adding
+immunosuppression and receiving",636.39,13.870000000000001,650.26,NA
+"a cell infusion. The other side of
+the equation are patients who have already
+had a successful transplant, like a heart, a lung, or in
+this case, a kidney transplant. So they're already on
+the anti-rejection drugs,",650.26,10.379999999999999,660.64,NA
 "so they don't have to
-face any additional risk",660.64,1.916,662.556,
-"except from the minor risk
-of the procedure required",662.556,2.804,665.36,
-to put the cells in.,665.36,1.42,666.78,
-"And islet after kidney
-transplant, or second category,",666.78,2.65,669.43,
-"is becoming a very
-successful category too.",669.43,3.6,673.03,
+face any additional risk except from the minor risk
+of the procedure required to put the cells in. And islet after kidney
+transplant, or second category, is becoming a very
+successful category too.",660.64,12.389999999999999,673.03,NA
 "So we began with the Edmonton
-protocol in the year 2000.",673.03,2.584,675.6139999999999,happy
-"It didn't just
-begin from nowhere.",675.614,1.416,677.0300000000001,happy
-"It began from 30
-years of research",677.03,1.77,678.8,happy
-"in small and large
-animal models.",678.8,2.81,681.6099999999999,happy
-"And a terrific collaboration
-with several international",681.61,4.13,685.74,
-centers across the world.,685.74,2.65,688.39,
-"And I think that's one of the
-privileges involved in science",688.39,2.81,691.1999999999999,
-"and in diabetes
-research, is that we",691.2,1.58,692.7800000000001,
-"have a very, very close knit
-community of scientists working",692.78,3.37,696.15,
-"together, willing to share
-information and ideas",696.15,2.98,699.13,
+protocol in the year 2000. It didn't just
+begin from nowhere. It began from 30
+years of research in small and large
+animal models. And a terrific collaboration
+with several international",673.03,12.71,685.74,NA
+"centers across the world. And I think that's one of the
+privileges involved in science and in diabetes
+research, is that we have a very, very close knit
+community of scientists working together, willing to share
+information and ideas",685.74,13.39,699.13,NA
 "to allow us all to
-get to the next step.",699.13,1.83,700.96,
-"And it probably is
-modeled very nicely",700.96,1.98,702.94,
-in the Google organization.,702.94,3.5,706.44,
-So we published this in 2000.,706.44,1.817,708.2570000000001,
-"This is the New England
-Journal of Medicine,",708.257,1.833,710.0899999999999,
+get to the next step. And it probably is
+modeled very nicely in the Google organization. So we published this in 2000. This is the New England
+Journal of Medicine,",699.13,10.96,710.09,NA
 "where our first seven
-patients receiving islets",710.09,2.07,712.1600000000001,
-"under the Edmonton protocol--
-that we called subsequently",712.16,2.48,714.64,
-"the Edmonton protocol--
-where all the patients that",714.64,2.76,717.4,
-"had the transplants were able to
-come off insulin and remain off",717.4,3.007,720.4069999999999,
-insulin for a period of a years.,720.407,1.333,721.74,
+patients receiving islets under the Edmonton protocol--
+that we called subsequently the Edmonton protocol--
+where all the patients that had the transplants were able to
+come off insulin and remain off insulin for a period of a years.",710.09,11.65,721.74,NA
 "And in fact, now 15 years
-later, two of the original 12",721.74,3.096,724.836,
-"are still completely
-insulin-free",724.836,1.374,726.21,happy
-with full function.,726.21,1.51,727.72,
-"And we've just
-refined this treatment",727.72,2.4,730.12,
-"over the course of time to
-try and further improve it.",730.12,3.502,733.622,
+later, two of the original 12 are still completely
+insulin-free with full function. And we've just
+refined this treatment over the course of time to
+try and further improve it.",721.74,11.882000000000001,733.622,NA
 "So this was what we call
-the Edmonton protocol.",733.622,1.958,735.5799999999999,
-"We gave two sets
-of islet infusions.",735.58,2.82,738.4000000000001,
-"Initially around 5,000
-islets per kilogram",738.4,2.58,740.98,
-based on the recipient's weight.,740.98,1.52,742.5,
-"And then we have
-another infusion",742.5,1.374,743.874,
+the Edmonton protocol. We gave two sets
+of islet infusions. Initially around 5,000
+islets per kilogram based on the recipient's weight. And then we have
+another infusion",733.622,10.252,743.8739999999999,NA
 "to provide enough
-cell mass to make",743.874,1.543,745.417,
-"it sufficient insulin
-for the patient.",745.417,1.583,747.0,
-"Then we gave these two
-anti-rejection drugs--",747.0,2.16,749.16,
-"sirolimus and tacrolimus-- and
-an antibody at the beginning.",749.16,3.33,752.49,
-"And we subsequently
-changed these drugs now",752.49,1.865,754.355,
+cell mass to make it sufficient insulin
+for the patient. Then we gave these two
+anti-rejection drugs-- sirolimus and tacrolimus-- and
+an antibody at the beginning. And we subsequently
+changed these drugs now",743.874,10.481,754.355,NA
 "to more standard drugs,
-because we encountered",754.355,1.945,756.3000000000001,
-"quite a lot of side effects
-from the sirolimus drug.",756.3,2.41,758.7099999999999,
-"But it was certainly
-very successful",758.71,1.5,760.21,
-"in allowing us to
-begin our first trials.",760.21,3.82,764.0300000000001,
-"We then replicated these
-trials in Miami, Minnesota,",764.03,3.03,767.06,
+because we encountered quite a lot of side effects
+from the sirolimus drug. But it was certainly
+very successful in allowing us to
+begin our first trials. We then replicated these
+trials in Miami, Minnesota,",754.355,12.705,767.0600000000001,NA
 "and in our own site in
-Edmonton in 118 patients,",767.06,3.51,770.5699999999999,
-"and were able to replicate
-this quite successfully in 82%",770.57,2.406,772.976,
-"percent of patients
-coming off insulin.",772.976,1.624,774.6,
-"And then we moved forward with
-the immune tolerance network",774.6,3.08,777.6800000000001,
-"and carried out a large
-international trial",777.68,3.79,781.4699999999999,
+Edmonton in 118 patients, and were able to replicate
+this quite successfully in 82% percent of patients
+coming off insulin. And then we moved forward with
+the immune tolerance network and carried out a large
+international trial",767.06,14.41,781.4699999999999,NA
 "in the US and Europe, testing
-the Edmonton protocol.",781.47,2.91,784.38,
-"And we published that too
-in the New England Journal.",784.38,3.74,788.12,
-So where are we today?,788.12,1.47,789.59,
-"So we've treated in
-Edmonton over 200 patients--",789.59,3.0,792.59,
-"218 patients-- who've
-received 460 transplants.",792.59,4.279,796.869,
+the Edmonton protocol. And we published that too
+in the New England Journal. So where are we today? So we've treated in
+Edmonton over 200 patients-- 218 patients-- who've
+received 460 transplants.",781.47,15.399000000000001,796.869,NA
 "So you can see that
-most patients require--",796.869,1.791,798.6600000000001,
-"in our center at least--
-two islet infusions",798.66,2.42,801.0799999999999,
-"to provide sufficient
-mass for them",801.08,1.592,802.672,
-"to come off insulin
-for a period of time.",802.672,1.708,804.38,
-"We've received in
-Canada patients",804.38,1.72,806.1,
-from all across the country.,806.1,1.762,807.862,
-"Last year we did a record
-number of islet transplants",807.862,2.208,810.0699999999999,
-in Edmonton.,810.07,0.499,810.5690000000001,
-"We did 66 islet
-transplants at Edmonton.",810.569,2.981,813.55,
-And we're quite proud of that.,813.55,1.25,814.8,
-We've kept our teams very busy.,814.8,2.62,817.42,
-"Across the world,
-currently there've",817.42,1.93,819.3499999999999,
-"been over 1,000 islet
-transplants done at least",819.35,3.4,822.75,
-"30 different
-international sites.",822.75,3.16,825.91,
-"And so I'm going
-to explain to you",825.91,1.805,827.7149999999999,
-know how we get the islets out.,827.715,1.507,829.222,
-"That was a picture,
-by the way, of islets",829.222,1.708,830.93,
-"under a microscope stained
-with a dithizone dye that",830.93,2.7,833.63,
-stains the zinc.,833.63,0.922,834.552,
-"Because zinc and
-insulin are very closely",834.552,1.708,836.26,
+most patients require-- in our center at least--
+two islet infusions to provide sufficient
+mass for them to come off insulin
+for a period of time. We've received in
+Canada patients",796.869,9.231000000000002,806.1,NA
+"from all across the country. Last year we did a record
+number of islet transplants in Edmonton. We did 66 islet
+transplants at Edmonton. And we're quite proud of that.",806.1,8.7,814.8000000000001,NA
+"We've kept our teams very busy. Across the world,
+currently there've been over 1,000 islet
+transplants done at least 30 different
+international sites. And so I'm going
+to explain to you",814.8,12.915,827.7149999999999,NA
+"know how we get the islets out. That was a picture,
+by the way, of islets under a microscope stained
+with a dithizone dye that stains the zinc. Because zinc and
+insulin are very closely",827.715,8.545,836.26,NA
 "linked Studying the
-zinc inside the islet,",836.26,1.859,838.119,
-"so you can see then quite
-clearly under the microscope.",838.119,2.291,840.4100000000001,
-"Those are very pure
-islets ready for infusion.",840.41,2.242,842.6519999999999,
-"But we don't just get
-the islets from anywhere.",842.652,1.958,844.61,
-They come from a human pancreas.,844.61,1.11,845.72,
+zinc inside the islet, so you can see then quite
+clearly under the microscope. Those are very pure
+islets ready for infusion. But we don't just get
+the islets from anywhere. They come from a human pancreas.",836.26,9.459999999999999,845.72,NA
 "So I'm just going to walk
-you through this process,",845.72,2.31,848.03,
-"because it is quite a complex
-process that our team has",848.03,3.6,851.63,
-to do in Edmonton.,851.63,0.75,852.38,
-"So here they take
-a pancreas, they",852.38,1.47,853.85,
-canulate the pancreas duct.,853.85,2.69,856.5400000000001,
+you through this process, because it is quite a complex
+process that our team has to do in Edmonton. So here they take
+a pancreas, they canulate the pancreas duct.",845.72,10.82,856.5400000000001,NA
 "And as we're going through
-the video here on the right,",856.54,2.61,859.15,
-"I'll show you the
-graph on the left there",859.15,1.74,860.89,
-"is all those little dots, sort
-of like the stars in the night,",860.89,2.93,863.8199999999999,
-"every one of those represents
-over 1,500 islet isolations",863.82,3.33,867.1500000000001,
-"done by our team over
-the last 15 years.",867.15,2.487,869.637,
+the video here on the right, I'll show you the
+graph on the left there is all those little dots, sort
+of like the stars in the night, every one of those represents
+over 1,500 islet isolations done by our team over
+the last 15 years.",856.54,13.097,869.637,NA
 "There's a human
-pancreas on the right,",869.637,1.583,871.2199999999999,
-"you can see it being distended
-with collagenase enzymes",871.22,3.07,874.2900000000001,
-"before we chop it up and put it
-in Camillo Ricordi's chamber.",874.29,3.89,878.18,
-"So there's Doug shaking
-the chamber there.",878.18,2.87,881.05,
-"This team's a very
-well-knit team.",881.05,2.256,883.3059999999999,
+pancreas on the right, you can see it being distended
+with collagenase enzymes before we chop it up and put it
+in Camillo Ricordi's chamber. So there's Doug shaking
+the chamber there. This team's a very
+well-knit team.",869.637,13.669,883.3059999999999,NA
 "They work day and night
-to prepare the cells.",883.306,1.874,885.1800000000001,
-"Once the cells are
-digested, then we",885.18,2.08,887.26,
-"purify them on a continuous
-ficoll gradient on a cool code",887.26,6.41,893.67,
-machine.,893.67,1.04,894.7099999999999,
-"And there's Doug and Tatsuya
-and the team at Edmonton",894.71,2.947,897.657,
-that prepare these cells for us.,897.657,1.333,898.99,
-"They've done a
-terrific job for us.",898.99,1.59,900.58,
-"You can't see that
-graph on the right,",900.58,1.78,902.36,
-"it's a little too small for
-you, but basically the number",902.36,2.1,904.46,sad
-"of islets they get
-out of the pancreas",904.46,1.583,906.043,
+to prepare the cells. Once the cells are
+digested, then we purify them on a continuous
+ficoll gradient on a cool code machine. And there's Doug and Tatsuya
+and the team at Edmonton",883.306,14.350999999999999,897.657,NA
+"that prepare these cells for us. They've done a
+terrific job for us. You can't see that
+graph on the right, it's a little too small for
+you, but basically the number of islets they get
+out of the pancreas",897.657,8.386000000000001,906.043,NA
 "today is double
-the number that we",906.043,1.577,907.62,
-"were able to get in
-2000, when we first",907.62,1.95,909.57,
-began the Edmonton protocol.,909.57,1.51,911.08,
-"And their success rate in
-being able to take a pancreas",911.08,2.77,913.85,
-"and provide enough
-cells to transplant",913.85,1.65,915.5,
+the number that we were able to get in
+2000, when we first began the Edmonton protocol. And their success rate in
+being able to take a pancreas and provide enough
+cells to transplant",906.043,9.457,915.5,NA
 "has also increased to
-around 60% to 70% percent.",915.5,3.542,919.042,
-"The actual transplant
-part is very, very simple.",919.042,2.623,921.6650000000001,
-"It doesn't require
-a transplant surgeon",921.665,1.625,923.29,
-"to do this, fortunately.",923.29,1.86,925.15,
-"So the transplant is done
-in the x-ray department",925.15,2.22,927.37,
-under local anesthetic.,927.37,1.76,929.13,
-"Here's a patient who
-is awake, chatting away",929.13,2.23,931.36,
-during the procedure.,931.36,1.26,932.62,
-"We use fluoroscopy x-ray so we
-can see where the needle goes.",932.62,3.52,936.14,
-"We thread a catheter into
-the main portal vein there,",936.14,2.93,939.0699999999999,
+around 60% to 70% percent. The actual transplant
+part is very, very simple. It doesn't require
+a transplant surgeon to do this, fortunately. So the transplant is done
+in the x-ray department",915.5,11.870000000000001,927.37,NA
+"under local anesthetic. Here's a patient who
+is awake, chatting away during the procedure. We use fluoroscopy x-ray so we
+can see where the needle goes. We thread a catheter into
+the main portal vein there,",927.37,11.7,939.07,NA
 "and then we simply drip
-the cells in under gravity.",939.07,2.29,941.36,
-"And we measure the
-portal pressure",941.36,2.79,944.15,
-"while we do this, we give
-heparin to prevent blood",944.15,4.12,948.27,
-"clotting at the end, before
-we pull that catheter out.",948.27,2.54,950.81,
-"Because we learned this perhaps
-in our first early cases,",950.81,3.641,954.4509999999999,
+the cells in under gravity. And we measure the
+portal pressure while we do this, we give
+heparin to prevent blood clotting at the end, before
+we pull that catheter out. Because we learned this perhaps
+in our first early cases,",939.07,15.380999999999998,954.451,NA
 "when we pulled the
-catheter out of the liver,",954.451,1.874,956.325,
-we initially got bleeding.,956.325,1.083,957.408,neutral
-"So we found that when we put
-this paste in along the track",957.408,2.552,959.96,
-"as we pull it out, we
-mix it up with contrast",959.96,1.995,961.955,
-"so that we can see it being
-injected on the x-ray screen.",961.955,3.755,965.71,
+catheter out of the liver, we initially got bleeding. So we found that when we put
+this paste in along the track as we pull it out, we
+mix it up with contrast so that we can see it being
+injected on the x-ray screen.",954.451,11.259,965.71,NA
 "You'll see that in a second
-here as we load the syringe,",965.71,2.38,968.09,
-this is Aventine paste.,968.09,1.025,969.115,
-"So as we pull the catheter out,
-we plug the track in the liver.",969.115,2.625,971.74,
-"And that has eliminated
-the risk of complications",971.74,2.29,974.03,
-"such as bleeding after
-the islet transplant",974.03,3.44,977.47,
+here as we load the syringe, this is Aventine paste. So as we pull the catheter out,
+we plug the track in the liver. And that has eliminated
+the risk of complications such as bleeding after
+the islet transplant",965.71,11.76,977.47,NA
 "So this is a very
-safe procedure.",977.47,2.21,979.6800000000001,
-"And if we look at the
-number of patients",979.68,2.19,981.87,
-"we've treated over the course
-of time now, 97% of patients",981.87,3.001,984.871,
-survive.,984.871,0.499,985.37,
-"And these are
-patients, of course,",985.37,0.98,986.35,
+safe procedure. And if we look at the
+number of patients we've treated over the course
+of time now, 97% of patients survive. And these are
+patients, of course,",977.47,8.879999999999999,986.35,NA
 "who have had longstanding
-diabetes, who",986.35,1.625,987.975,
-"are at risk of many
-different things.",987.975,2.155,990.13,
-"And of the few deaths that
-we've encountered over 15",990.13,3.14,993.27,
-"years have been mainly
-cardiovascular deaths",993.27,2.05,995.3199999999999,
-"in patients with
-longstanding diabetes.",995.32,1.974,997.2940000000001,
-"So heart attacks, basically.",997.294,1.166,998.46,
-"So we've had four patients
-die of heart attacks.",998.46,2.39,1000.85,
-"One patient had a possible
-Creutzfeld-Jakob disease.",1000.85,4.07,1004.9200000000001,
-"And one patient had
-fatal hypoglycemia",1004.92,3.38,1008.3,
-"after an early transplant
-where the cells failed.",1008.3,2.22,1010.52,
+diabetes, who are at risk of many
+different things. And of the few deaths that
+we've encountered over 15 years have been mainly
+cardiovascular deaths in patients with
+longstanding diabetes.",986.35,10.943999999999999,997.294,NA
+"So heart attacks, basically. So we've had four patients
+die of heart attacks. One patient had a possible
+Creutzfeld-Jakob disease. And one patient had
+fatal hypoglycemia after an early transplant
+where the cells failed.",997.294,13.226,1010.52,NA
 "So none of these deaths have
-been related to the transplant",1010.52,2.97,1013.49,
-"or to the anti-rejection
-drug treatment today.",1013.49,2.88,1016.37,
-"So this has been a
-very safe transplant,",1016.37,2.19,1018.5600000000001,
-"certainly the safest transplant
-that I've been involved in.",1018.56,3.239,1021.799,
-There have been adverse events.,1021.799,1.291,1023.09,
+been related to the transplant or to the anti-rejection
+drug treatment today. So this has been a
+very safe transplant, certainly the safest transplant
+that I've been involved in. There have been adverse events.",1010.52,12.57,1023.09,NA
 "We can go through
-these, but I won't",1023.09,1.52,1024.6100000000001,
-go to them in too much detail.,1024.61,1.249,1025.859,
-"A couple of patients
-over 15 years-- 1.4%--",1025.859,3.081,1028.9399999999998,
-"needed to go on to get
-a kidney transplant,",1028.94,1.99,1030.93,
-"because the drug we give to
-prevent rejection to crolimus",1030.93,3.33,1034.26,
-does have kidney side effects.,1034.26,1.68,1035.94,
-Now what about performance?,1038.925,1.125,1040.05,
-Are we doing better over time?,1040.05,1.43,1041.48,
-"So if we look at the
-function of cells over time,",1041.48,3.44,1044.92,
-in the red line here.,1044.92,1.38,1046.3000000000002,
+these, but I won't go to them in too much detail. A couple of patients
+over 15 years-- 1.4%-- needed to go on to get
+a kidney transplant, because the drug we give to
+prevent rejection to crolimus",1023.09,11.17,1034.26,NA
+"does have kidney side effects. Now what about performance? Are we doing better over time? So if we look at the
+function of cells over time, in the red line here.",1034.26,9.055,1043.315,NA
 "So every molecule
-of insulin that's",1046.3,1.61,1047.9099999999999,
-"made by the cells,
-another molecule",1047.91,2.79,1050.7,
-is made called C-peptide.,1050.7,1.41,1052.1100000000001,
-"And we can measure the
-C-peptide in the bloodstream",1052.11,2.47,1054.58,
-with a simple blood test.,1054.58,1.57,1056.1499999999999,
+of insulin that's made by the cells,
+another molecule is made called C-peptide. And we can measure the
+C-peptide in the bloodstream with a simple blood test.",1046.3,9.850000000000001,1056.1499999999999,NA
 "So you can see that over
-the course of 15 years,",1056.15,2.75,1058.9,
-"73% of patients continue
-to make C-peptide",1058.9,3.16,1062.0600000000002,
-"to a sufficient degree that
-controls the hemoglobin A1c,",1062.06,2.88,1064.94,
-"therefore reduces
-their risk of getting",1064.94,1.81,1066.75,
-"the complications of
-diabetes, and prevents",1066.75,2.63,1069.38,
+the course of 15 years, 73% of patients continue
+to make C-peptide to a sufficient degree that
+controls the hemoglobin A1c, therefore reduces
+their risk of getting the complications of
+diabetes, and prevents",1056.15,13.23,1069.38,NA
 "the patients from getting
-hypoglycemic events.",1069.38,2.72,1072.1000000000001,
-"So this is a real advance,
-particularly for patients",1072.1,2.29,1074.3899999999999,
-"that have really recalcitrant
-risk of hypoglycemia.",1074.39,3.61,1078.0,
-"So these patients are
-very well protected.",1078.0,2.165,1080.165,
-"But what we did see in the
-early Edmonton protocol series",1080.165,2.375,1082.54,
+hypoglycemic events. So this is a real advance,
+particularly for patients that have really recalcitrant
+risk of hypoglycemia. So these patients are
+very well protected. But what we did see in the
+early Edmonton protocol series",1069.38,13.16,1082.5400000000002,NA
 "is that a large
-number of patients",1082.54,1.34,1083.8799999999999,
-"did need to go back on to
-small amounts of insulin--",1083.88,2.166,1086.046,
-"around 15% of patients--
-by the 15-year mark.",1086.046,3.388,1089.434,
-"And so we've spent
-a lot of effort",1089.434,1.416,1090.85,
-"now in the last
-several years seeing",1090.85,1.94,1092.79,
+number of patients did need to go back on to
+small amounts of insulin-- around 15% of patients--
+by the 15-year mark. And so we've spent
+a lot of effort now in the last
+several years seeing",1082.54,10.25,1092.79,NA
 "if we can improve these results
-over the course of time.",1092.79,2.742,1095.532,
-"And if you can think of
-the number of the cells",1095.532,1.958,1097.49,
-"that we transplant in to
-liver here as a bucket,",1097.49,2.1,1099.59,
-"and the cells are being
-lost through little holes",1099.59,2.23,1101.82,
-"in the bucket, we've
-been working in science",1101.82,2.56,1104.3799999999999,
+over the course of time. And if you can think of
+the number of the cells that we transplant in to
+liver here as a bucket, and the cells are being
+lost through little holes in the bucket, we've
+been working in science",1092.79,11.590000000000002,1104.3799999999999,NA
 "to see if we can plug
-the holes in the bucket",1104.38,1.93,1106.3100000000002,
-"to try to allow more cells
-to survive over time.",1106.31,2.532,1108.8419999999999,
-"So we've been looking
-at various pathways",1108.842,1.708,1110.5500000000002,
-"to reduce early
-damage to the cells,",1110.55,2.09,1112.6399999999999,
-"trying to prevent them from
-being rejected and preventing",1112.64,2.48,1115.1200000000001,
+the holes in the bucket to try to allow more cells
+to survive over time. So we've been looking
+at various pathways to reduce early
+damage to the cells, trying to prevent them from
+being rejected and preventing",1104.38,10.74,1115.1200000000001,NA
 "leg graft loss, and
-then really trying",1115.12,2.155,1117.2749999999999,
-"to improve the number
-of cells that we put in",1117.275,1.875,1119.15,
-"at the beginning, so that
-we can have many, many more",1119.15,2.208,1121.3580000000002,
-"patients with fuller
-function and more",1121.358,1.642,1123.0,
-durable function over time.,1123.0,2.68,1125.68,
+then really trying to improve the number
+of cells that we put in at the beginning, so that
+we can have many, many more patients with fuller
+function and more durable function over time.",1115.12,10.559999999999999,1125.6799999999998,NA
 "Now because type 1 diabetes
-is an autoimmune condition,",1125.68,3.085,1128.765,
-"as we mentioned
-at the beginning,",1128.765,1.375,1130.14,
-"there is a risk of the
-autoimmunity coming back again.",1130.14,3.16,1133.3000000000002,
-"And here's a patient's
-biopsy-- and I",1133.3,1.792,1135.0919999999999,
-"won't go through
-too much details--",1135.092,1.458,1136.5500000000002,
+is an autoimmune condition, as we mentioned
+at the beginning, there is a risk of the
+autoimmunity coming back again. And here's a patient's
+biopsy-- and I won't go through
+too much details--",1125.68,10.870000000000001,1136.55,NA
 "but you can see on
-the right hand side,",1136.55,1.67,1138.22,
-"there are islets
-surviving quite well,",1138.22,2.04,1140.26,
-"but no beta cells in
-that biopsy, which",1140.26,2.52,1142.78,
-"is from Dr. Razinia's group in
-University of Massachusetts.",1142.78,4.2,1146.98,
-"So we need processes that
-can control rejection, reduce",1146.98,4.13,1151.1100000000001,
+the right hand side, there are islets
+surviving quite well, but no beta cells in
+that biopsy, which is from Dr. Razinia's group in
+University of Massachusetts. So we need processes that
+can control rejection, reduce",1136.55,14.559999999999999,1151.11,NA
 "inflammation, and allow the
-patients to become tolerant.",1151.11,3.12,1154.2299999999998,
-"In other words, for
-the future, we'd",1154.23,1.54,1155.77,
-"like to have a cell
-treatment that we just",1155.77,1.75,1157.52,
-"put into the patients that
-the patients won't reject",1157.52,2.5,1160.02,
-"on their own, and won't need
-lifelong anti-rejection drugs.",1160.02,3.24,1163.26,
+patients to become tolerant. In other words, for
+the future, we'd like to have a cell
+treatment that we just put into the patients that
+the patients won't reject on their own, and won't need
+lifelong anti-rejection drugs.",1151.11,12.15,1163.26,NA
 "And we're all trying
-to get to that point",1163.26,1.79,1165.05,
-where we can achieve that.,1165.05,1.16,1166.21,
-"And controlling this triangle
-is a bit of a challenge,",1166.21,2.71,1168.92,
-"but we're working on
-it very intensively",1168.92,2.14,1171.0600000000002,
-"as a global community of
-diabetes research scientists.",1171.06,3.79,1174.85,
+to get to that point where we can achieve that. And controlling this triangle
+is a bit of a challenge, but we're working on
+it very intensively as a global community of
+diabetes research scientists.",1163.26,11.59,1174.85,NA
 "And we're trying various
-different maneuvers--",1174.85,2.385,1177.235,
-"I mentioned a few of them that
-I won't go through the details--",1177.235,2.625,1179.86,
-"but I've mentioned a few of
-them that we're trying presently",1179.86,2.5,1182.36,
-in Edmonton.,1182.36,1.54,1183.8999999999999,
-"Now I showed you that
-falloff an insulin",1183.9,2.48,1186.38,
+different maneuvers-- I mentioned a few of them that
+I won't go through the details-- but I've mentioned a few of
+them that we're trying presently in Edmonton. Now I showed you that
+falloff an insulin",1174.85,11.530000000000001,1186.3799999999999,NA
 "independence rates
-at five years.",1186.38,2.22,1188.6000000000001,
-"And now there are 6 centers
-across the world that",1188.6,2.86,1191.4599999999998,
-"have insulin-free
-rates with islet cell",1191.46,1.96,1193.42,
-"transplant of five
-years, more than 50%.",1193.42,2.75,1196.17,
-"And this is an
-important milestone,",1196.17,1.7,1197.8700000000001,
+at five years. And now there are 6 centers
+across the world that have insulin-free
+rates with islet cell transplant of five
+years, more than 50%. And this is an
+important milestone,",1186.38,11.489999999999998,1197.8700000000001,NA
 "because it's exactly the
-same rate that we would",1197.87,2.8,1200.6699999999998,
-"see with a whole pancreas
-transplant alone,",1200.67,2.22,1202.89,
-"so a big operation
-in comparison.",1202.89,2.24,1205.13,
-"Putting a whole
-pancreas transplant in,",1205.13,1.64,1206.7700000000002,
-"connecting the blood vessels
-up, and the risks from that.",1206.77,2.81,1209.58,
+same rate that we would see with a whole pancreas
+transplant alone, so a big operation
+in comparison. Putting a whole
+pancreas transplant in, connecting the blood vessels
+up, and the risks from that.",1197.87,11.71,1209.58,NA
 "We can achieve today-- at
-least in these 6 centers-- very",1209.58,3.09,1212.6699999999998,
-"similar results to the whole
-pancreas transfer alone,",1212.67,2.38,1215.0500000000002,
-"with a simple
-injection in the site.",1215.05,3.17,1218.22,
-"So in trying to control
-the immune response.",1218.22,1.912,1220.132,
-"We've tried this
-treatment in Edmonton",1220.132,1.583,1221.7150000000001,
+least in these 6 centers-- very similar results to the whole
+pancreas transfer alone, with a simple
+injection in the site. So in trying to control
+the immune response. We've tried this
+treatment in Edmonton",1209.58,12.135,1221.715,NA
 "now in over 100
-patients-- I need",1221.715,2.125,1223.84,
-"to update those
-numbers-- on over 100",1223.84,1.98,1225.82,
-"patients in various
-different protocols",1225.82,2.48,1228.3,
-over the course of time.,1228.3,1.0,1229.3,
-"And what we found in our
-earlier analysis is basically",1229.3,2.62,1231.9199999999998,
+patients-- I need to update those
+numbers-- on over 100 patients in various
+different protocols over the course of time. And what we found in our
+earlier analysis is basically",1221.715,10.205000000000002,1231.9199999999998,NA
 "if we look at the
-C-peptide rates,",1231.92,1.82,1233.74,
-"they're very similar,
-perhaps a little bit better",1233.74,2.17,1235.91,
-"with the the
-Alemtuzumab than they",1235.91,1.416,1237.326,
-"were with the Edmonton
-protocol, 84% at seven",1237.326,3.514,1240.84,
-years with C-peptide function.,1240.84,3.67,1244.51,
+C-peptide rates, they're very similar,
+perhaps a little bit better with the the
+Alemtuzumab than they were with the Edmonton
+protocol, 84% at seven years with C-peptide function.",1231.92,12.59,1244.51,NA
 "And if we look at the
-independence rates--",1244.51,2.12,1246.6299999999999,
-"these are patients who are
-fully free of insulin-- again,",1246.63,2.73,1249.3600000000001,
-"ongoing data still in analysis
-phase, but 58% of our patients,",1249.36,4.24,1253.6,
-"when we last analyzed
-this at seven years,",1253.6,1.84,1255.4399999999998,
-were still free of insulin.,1255.44,1.53,1256.97,
+independence rates-- these are patients who are
+fully free of insulin-- again, ongoing data still in analysis
+phase, but 58% of our patients, when we last analyzed
+this at seven years, were still free of insulin.",1244.51,12.459999999999999,1256.97,NA
 "Significantly improved from
-our original Edmonton protocol",1256.97,3.54,1260.51,
-"data, where currently at 15
-years, just 11% of patients",1260.51,3.62,1264.1299999999999,
-remain insulin-free.,1264.13,2.04,1266.17,
-"I mentioned the hemoglobin
-A1c-- the glycated hemoglobin--",1266.17,2.98,1269.15,
-"this marker in the
-bloodstream that tells you",1269.15,2.53,1271.68,
+our original Edmonton protocol data, where currently at 15
+years, just 11% of patients remain insulin-free. I mentioned the hemoglobin
+A1c-- the glycated hemoglobin-- this marker in the
+bloodstream that tells you",1256.97,14.709999999999999,1271.68,NA
 "how good the blood
-sugar control is.",1271.68,1.53,1273.21,
-"And you can see at the
-beginning where it says pre",1273.21,1.58,1274.79,
-"there, on the left hand
-side of your screen,",1274.79,1.86,1276.6499999999999,
-"that the levels are
-around 8% or 9%.",1276.65,3.96,1280.6100000000001,
-"And the red line
-is the threshold",1280.61,2.11,1282.7199999999998,
+sugar control is. And you can see at the
+beginning where it says pre there, on the left hand
+side of your screen, that the levels are
+around 8% or 9%. And the red line
+is the threshold",1271.68,11.04,1282.72,NA
 "of what a normal
-person would have,",1282.72,2.32,1285.04,
-who doesn't have diabetes.,1285.04,1.18,1286.22,
-"Now as we bring the line closer
-and closer to the red line,",1286.22,4.29,1290.51,
-"then the risk of getting
-secondary complications",1290.51,2.19,1292.7,
-is obviously reduced markedly.,1292.7,1.967,1294.6670000000001,
+person would have, who doesn't have diabetes. Now as we bring the line closer
+and closer to the red line, then the risk of getting
+secondary complications is obviously reduced markedly.",1282.72,11.947000000000001,1294.667,NA
 "But normally, if we did
-that with injected insulin",1294.667,2.083,1296.75,
-"from the outside, the closer we
-got to the red line, the more",1296.75,2.541,1299.291,
-"and more dangerous hypoglycemias
-the patient would have.",1299.291,2.449,1301.74,
-"Well after the islet
-cell transplant,",1301.74,1.85,1303.59,
-"we can achieve the
-below the red line",1303.59,1.65,1305.24,
+that with injected insulin from the outside, the closer we
+got to the red line, the more and more dangerous hypoglycemias
+the patient would have. Well after the islet
+cell transplant, we can achieve the
+below the red line",1294.667,10.573,1305.24,NA
 "or under the red
-line very reliably",1305.24,2.15,1307.39,
-"without the risk
-of hypoglycemia.",1307.39,2.309,1309.699,
-"And these graphs show you the
-different measures that we use.",1309.699,2.541,1312.24,
-"Beforehand, you see
-the patients have",1312.24,1.541,1313.781,
-"a sky-high risk of hypoglycemia,
-and this score is about five",1313.781,3.999,1317.78,
-on that score.,1317.78,0.64,1318.42,
-"On the hypo score,
-it's around 1,200.",1318.42,4.12,1322.54,
-"And afterward, you
-can see it's almost",1322.54,1.82,1324.36,
-"undetectable over
-the course of time.",1324.36,1.99,1326.35,
-"So patients are
-completely protected,",1326.35,2.401,1328.751,
+line very reliably without the risk
+of hypoglycemia. And these graphs show you the
+different measures that we use. Beforehand, you see
+the patients have a sky-high risk of hypoglycemia,
+and this score is about five",1305.24,12.540000000000001,1317.78,NA
+"on that score. On the hypo score,
+it's around 1,200. And afterward, you
+can see it's almost undetectable over
+the course of time. So patients are
+completely protected,",1317.78,10.971,1328.751,NA
 "as long as the cells
-continue to function,",1328.751,1.749,1330.5,
-"from hypoglycemia and
-swings in blood sugar.",1330.5,3.19,1333.69,
-"So this is a very
-effective treatment",1333.69,1.78,1335.47,
-for controlling blood sugar.,1335.47,1.23,1336.7,
-[VIDEO PLAYBACK],1336.7,0.666,1337.366,
+continue to function, from hypoglycemia and
+swings in blood sugar. So this is a very
+effective treatment for controlling blood sugar. [VIDEO PLAYBACK]",1328.751,8.615,1337.366,NA
 "-I feel my control
-now is the best",1337.366,3.484,1340.85,
-it's ever been in 20 years.,1340.85,2.276,1343.126,
-[END VIDEO PLAYBACK],1343.126,0.951,1344.077,
-"DR. JAMES SHAPIRO:
-What about the risk",1344.077,1.583,1345.66,
-of the secondary complications?,1345.66,1.57,1347.23,
+now is the best it's ever been in 20 years. [END VIDEO PLAYBACK] DR. JAMES SHAPIRO:
+What about the risk of the secondary complications?",1337.366,9.863999999999999,1347.23,NA
 "There are several
-centers looking at this.",1347.23,1.75,1348.98,
-"Garth Warnock Vancouver has
-looked at this quite closely.",1348.98,3.42,1352.4,
-"What he finds in a control
-group with islet transplant",1352.4,3.02,1355.42,
-"versus conventional, or best
-medical care insulin therapy,",1355.42,4.14,1359.5600000000002,
-"is the islet transplant group
-has much lower hemoglobin",1359.56,2.61,1362.1699999999998,
-A1c in the green.,1362.17,1.51,1363.68,
-"They have less risk
-of eye disease.",1363.68,2.462,1366.142,
-"And their kidneys are
-actually protected,",1366.142,1.708,1367.8500000000001,
-"despite the fact that they
-are receiving tacrolimus.",1367.85,2.91,1370.76,
-"So this is very
-encouraging data to suggest",1370.76,1.97,1372.73,
+centers looking at this. Garth Warnock Vancouver has
+looked at this quite closely. What he finds in a control
+group with islet transplant versus conventional, or best
+medical care insulin therapy, is the islet transplant group
+has much lower hemoglobin",1347.23,14.939999999999998,1362.17,NA
+"A1c in the green. They have less risk
+of eye disease. And their kidneys are
+actually protected, despite the fact that they
+are receiving tacrolimus. So this is very
+encouraging data to suggest",1362.17,10.56,1372.73,NA
 "that an islet or
-other cell transplant,",1372.73,1.87,1374.6,
-"or stem cell transplant in
-the future for diabetes,",1374.6,3.397,1377.9969999999998,
-"will have these
-similar effects, being",1377.997,1.583,1379.5800000000002,
-"able to protect against
-the secondary complications",1379.58,2.124,1381.704,
-of diabetes.,1381.704,1.996,1383.7,
+other cell transplant, or stem cell transplant in
+the future for diabetes, will have these
+similar effects, being able to protect against
+the secondary complications of diabetes.",1372.73,10.97,1383.7,NA
 "We're working with the
-US FDA quite closely",1383.7,2.95,1386.65,
-"in two major trials were part
-of the clinical islet transplant",1386.65,4.06,1390.71,
-consortium.,1390.71,0.62,1391.33,
-"One is called CIT-06 and
-one is called CIT-07.",1391.33,3.27,1394.6,
-"And basically to
-make it very simple,",1394.6,1.65,1396.25,
+US FDA quite closely in two major trials were part
+of the clinical islet transplant consortium. One is called CIT-06 and
+one is called CIT-07. And basically to
+make it very simple,",1383.7,12.55,1396.25,NA
 "one is islet after
-kidney transplants,",1396.25,1.88,1398.13,
-in the 07 one are islets alone.,1398.13,2.14,1400.2700000000002,
-"These trials are now
-completed or undergoing",1400.27,2.45,1402.72,
-"a very detailed analysis with
-the FDA, and very likely,",1402.72,3.6,1406.32,
-"these two trials will
-lead to the FD awarding",1406.32,2.59,1408.9099999999999,
+kidney transplants, in the 07 one are islets alone. These trials are now
+completed or undergoing a very detailed analysis with
+the FDA, and very likely, these two trials will
+lead to the FD awarding",1396.25,12.66,1408.91,NA
 "a biological license for
-islet transplantation,",1408.91,2.77,1411.68,
-"allowing Medicare, Medicaid,
-and third party payers",1411.68,2.87,1414.55,
-"to potentially reimburse islet
-transplant in the US, which",1414.55,3.19,1417.74,
-"has been a major limiting factor
-in terms of the numbers of cell",1417.74,3.34,1421.08,
-transplants done in the US.,1421.08,1.76,1422.84,
+islet transplantation, allowing Medicare, Medicaid,
+and third party payers to potentially reimburse islet
+transplant in the US, which has been a major limiting factor
+in terms of the numbers of cell transplants done in the US.",1408.91,13.93,1422.8400000000001,NA
 "We've been very fortunate
-in Canada however",1422.84,2.199,1425.039,
-"to have the Canadian government
-pay-- the Alberta government,",1425.039,2.541,1427.58,
-"I should say-- pay for
-the Canadian transplants",1427.58,2.737,1430.317,
-to this point.,1430.317,0.583,1430.9,
-"And a similar thing
-has happened in the UK",1430.9,2.076,1432.976,
+in Canada however to have the Canadian government
+pay-- the Alberta government, I should say-- pay for
+the Canadian transplants to this point. And a similar thing
+has happened in the UK",1422.84,10.136000000000001,1432.9759999999999,NA
 "with the National Institute
-of Clinical Excellence paying",1432.976,2.374,1435.3500000000001,
-"for islet transplant
-through the UK government.",1435.35,2.14,1437.49,
-"Same thing in Australia, same
-thing in Europe, and Geneva,",1437.49,3.52,1441.01,
-and in several other countries.,1441.01,1.35,1442.36,
-"So hopefully this will
-happen very soon in the US.",1442.36,3.38,1445.74,
+of Clinical Excellence paying for islet transplant
+through the UK government. Same thing in Australia, same
+thing in Europe, and Geneva, and in several other countries. So hopefully this will
+happen very soon in the US.",1432.976,12.764,1445.74,NA
 "Several groups have
-reported the ability",1445.74,2.3,1448.04,
-"to achieve what I showed you
-with two islet transplants",1448.04,3.04,1451.08,
-"with a single donor
-islet infusion.",1451.08,1.79,1452.87,
-"And this would be
-important because it",1452.87,1.09,1453.9599999999998,
-"would allow twice the
-number of patients",1453.96,1.666,1455.626,
+reported the ability to achieve what I showed you
+with two islet transplants with a single donor
+islet infusion. And this would be
+important because it would allow twice the
+number of patients",1445.74,9.886000000000001,1455.626,NA
 "to receive transplants from
-a limited donor source,",1455.626,3.584,1459.21,
-from organ donors.,1459.21,1.569,1460.779,
-"And so several centers
-have been able to do",1460.779,1.791,1462.57,
-that with different strategies.,1462.57,1.38,1463.95,
-"But still this is a challenge,
-I would say, for us.",1463.95,2.99,1466.94,
+a limited donor source, from organ donors. And so several centers
+have been able to do that with different strategies. But still this is a challenge,
+I would say, for us.",1455.626,11.314000000000002,1466.94,NA
 "Only about 10% of our
-patients in Edmonton",1466.94,2.0,1468.94,
-"are able to achieve insulin
-independence routinely.",1468.94,2.7,1471.64,
-"If we don't select the donor,
-we don't select the recipient",1471.64,2.88,1474.5200000000002,
-entirely.,1474.52,1.43,1475.95,
-"What we do find if we look
-at Melena Bellin's analysis?",1475.95,4.69,1480.64,
+patients in Edmonton are able to achieve insulin
+independence routinely. If we don't select the donor,
+we don't select the recipient entirely. What we do find if we look
+at Melena Bellin's analysis?",1466.94,13.7,1480.64,NA
 "Looking at all the
-patients treated",1480.64,2.0,1482.64,
-"that are participating in these
-centers, that at five years,",1482.64,3.3,1485.94,
-"if we give an anti-inflammatory
-treatment at the beginning",1485.94,2.96,1488.9,
-"called Tanacet-- which prevents
-an inflammatory agent called",1488.9,5.2,1494.1000000000001,
-"TNF-- if we switch that
-off at the beginning,",1494.1,2.55,1496.6499999999999,
+patients treated that are participating in these
+centers, that at five years, if we give an anti-inflammatory
+treatment at the beginning called Tanacet-- which prevents
+an inflammatory agent called TNF-- if we switch that
+off at the beginning,",1480.64,16.01,1496.65,NA
 "we can have many, many
-more patients of insulin",1496.65,2.2,1498.8500000000001,
-at five years.,1498.85,0.66,1499.51,
-"Seems to be very important
-to suppress inflammation",1499.51,2.14,1501.65,
-at the beginning.,1501.65,1.79,1503.44,
-So we've done studies in mice.,1503.44,1.28,1504.72,
+more patients of insulin at five years. Seems to be very important
+to suppress inflammation at the beginning. So we've done studies in mice.",1496.65,8.07,1504.72,NA
 "We always take things back
-to mice and test things.",1504.72,2.125,1506.845,
-"And we tested another compound
-called Anakinra, which",1506.845,2.345,1509.19,
-"is another antibody--
-which is also",1509.19,2.18,1511.3700000000001,
-"an anti-inflammatory one used
-in inflammatory bowel disease",1511.37,3.135,1514.5049999999999,
-"and another condition
-called psoriasis--",1514.505,2.325,1516.8300000000002,
+to mice and test things. And we tested another compound
+called Anakinra, which is another antibody--
+which is also an anti-inflammatory one used
+in inflammatory bowel disease and another condition
+called psoriasis--",1504.72,12.11,1516.83,NA
 "and we found that this is
-a very effective treatment",1516.83,2.37,1519.1999999999998,
-"to allow human islets
-to engraft in mice.",1519.2,2.62,1521.82,
-"And we've been able to take that
-treatment across to the clinic",1521.82,3.07,1524.8899999999999,
-"and treat many
-patients that way.",1524.89,1.885,1526.775,
-"We've also been trying to
-switch off the cell death",1526.775,2.125,1528.9,
+a very effective treatment to allow human islets
+to engraft in mice. And we've been able to take that
+treatment across to the clinic and treat many
+patients that way. We've also been trying to
+switch off the cell death",1516.83,12.07,1528.8999999999999,NA
 "pathways in this pathway
-called apoptosis.",1528.9,2.31,1531.21,
-"So cells die by
-different processes,",1531.21,3.08,1534.29,
-"but we've tried several agents
-to switch off cell death.",1534.29,2.49,1536.78,
-"These are called pan
-caspase inhibitors,",1536.78,2.13,1538.91,
-"because they switch off
-all the major cell death",1538.91,2.12,1541.03,
+called apoptosis. So cells die by
+different processes, but we've tried several agents
+to switch off cell death. These are called pan
+caspase inhibitors, because they switch off
+all the major cell death",1528.9,12.130000000000003,1541.0300000000002,NA
 "pathways that lead
-to this apoptosis.",1541.03,2.345,1543.375,
-"And when we've tested these in
-our mouse models and our pig",1543.375,4.155,1547.53,
-"models, we find that
-these caspase inhibitors",1547.53,2.63,1550.16,
-"can reduce the tiny
-number of islets needed",1550.16,2.28,1552.44,
-"to reverse diabetes
-by about 80%.",1552.44,2.23,1554.67,
+to this apoptosis. And when we've tested these in
+our mouse models and our pig models, we find that
+these caspase inhibitors can reduce the tiny
+number of islets needed to reverse diabetes
+by about 80%.",1541.03,13.639999999999999,1554.67,NA
 "So they make a big,
-big difference.",1554.67,2.052,1556.722,
-"And we've tested
-this several times",1556.722,1.458,1558.18,happy
-"in various different
-combinations",1558.18,1.47,1559.65,happy
-and various different ways.,1559.65,1.55,1561.2,
-"And we've moved on and carried
-out the early clinical trial",1561.2,2.96,1564.16,
+big difference. And we've tested
+this several times in various different
+combinations and various different ways. And we've moved on and carried
+out the early clinical trial",1554.67,9.489999999999998,1564.16,NA
 "with these that looks--
-well at this point,",1564.16,2.214,1566.374,
-"it's difficult to say whether
-it's had a big impact.",1566.374,2.166,1568.54,
-But we're still working on it.,1568.54,1.99,1570.53,
-"So we recognize today that
-islet transplantation,",1570.53,2.529,1573.059,
-"the way it is today,
-because patients",1573.059,1.541,1574.6,
+well at this point, it's difficult to say whether
+it's had a big impact. But we're still working on it. So we recognize today that
+islet transplantation, the way it is today,
+because patients",1564.16,10.440000000000001,1574.6000000000001,NA
 "need immunosuppression, because
-there is a shortage of organ",1574.6,2.96,1577.56,
-"donors, could only
-really address",1577.56,1.55,1579.11,
-"a very narrow band in
-the spectrum of patients",1579.11,2.672,1581.782,
-with diabetes.,1581.782,0.583,1582.365,
-"And we'd like to get
-to this point here",1582.365,1.625,1583.99,
+there is a shortage of organ donors, could only
+really address a very narrow band in
+the spectrum of patients with diabetes. And we'd like to get
+to this point here",1574.6,9.39,1583.99,NA
 "where we can treat all
-the patients that are just",1583.99,2.6,1586.59,
-"diagnosed with diabetes, that
-have difficult to control",1586.59,3.29,1589.8799999999999,
-"diabetes, that have
-chronic type I diabetes,",1589.88,3.23,1593.1100000000001,
-"and also those that
-have type 2 diabetes--",1593.11,1.76,1594.87,
-the entire spectrum of diabetes.,1594.87,1.54,1596.4099999999999,
+the patients that are just diagnosed with diabetes, that
+have difficult to control diabetes, that have
+chronic type I diabetes, and also those that
+have type 2 diabetes-- the entire spectrum of diabetes.",1583.99,12.420000000000002,1596.41,NA
 "And we recognize
-that if we keep going",1596.41,1.85,1598.26,
-"the way we are going
-on that one track,",1598.26,1.88,1600.14,
-"we won't be able to address
-that entire spectrum.",1600.14,2.82,1602.96,
-So what next?,1602.96,0.8,1603.76,
-"So we're looking at
-alternative retrievable sites",1606.47,2.34,1608.81,
+that if we keep going the way we are going
+on that one track, we won't be able to address
+that entire spectrum. So what next? So we're looking at
+alternative retrievable sites",1596.41,9.69,1606.1000000000001,NA
 "to put in islets today, or stem
-cells potentially tomorrow.",1608.81,3.77,1612.58,
-"And here's a trial
-that we're actively",1612.58,1.75,1614.33,
-"involved in now with a
-company called Sernova.",1614.33,2.6,1616.9299999999998,
-"And this is a device
-that goes under the skin.",1616.93,2.8,1619.73,
-"It's the the size and
-shape of a tea bag.",1619.73,2.629,1622.359,
+cells potentially tomorrow. And here's a trial
+that we're actively involved in now with a
+company called Sernova. And this is a device
+that goes under the skin. It's the the size and
+shape of a tea bag.",1608.81,13.548999999999998,1622.359,NA
 "And it basically threads
-in under the skin.",1622.359,1.791,1624.1499999999999,
-"We leave it there for
-about a month or two.",1624.15,2.57,1626.72,
-"And while it's
-under the skin here,",1626.72,2.18,1628.9,
-"the body makes new blood
-vessels that grow in.",1628.9,2.9,1631.8000000000002,
-"And this is a sort of in
-response to a foreign body.",1631.8,3.42,1635.22,
+in under the skin. We leave it there for
+about a month or two. And while it's
+under the skin here, the body makes new blood
+vessels that grow in. And this is a sort of in
+response to a foreign body.",1622.359,12.861,1635.22,NA
 "Then we take those rods
-out when we come back.",1635.22,2.497,1637.717,
-"And we can do this under
-a local anesthetic,",1637.717,1.833,1639.5500000000002,
-"we can do this under
-a general anesthetic.",1639.55,1.8,1641.35,
-"And then we can infuse
-ourselves along that track,",1641.35,2.81,1644.1599999999999,
-"and basically put the cells
-in under the skin instead",1644.16,2.57,1646.73,
-of in in liver.,1646.73,1.22,1647.95,
-"Now that may be an advantage,
-but as we think to the future,",1647.95,3.91,1651.8600000000001,
-"as we think about
-use of stem cells,",1651.86,1.9,1653.76,
-"it might be safer to put
-them in a retrievable place",1653.76,2.18,1655.94,
-"where we can take them
-out if we need to.",1655.94,1.86,1657.8,
+out when we come back. And we can do this under
+a local anesthetic, we can do this under
+a general anesthetic. And then we can infuse
+ourselves along that track, and basically put the cells
+in under the skin instead",1635.22,11.51,1646.73,NA
+"of in in liver. Now that may be an advantage,
+but as we think to the future, as we think about
+use of stem cells, it might be safer to put
+them in a retrievable place where we can take them
+out if we need to.",1646.73,11.069999999999999,1657.8,NA
 "So if we put them under the
-skin instead of the liver,",1657.8,2.249,1660.049,
-"it's a much simpler maneuver
-to take the cells out.",1660.049,3.491,1663.54,
-"So we've done this so
-far in a few patients,",1663.54,2.34,1665.8799999999999,
-"and it's looked
-somewhat promising",1665.88,1.76,1667.64,
-"in terms of being able
-to show cell survival.",1667.64,2.24,1669.88,
+skin instead of the liver, it's a much simpler maneuver
+to take the cells out. So we've done this so
+far in a few patients, and it's looked
+somewhat promising in terms of being able
+to show cell survival.",1657.8,12.08,1669.8799999999999,NA
 "But this is still ongoing,
-and we're looking at the data",1669.88,2.56,1672.44,
-closely.,1672.44,1.62,1674.06,
-"We've also been looking at what
-we call the deviceless method.",1674.06,3.45,1677.51,
-So we put a tube under the skin.,1677.51,4.19,1681.7,
-"We leave the tube under the
-skin-- a simple catheter",1681.7,2.27,1683.97,
+and we're looking at the data closely. We've also been looking at what
+we call the deviceless method. So we put a tube under the skin. We leave the tube under the
+skin-- a simple catheter",1669.88,14.09,1683.97,NA
 "that we use routinely
-in the x-ray department.",1683.97,2.127,1686.097,
-"We leave that catheter
-under the skin for a month.",1686.097,2.083,1688.18,
-"We take the calculator out,
-and then we put our cells,",1688.18,2.31,1690.49,
-"or stem cells, or
-islets, or whatever kind",1690.49,2.734,1693.224,
-"of cell population
-we want to put in,",1693.224,1.541,1694.7649999999999,
+in the x-ray department. We leave that catheter
+under the skin for a month. We take the calculator out,
+and then we put our cells, or stem cells, or
+islets, or whatever kind of cell population
+we want to put in,",1683.97,10.795,1694.765,NA
 "in this track, which has now got
-lots of nice new blood vessels.",1694.765,3.685,1698.45,
-"And here you can
-see islets surviving",1698.45,1.59,1700.04,
-"in that round area
-that used to have",1700.04,1.55,1701.59,
-"the little catheter
-on the top left there.",1701.59,2.35,1703.9399999999998,
-And the cells work very well.,1703.94,1.65,1705.5900000000001,
+lots of nice new blood vessels. And here you can
+see islets surviving in that round area
+that used to have the little catheter
+on the top left there. And the cells work very well.",1694.765,10.825000000000001,1705.5900000000001,NA
 "And you can see with the
-catheter placed under the skin,",1705.59,4.229,1709.819,
-"and then we put the
-cells in the blue line,",1709.819,1.791,1711.61,
-"blood glucose comes
-down quite nicely,",1711.61,1.71,1713.32,
-It takes a few weeks to do so.,1713.32,1.3,1714.62,
-"And you can see on
-the right, we get",1714.62,1.5,1716.12,
+catheter placed under the skin, and then we put the
+cells in the blue line, blood glucose comes
+down quite nicely, It takes a few weeks to do so. And you can see on
+the right, we get",1705.59,10.53,1716.12,NA
 "lots of nice new blood
-vessels growing in",1716.12,3.0,1719.12,
-to supply these cells.,1719.12,2.95,1722.07,
-"So I mentioned islet transplants
-today, and stem cells tomorrow.",1722.07,3.06,1725.1299999999999,
-"So I think we are
-getting very close now",1725.13,1.86,1726.99,
-"to being able to move
-forward with stem cell",1726.99,1.87,1728.86,
+vessels growing in to supply these cells. So I mentioned islet transplants
+today, and stem cells tomorrow. So I think we are
+getting very close now to being able to move
+forward with stem cell",1716.12,12.739999999999998,1728.86,NA
 "treatments instead of islet
-cell transplant treatments",1728.86,3.32,1732.1799999999998,
-"for the next round of
-trials for the future.",1732.18,2.67,1734.8500000000001,neutral
-"There are several
-groups across the world",1734.85,1.88,1736.73,neutral
-working on stem cells.,1736.73,1.31,1738.04,sad
-"And I'll show first
-just one that we're",1738.04,1.7,1739.74,neutral
+cell transplant treatments for the next round of
+trials for the future. There are several
+groups across the world working on stem cells. And I'll show first
+just one that we're",1728.86,10.879999999999999,1739.74,NA
 "collaborating with,
-Maria Nostro and Gordon",1739.74,2.45,1742.19,neutral
-"Keller at the
-University of Toronto",1742.19,1.78,1743.97,
-"have made a stem
-cell line that makes",1743.97,2.22,1746.19,
-"human insulin-- the human beta
-cells, basically-- from stem",1746.19,3.29,1749.48,
-cells.,1749.48,0.836,1750.316,
+Maria Nostro and Gordon Keller at the
+University of Toronto have made a stem
+cell line that makes human insulin-- the human beta
+cells, basically-- from stem cells.",1739.74,10.576000000000002,1750.316,NA
 "And we've been able to reverse
-diabetes quite effectively",1750.316,2.374,1752.69,
-"in mice and our deviceless
-model with that cell system.",1752.69,3.52,1756.21,
-"We've also been testing out
-to see if the cells turn out",1756.21,3.43,1759.64,
-"to have what's
-called a teratoma,",1759.64,1.4,1761.0400000000002,
-"or risk of awry cells, then
-they can be transplanted still",1761.04,5.27,1766.31,
+diabetes quite effectively in mice and our deviceless
+model with that cell system. We've also been testing out
+to see if the cells turn out to have what's
+called a teratoma, or risk of awry cells, then
+they can be transplanted still",1750.316,15.994,1766.31,NA
 "in this deviceless space
-and not breach the space,",1766.31,2.5,1768.81,
-"so we can still
-potentially remove them.",1768.81,2.305,1771.115,
-"We've also been working
-for the last 10 years",1771.115,1.875,1772.99,
-"with a company called
-Viacyte down in San Diego.",1772.99,3.365,1776.355,
-"And we've been very
-excited by that progress",1776.355,2.735,1779.09,
+and not breach the space, so we can still
+potentially remove them. We've also been working
+for the last 10 years with a company called
+Viacyte down in San Diego. And we've been very
+excited by that progress",1766.31,12.78,1779.09,NA
 "in developing a human embryonic
-stem cell line that they have",1779.09,4.37,1783.4599999999998,
-"shown can reliably
-make human insulin,",1783.46,4.27,1787.73,
-"and can be potentially
-transplanted,",1787.73,1.6,1789.33,
-"and can cure diabetes in
-mice when transplanted.",1789.33,3.83,1793.1599999999999,
-"And this group has
-been very innovative",1793.16,3.66,1796.8200000000002,
+stem cell line that they have shown can reliably
+make human insulin, and can be potentially
+transplanted, and can cure diabetes in
+mice when transplanted. And this group has
+been very innovative",1779.09,17.73,1796.82,NA
 "and shown these
-cells to be safe,",1796.82,1.84,1798.6599999999999,
-"to have no risk of the
-teratoma that I mentioned.",1798.66,3.99,1802.65,
-"And they are now carrying
-out a clinical trial",1802.65,2.02,1804.67,
-"that we're looking
-forward to participate in,",1804.67,2.19,1806.8600000000001,
-"where we're going to put
-these cells inside what's",1806.86,2.32,1809.1799999999998,
+cells to be safe, to have no risk of the
+teratoma that I mentioned. And they are now carrying
+out a clinical trial that we're looking
+forward to participate in, where we're going to put
+these cells inside what's",1796.82,12.36,1809.1799999999998,NA
 "called an immunoisolating
-device, so",1809.18,2.1,1811.28,
-"that the immune
-system can't directly",1811.28,1.91,1813.19,
-"get cell-to-cell contact
-with the transplanted cells.",1813.19,3.244,1816.434,
-"And the idea of that
-is that we wouldn't",1816.434,1.666,1818.1,
-"have to give the
-anti-rejection drug treatments",1818.1,2.06,1820.1599999999999,
-if it's effective.,1820.16,0.89,1821.0500000000002,
-"So we're looking forward
-to starting these trials",1821.05,2.23,1823.28,
-"with Viacyte within
-the next few months.",1823.28,3.93,1827.21,
-"Now in parallel, there's
-lots of other treatments",1827.21,2.966,1830.176,
-"that could
-potentially switch off",1830.176,1.374,1831.55,
+device, so that the immune
+system can't directly get cell-to-cell contact
+with the transplanted cells. And the idea of that
+is that we wouldn't have to give the
+anti-rejection drug treatments",1809.18,10.98,1820.16,NA
+"if it's effective. So we're looking forward
+to starting these trials with Viacyte within
+the next few months. Now in parallel, there's
+lots of other treatments that could
+potentially switch off",1820.16,11.390000000000002,1831.5500000000002,NA
 "the autoimmune pathways
-in type 1 diabetes.",1831.55,2.41,1833.96,
-"And Jeff Bluestone,
-from San Francisco here,",1833.96,2.22,1836.18,
-"has summarized all
-the different pathways",1836.18,2.7,1838.88,
-"that can be switched off in type
-1 diabetes, all the studies,",1838.88,4.35,1843.23,
-"all the antibodies, all
-the drug treatments that",1843.23,2.47,1845.7,
+in type 1 diabetes. And Jeff Bluestone,
+from San Francisco here, has summarized all
+the different pathways that can be switched off in type
+1 diabetes, all the studies, all the antibodies, all
+the drug treatments that",1831.55,14.15,1845.7,NA
 "can be given to try
-and control diabetes.",1845.7,2.29,1847.99,
-"And it's obviously
-a very complex one.",1847.99,2.1,1850.09,
-"We've amassed a team in
-Alberta to try and address",1850.09,2.36,1852.4499999999998,
-"one or two of these
-together with industry",1852.45,2.76,1855.21,
-"and a large collaboration
-of scientists",1855.21,2.21,1857.42,
-in Edmonton and Calgary.,1857.42,1.636,1859.056,
-"We're going to do
-two different trials.",1859.056,1.624,1860.68,
-"One is trying to get
-patients' own stem",1860.68,2.04,1862.72,
-"cells to regenerate
-their own pancreas as",1862.72,2.02,1864.74,
-"soon as the patient is
-diagnosed with diabetes.",1864.74,2.835,1867.575,
+and control diabetes. And it's obviously
+a very complex one. We've amassed a team in
+Alberta to try and address one or two of these
+together with industry and a large collaboration
+of scientists",1845.7,11.719999999999999,1857.42,NA
+"in Edmonton and Calgary. We're going to do
+two different trials. One is trying to get
+patients' own stem cells to regenerate
+their own pancreas as soon as the patient is
+diagnosed with diabetes.",1857.42,10.155000000000001,1867.575,NA
 "In other words, resetting
-the immune system",1867.575,3.785,1871.3600000000001,
-"and getting the
-patient's own cells",1871.36,3.45,1874.81,
-"to turn back and
-repair the beta cells.",1874.81,2.134,1876.944,
-"And then the second
-strategy we're using",1876.944,1.666,1878.61,
-"is the Viacyte cell transplants
-to try to treat patients",1878.61,5.0,1883.61,
+the immune system and getting the
+patient's own cells to turn back and
+repair the beta cells. And then the second
+strategy we're using is the Viacyte cell transplants
+to try to treat patients",1867.575,16.035,1883.6100000000001,NA
 "just like we would at the
-Edmonton protocol type",1883.61,2.0,1885.61,
-"treatments that I
-showed you about.",1885.61,2.08,1887.6899999999998,
-"So the immune reset
-is moving forward.",1887.69,2.77,1890.46,
-We've got our plans in place.,1890.46,1.37,1891.83,
-"We're just putting
-them through ethics",1891.83,1.583,1893.413,
+Edmonton protocol type treatments that I
+showed you about. So the immune reset
+is moving forward. We've got our plans in place. We're just putting
+them through ethics",1883.61,9.802999999999999,1893.413,NA
 "and through Health
-Canada right now.",1893.413,1.5,1894.913,
-"We're going to give antibody
-treatments at the beginning",1894.913,2.333,1897.246,
-to reset the immune system.,1897.246,1.214,1898.46,
-"We're going to take the
-patient's own bone marrow cells",1898.46,2.55,1901.01,
-"and re-transplant those
-up into the pancreas",1901.01,3.02,1904.03,
+Canada right now. We're going to give antibody
+treatments at the beginning to reset the immune system. We're going to take the
+patient's own bone marrow cells and re-transplant those
+up into the pancreas",1893.413,10.617,1904.03,NA
 "to allow those cells to
-repair the injured pancreas.",1904.03,2.85,1906.8799999999999,
-"Then we're going to give a
-treatment for the first year,",1906.88,2.59,1909.47,
-"called a GLP-1 analog,
-that will help to further",1909.47,3.22,1912.69,
-"regenerate and
-accelerate the growth",1912.69,1.64,1914.3300000000002,
-and repair of injured islets.,1914.33,2.386,1916.716,
+repair the injured pancreas. Then we're going to give a
+treatment for the first year, called a GLP-1 analog,
+that will help to further regenerate and
+accelerate the growth and repair of injured islets.",1904.03,12.686,1916.716,NA
 "So we have a lot
-of things to do,",1916.716,1.374,1918.09,
-"and we're very, very
-excited about it.",1918.09,1.583,1919.673,
-"We're also working
-with another technology",1919.673,2.647,1922.32,
-called normothermic perfusion.,1922.32,1.87,1924.1899999999998,
-"And this is going
-to I think really",1924.19,2.57,1926.76,
+of things to do, and we're very, very
+excited about it. We're also working
+with another technology called normothermic perfusion. And this is going
+to I think really",1916.716,10.043999999999999,1926.76,NA
 "revolutionize all areas
-of transplantation.",1926.76,2.26,1929.02,
-"So most the time you can see
-those boxes on the right,",1929.02,3.0,1932.02,
-"that's how we carry
-organs around, in ice.",1932.02,1.91,1933.93,
-"So hearts, lungs,
-livers, kidneys,",1933.93,2.296,1936.226,
-"and the pancreas
-for our islets--",1936.226,1.374,1937.6000000000001,
-we carry them in these boxes.,1937.6,1.75,1939.35,
-"So we're just about
-to start a trial",1939.35,1.63,1940.98,
-"with a group at the
-University of Oxford,",1940.98,3.452,1944.432,
-"and a company called
-OrganOx, where",1944.432,1.458,1945.89,
-"they have one device that
-we could put a liver on,",1945.89,3.75,1949.64,
+of transplantation. So most the time you can see
+those boxes on the right, that's how we carry
+organs around, in ice. So hearts, lungs,
+livers, kidneys, and the pancreas
+for our islets--",1926.76,10.84,1937.6,NA
+"we carry them in these boxes. So we're just about
+to start a trial with a group at the
+University of Oxford, and a company called
+OrganOx, where they have one device that
+we could put a liver on,",1937.6,12.04,1949.6399999999999,NA
 "which is in this
-bottom left panel.",1949.64,2.22,1951.8600000000001,
-"There's other companies that
-have a device for hearts,",1951.86,3.12,1954.9799999999998,
-for lungs.,1954.98,0.759,1955.739,
-"And here's one that
-we're testing out",1955.739,1.541,1957.28,
-for pancreas transplantation.,1957.28,2.34,1959.62,
+bottom left panel. There's other companies that
+have a device for hearts, for lungs. And here's one that
+we're testing out for pancreas transplantation.",1949.64,9.98,1959.6200000000001,NA
 "So in other words, instead
-of putting the organ in ice",1959.62,2.484,1962.1039999999998,
-"and having it
-injured, we can keep",1962.104,1.416,1963.52,
-"it perfectly alive--
-like the heart's beating",1963.52,1.875,1965.395,
-there-- outside the body.,1965.395,2.025,1967.42,
-"And so as soon as
-we transplant it,",1967.42,2.142,1969.5620000000001,
+of putting the organ in ice and having it
+injured, we can keep it perfectly alive--
+like the heart's beating there-- outside the body. And so as soon as
+we transplant it,",1959.62,9.942,1969.562,NA
 "it can be in perfect
-condition when",1969.562,1.458,1971.02,
-we transplant these organs.,1971.02,1.124,1972.144,
-"It'll make a big, big difference
-to the safety of transplants,",1972.144,3.145,1975.289,
-"and also to make sure that
-the transplants really",1975.289,2.041,1977.33,
-work before we put them in.,1977.33,2.475,1979.8049999999998,
+condition when we transplant these organs. It'll make a big, big difference
+to the safety of transplants, and also to make sure that
+the transplants really work before we put them in.",1969.562,10.243,1979.8049999999998,NA
 "And the idea here is that we
-can deliver oxygen, deliver",1982.6,2.43,1985.03,
-"nutrients, provide a
-physiological temperature,",1985.03,2.56,1987.59,
-"and provide an ideal
-environment for the organ",1987.59,2.28,1989.87,
-while it's outside of the body.,1989.87,2.13,1992.0,
-"So we're very excited about this
-technology as well as we move",1992.0,3.06,1995.06,
-forward.,1995.06,0.5,1995.56,
-"And this is the liver machine
-that we're about to test.",1995.56,3.03,1998.59,
-"And the company who
-came to San Diego",1998.59,3.11,2001.6999999999998,
-"to the World Transplant
-Congress mentioned to me",2001.7,2.03,2003.73,
-"that they'd love
-to have Google's",2003.73,1.47,2005.2,
-logo on the outside of the box.,2005.2,1.65,2006.8500000000001,
-"So, if you're interested
-in working with them,",2006.85,1.916,2008.7659999999998,
-just let them know.,2008.766,1.584,2010.3500000000001,
-So let me sum up.,2010.35,1.169,2011.519,
-"So I showed you that we've
-made a lot of progress",2011.519,2.041,2013.56,
+can deliver oxygen, deliver nutrients, provide a
+physiological temperature, and provide an ideal
+environment for the organ while it's outside of the body. So we're very excited about this
+technology as well as we move",1982.6,12.459999999999999,1995.06,NA
+"forward. And this is the liver machine
+that we're about to test. And the company who
+came to San Diego to the World Transplant
+Congress mentioned to me that they'd love
+to have Google's",1995.06,10.14,2005.2,NA
+"logo on the outside of the box. So, if you're interested
+in working with them, just let them know. So let me sum up. So I showed you that we've
+made a lot of progress",2005.2,8.360000000000001,2013.56,NA
 "in the treatments of diabetes
-over the course of time.",2013.56,2.54,2016.1,
-"That insulin dependence
-rates have improved a lot.",2016.1,3.17,2019.27,
-"That several centers now have
-over half of their patients",2019.27,2.78,2022.05,
-"still free of
-insulin at five years",2022.05,2.19,2024.24,
-after an islet transplant.,2024.24,1.36,2025.6,
+over the course of time. That insulin dependence
+rates have improved a lot. That several centers now have
+over half of their patients still free of
+insulin at five years after an islet transplant.",2013.56,12.04,2025.6,NA
 "That we're looking now to
-other alternative sites",2025.6,2.76,2028.36,
-"for infusing islets
-under the skin.",2028.36,1.675,2030.0349999999999,
-"I didn't mention
-other sites that we're",2030.035,1.625,2031.66,
-"about to test with
-the Pittsburgh group,",2031.66,2.83,2034.49,
-"including the lining
-of the stomach.",2034.49,1.93,2036.42,
+other alternative sites for infusing islets
+under the skin. I didn't mention
+other sites that we're about to test with
+the Pittsburgh group, including the lining
+of the stomach.",2025.6,10.82,2036.4199999999998,NA
 "We're about to start trials with
-Viacyte on their embryonic stem",2036.42,3.49,2039.91,
-cell treatments.,2039.91,1.15,2041.0600000000002,
-"And we're also looking
-at regeneration trials",2041.06,2.97,2044.03,
-"to regenerate and repair
-the pancreas and the islets",2044.03,2.76,2046.79,
-"that at the moment a child or
-adult is diagnosed with type 1",2046.79,3.01,2049.8,
-diabetes.,2049.8,0.5,2050.3,
-"So there's a lot of
-things happening.",2050.3,1.7,2052.0,
-"I think we'll make
-a lot of progress.",2052.0,2.25,2054.25,
-"So finally today, I'm very much
-looking forward to discussing",2054.25,2.79,2057.04,
-"with the contact lens team
-our opportunities of working",2057.04,2.79,2059.83,
+Viacyte on their embryonic stem cell treatments. And we're also looking
+at regeneration trials to regenerate and repair
+the pancreas and the islets that at the moment a child or
+adult is diagnosed with type 1",2036.42,13.38,2049.8,NA
+"diabetes. So there's a lot of
+things happening. I think we'll make
+a lot of progress. So finally today, I'm very much
+looking forward to discussing with the contact lens team
+our opportunities of working",2049.8,10.030000000000001,2059.8300000000004,NA
 "together in cell
-transplant monitoring,",2059.83,2.44,2062.27,
-"and also with the
-Google Glass team,",2062.27,2.619,2064.889,
-"looking at the role
-of the Google Glasses",2064.889,2.481,2067.3700000000003,
-"and state-of-the-art monitoring
-and complex surgeries.",2067.37,3.31,2070.68,
-"A guy was telling
-me about the use",2070.68,1.64,2072.3199999999997,
+transplant monitoring, and also with the
+Google Glass team, looking at the role
+of the Google Glasses and state-of-the-art monitoring
+and complex surgeries. A guy was telling
+me about the use",2059.83,12.49,2072.3199999999997,NA
 "of these in lung
-transplantation.",2072.32,2.089,2074.409,
-"I think we could apply this
-very easily also in liver",2074.409,2.511,2076.92,
-"transplantation, maybe join
-the pancreas islet isolation.",2076.92,3.69,2080.61,
-"I think also this could
-allow us to communicate",2080.61,2.109,2082.719,
-"far better as scientists from
-one institution to another.",2082.719,3.631,2086.35,
+transplantation. I think we could apply this
+very easily also in liver transplantation, maybe join
+the pancreas islet isolation. I think also this could
+allow us to communicate far better as scientists from
+one institution to another.",2072.32,14.03,2086.3500000000004,NA
 "So instead of me being in
-Edmonton, another group",2086.35,2.109,2088.459,
-"being in San Francisco,
-another group being",2088.459,1.791,2090.25,
-"in Australia, another
-group being in China,",2090.25,2.35,2092.6,
-"we could make a
-scientific community that",2092.6,1.76,2094.36,
-"is basically global
-and one, and allow",2094.36,3.47,2097.83,
-us to work much closer together.,2097.83,1.86,2099.69,happy
-"And that's what I'm
-very excited about.",2099.69,2.26,2101.9500000000003,neutral
-"So on behalf of our
-pre-clinical team scientists",2101.95,3.4,2105.35,fear
-"that have done all the
-hard work-- our PhDs,",2105.35,1.96,2107.31,
-"our master students,
-our post-docs,",2107.31,1.569,2108.879,
+Edmonton, another group being in San Francisco,
+another group being in Australia, another
+group being in China, we could make a
+scientific community that is basically global
+and one, and allow",2086.35,11.48,2097.83,NA
+"us to work much closer together. And that's what I'm
+very excited about. So on behalf of our
+pre-clinical team scientists that have done all the
+hard work-- our PhDs, our master students,
+our post-docs,",2097.83,11.049,2108.879,NA
 "and technicians that
-have done really",2108.879,1.541,2110.42,
-"all the hard work and
-pre-clinical testing--",2110.42,2.57,2112.9900000000002,
-"on behalf of our
-large clinical team",2112.99,1.52,2114.5099999999998,sad
-"that has basically helped up
-prepare the islet transplants.",2114.51,3.14,2117.65,sad
-"So thank you very much
-indeed for the opportunity",2117.65,2.17,2119.82,
+have done really all the hard work and
+pre-clinical testing-- on behalf of our
+large clinical team that has basically helped up
+prepare the islet transplants. So thank you very much
+indeed for the opportunity",2108.879,10.941,2119.8199999999997,NA
 "to present to you
-this afternoon.",2119.82,1.375,2121.195,
-"I look forward to
-answering your questions.",2121.195,3.489,2124.684,
-[APPLAUSE],2124.684,6.391,2131.0750000000003,
-AUDIENCE: My name is Zerga.,2131.075,1.125,2132.2,
-"I actually work on
-the iris and basically",2132.2,2.69,2134.89,
-the contact lens project here.,2134.89,2.24,2137.1299999999997,
-"So I've heard some questions
-about the cells you infuse.",2137.13,4.0,2141.13,neutral
-"So can you tell us some very
-basic biology of those cells?",2141.13,3.04,2144.17,sad
-"So when you inject it into the
-blood vessels of the kidney,",2144.17,4.08,2148.25,sad
-where do they end up?,2148.25,1.79,2150.04,neutral
+this afternoon. I look forward to
+answering your questions. [APPLAUSE] AUDIENCE: My name is Zerga. I actually work on
+the iris and basically",2119.82,15.069999999999999,2134.8900000000003,NA
+"the contact lens project here. So I've heard some questions
+about the cells you infuse. So can you tell us some very
+basic biology of those cells? So when you inject it into the
+blood vessels of the kidney, where do they end up?",2134.89,15.150000000000002,2150.04,NA
 "So do they actually stay
-there and live in the kidney?",2150.04,4.66,2154.7,neutral
-"Or do they end up
-in the pancreas?",2154.7,1.9,2156.6,
-"DR. JAMES SHAPIRO:
-So the question",2156.6,1.416,2158.016,neutral
-"is-- so we transplant our
-cells inside the liver.",2158.016,4.466,2162.482,neutral
-"So it's a local injection
-literally inside like this,",2162.482,2.298,2164.7799999999997,happy
-under x-ray.,2164.78,0.914,2165.6940000000004,neutral
-"And we get the radiologist
-to put a catheter",2165.694,2.486,2168.18,neutral
-"into the main vein that
-goes up into the liver.",2168.18,2.85,2171.0299999999997,neutral
-It's called the portal vein.,2171.03,1.67,2172.7000000000003,happy
-And it's like a tree.,2172.7,1.063,2173.763,happy
+there and live in the kidney? Or do they end up
+in the pancreas? DR. JAMES SHAPIRO:
+So the question is-- so we transplant our
+cells inside the liver. So it's a local injection
+literally inside like this,",2150.04,14.74,2164.7799999999997,NA
+"under x-ray. And we get the radiologist
+to put a catheter into the main vein that
+goes up into the liver. It's called the portal vein. And it's like a tree.",2164.78,8.983,2173.7630000000004,neutral
 "It has main trunks, and
-it has little branches.",2173.763,2.827,2176.59,happy
-"And the islet cells, the
-vary in size, from about 50",2176.59,3.51,2180.1000000000004,neutral
-"microns to 150
-micrometers in size.",2180.1,3.28,2183.38,neutral
-"Some are larger-- 400 or
-500 micrometers in size.",2183.38,2.702,2186.0820000000003,happy
-"And basically they
-go up this tree,",2186.082,1.458,2187.54,sad
+it has little branches. And the islet cells, the
+vary in size, from about 50 microns to 150
+micrometers in size. Some are larger-- 400 or
+500 micrometers in size. And basically they
+go up this tree,",2173.763,13.777,2187.54,neutral
 "and they go far along
-the tree until they",2187.54,2.628,2190.168,happy
-"get into a blood vessel
-that's smaller than they are.",2190.168,2.772,2192.94,happy
-There they get trapped.,2192.94,1.38,2194.32,fear
-"And basically a little bit of
-blood clot forms around them,",2194.32,3.565,2197.885,happy
-"and a local inflammatory
-reaction-- then new blood",2197.885,3.245,2201.13,happy
+the tree until they get into a blood vessel
+that's smaller than they are. There they get trapped. And basically a little bit of
+blood clot forms around them, and a local inflammatory
+reaction-- then new blood",2187.54,13.59,2201.13,fear
 "vessels grow in
-inside the liver.",2201.13,3.772,2204.902,sad
-"These cells are not going
-back into the pancreas.",2204.902,2.158,2207.06,
-"We could potentially put
-them in the pancreas,",2207.06,2.0,2209.06,
-"but it would be very, very
-technically difficult to do so.",2209.06,2.56,2211.62,neutral
-It would be risky.,2211.62,1.12,2212.74,sad
-It could case pancreatitis.,2212.74,1.526,2214.2659999999996,neutral
-"It could be a difficult
-place to put them.",2214.266,1.749,2216.015,neutral
-"It just so happens that the
-liver is a very effective place",2216.015,3.315,2219.33,neutral
-to put these cells.,2219.33,0.875,2220.205,neutral
-AUDIENCE: [INAUDIBLE],2220.205,0.875,2221.08,angry
+inside the liver. These cells are not going
+back into the pancreas. We could potentially put
+them in the pancreas, but it would be very, very
+technically difficult to do so. It would be risky.",2201.13,11.61,2212.7400000000002,NA
+"It could case pancreatitis. It could be a difficult
+place to put them. It just so happens that the
+liver is a very effective place to put these cells. AUDIENCE: [INAUDIBLE]",2212.74,8.34,2221.08,neutral
 "DR. JAMES SHAPIRO: Potentially
-they can grow anywhere.",2225.22,2.25,2227.47,fear
-"The question will be will
-the cells work as effectively",2227.47,5.41,2232.8799999999997,happy
-"in another site as they
-do currently in the liver.",2232.88,2.665,2235.545,
-And we don't know that yet.,2235.545,1.125,2236.67,
-"AUDIENCE: How do they
-communicate with the body?",2236.67,2.0,2238.67,neutral
+they can grow anywhere. The question will be will
+the cells work as effectively in another site as they
+do currently in the liver. And we don't know that yet. AUDIENCE: How do they
+communicate with the body?",2225.22,13.45,2238.6699999999996,NA
 "When do they know
-when to generate--",2238.67,2.367,2241.0370000000003,
-"DR. JAMES SHAPIRO: How do
-they communicate with the body",2241.037,2.333,2243.37,happy
-was the question.,2243.37,1.3,2244.67,angry
-"So the islets have
-sensors on them.",2244.67,1.57,2246.2400000000002,sad
-"So they have glucose
-receptors and they",2246.24,3.03,2249.27,sad
+when to generate-- DR. JAMES SHAPIRO: How do
+they communicate with the body was the question. So the islets have
+sensors on them. So they have glucose
+receptors and they",2238.67,10.6,2249.27,NA
 "can sense the blood
-sugar, much the same way",2249.27,2.48,2251.75,angry
-"you do with a skin test when
-you take a drop of blood.",2251.75,2.41,2254.16,angry
-"They're listening to the
-blood stream, monitoring it",2254.16,2.75,2256.91,angry
-"constantly, all the time.",2256.91,2.02,2258.93,angry
-"And as soon as the blood glucose
-goes high, then in concert,",2258.93,3.96,2262.89,angry
+sugar, much the same way you do with a skin test when
+you take a drop of blood. They're listening to the
+blood stream, monitoring it constantly, all the time. And as soon as the blood glucose
+goes high, then in concert,",2249.27,13.620000000000001,2262.89,angry
 "they all release just the
-right amount of insulin",2262.89,2.73,2265.62,angry
-"that's needed in a
-very dynamic way.",2265.62,2.91,2268.5299999999997,angry
-"And as the blood sugar drops
-below a certain threshold,",2268.53,3.37,2271.9,angry
-"they all shut off, so
-they stop making insulin.",2271.9,3.64,2275.54,angry
-"So it's a much more precise
-way of regulating blood sugar",2275.54,6.305,2281.845,neutral
+right amount of insulin that's needed in a
+very dynamic way. And as the blood sugar drops
+below a certain threshold, they all shut off, so
+they stop making insulin. So it's a much more precise
+way of regulating blood sugar",2262.89,18.955000000000002,2281.845,neutral
 "than if you inject
-insulin from the outside.",2281.845,3.385,2285.23,angry
-"So it's able to do
-that because they're",2285.23,2.13,2287.36,angry
-"a collection of cells
-there that adjust insulin.",2287.36,2.65,2290.01,angry
-"And i didn't mention, the islets
-have several cell populations",2290.01,3.54,2293.55,neutral
-int them.,2293.55,0.55,2294.1000000000004,neutral
+insulin from the outside. So it's able to do
+that because they're a collection of cells
+there that adjust insulin. And i didn't mention, the islets
+have several cell populations int them.",2281.845,12.254999999999999,2294.1,neutral
 "The have the beta cells
-that make insulin.",2294.1,1.94,2296.04,angry
-"They also have another
-cell population",2296.04,1.665,2297.705,angry
-"called alpha cells
-that make glucagon.",2297.705,2.043,2299.748,angry
-"And glucagon makes
-the blood sugar go up.",2299.748,2.742,2302.4900000000002,angry
-"So you have what's called
-counter regulatory control.",2302.49,2.76,2305.25,angry
+that make insulin. They also have another
+cell population called alpha cells
+that make glucagon. And glucagon makes
+the blood sugar go up. So you have what's called
+counter regulatory control.",2294.1,11.15,2305.25,angry
 "So with counter
-regulatory control,",2305.25,1.84,2307.09,angry
-"you can keep your blood sugar
-in a very precise balance.",2307.09,4.176,2311.266,
-"AUDIENCE: Hey, Dr. Shapiro.",2311.266,1.124,2312.39,
-My name's Joel.,2312.39,0.7,2313.0899999999997,
-"My wife has lived with type 1
-diabetes for nearly 40 years.",2313.09,4.14,2317.23,
-And she had a couple questions.,2317.23,2.09,2319.32,
-"The short one is-- do you
-transplant the entirety",2319.32,3.96,2323.28,
-"of the islet, or
-just the beta cells?",2323.28,1.9,2325.1800000000003,
-"And the more interesting,
-or more complex",2325.18,2.95,2328.1299999999997,
-"question is-- are you
-modifying the islet cells prior",2328.13,3.58,2331.71,
+regulatory control, you can keep your blood sugar
+in a very precise balance. AUDIENCE: Hey, Dr. Shapiro. My name's Joel. My wife has lived with type 1
+diabetes for nearly 40 years.",2305.25,11.98,2317.23,NA
+"And she had a couple questions. The short one is-- do you
+transplant the entirety of the islet, or
+just the beta cells? And the more interesting,
+or more complex question is-- are you
+modifying the islet cells prior",2317.23,14.479999999999999,2331.71,NA
 "to transplant to reduce the
-chance they'll be attacked",2331.71,2.45,2334.16,
-"by the same antibodies
-that originally",2334.16,2.13,2336.29,
-killed of the islet cells?,2336.29,2.09,2338.38,
-"DR. JAMES SHAPIRO: So the
-islets that we transplant",2338.38,2.83,2341.21,
-"are the collection
-of all the cells.",2341.21,1.614,2342.824,neutral
+chance they'll be attacked by the same antibodies
+that originally killed of the islet cells? DR. JAMES SHAPIRO: So the
+islets that we transplant are the collection
+of all the cells.",2331.71,11.114,2342.824,NA
 "So there's five-- I mentioned
-two cell types-- there",2342.824,2.166,2344.9900000000002,neutral
-"are actually five or six
-different cell types.",2344.99,1.46,2346.45,
-"Maybe there's even more that
-we haven't discovered yet.",2346.45,2.291,2348.741,neutral
-"But the islet is sort of
-an organelle collection",2348.741,2.259,2351.0,neutral
-of several types.,2351.0,1.36,2352.36,fear
+two cell types-- there are actually five or six
+different cell types. Maybe there's even more that
+we haven't discovered yet. But the islet is sort of
+an organelle collection of several types.",2342.824,9.536,2352.36,NA
 "We think that the islet
-needs all of those cell types",2352.36,2.94,2355.3,fear
-"in order to survive
-in the longer term.",2355.3,1.92,2357.2200000000003,angry
-"If you just took out
-all the beta cells",2357.22,1.625,2358.845,fear
-"and transplanted them, they
-might work for a while.",2358.845,2.265,2361.1099999999997,neutral
-"But maybe the beta
-cells on their own,",2361.11,1.583,2362.693,fear
+needs all of those cell types in order to survive
+in the longer term. If you just took out
+all the beta cells and transplanted them, they
+might work for a while. But maybe the beta
+cells on their own,",2352.36,10.333,2362.693,neutral
 "without the rest of
-the supported matrix",2362.693,1.697,2364.3900000000003,neutral
-"and the ability to communicate
-with each other in this sort",2364.39,2.458,2366.848,neutral
-"of local mode, maybe they
-wouldn't work as well.",2366.848,2.021,2368.869,fear
-We don't know that.,2368.869,0.791,2369.6600000000003,fear
-"But we transplant
-all of the cells.",2369.66,2.72,2372.3799999999997,fear
-And so the second question was--,2372.38,2.168,2374.5480000000002,neutral
-"AUDIENCE: Do you do anything
-to modify the islet cells prior",2374.548,3.48,2378.028,neutral
-to transplant?,2378.028,0.702,2378.73,neutral
-"DR. JAMES SHAPIRO:
-Do we do anything.",2378.73,1.541,2380.271,neutral
-"And so, the islets are
-taken out of the pancreas",2380.271,2.453,2382.724,happy
-in that process.,2382.724,0.666,2383.3900000000003,happy
-We keep them in culture.,2383.39,1.9,2385.29,neutral
-"Now in the old days, in the very
-first experiments we've done,",2385.29,3.37,2388.66,neutral
-"there was a lot of different
-innovations that we had done.",2388.66,3.877,2392.537,neutral
-"You could treat them
-with ultraviolet light.",2392.537,1.833,2394.37,neutral
+the supported matrix and the ability to communicate
+with each other in this sort of local mode, maybe they
+wouldn't work as well. We don't know that. But we transplant
+all of the cells.",2362.693,9.687000000000001,2372.38,neutral
+"And so the second question was-- AUDIENCE: Do you do anything
+to modify the islet cells prior to transplant? DR. JAMES SHAPIRO:
+Do we do anything. And so, the islets are
+taken out of the pancreas",2372.38,10.344,2382.724,neutral
+"in that process. We keep them in culture. Now in the old days, in the very
+first experiments we've done, there was a lot of different
+innovations that we had done. You could treat them
+with ultraviolet light.",2382.724,11.645999999999999,2394.3700000000003,neutral
 "You could treat
-them with x-rays.",2394.37,0.74,2395.1099999999997,fear
-"You could treat them
-with high oxygen.",2395.11,1.61,2396.7200000000003,neutral
-"And these would alter what
-is called the immunogenicity,",2396.72,2.333,2399.053,neutral
-"or the ability of the body
-to recognize them as foreign.",2399.053,3.557,2402.6099999999997,neutral
-"We haven't done so
-much of that now.",2402.61,2.46,2405.07,neutral
+them with x-rays. You could treat them
+with high oxygen. And these would alter what
+is called the immunogenicity, or the ability of the body
+to recognize them as foreign. We haven't done so
+much of that now.",2394.37,10.7,2405.0699999999997,neutral
 "But potentially you
-can do a lot of things",2405.07,2.54,2407.61,fear
-"to manipulate the
-cells in the Petri dish",2407.61,2.879,2410.489,neutral
-"that could alter the
-ability of the body",2410.489,1.666,2412.155,angry
-to recognize them as foreign.,2412.155,1.208,2413.3630000000003,fear
-"we could wrap them in
-a seaweed membrane,",2413.363,2.172,2415.535,fear
-an algenate microcapsule.,2415.535,3.115,2418.6499999999996,fear
-"We could add other
-products locally",2418.65,1.954,2420.6040000000003,fear
-"around the islets
-to protect them.",2420.604,1.416,2422.02,fear
-"So an islet in some way
-has a lot more potential",2422.02,3.5,2425.52,neutral
-"than the other
-transplants that we do,",2425.52,2.58,2428.1,neutral
+can do a lot of things to manipulate the
+cells in the Petri dish that could alter the
+ability of the body to recognize them as foreign. we could wrap them in
+a seaweed membrane,",2405.07,10.465000000000002,2415.5350000000003,neutral
+"an algenate microcapsule. We could add other
+products locally around the islets
+to protect them. So an islet in some way
+has a lot more potential than the other
+transplants that we do,",2415.535,12.565,2428.1,neutral
 "where we don't have that ability
-to alter them in the dish.",2428.1,3.09,2431.19,neutral
-"But we haven't explored that
-perhaps to its full potential.",2431.19,2.826,2434.016,fear
-"Yeah, you're quite correct.",2434.016,1.124,2435.14,fear
-"AUDIENCE: I noticed
-in one of the slides",2435.14,1.91,2437.0499999999997,
-"that the A1c's
-that were reported,",2437.05,4.97,2442.02,
+to alter them in the dish. But we haven't explored that
+perhaps to its full potential. Yeah, you're quite correct. AUDIENCE: I noticed
+in one of the slides that the A1c's
+that were reported,",2428.1,13.920000000000002,2442.02,NA
 "or that were monitored in your
-patients, seemed to improve",2442.02,3.14,2445.16,
-"over time after the
-transplant, not just initially.",2445.16,3.47,2448.6299999999997,
-"And given the propensity
-of these cells to degrade,",2448.63,2.68,2451.31,
-"I was surprised that it
-got better as time went on.",2451.31,3.879,2455.189,
-"DR. JAMES SHAPIRO: I think
-that's partly a function-- well",2455.189,2.416,2457.605,neutral
+patients, seemed to improve over time after the
+transplant, not just initially. And given the propensity
+of these cells to degrade, I was surprised that it
+got better as time went on. DR. JAMES SHAPIRO: I think
+that's partly a function-- well",2442.02,15.585,2457.605,NA
 "I should say hemoglobin
-doesn't drop immediately.",2457.605,2.965,2460.57,neutral
-"The reason for that is it
-takes two or three months",2460.57,2.67,2463.2400000000002,neutral
-to have an effect.,2463.24,1.36,2464.6,angry
-"So if you have bad
-control, then you suddenly",2464.6,2.28,2466.88,angry
-"go to perfect control,
-the next A1c test",2466.88,3.019,2469.899,neutral
+doesn't drop immediately. The reason for that is it
+takes two or three months to have an effect. So if you have bad
+control, then you suddenly go to perfect control,
+the next A1c test",2457.605,12.294,2469.899,neutral
 "is reflecting what happened
-three months earlier.",2469.899,2.041,2471.94,neutral
-"So there's a lag in
-its ability to measure.",2471.94,3.17,2475.11,neutral
-"It's designed that
-way, because it",2475.11,1.52,2476.63,neutral
-"is meant to tell
-you what's happened",2476.63,2.139,2478.7690000000002,neutral
-over the last few months.,2478.769,1.041,2479.81,fear
+three months earlier. So there's a lag in
+its ability to measure. It's designed that
+way, because it is meant to tell
+you what's happened over the last few months.",2469.899,9.911,2479.81,neutral
 "So that's why you're
-seeing a delay.",2479.81,1.81,2481.62,neutral
-"It's not so much that control
-is improving over time,",2481.62,3.62,2485.24,neutral
-but I think it's more that.,2485.24,1.74,2486.9799999999996,neutral
-"AUDIENCE: And just sort of
-a more general follow up.",2486.98,4.18,2491.16,
-I've been diabetic for 25 years.,2491.16,1.5,2492.66,
+seeing a delay. It's not so much that control
+is improving over time, but I think it's more that. AUDIENCE: And just sort of
+a more general follow up. I've been diabetic for 25 years.",2479.81,12.85,2492.66,NA
 "And ever since I
-was diagnosed I've",2492.66,2.24,2494.8999999999996,
-"been following the news media
-and basically, the light",2494.9,4.92,2499.82,
-"at the end of the tunnel has
-been there the whole time.",2499.82,3.97,2503.79,
-"Does seem to getting
-brighter, but what",2503.79,2.37,2506.16,
-"is your take on kind
-of a realistic timeline",2506.16,2.99,2509.1499999999996,
+was diagnosed I've been following the news media
+and basically, the light at the end of the tunnel has
+been there the whole time. Does seem to getting
+brighter, but what is your take on kind
+of a realistic timeline",2492.66,16.490000000000002,2509.1499999999996,NA
 "for-- I realize it's
-all speculation.",2509.15,3.699,2512.849,
-"DR. JAMES SHAPIRO:
-So if I send you back",2512.849,1.666,2514.5150000000003,
-"to your office this
-afternoon in Google and say,",2514.515,2.575,2517.0899999999997,
-"I want you to tell me
-in a week how long it's",2517.09,2.38,2519.4700000000003,
-"going to take to
-finish a project.",2519.47,2.857,2522.3269999999998,neutral
+all speculation. DR. JAMES SHAPIRO:
+So if I send you back to your office this
+afternoon in Google and say, I want you to tell me
+in a week how long it's going to take to
+finish a project.",2509.15,13.177,2522.327,NA
 "Maybe you've got all the
-algorithms straightened out,",2522.327,2.208,2524.5350000000003,
-"and you can tell me it's
-going to take exactly a week.",2524.535,2.075,2526.6099999999997,
-"I think for this, because
-it's a biological system,",2526.61,2.124,2528.734,
-"it's working humans, it's
-not just all of that.",2528.734,3.305,2532.0389999999998,
-"We also have to deal with
-the regulatory agencies",2532.039,2.041,2534.0800000000004,
+algorithms straightened out, and you can tell me it's
+going to take exactly a week. I think for this, because
+it's a biological system, it's working humans, it's
+not just all of that. We also have to deal with
+the regulatory agencies",2522.327,11.753,2534.0800000000004,NA
 "as soon as we want to
-do something different.",2534.08,1.36,2535.44,fear
-"We've got to justify
-what we're doing.",2535.44,1.59,2537.03,
-"They often tell us to go
-back and do more experiments.",2537.03,2.25,2539.28,
-"So you'll notice I never
-mentioned the five year cure.",2539.28,2.742,2542.0220000000004,
-"I never said, well, we'll
-do this in five years",2542.022,1.958,2543.98,
-or we'll do it in 10 years.,2543.98,1.16,2545.14,
-"What I will say to you
-is that in 2014 we're",2545.14,4.29,2549.43,
-"doing far more in
-this year than I ever",2549.43,2.224,2551.654,neutral
-"dreamed we would
-be at this point.",2551.654,1.416,2553.07,neutral
-"So my impression is that we're--
-all of us as a community--",2553.07,4.71,2557.78,
-are moving faster.,2557.78,1.04,2558.82,
-We haven't got there yet.,2558.82,1.042,2559.862,neutral
-"I don't know how long it's going
-to take to get to the light",2559.862,2.499,2562.361,
-at the end of the tunnel.,2562.361,1.049,2563.41,happy
-"But I know that's
-where we want to be.",2563.41,2.34,2565.75,happy
+do something different. We've got to justify
+what we're doing. They often tell us to go
+back and do more experiments. So you'll notice I never
+mentioned the five year cure. I never said, well, we'll
+do this in five years",2534.08,9.9,2543.98,NA
+"or we'll do it in 10 years. What I will say to you
+is that in 2014 we're doing far more in
+this year than I ever dreamed we would
+be at this point. So my impression is that we're--
+all of us as a community--",2543.98,13.8,2557.78,NA
+"are moving faster. We haven't got there yet. I don't know how long it's going
+to take to get to the light at the end of the tunnel. But I know that's
+where we want to be.",2557.78,7.969999999999999,2565.75,NA
 "But it's going to
-take what it takes,",2565.75,2.617,2568.367,fear
-"provided we're all
-working intensively",2568.367,1.583,2569.9500000000003,
-in the right direction.,2569.95,1.004,2570.9539999999997,
-AUDIENCE: My name is Steven.,2570.954,1.166,2572.1200000000003,
-"I also work on the
-contact lens project.",2572.12,1.666,2573.786,
+take what it takes, provided we're all
+working intensively in the right direction. AUDIENCE: My name is Steven. I also work on the
+contact lens project.",2565.75,8.036000000000001,2573.786,NA
 "And so I have a
-question a little bit",2573.786,1.624,2575.41,
-related to Zach's question.,2575.41,3.05,2578.46,
-"The islet function is
-said to be modulated",2578.46,2.89,2581.35,
-"by the autonomic nervous
-system, parasympathetic, and",2581.35,2.325,2583.6749999999997,
-sympathetic nervous system.,2583.675,1.125,2584.8,
+question a little bit related to Zach's question. The islet function is
+said to be modulated by the autonomic nervous
+system, parasympathetic, and sympathetic nervous system.",2573.786,11.014,2584.8,NA
 "Alpha and beta insulin
-and glucagon production.",2584.8,2.9,2587.7000000000003,
-"And so if you place these cells
-underneath the skin, what's",2587.7,7.1,2594.7999999999997,
-"the effect of breaking
-the autonomic link so",2594.8,2.94,2597.7400000000002,
-"you have some autonomous
-function in response",2597.74,4.32,2602.06,
-to glucose.,2602.06,1.03,2603.09,
+and glucagon production. And so if you place these cells
+underneath the skin, what's the effect of breaking
+the autonomic link so you have some autonomous
+function in response to glucose.",2584.8,18.29,2603.09,NA
 "You cut off this nervous
-system link, so--",2603.09,2.434,2605.5240000000003,
-"DR. JAMES SHAPIRO:
-You're quite correct.",2605.524,1.666,2607.19,
-"So the islets that
-are transplanted",2607.19,2.08,2609.27,
-are completely detonated.,2609.27,1.07,2610.34,angry
-"They don't have any
-nerves going into them.",2610.34,2.655,2612.9950000000003,angry
+system link, so-- DR. JAMES SHAPIRO:
+You're quite correct. So the islets that
+are transplanted are completely detonated. They don't have any
+nerves going into them.",2603.09,9.905,2612.9950000000003,NA
 "Potentially the nerves
-can grow in over time,",2612.995,1.875,2614.87,neutral
-"along with the new-- blood
-vessels happen first.",2614.87,2.29,2617.16,neutral
-"Potentially they can
-become integrated.",2617.16,2.15,2619.31,angry
-"But the nerve end
-growth isn't essential.",2619.31,3.47,2622.7799999999997,angry
-"So perhaps it helps with the
-a cued release of insulin",2622.78,3.68,2626.46,neutral
+can grow in over time, along with the new-- blood
+vessels happen first. Potentially they can
+become integrated. But the nerve end
+growth isn't essential. So perhaps it helps with the
+a cued release of insulin",2612.995,13.465,2626.46,neutral
 "in the normal individual
-who's stressed.",2626.46,1.97,2628.43,neutral
-"But most of the time these cells
-can respond very effectively",2628.43,3.35,2631.7799999999997,neutral
-to the local environment.,2631.78,1.08,2632.86,neutral
-So you don't need innovation.,2632.86,3.02,2635.88,angry
-"And they clearly
-can work just fine,",2635.88,1.64,2637.52,angry
+who's stressed. But most of the time these cells
+can respond very effectively to the local environment. So you don't need innovation. And they clearly
+can work just fine,",2626.46,11.06,2637.52,neutral
 "as I showed you,
-without innovation.",2637.52,2.249,2639.769,neutral
-"You can divide the
-vagus nerves in patients",2639.769,1.791,2641.56,neutral
-that don't get diabetes.,2641.56,1.87,2643.43,happy
-"Often we do that for
-other conditions.",2643.43,1.63,2645.06,angry
-"So it clearly plays
-a role somehow,",2645.06,3.22,2648.2799999999997,angry
+without innovation. You can divide the
+vagus nerves in patients that don't get diabetes. Often we do that for
+other conditions. So it clearly plays
+a role somehow,",2637.52,10.76,2648.28,neutral
 "but it's probably
-a very minor role,",2648.28,1.57,2649.8500000000004,sad
-"because it's just
-completely redundant.",2649.85,1.78,2651.63,
-You don't need it.,2651.63,1.1,2652.73,
-"AUDIENCE: So there
-was a research article",2652.73,2.4,2655.13,
-"that I came across recently
-about activating islet cell",2655.13,3.96,2659.09,
+a very minor role, because it's just
+completely redundant. You don't need it. AUDIENCE: So there
+was a research article that I came across recently
+about activating islet cell",2648.28,10.809999999999999,2659.09,NA
 "production in the
-gastrointestinal tract.",2659.09,3.25,2662.34,
-"And I was wondering if
-you could talk about that.",2662.34,2.64,2664.98,
-"I don't recall seeing
-it on the slides.",2664.98,2.212,2667.192,
-"DR. JAMES SHAPIRO:
-So there's a group",2667.192,2.408,2669.6,angry
-"led by Dr. Tim Kieffer
-in Vancouver, who's",2669.6,2.25,2671.85,angry
+gastrointestinal tract. And I was wondering if
+you could talk about that. I don't recall seeing
+it on the slides. DR. JAMES SHAPIRO:
+So there's a group led by Dr. Tim Kieffer
+in Vancouver, who's",2659.09,12.76,2671.8500000000004,NA
 "worked on trying to
-convert the cells",2671.85,3.09,2674.94,happy
-"in the gastrointestinal
-tract into becoming",2674.94,3.2,2678.14,neutral
-insulin-making beta cells.,2678.14,2.18,2680.3199999999997,angry
-"That's really his
-area of expertise.",2680.32,1.61,2681.9300000000003,happy
-"He's made a lot of progress
-over the course of time.",2681.93,2.166,2684.096,happy
+convert the cells in the gastrointestinal
+tract into becoming insulin-making beta cells. That's really his
+area of expertise. He's made a lot of progress
+over the course of time.",2671.85,12.246,2684.096,neutral
 "But I don't think I can
-beyond that comment directly",2684.096,2.495,2686.591,happy
-"on his work, because I haven't
-been directly involved in it.",2686.591,2.499,2689.0899999999997,
-But it's exciting.,2689.09,1.32,2690.4100000000003,
-"AUDIENCE: How does the
-life look for the patient",2690.41,2.12,2692.5299999999997,
-"after the transplant, in terms
-of taking the immunosuppression",2692.53,4.06,2696.59,
+beyond that comment directly on his work, because I haven't
+been directly involved in it. But it's exciting. AUDIENCE: How does the
+life look for the patient after the transplant, in terms
+of taking the immunosuppression",2684.096,12.494,2696.59,NA
 "drugs, and what's
-the cost of it,",2696.59,1.74,2698.33,
-"and how often it has
-to be administered.",2698.33,2.01,2700.34,
-"And what are the
-side effects of it?",2700.34,1.67,2702.01,
-DR. JAMES SHAPIRO: Right.,2702.01,1.041,2703.0510000000004,angry
-"So the standard
-anti-rejection drugs",2703.051,1.979,2705.0299999999997,neutral
-are usually taken twice a day.,2705.03,2.36,2707.3900000000003,neutral
-"And most patients tolerate
-these extremely well.",2707.39,4.38,2711.77,neutral
-"And we do a lot of
-testing beforehand",2711.77,2.58,2714.35,happy
-"to weed out the odd patient
-that won't tolerate it well.",2714.35,2.482,2716.832,happy
-"So we look for patients who
-have bad kidney function,",2716.832,2.208,2719.04,neutral
+the cost of it, and how often it has
+to be administered. And what are the
+side effects of it? DR. JAMES SHAPIRO: Right. So the standard
+anti-rejection drugs",2696.59,8.440000000000001,2705.03,NA
+"are usually taken twice a day. And most patients tolerate
+these extremely well. And we do a lot of
+testing beforehand to weed out the odd patient
+that won't tolerate it well. So we look for patients who
+have bad kidney function,",2705.03,14.01,2719.0400000000004,neutral
 "and we won't give them a
-transplant, because we don't",2719.04,2.208,2721.248,neutral
-"want to push them
-into kidney failure.",2721.248,2.612,2723.86,neutral
-"But it's usually a twice
-daily drug regimen.",2723.86,2.85,2726.71,neutral
-"Most patients tolerate
-it quite well.",2726.71,2.43,2729.14,neutral
-"Some people get a
-tremor in the hands.",2729.14,2.45,2731.5899999999997,neutral
+transplant, because we don't want to push them
+into kidney failure. But it's usually a twice
+daily drug regimen. Most patients tolerate
+it quite well. Some people get a
+tremor in the hands.",2719.04,12.55,2731.59,neutral
 "Some people got
-some leg swelling.",2731.59,2.372,2733.962,neutral
-Some people get mouth ulcers.,2733.962,1.208,2735.17,neutral
-"There's various
-different side effects--",2735.17,1.666,2736.8360000000002,neutral
-"the whole panoply
-of side effects",2736.836,1.764,2738.6,happy
-"can happen-- bit generally most
-patients tolerate them well.",2738.6,2.844,2741.444,neutral
+some leg swelling. Some people get mouth ulcers. There's various
+different side effects-- the whole panoply
+of side effects can happen-- bit generally most
+patients tolerate them well.",2731.59,9.854000000000001,2741.444,neutral
 "One thing we don't hear though
-in the islet transplants",2741.444,2.291,2743.735,angry
-is to avoid the steroids.,2743.735,2.305,2746.04,angry
-"So steroids used to have
-a lot of side effects",2746.04,2.022,2748.062,neutral
-after transplant.,2748.062,0.708,2748.77,neutral
-"They would give you
-puffiness in the face,",2748.77,2.26,2751.03,neutral
+in the islet transplants is to avoid the steroids. So steroids used to have
+a lot of side effects after transplant. They would give you
+puffiness in the face,",2741.444,9.586,2751.0299999999997,neutral
 "actually cause diabetes
-in some patients,",2751.03,3.23,2754.26,angry
-"cause overweight, cause various
-issues, mood disturbance.",2754.26,4.42,2758.6800000000003,neutral
-"So we're not giving
-any steroids at all",2758.68,1.78,2760.46,neutral
-in the islet cell transplants.,2760.46,1.88,2762.34,neutral
-"So the side effects are probably
-minimized because of that.",2762.34,3.482,2765.822,neutral
-They're not zero.,2765.822,0.708,2766.53,angry
-"And the side effects that you
-don't see but you worry about",2766.53,3.87,2770.4,angry
-"are the risk of cancers
-and the risk of infections.",2770.4,3.76,2774.1600000000003,neutral
-"So we tell every
-patient coming in",2774.16,2.214,2776.374,neutral
-"that they have an increased
-risk of certain cancers,",2776.374,2.166,2778.54,neutral
+in some patients, cause overweight, cause various
+issues, mood disturbance. So we're not giving
+any steroids at all in the islet cell transplants. So the side effects are probably
+minimized because of that.",2751.03,14.791999999999998,2765.822,neutral
+"They're not zero. And the side effects that you
+don't see but you worry about are the risk of cancers
+and the risk of infections. So we tell every
+patient coming in that they have an increased
+risk of certain cancers,",2765.822,12.718000000000002,2778.54,neutral
 "skin cancers, blood cancers,
-and certain infections that",2778.54,4.18,2782.72,neutral
-could potentially kill them.,2782.72,1.492,2784.212,neutral
-"And the way I look
-upon it and discuss it",2784.212,1.708,2785.92,neutral
-"with the patient is if they have
-bad control of their diabetes",2785.92,2.95,2788.87,neutral
-"anyway, then the risks
-attendant to the drugs",2788.87,3.88,2792.75,neutral
+and certain infections that could potentially kill them. And the way I look
+upon it and discuss it with the patient is if they have
+bad control of their diabetes anyway, then the risks
+attendant to the drugs",2778.54,14.21,2792.75,neutral
 "are actually a
-drop in the ocean,",2792.75,1.47,2794.22,neutral
-"very small compared
-to the big risks",2794.22,1.61,2795.83,neutral
-"they face every day
-from their diabetes.",2795.83,2.18,2798.0099999999998,neutral
-"If they have perfect
-control of their diabetes,",2798.01,2.222,2800.2320000000004,angry
-then it's a different matter.,2800.232,1.208,2801.44,angry
+drop in the ocean, very small compared
+to the big risks they face every day
+from their diabetes. If they have perfect
+control of their diabetes, then it's a different matter.",2792.75,8.69,2801.44,neutral
 "Is they are well-controlled
-with insulin,",2801.44,2.282,2803.722,neutral
-"then on the other hand,
-I would say, ""Well, you",2803.722,1.958,2805.6800000000003,neutral
-"don't want to face
-the risk of infection.",2805.68,1.708,2807.388,neutral
-"You don't want to face the
-increased risk of cancer",2807.388,2.512,2809.9,angry
-"if your diabetes is being
-managed perfectly the way",2809.9,2.56,2812.46,angry
-"it is already.""",2812.46,0.7,2813.16,angry
-"And that's really
-the rationale for us",2813.16,1.75,2814.91,angry
-"picking the worst of the worst
-patients in terms of the blood",2814.91,2.92,2817.83,fear
-sugar control.,2817.83,1.43,2819.2599999999998,neutral
-Insulin is of course very cheap.,2819.26,2.61,2821.8700000000003,
+with insulin, then on the other hand,
+I would say, ""Well, you don't want to face
+the risk of infection. You don't want to face the
+increased risk of cancer if your diabetes is being
+managed perfectly the way",2801.44,11.020000000000001,2812.46,neutral
+"it is already."" And that's really
+the rationale for us picking the worst of the worst
+patients in terms of the blood sugar control. Insulin is of course very cheap.",2812.46,9.41,2821.87,NA
 "The immunosuppressive
-drugs can be expensive.",2821.87,3.01,2824.88,
-"The costs are changing
-over the course of time",2824.88,2.5,2827.38,neutral
-"now because all of the
-patents on these earlier drugs",2827.38,2.52,2829.9,neutral
-have ended.,2829.9,1.1,2831.0,neutral
-"So there are generics coming in,
-and the costs are coming down.",2831.0,3.12,2834.12,angry
-They're still not zero.,2834.12,2.74,2836.8599999999997,angry
-"And it depends on the patient's
-drug plan and their ability",2836.86,2.86,2839.7200000000003,angry
-to get reimbursed for it.,2839.72,1.36,2841.08,happy
-"So in Canada, most the time
-it has not been a problem.",2841.08,2.25,2843.33,happy
-"Occasional patients have not had
-full coverage for their drugs.",2843.33,3.89,2847.22,
-But generally it can be managed.,2847.22,3.11,2850.33,
-"FEAUDIENCE: Could you comment
-on the transition from islets",2850.33,2.91,2853.24,
-to stem cells?,2853.24,1.844,2855.084,
-"How do you make
-them differentiate",2855.084,1.416,2856.5,neutral
-into the right thing?,2856.5,1.25,2857.75,
+drugs can be expensive. The costs are changing
+over the course of time now because all of the
+patents on these earlier drugs have ended. So there are generics coming in,
+and the costs are coming down.",2821.87,12.25,2834.12,NA
+"They're still not zero. And it depends on the patient's
+drug plan and their ability to get reimbursed for it. So in Canada, most the time
+it has not been a problem. Occasional patients have not had
+full coverage for their drugs.",2834.12,13.100000000000001,2847.22,NA
+"But generally it can be managed. FEAUDIENCE: Could you comment
+on the transition from islets to stem cells? How do you make
+them differentiate into the right thing?",2847.22,10.53,2857.75,NA
 "And does it happen inside
-or outside of the body?",2857.75,2.24,2859.99,
-"DR. JAMES SHAPIRO: Stem cells
-are, of course, exciting",2859.99,1.51,2861.5,
-"in many ways, because it
-means that instead of relying",2861.5,2.58,2864.08,neutral
-"on going through that complex
-process of making the cells,",2864.08,2.93,2867.0099999999998,fear
-"you have a limitless
-supply that could",2867.01,1.67,2868.6800000000003,fear
+or outside of the body? DR. JAMES SHAPIRO: Stem cells
+are, of course, exciting in many ways, because it
+means that instead of relying on going through that complex
+process of making the cells, you have a limitless
+supply that could",2857.75,10.93,2868.68,NA
 "treat the whole population
-in the world with Type 1",2868.68,2.83,2871.5099999999998,neutral
-and Type 2 diabetes.,2871.51,1.3,2872.8100000000004,neutral
-"That would be really,
-really exciting.",2872.81,1.745,2874.555,fear
-"But as you move
-forward, you've got",2874.555,2.685,2877.24,neutral
-"a whole new gamut
-of testing to do.",2877.24,2.45,2879.6899999999996,fear
+in the world with Type 1 and Type 2 diabetes. That would be really,
+really exciting. But as you move
+forward, you've got a whole new gamut
+of testing to do.",2868.68,11.010000000000002,2879.69,neutral
 "You have to be sure
-they're going to be safe.",2879.69,1.876,2881.5660000000003,neutral
-"You've got to be sure
-that when you put them in,",2881.566,1.999,2883.5649999999996,angry
-"they're not going to cause
-uncontrolled drop in blood",2883.565,2.28,2885.8450000000003,neutral
-sugar.,2885.845,0.315,2886.16,fear
-"We don't think that's
-going to happen.",2886.16,1.583,2887.743,surprise
-But it could.,2887.743,0.597,2888.34,fear
-"We've got to be sure
-that they're not",2888.34,1.541,2889.8810000000003,neutral
-"going to turn into
-cancers, or precancers,",2889.881,1.989,2891.87,neutral
-"or some other worrisome
-transformation",2891.87,3.04,2894.91,fear
-once we transplant the cells.,2894.91,2.06,2896.97,fear
+they're going to be safe. You've got to be sure
+that when you put them in, they're not going to cause
+uncontrolled drop in blood sugar. We don't think that's
+going to happen.",2879.69,8.052999999999999,2887.743,neutral
+"But it could. We've got to be sure
+that they're not going to turn into
+cancers, or precancers, or some other worrisome
+transformation once we transplant the cells.",2887.743,9.227,2896.97,neutral
 "We know that islet cells,
-when we transplant them,",2896.97,2.15,2899.12,neutral
-stay very stable.,2899.12,1.45,2900.5699999999997,neutral
-"But these other
-cells-- these stem",2900.57,1.69,2902.26,surprise
-"cells-- they can turn
-into any cell potentially.",2902.26,2.96,2905.2200000000003,happy
-"So there's a lot of
-caution as we move forward,",2905.22,2.909,2908.129,neutral
-as well as a lot of excitement.,2908.129,1.291,2909.42,neutral
-"So it has to be done very
-carefully, step by step.",2909.42,3.679,2913.099,
-"Can we make the cells
-differentiate and make them",2913.099,2.041,2915.1400000000003,
-"into perfect islets
-and stable islets",2915.14,2.01,2917.15,
-before we transform them?,2917.15,2.03,2919.1800000000003,surprise
-That's what we'd like to do.,2919.18,1.7,2920.8799999999997,surprise
-"But the stem cell scientists
-that make these cells",2920.88,2.37,2923.25,neutral
-"have not yet been able
-to completely overcome",2923.25,2.39,2925.64,neutral
-that hurdle.,2925.64,0.99,2926.6299999999997,fear
-"So they're giving us the cells
-that they make-- manufacture--",2926.63,4.27,2930.9,happy
-are still these pre-islet cells.,2930.9,2.28,2933.1800000000003,neutral
-"And they turn into islets
-once they're transplanted.",2933.18,3.1,2936.2799999999997,neutral
-"So they're working
-very hard trying",2936.28,2.342,2938.6220000000003,fear
-"to understand the
-messaging systems",2938.622,1.458,2940.08,neutral
-"in the body as an
-embryo grows, what",2940.08,3.2,2943.2799999999997,neutral
+when we transplant them, stay very stable. But these other
+cells-- these stem cells-- they can turn
+into any cell potentially. So there's a lot of
+caution as we move forward,",2896.97,11.158999999999999,2908.129,neutral
+"as well as a lot of excitement. So it has to be done very
+carefully, step by step. Can we make the cells
+differentiate and make them into perfect islets
+and stable islets before we transform them?",2908.129,11.050999999999998,2919.18,NA
+"That's what we'd like to do. But the stem cell scientists
+that make these cells have not yet been able
+to completely overcome that hurdle. So they're giving us the cells
+that they make-- manufacture--",2919.18,11.72,2930.8999999999996,neutral
+"are still these pre-islet cells. And they turn into islets
+once they're transplanted. So they're working
+very hard trying to understand the
+messaging systems in the body as an
+embryo grows, what",2930.9,12.379999999999999,2943.28,neutral
 "controls the differentiation,
-what controls",2943.28,1.86,2945.1400000000003,fear
-"the stabilization from
-one step to the next.",2945.14,3.29,2948.43,neutral
-"And I think until they've done
-that fully, we'll probably",2948.43,3.03,2951.46,neutral
-"still be transplanting these
-precursor cells for a while,",2951.46,4.8,2956.26,neutral
-"until we have the--
-yeah, ideally we'd",2956.26,1.81,2958.07,neutral
+what controls the stabilization from
+one step to the next. And I think until they've done
+that fully, we'll probably still be transplanting these
+precursor cells for a while, until we have the--
+yeah, ideally we'd",2943.28,14.790000000000001,2958.07,neutral
 "like to have perfect human
-islets, look like human islets,",2958.07,3.334,2961.404,neutral
-"they taste like human islets,
-they work like human islets,",2961.404,2.416,2963.82,neutral
-and they stay that way forever.,2963.82,1.78,2965.6000000000004,neutral
-"But I don't think
-we're there yet.",2965.6,1.834,2967.4339999999997,
-"And perhaps we're
-never get there.",2967.434,1.416,2968.8500000000004,
-But hopefully we will.,2968.85,1.11,2969.96,
-"FEAUDIENCE: I
-understand that you",2969.96,1.135,2971.0950000000003,
-"know, when you were
-first doing trials,",2971.095,1.395,2972.49,
-"you were using the worst case
-scenario patients-- terribly",2972.49,2.53,2975.02,
-"brittle diabetics-- in
-whom you were hoping",2975.02,3.78,2978.8,
+islets, look like human islets, they taste like human islets,
+they work like human islets, and they stay that way forever. But I don't think
+we're there yet. And perhaps we're
+never get there.",2958.07,10.780000000000001,2968.8500000000004,NA
+"But hopefully we will. FEAUDIENCE: I
+understand that you know, when you were
+first doing trials, you were using the worst case
+scenario patients-- terribly brittle diabetics-- in
+whom you were hoping",2968.85,9.95,2978.7999999999997,NA
 "to provide some relief
-without causing long term",2978.8,3.34,2982.1400000000003,
-"complications from all of the
-immunosuppressants and robbing",2982.14,3.88,2986.02,
-Peter to pay Paul.,2986.02,1.35,2987.37,
-"So I'm wondering now
-in the current trials,",2987.37,2.207,2989.5769999999998,
-"if we're starting to
-broaden those inclusion",2989.577,1.833,2991.4100000000003,
-criteria a little bit?,2991.41,1.03,2992.44,
-Or where are we now with that?,2992.44,1.63,2994.07,
-"DR. JAMES SHAPIRO: We haven't
-really broadened the criteria.",2994.07,2.5,2996.57,
-So very fair question.,2996.57,1.735,2998.3050000000003,fear
-We haven't done that.,2998.305,0.875,2999.18,fear
+without causing long term complications from all of the
+immunosuppressants and robbing Peter to pay Paul. So I'm wondering now
+in the current trials, if we're starting to
+broaden those inclusion",2978.8,12.610000000000001,2991.4100000000003,NA
+"criteria a little bit? Or where are we now with that? DR. JAMES SHAPIRO: We haven't
+really broadened the criteria. So very fair question. We haven't done that.",2991.41,7.7700000000000005,2999.18,NA
 "We're still concentrated
-on the brittle patients.",2999.18,3.222,3002.402,fear
-"Occasionally, we'll see a
-patient come to us and say,",3002.402,2.208,3004.61,
-"""I'm just tired of
-having diabetes.",3004.61,2.2,3006.81,
-I'm tired of testing.,3006.81,1.911,3008.721,
-I've worked pretty hard at it.,3008.721,1.249,3009.97,
-I'm tired of it.,3009.97,1.08,3011.0499999999997,fear
-"But my control right
-now is pretty good.""",3011.05,1.97,3013.02,
-"That's a hard one for
-us, because we say, ""OK.",3013.02,2.01,3015.03,
-We understand where you're at.,3015.03,1.79,3016.82,
-"But we don't want to
-do any harm to you.""",3016.82,1.73,3018.55,neutral
+on the brittle patients. Occasionally, we'll see a
+patient come to us and say, ""I'm just tired of
+having diabetes. I'm tired of testing. I've worked pretty hard at it.",2999.18,10.790000000000001,3009.97,NA
+"I'm tired of it. But my control right
+now is pretty good."" That's a hard one for
+us, because we say, ""OK. We understand where you're at. But we don't want to
+do any harm to you.""",3009.97,8.58,3018.5499999999997,NA
 "It's so much easier to take
-somebody who you've worked on,",3018.55,3.19,3021.7400000000002,
-you've tried.,3021.74,1.09,3022.83,
-"If despite your best
-efforts as a diabetes",3022.83,2.53,3025.36,
-"and an endocrinologist
-to control them.",3025.36,2.097,3027.4570000000003,
-"If you fail, then there's
-nothing else left.",3027.457,1.833,3029.29,neutral
-And then it's easy for us.,3029.29,1.89,3031.18,neutral
-"So have we reached
-the point where",3031.18,1.5,3032.68,fear
-"we could transition and
-open it up to more patients?",3032.68,3.28,3035.96,neutral
-I think we probably have.,3035.96,1.342,3037.302,
-"I mean, I think at
-the beginning we",3037.302,1.458,3038.76,
+somebody who you've worked on, you've tried. If despite your best
+efforts as a diabetes and an endocrinologist
+to control them. If you fail, then there's
+nothing else left.",3018.55,10.74,3029.29,NA
+"And then it's easy for us. So have we reached
+the point where we could transition and
+open it up to more patients? I think we probably have. I mean, I think at
+the beginning we",3029.29,9.47,3038.7599999999998,NA
 "didn't know what
-the real risks were.",3038.76,1.89,3040.65,
-"We didn't know what the
-risk of plotting off",3040.65,1.93,3042.58,neutral
-"the vein and the liver,
-the portal vein thrombosis",3042.58,1.75,3044.33,
-would be.,3044.33,0.4,3044.73,fear
-"We didn't know the
-risk of bleeding.",3044.73,1.499,3046.229,fear
-The procedure risk.,3046.229,0.811,3047.04,
-"We knew there's be a risk of
-cancers and life-threatening",3047.04,3.23,3050.27,
-"infections, but we didn't really
-have a quantification of it.",3050.27,2.719,3052.989,
-"I think now, and
-I've shown you data,",3052.989,1.541,3054.53,neutral
-"I think we do have
-quantification of it.",3054.53,1.93,3056.46,neutral
+the real risks were. We didn't know what the
+risk of plotting off the vein and the liver,
+the portal vein thrombosis would be. We didn't know the
+risk of bleeding.",3038.76,7.469000000000001,3046.2290000000003,NA
+"The procedure risk. We knew there's be a risk of
+cancers and life-threatening infections, but we didn't really
+have a quantification of it. I think now, and
+I've shown you data, I think we do have
+quantification of it.",3046.229,10.231,3056.46,NA
 "So we could have a very fair
-discussion with the patient.",3056.46,4.42,3060.88,neutral
-"Say look, these
-are the real risks.",3060.88,2.16,3063.04,neutral
-"These are the potential
-benefits to you.",3063.04,2.31,3065.35,fear
-If you like it.,3065.35,1.52,3066.87,neutral
-Sure.,3066.87,0.87,3067.74,neutral
+discussion with the patient. Say look, these
+are the real risks. These are the potential
+benefits to you. If you like it. Sure.",3056.46,11.28,3067.7400000000002,neutral
 "And I think to
-get to that point,",3067.74,1.47,3069.2099999999996,
-"we probably need to do a
-randomized controlled trial.",3069.21,3.62,3072.83,
-"Best instant therapy against
-the islet transplant.",3072.83,3.262,3076.092,
-"And you come in with a
-ticket at the beginning,",3076.092,1.958,3078.05,
-"you either win an
-islet transplant,",3078.05,1.615,3079.665,
-or you win the pump.,3079.665,2.505,3082.17,neutral
-"And the problem with that--
-we want to do that trial.",3082.17,3.61,3085.78,neutral
-We'd all love to do that trial.,3085.78,1.69,3087.4700000000003,neutral
-"The problem is, who's
-going to fund it?",3087.47,1.96,3089.43,neutral
-Who's going to pay for it?,3089.43,1.27,3090.7,fear
+get to that point, we probably need to do a
+randomized controlled trial. Best instant therapy against
+the islet transplant. And you come in with a
+ticket at the beginning, you either win an
+islet transplant,",3067.74,11.925,3079.665,NA
+"or you win the pump. And the problem with that--
+we want to do that trial. We'd all love to do that trial. The problem is, who's
+going to fund it? Who's going to pay for it?",3079.665,11.035,3090.7,neutral
 "And we don't have anybody
-that's come forward to say,",3090.7,3.307,3094.0069999999996,neutral
-we really want to do that trial.,3094.007,1.333,3095.34,neutral
-We'll fund it for you.,3095.34,1.62,3096.96,
-Maybe Google would.,3096.96,1.61,3098.57,
-"FEAUDIENCE: What would the
-cost of a trial like that be?",3098.57,2.76,3101.3300000000004,
+that's come forward to say, we really want to do that trial. We'll fund it for you. Maybe Google would. FEAUDIENCE: What would the
+cost of a trial like that be?",3090.7,10.629999999999999,3101.33,NA
 "And not that any of our
-budgets can cover that, but",3101.33,4.59,3105.92,
-"and also if we were wanting to
-donate to diabetes research,",3105.92,4.19,3110.11,
-"are there any
-organizations that you",3110.11,1.85,3111.96,neutral
-"think are particularly--
-maybe excluding yours--",3111.96,2.88,3114.84,neutral
-"to be unbiased, although
-you can mention it,",3114.84,3.34,3118.1800000000003,neutral
+budgets can cover that, but and also if we were wanting to
+donate to diabetes research, are there any
+organizations that you think are particularly--
+maybe excluding yours-- to be unbiased, although
+you can mention it,",3101.33,16.85,3118.18,NA
 "that you think would
-be particularly useful?",3118.18,2.354,3120.5339999999997,
-DR. JAMES SHAPIRO: OK.,3120.534,0.916,3121.4500000000003,
-"Maybe I'll answer
-the second one first.",3121.45,2.33,3123.7799999999997,
-"So there are several
-organizations--",3123.78,2.45,3126.23,
-"international organizations
-that raise money for diabetes.",3126.23,3.23,3129.46,
+be particularly useful? DR. JAMES SHAPIRO: OK. Maybe I'll answer
+the second one first. So there are several
+organizations-- international organizations
+that raise money for diabetes.",3118.18,11.280000000000001,3129.46,NA
 "Juvenile Diabetes Research
-Foundation, The American",3129.46,3.63,3133.09,
-"Diabetes Foundation, Canadian
-Diabetes Foundations,",3133.09,5.62,3138.71,neutral
-and many others.,3138.71,1.92,3140.63,fear
-"So I don't think I can
-concentrate on one.",3140.63,2.16,3142.79,fear
-"It wouldn't be fair
-for me to do that.",3142.79,2.02,3144.81,happy
+Foundation, The American Diabetes Foundation, Canadian
+Diabetes Foundations, and many others. So I don't think I can
+concentrate on one. It wouldn't be fair
+for me to do that.",3129.46,15.35,3144.81,NA
 "What I will tell you is that
-in order to get to this point,",3144.81,4.1,3148.91,neutral
-"we've all done a
-lot of research.",3148.91,1.9,3150.81,neutral
-"And in order to get
-to the next point,",3150.81,2.03,3152.84,neutral
-"we've got an enormous
-amount of research to go.",3152.84,2.09,3154.9300000000003,neutral
-"And I'm not sure that any of
-these organizations, including",3154.93,2.595,3157.5249999999996,neutral
+in order to get to this point, we've all done a
+lot of research. And in order to get
+to the next point, we've got an enormous
+amount of research to go. And I'm not sure that any of
+these organizations, including",3144.81,12.715,3157.525,neutral
 "the NIH, including the Kidney
-Institute of Health research,",3157.525,5.045,3162.57,neutral
-"including several other global
-funding research organizations.",3162.57,3.98,3166.55,neutral
-We're challenged.,3166.55,0.79,3167.34,neutral
-"We don't have sufficient
-funds to accelerate this.",3167.34,2.85,3170.19,neutral
-And so we need funds.,3170.19,2.99,3173.18,
+Institute of Health research, including several other global
+funding research organizations. We're challenged. We don't have sufficient
+funds to accelerate this. And so we need funds.",3157.525,15.655000000000001,3173.1800000000003,NA
 "So if we wanted to
-do a trial, and let's",3173.18,2.22,3175.3999999999996,
-"say we powered it
-reasonably with five or 10",3175.4,4.08,3179.48,neutral
-"years of followup, and we
-looked at complications.",3179.48,2.32,3181.8,neutral
-"And we wanted ideally, probably
-50, 60 patients in each arm.",3181.8,5.16,3186.96,neutral
-"And the control
-group patients would",3186.96,1.75,3188.71,neutral
+do a trial, and let's say we powered it
+reasonably with five or 10 years of followup, and we
+looked at complications. And we wanted ideally, probably
+50, 60 patients in each arm. And the control
+group patients would",3173.18,15.530000000000001,3188.71,NA
 "be receiving standard
-diabetes care anyway,",3188.71,1.92,3190.63,fear
-"but they would
-need extra testing.",3190.63,1.86,3192.4900000000002,fear
-"And in the islet transplant
-group you can-- in Canada,",3192.49,2.675,3195.165,fear
-"it cost us $75,000
-per transplant.",3195.165,3.065,3198.23,fear
-"Two transplants, $150,000
-in the first year.",3198.23,3.35,3201.58,neutral
+diabetes care anyway, but they would
+need extra testing. And in the islet transplant
+group you can-- in Canada, it cost us $75,000
+per transplant. Two transplants, $150,000
+in the first year.",3188.71,12.87,3201.58,neutral
 "Probably some additional
-research costs for patients.",3201.58,2.26,3203.84,fear
-"So $200,000.",3203.84,1.73,3205.57,neutral
-I don't Know.,3205.57,0.69,3206.26,neutral
-"If you want me to
-guess, it's the order",3206.26,1.625,3207.885,neutral
-"of the maybe $10 million. $10
-million to $20 million perhaps.",3207.885,5.3,3213.1850000000004,neutral
-I'd have to work it out more.,3213.185,1.315,3214.5,neutral
-But it's not billions.,3214.5,1.64,3216.14,
-It's doable.,3216.14,2.811,3218.951,
-FRANK: OK.,3218.951,0.499,3219.45,
-"And with that, thank
-you all for coming.",3219.45,1.77,3221.22,
+research costs for patients. So $200,000. I don't Know. If you want me to
+guess, it's the order of the maybe $10 million. $10
+million to $20 million perhaps.",3201.58,11.605,3213.185,neutral
+"I'd have to work it out more. But it's not billions. It's doable. FRANK: OK. And with that, thank
+you all for coming.",3213.185,8.035,3221.22,NA
 "And thank you very
-much, Dr. Shapiro",3221.22,1.5,3222.72,
-"for taking the time
-to speak to us today.",3222.72,1.708,3224.428,
-[APPLAUSE],3224.428,3.312,3227.74,
+much, Dr. Shapiro for taking the time
+to speak to us today. [APPLAUSE]",3221.22,6.52,3227.74,NA

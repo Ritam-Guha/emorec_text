@@ -1,74 +1,16 @@
 text,start,duration,end,dominant_emotion
-I'm dr. Susan Love and I'm the chief,5.359,5.141,10.5,fear
-visionary officer the dr. Susan Love,8.49,4.559,13.049,neutral
-Research Foundation our mission is a,10.5,5.19,15.690000000000001,neutral
-future without breast cancer and we do,13.049,5.281,18.33,neutral
-that through innovative research into,15.69,4.38,20.07,neutral
-the cause and prevention of the disease,18.33,4.89,23.22,neutral
-in patient science is a series of videos,20.07,5.58,25.65,neutral
-that help explain to you breast cancer,23.22,4.2,27.419999999999998,neutral
-how it works and what your choices and,25.65,4.41,30.06,fear
-options are your healthcare team may not,27.42,4.56,31.98,fear
-be aware of a common type of long term,30.06,3.839,33.899,neutral
-collateral damage called peripheral,31.98,3.84,35.82,neutral
-neuropathy or pain and numbness in the,33.899,4.351,38.25,neutral
-hands and feet neuropathy is a type of,35.82,4.14,39.96,neutral
-nerve damage that can be caused by,38.25,4.079,42.329,neutral
-chemotherapy if you have symptoms of,39.96,4.32,44.28,fear
-neuropathy during treatment doctors will,42.329,3.57,45.899,fear
-typically lower the dose you are getting,44.28,4.08,48.36,fear
-that may help but for some patients the,45.899,4.381,50.28,fear
-pain and numbness can continue for years,48.36,4.23,52.59,neutral
-after the treatment ends we know very,50.28,4.65,54.93,neutral
-little about how long neuropathy can,52.59,4.53,57.120000000000005,neutral
-last and how many breast cancer patients,54.93,4.949,59.879,
-it affects researchers don't often study,57.12,4.56,61.68,
-it and doctors don't always ask their,59.879,4.17,64.04899999999999,
-patients about it if you do develop,61.68,4.56,66.24,
-neuropathy it can have a profound effect,64.049,4.621,68.67,
-on your quality of life so what can you,66.24,5.91,72.14999999999999,
-do the best option is prevention the,68.67,5.43,74.1,
-chemotherapy drugs most likely to cause,72.15,3.57,75.72,
-neuropathy are the taxanes,74.1,4.589,78.689,
-like taxall and taksa tear if these,75.72,5.219,80.939,
-drugs are being recommended ask your,78.689,4.081,82.77,
-doctor if there might be alternatives,80.939,3.961,84.89999999999999,
-you need to weigh the risks and benefits,82.77,5.58,88.35,
-of each drug if you are older overweight,84.9,5.67,90.57000000000001,
-had a mastectomy or had a high number of,88.35,4.08,92.42999999999999,
-positive lymph nodes your risk of,90.57,3.689,94.25899999999999,
-developing long-term neuropathy may be,92.43,4.41,96.84,
-higher in this case a conversation with,94.259,4.351,98.61,
-your doctor will be especially important,96.84,4.26,101.10000000000001,neutral
-a small study recently found that,98.61,4.649,103.259,neutral
-wearing cooled gloves and socks while,101.1,4.53,105.63,neutral
-receiving chemotherapy reduced the,103.259,4.081,107.34,neutral
-amount of drugs the hands and feet,105.63,3.75,109.38,neutral
-received and therefore the risk for,107.34,4.739,112.07900000000001,neutral
-neuropathy the most important thing is,109.38,4.62,114.0,neutral
-to talk to your doctor about it it's the,112.079,3.241,115.32,neutral
-best way to address the collateral,114.0,4.2,118.2,neutral
-damage that you are experiencing if you,115.32,5.31,120.63,neutral
-have neuropathy as for a referral to a,118.2,4.98,123.18,neutral
-palliative care specialist they are the,120.63,4.41,125.03999999999999,neutral
-experts in treating the short and long,123.18,3.899,127.07900000000001,fear
-term consequences of cancer and his,125.04,4.32,129.36,neutral
-treatment by talking about your,127.079,4.441,131.51999999999998,neutral
-experiences your doctors will be better,129.36,3.36,132.72000000000003,neutral
-prepared to help you deal with,131.52,2.34,133.86,neutral
-collateral damage,132.72,3.45,136.17,
-and improve your quality of life it will,133.86,4.11,137.97000000000003,
-also help them support other cancer,136.17,3.75,139.92,
-patients and that's something to feel,137.97,5.64,143.60999999999999,
-good about the dr. Susan Love Research,139.92,7.02,146.94,NA
-Foundation is dedicated to a future,143.61,5.4,149.01000000000002,NA
-without breast cancer and we do this,146.94,3.72,150.66,NA
-through innovative research into the,149.01,4.05,153.06,NA
-cause and prevention of the disease we,150.66,4.62,155.28,NA
-ask you to join us at dr. Susan Love,153.06,5.13,158.19,NA
-Research org you can participate in our,155.28,4.5,159.78,NA
-research you can support our research,158.19,4.71,162.9,NA
-because if we all work together we can,159.78,5.04,164.82,NA
-be the generation that ends breast,162.9,4.34,167.24,NA
-cancer,164.82,2.42,167.23999999999998,NA
-you,168.76,2.059,170.819,NA
+I'm dr. Susan Love and I'm the chief visionary officer the dr. Susan Love Research Foundation our mission is a future without breast cancer and we do that through innovative research into,5.359,24.551,29.909999999999997,sad
+the cause and prevention of the disease in patient science is a series of videos that help explain to you breast cancer how it works and what your choices and options are your healthcare team may not,18.33,23.639999999999997,41.97,sad
+be aware of a common type of long term collateral damage called peripheral neuropathy or pain and numbness in the hands and feet neuropathy is a type of nerve damage that can be caused by,30.06,20.249000000000002,50.309,sad
+chemotherapy if you have symptoms of neuropathy during treatment doctors will typically lower the dose you are getting that may help but for some patients the pain and numbness can continue for years,39.96,20.581,60.541,sad
+after the treatment ends we know very little about how long neuropathy can last and how many breast cancer patients it affects researchers don't often study it and doctors don't always ask their,50.28,22.859,73.13900000000001,sad
+patients about it if you do develop neuropathy it can have a profound effect on your quality of life so what can you do the best option is prevention the chemotherapy drugs most likely to cause,61.68,24.091,85.771,NA
+neuropathy are the taxanes like taxall and taksa tear if these drugs are being recommended ask your doctor if there might be alternatives you need to weigh the risks and benefits,74.1,23.43,97.53,NA
+of each drug if you are older overweight had a mastectomy or had a high number of positive lymph nodes your risk of developing long-term neuropathy may be higher in this case a conversation with,84.9,22.2,107.10000000000001,sad
+your doctor will be especially important a small study recently found that wearing cooled gloves and socks while receiving chemotherapy reduced the amount of drugs the hands and feet,96.84,21.27,118.11,sad
+received and therefore the risk for neuropathy the most important thing is to talk to your doctor about it it's the best way to address the collateral damage that you are experiencing if you,107.34,22.11,129.45,sad
+have neuropathy as for a referral to a palliative care specialist they are the experts in treating the short and long term consequences of cancer and his treatment by talking about your,118.2,22.05,140.25,sad
+experiences your doctors will be better prepared to help you deal with collateral damage and improve your quality of life it will also help them support other cancer,129.36,17.009999999999998,146.37,NA
+patients and that's something to feel good about the dr. Susan Love Research Foundation is dedicated to a future without breast cancer and we do this through innovative research into the,137.97,25.830000000000002,163.8,NA
+cause and prevention of the disease we ask you to join us at dr. Susan Love Research org you can participate in our research you can support our research because if we all work together we can,150.66,24.0,174.66,NA
+be the generation that ends breast cancer you,162.9,8.818999999999999,171.719,NA

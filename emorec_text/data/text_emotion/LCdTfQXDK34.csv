@@ -1,98 +1,38 @@
 text,start,duration,end,dominant_emotion
-- [Woman] Fact of the day.,0.049,0.982,1.031,
-- [Man] Fact of the day.,1.031,0.833,1.8639999999999999,
-"- Hello. Hi,",1.864,0.833,2.697,
-"and welcome to Fact of the
-Day with me, Mark Lotsu.",2.697,2.574,5.271,surprise
-Why is Tony Robbins so gigantic?,5.271,2.77,8.041,surprise
-Acromegaly.,8.041,1.071,9.112,surprise
-Acromegaly is a disorder.,9.112,1.537,10.649000000000001,neutral
-"It's a condition caused
-by excess growth hormone",10.649,2.421,13.069999999999999,neutral
-from the pituitary gland,13.07,1.428,14.498000000000001,surprise
-after your growth plates have closed.,14.498,2.038,16.535999999999998,surprise
-The most common feature is,16.536,1.292,17.828000000000003,surprise
-"enlargement of the hands, of the feet.",17.828,2.557,20.384999999999998,neutral
-"But, you can also get an
-enlarged forehead, enlarged jaw.",20.385,3.18,23.565,surprise
-"You can also get thicker
-skin and deeper voice",23.565,2.192,25.757,surprise
-because of it.,25.757,0.833,26.59,neutral
-"And, if anyone knows Tony Robbins,",26.59,1.115,27.705,neutral
-he's got a deep voice.,27.705,2.043,29.747999999999998,sad
-"Now, the not so nice
-symptoms include joint pains,",29.748,2.987,32.735,neutral
-"headaches and problems with your vision,",32.735,1.961,34.696,neutral
-"as well as things like type two diabetes,",34.696,2.013,36.708999999999996,neutral
-"and sleep apnea, and high blood pressure.",36.709,2.22,38.929,neutral
-In most cases the excess production,38.929,1.667,40.596000000000004,neutral
-"is caused by a benign tumour
-called a pituitary adenoma.",40.596,3.552,44.147999999999996,neutral
-What's the treatment?,44.148,0.833,44.981,neutral
-"To remove it by surgery
-or to have radiotherapy.",44.981,1.939,46.92,neutral
-Who does it affect?,46.92,0.859,47.779,neutral
-"It affects about six out
-of every 100,000 people.",47.779,3.68,51.459,neutral
-"And, there's no more of an
-occurrence in males or females.",51.459,2.888,54.347,neutral
-"But, it does most commonly occur",54.347,1.451,55.798,neutral
-when people get to middle age.,55.798,1.864,57.662,neutral
-"So, couple of big notables",57.662,1.922,59.583999999999996,neutral
-before we go into the big man.,59.584,1.2,60.784000000000006,neutral
-"One is The Big Show,",60.784,1.278,62.062,neutral
-both of these are WWE stars.,62.062,1.562,63.623999999999995,happy
-"One is The Big Show, Paul Wight,",63.624,1.973,65.59700000000001,neutral
+"- [Woman] Fact of the day. - [Man] Fact of the day. - Hello. Hi, and welcome to Fact of the
+Day with me, Mark Lotsu. Why is Tony Robbins so gigantic?",0.049,7.991999999999999,8.040999999999999,NA
+"Acromegaly. Acromegaly is a disorder. It's a condition caused
+by excess growth hormone from the pituitary gland after your growth plates have closed.",8.041,8.495,16.536,neutral
+"The most common feature is enlargement of the hands, of the feet. But, you can also get an
+enlarged forehead, enlarged jaw. You can also get thicker
+skin and deeper voice because of it.",16.536,10.054,26.590000000000003,neutral
+"And, if anyone knows Tony Robbins, he's got a deep voice. Now, the not so nice
+symptoms include joint pains, headaches and problems with your vision, as well as things like type two diabetes,",26.59,10.119,36.709,neutral
+"and sleep apnea, and high blood pressure. In most cases the excess production is caused by a benign tumour
+called a pituitary adenoma. What's the treatment? To remove it by surgery
+or to have radiotherapy.",36.709,10.211,46.92,neutral
+"Who does it affect? It affects about six out
+of every 100,000 people. And, there's no more of an
+occurrence in males or females. But, it does most commonly occur when people get to middle age.",46.92,10.742,57.662000000000006,neutral
+"So, couple of big notables before we go into the big man. One is The Big Show, both of these are WWE stars. One is The Big Show, Paul Wight,",57.662,7.9350000000000005,65.597,neutral
 "who had his pituitary
-gland removed in 1991.",65.597,3.938,69.535,neutral
-"And, next is Andre the Giant.",69.535,1.53,71.065,neutral
-"Everybody's heard of Andre the Giant,",71.065,2.02,73.085,neutral
-also known as Andre Rousimoff.,73.085,1.44,74.52499999999999,neutral
-"And, he was reportedly to be at a height",74.525,2.554,77.07900000000001,neutral
-of seven foot four inches tall.,77.079,3.221,80.3,happy
-He didn't have surgery,80.3,1.0,81.3,fear
-"and he died due to cardiac complications,",81.3,2.196,83.496,fear
-"because of his acromegaly,
-at the age of 46.",83.496,2.483,85.979,fear
-"Oh, and another one to
-note is Richard Kiel,",85.979,2.45,88.429,happy
+gland removed in 1991. And, next is Andre the Giant. Everybody's heard of Andre the Giant, also known as Andre Rousimoff. And, he was reportedly to be at a height",65.597,11.482,77.079,neutral
+"of seven foot four inches tall. He didn't have surgery and he died due to cardiac complications, because of his acromegaly,
+at the age of 46. Oh, and another one to
+note is Richard Kiel,",77.079,11.350000000000001,88.429,fear
 "whose the guy who played
-Jaws in the Bond films.",88.429,2.621,91.05,happy
-"And, he was seven foot one inch tall",91.05,2.83,93.88,happy
-"and he had really sharp
-teeth, like metal teeth.",93.88,2.259,96.139,neutral
-That's why he's called Jaws.,96.139,0.999,97.13799999999999,neutral
-"And, then of course the big man,",97.138,0.958,98.096,neutral
-"Anthony Robbins, Tony Robbins.",98.096,1.72,99.816,neutral
-"He's a huge motivational
-speaker, world renowned,",99.816,3.078,102.894,neutral
-"spoke in front of hundreds
-of thousands of people.",102.894,2.729,105.623,neutral
-"He was tiny and in his
-junior year of high school",105.623,1.893,107.516,surprise
-he grew 10 inches in a year.,107.516,2.711,110.227,happy
-That's a lot.,110.227,1.128,111.355,happy
-"When we he was 31 years old,",111.355,1.011,112.366,happy
-"the doctor identified
-the tumour in his brain.",112.366,2.27,114.636,happy
-"And, he was diagnosed
-then with acromegaly.",114.636,2.189,116.82499999999999,happy
-"He is six foot seven and
-has got size 16 feet.",116.825,3.581,120.406,happy
-"He hasn't had the tumour removed,",120.406,1.559,121.965,neutral
-because he said that he didn't want people,121.965,1.41,123.375,neutral
-"going inside his head and
-cutting out parts of his brain,",123.375,1.69,125.065,neutral
-"which is completely
-understandable as it goes.",125.065,2.493,127.55799999999999,neutral
-"And, he also said that he felt that",127.558,1.448,129.006,neutral
-there were no other side effects.,129.006,1.691,130.697,happy
-"If you don't know who Tony Robbins is,",130.697,1.22,131.917,neutral
-you should google him.,131.917,1.271,133.188,neutral
-"Go see him if you can, he is amazing.",133.188,1.91,135.09799999999998,neutral
-That's it for me.,135.098,0.833,135.931,surprise
-Thanks for watching.,135.931,0.833,136.764,surprise
-"Love you, bye. Love you, bye.",136.764,1.021,137.785,neutral
-Love you.,137.785,0.991,138.776,neutral
-Bye.,138.776,0.833,139.609,neutral
-(upbeat music),141.327,2.215,143.542,
+Jaws in the Bond films. And, he was seven foot one inch tall and he had really sharp
+teeth, like metal teeth. That's why he's called Jaws. And, then of course the big man,",88.429,9.667000000000002,98.096,neutral
+"Anthony Robbins, Tony Robbins. He's a huge motivational
+speaker, world renowned, spoke in front of hundreds
+of thousands of people. He was tiny and in his
+junior year of high school he grew 10 inches in a year.",98.096,12.131,110.227,neutral
+"That's a lot. When we he was 31 years old, the doctor identified
+the tumour in his brain. And, he was diagnosed
+then with acromegaly. He is six foot seven and
+has got size 16 feet.",110.227,10.179,120.406,happy
+"He hasn't had the tumour removed, because he said that he didn't want people going inside his head and
+cutting out parts of his brain, which is completely
+understandable as it goes. And, he also said that he felt that",120.406,8.6,129.006,neutral
+"there were no other side effects. If you don't know who Tony Robbins is, you should google him. Go see him if you can, he is amazing. That's it for me.",129.006,6.925000000000001,135.931,neutral
+"Thanks for watching. Love you, bye. Love you, bye. Love you. Bye. (upbeat music)",135.931,5.893,141.824,neutral

@@ -1,111 +1,48 @@
 text,start,duration,end,dominant_emotion
-♪ Fact of the day ♪,0.251,1.229,1.48,
-- Fact of the Day.,1.48,0.833,2.3129999999999997,
-"Hello, hi and welcome",2.313,0.833,3.146,surprise
-"to Fact of the Day with me, Mark Lotsu.",3.146,1.854,5.0,surprise
-"Diabetes and migraines,
-an unlikely combination.",5.0,3.44,8.44,surprise
-"In the 1970s, there was a suggested link",8.44,2.82,11.26,happy
-between diabetes and migraines.,11.26,1.88,13.14,neutral
-It was simple.,13.14,0.833,13.973,neutral
-"If you had diabetes, you were less likely",13.973,2.767,16.740000000000002,neutral
-to develop migraines.,16.74,1.42,18.159999999999997,surprise
+"♪ Fact of the day ♪ - Fact of the Day. Hello, hi and welcome to Fact of the Day with me, Mark Lotsu. Diabetes and migraines,
+an unlikely combination.",0.251,8.189,8.44,NA
+"In the 1970s, there was a suggested link between diabetes and migraines. It was simple. If you had diabetes, you were less likely to develop migraines.",8.44,9.719999999999999,18.159999999999997,happy
 "Diabetes is a lifelong
-condition that results",18.16,2.3,20.46,surprise
-"in your blood glucose
-levels becoming too high.",20.46,2.4,22.86,surprise
-Glucose is sugar.,22.86,1.31,24.169999999999998,neutral
-"And it affects approximately
-3.6 million people",24.17,2.68,26.85,neutral
-in the UK alone.,26.85,1.31,28.16,neutral
-There are two types:,28.16,0.89,29.05,neutral
-"Type one diabetes is where
-your body's own immune system",29.05,2.67,31.72,
-"attack and destroy the
-insulin producing cells.",31.72,3.25,34.97,
-"The insulin is a hormone
-that's used to reduce",34.97,2.32,37.29,
-your blood glucose levels.,37.29,1.72,39.01,
+condition that results in your blood glucose
+levels becoming too high. Glucose is sugar. And it affects approximately
+3.6 million people in the UK alone.",18.16,10.0,28.16,neutral
+"There are two types: Type one diabetes is where
+your body's own immune system attack and destroy the
+insulin producing cells. The insulin is a hormone
+that's used to reduce your blood glucose levels.",28.16,10.850000000000001,39.010000000000005,NA
 "Type two is where your
-body either doesn't produce",39.01,2.11,41.12,
-"enough insulin or your
-body cells don't respond",41.12,2.96,44.08,
-to the insulin that's produced.,44.08,1.55,45.629999999999995,
-"In both circumstances, it
-means your blood glucose levels",45.63,2.65,48.28,
-"are not reduced, and
-that is life threatening.",48.28,2.09,50.370000000000005,
-A migraine is a reoccurring headache,50.37,1.86,52.23,
-that feels like a severe throbbing pain,52.23,1.98,54.209999999999994,neutral
-on one side of your head.,54.21,1.11,55.32,neutral
-"Symptoms also include nausea, vomiting,",55.32,2.42,57.74,neutral
-"and an increase in
-sensitivity to light or sound.",57.74,2.5,60.24,neutral
+body either doesn't produce enough insulin or your
+body cells don't respond to the insulin that's produced. In both circumstances, it
+means your blood glucose levels are not reduced, and
+that is life threatening.",39.01,11.36,50.37,NA
+"A migraine is a reoccurring headache that feels like a severe throbbing pain on one side of your head. Symptoms also include nausea, vomiting, and an increase in
+sensitivity to light or sound.",50.37,9.870000000000001,60.239999999999995,NA
 "It affects approximately
-one out of five women",60.24,1.692,61.932,neutral
-and one out of 15 men.,61.932,1.838,63.77,neutral
-Now today's fact is based on work done,63.77,1.94,65.71000000000001,neutral
-by Ippazio Antonazzo and his colleagues,65.71,2.8,68.50999999999999,neutral
-at the University of Bergen in Norway.,68.51,2.19,70.7,neutral
+one out of five women and one out of 15 men. Now today's fact is based on work done by Ippazio Antonazzo and his colleagues at the University of Bergen in Norway.",60.24,10.459999999999999,70.7,neutral
 "So they looked at a drug
-prescription records",70.7,2.152,72.852,neutral
-"of all the adults under
-the age of 80 in Norway",72.852,3.878,76.73,neutral
-over a ten year period.,76.73,1.69,78.42,neutral
-"So, there were 4.2 million
-people in the study.",78.42,3.84,82.26,neutral
-"Of these, 8,000 had been
-treated for type one diabetes,",82.26,3.16,85.42,neutral
+prescription records of all the adults under
+the age of 80 in Norway over a ten year period. So, there were 4.2 million
+people in the study. Of these, 8,000 had been
+treated for type one diabetes,",70.7,14.72,85.42,neutral
 "and 93,000 people were being
-treated for type two diabetes.",85.42,3.96,89.38,neutral
-"Then they looked at
-what proportion of these",89.38,1.89,91.27,neutral
-then went on to get migraine medication,91.27,2.394,93.664,neutral
-compared to non-diabetics.,93.664,2.456,96.12,neutral
-Their finding?,96.12,0.833,96.953,neutral
+treated for type two diabetes. Then they looked at
+what proportion of these then went on to get migraine medication compared to non-diabetics. Their finding?",85.42,11.533,96.953,neutral
 "People with diabetes are less
-likely to develop migraine.",96.953,3.477,100.43,neutral
-What they don't know yet is it the disease,100.43,1.95,102.38000000000001,neutral
-or the medication that was reducing,102.38,1.72,104.1,neutral
-the occurrence of migraines.,104.1,1.26,105.36,neutral
-"So, one of the side effects of diabetes",105.36,1.78,107.14,neutral
+likely to develop migraine. What they don't know yet is it the disease or the medication that was reducing the occurrence of migraines. So, one of the side effects of diabetes",96.953,10.187,107.14,neutral
 "is nerve ending damage,
-which causes a reduction",107.14,2.296,109.436,neutral
-in sensation in your hands and feet.,109.436,2.434,111.87,neutral
-"And it's thought this may
-also affect your head,",111.87,2.248,114.11800000000001,neutral
-therefore reducing your ability,114.118,2.372,116.49,neutral
-to actually sense the migraines.,116.49,1.91,118.39999999999999,neutral
-Or the link could be genetic.,118.4,1.73,120.13000000000001,neutral
-"In some people with migraines,
-they have a mutation",120.13,2.35,122.47999999999999,neutral
-"in the gene that causes
-the production of a protein",122.48,2.83,125.31,neutral
-that is sensitive to the hormone insulin.,125.31,2.62,127.93,neutral
-"So people who have this
-mutation could be developing",127.93,2.5,130.43,neutral
+which causes a reduction in sensation in your hands and feet. And it's thought this may
+also affect your head, therefore reducing your ability to actually sense the migraines.",107.14,11.260000000000002,118.4,neutral
+"Or the link could be genetic. In some people with migraines,
+they have a mutation in the gene that causes
+the production of a protein that is sensitive to the hormone insulin. So people who have this
+mutation could be developing",118.4,12.030000000000001,130.43,neutral
 "migraines as a result of
-abnormal insulin levels.",130.43,3.61,134.04000000000002,neutral
-"So, diabetics who are
-treating their diabetes",134.04,2.346,136.386,neutral
-"by normalising their insulin
-levels would also reduce",136.386,3.613,139.999,neutral
-the occurrence of migraines.,139.999,1.911,141.91,neutral
-So what is the end result?,141.91,1.09,143.0,neutral
-The end result is more testing is needed.,143.0,1.86,144.86,neutral
-Should we change the diabetes medication?,144.86,1.8,146.66000000000003,neutral
-"Can a variant of it which doesn't
-affect your insulin levels",146.66,3.32,149.98,neutral
-be given to people with migraines?,149.98,1.53,151.51,neutral
-"One that doesn't affect
-your blood glucose levels",151.51,2.04,153.54999999999998,neutral
-but reduces the occurrence of migraines.,153.55,1.94,155.49,neutral
-"If you have diabetes and migraines,",155.49,1.52,157.01000000000002,neutral
-please leave a comment below.,157.01,1.21,158.22,neutral
-"That is, diabetes and migraines
-are an unlikely combination.",158.22,3.11,161.33,neutral
-Thanks for watching.,161.33,0.835,162.16500000000002,neutral
-"Love you, bye.",162.165,0.886,163.051,surprise
-"Love you, bye.",163.051,0.833,163.884,surprise
-"Love you, bye.",163.884,1.376,165.26,neutral
-(upbeat music),165.26,2.667,167.927,neutral
+abnormal insulin levels. So, diabetics who are
+treating their diabetes by normalising their insulin
+levels would also reduce the occurrence of migraines. So what is the end result?",130.43,12.569999999999999,143.0,neutral
+"The end result is more testing is needed. Should we change the diabetes medication? Can a variant of it which doesn't
+affect your insulin levels be given to people with migraines? One that doesn't affect
+your blood glucose levels",143.0,10.55,153.55,neutral
+"but reduces the occurrence of migraines. If you have diabetes and migraines, please leave a comment below. That is, diabetes and migraines
+are an unlikely combination. Thanks for watching.",153.55,8.614999999999998,162.16500000000002,neutral
+"Love you, bye. Love you, bye. Love you, bye. (upbeat music)",162.165,5.762,167.927,neutral

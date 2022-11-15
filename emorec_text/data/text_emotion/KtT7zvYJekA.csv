@@ -1,32 +1,18 @@
 text,start,duration,end,dominant_emotion
 "Could your diabetes medicine be causing your
-arthritis?",2.09,3.12,5.21,
-"Next
-DPP-4 Inhibitors for Diabetes Can Cause Severe",5.21,10.58,15.79,
-"Joint Pain, FDA Says
-Robert Lowes writing for Medscape reported",15.79,7.26,23.049999999999997,
-"dipeptidyl peptidase-4 (DPP-4) inhibitors
-for type 2 diabetes may cause joint pain so",23.05,7.28,30.330000000000002,angry
-"intense it is disabling, the US Food and Drug
-Administration (FDA) warned today.",30.33,6.87,37.199999999999996,neutral
+arthritis? Next
+DPP-4 Inhibitors for Diabetes Can Cause Severe Joint Pain, FDA Says
+Robert Lowes writing for Medscape reported dipeptidyl peptidase-4 (DPP-4) inhibitors
+for type 2 diabetes may cause joint pain so intense it is disabling, the US Food and Drug
+Administration (FDA) warned today.",2.09,35.11,37.2,angry
 "Fortunately, the pain goes away, usually in
-less than a month, once patients stop taking",37.2,6.98,44.18000000000001,
-the medicine.,44.18,1.97,46.15,
-"The agency said it identified 33 cases of
-severe joint pains associated with DPP-4 inhibitors",46.15,8.499,54.649,
-"from October 16, 2006, through December 31,
-2013, in its FDA Adverse Event Reporting System",54.649,8.021,62.67,
-database.,62.67,1.33,64.0,
+less than a month, once patients stop taking the medicine. The agency said it identified 33 cases of
+severe joint pains associated with DPP-4 inhibitors from October 16, 2006, through December 31,
+2013, in its FDA Adverse Event Reporting System database.",37.2,26.800000000000004,64.0,angry
 "Twenty-eight of the cases involved sitagliptin
-(Januvia, Merck & Co, Inc).",64.0,5.789,69.789,
-"Sitagliptin accounts for more than 80% of
-all DPP-4 prescriptions in the country, according",69.789,7.381,77.17,
-to a spokesperson for Merck.,77.17,5.1,82.27,
-"Saxagliptin (Onglyza, AstraZeneca), linagliptin
-(Tradjenta, Boehringer Ingelheim Pharmaceuticals),",82.27,10.949,93.219,
-"alogliptin (Nesina, Takeda Pharmaceutical
-Company), and vildagliptin, which is not marketed",93.219,7.64,100.859,NA
+(Januvia, Merck & Co, Inc). Sitagliptin accounts for more than 80% of
+all DPP-4 prescriptions in the country, according to a spokesperson for Merck. Saxagliptin (Onglyza, AstraZeneca), linagliptin
+(Tradjenta, Boehringer Ingelheim Pharmaceuticals), alogliptin (Nesina, Takeda Pharmaceutical
+Company), and vildagliptin, which is not marketed",64.0,36.859,100.85900000000001,NA
 "in the United States, accounted for the rest
-of the 33 cases.",100.859,5.841,106.69999999999999,NA
-Comment: Wow…,106.7,2.289,108.989,NA
-I didn’t know that.,108.989,4.58,113.569,NA
+of the 33 cases. Comment: Wow… I didn’t know that.",100.859,12.71,113.56899999999999,NA

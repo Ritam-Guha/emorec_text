@@ -1,38 +1,9 @@
 text,start,duration,end,dominant_emotion
-welcome to Medscape morning report,2.84,4.059,6.899,fear
-patients taking metformin should have,4.89,3.749,8.639,fear
-their vitamin b12 levels assessed,6.899,3.361,10.26,surprise
-regularly to avoid peripheral nerve,8.639,3.63,12.268999999999998,fear
-damage that's the conclusion from a,10.26,3.959,14.219,fear
-single Center observational study of,12.269,4.201,16.47,neutral
-more than 150 women conducted in the UK,14.219,5.431,19.65,fear
-on average women were 63 years old we're,16.47,4.889,21.358999999999998,fear
-"taking 2,000 milligrams per day of",19.65,3.719,23.369,neutral
-metformin and had been on the drug for,21.359,3.811,25.17,neutral
-about six years the majority of the,23.369,4.32,27.689,fear
-women had not had vitamin b12 levels,25.17,5.16,30.330000000000002,fear
-measured however upon testing almost one,27.689,4.471,32.16,neutral
-in ten were found to have a deficiency,30.33,4.53,34.86,neutral
-but metformin is recommended for the,32.16,4.079,36.239,neutral
-first-line treatment of type 2 diabetes,34.86,3.81,38.67,neutral
-it is associated with vitamin b12,36.239,4.711,40.949999999999996,neutral
-deficiency which itself increases the,38.67,4.5,43.17,neutral
-risk of peripheral neuropathy current,40.95,4.08,45.03,neutral
-guidelines do not recommend routinely,43.17,4.11,47.28,neutral
-checking b12 levels though the British,45.03,4.11,49.14,neutral
-Society of Hematology recommends,47.28,3.24,50.52,neutral
-checking if there is a strong clinical,49.14,3.93,53.07,neutral
-suspicion many patients with diabetes,50.52,4.71,55.230000000000004,neutral
-have peripheral neuropathy and treatment,53.07,4.649,57.719,neutral
-as vitamin b12 in cases of deficiency,55.23,4.2,59.43,fear
-can give clinicians something proactive,57.719,4.561,62.28,neutral
-with which to treat it prior research,59.43,5.009,64.439,neutral
-has concluded that routine testing would,62.28,3.96,66.24,neutral
-not be cost effective or clinically,64.439,4.831,69.27,neutral
-useful for people using metformin but,66.24,4.919,71.15899999999999,neutral
-the authors of this study argue that is,69.27,4.05,73.32,neutral
-time for that to change while this one,71.159,4.381,75.54,surprise
-study may not warrant a guideline change,73.32,3.99,77.30999999999999,fear
-it is certainly something for those of,75.54,5.66,81.2,neutral
-us in clinical practice to bear in mind,77.31,3.89,81.2,neutral
-you,89.8,2.06,91.86,
+welcome to Medscape morning report patients taking metformin should have their vitamin b12 levels assessed regularly to avoid peripheral nerve damage that's the conclusion from a,2.84,18.758,21.598,sad
+"single Center observational study of more than 150 women conducted in the UK on average women were 63 years old we're taking 2,000 milligrams per day of metformin and had been on the drug for",12.269,22.051000000000002,34.32,sad
+about six years the majority of the women had not had vitamin b12 levels measured however upon testing almost one in ten were found to have a deficiency but metformin is recommended for the,23.369,22.560000000000002,45.929,sad
+first-line treatment of type 2 diabetes it is associated with vitamin b12 deficiency which itself increases the risk of peripheral neuropathy current guidelines do not recommend routinely,34.86,21.211,56.071,sad
+checking b12 levels though the British Society of Hematology recommends checking if there is a strong clinical suspicion many patients with diabetes have peripheral neuropathy and treatment,45.03,20.639000000000003,65.66900000000001,sad
+as vitamin b12 in cases of deficiency can give clinicians something proactive with which to treat it prior research has concluded that routine testing would not be cost effective or clinically,55.23,22.561,77.791,sad
+useful for people using metformin but the authors of this study argue that is time for that to change while this one study may not warrant a guideline change it is certainly something for those of,66.24,23.0,89.24,sad
+us in clinical practice to bear in mind you,77.31,5.95,83.26,sad

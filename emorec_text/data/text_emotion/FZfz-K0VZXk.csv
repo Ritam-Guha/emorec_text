@@ -1,62 +1,14 @@
 text,start,duration,end,dominant_emotion
-did you know one in three american,0.399,3.601,4.0,neutral
-adults has pre-diabetes,2.159,3.68,5.839,neutral
-what does that really mean so,4.0,3.759,7.759,neutral
-pre-diabetes is when your blood sugar,5.839,3.84,9.679,sad
-levels are running higher than normal,7.759,4.0,11.759,sad
-but they haven't quite reached the type,9.679,4.0,13.679,neutral
-2 diabetes numbers,11.759,3.521,15.280000000000001,neutral
-that means that your cells aren't,13.679,3.44,17.119,neutral
-effectively using insulin,15.28,4.64,19.919999999999998,neutral
-and blood sugar like they should insulin,17.119,4.881,22.0,neutral
-is a hormone produced from the pancreas,19.92,4.56,24.48,neutral
-after a meal your pancreas reduces,22.0,3.119,25.119,fear
-insulin,24.48,3.2,27.68,fear
-to get that sugar into your cells when,25.119,4.721,29.84,fear
-you have pre-diabetes or insulin,27.68,3.359,31.039,fear
-resistance,29.84,3.52,33.36,neutral
-that insulin is unable to get into your,31.039,5.04,36.079,neutral
-cells to open it up to all that sugar,33.36,5.12,38.48,neutral
-so all of that extra sugar runs into,36.079,3.121,39.2,neutral
-your blood,38.48,6.399,44.879,neutral
-leading to elevated glucose levels,39.2,7.76,46.96,neutral
-you may be at risk for pre-diabetes if,44.879,4.0,48.879,neutral
-you're over the age of 45,46.96,4.96,51.92,neutral
-have a family history of type 2 diabetes,48.879,4.721,53.599999999999994,neutral
-if you were a pregnant woman and had,51.92,3.36,55.28,neutral
-gestational diabetes,53.6,4.56,58.160000000000004,neutral
-had elevated blood pressure levels have,55.28,3.599,58.879000000000005,sad
-elevated,58.16,2.719,60.879,sad
-cholesterol levels or physically,58.879,4.0,62.879,sad
-inactive all of these things put you at,60.879,3.521,64.39999999999999,sad
-a greater risk for developing,62.879,2.881,65.75999999999999,sad
-pre-diabetes,64.4,5.68,70.08000000000001,neutral
-and then potentially type 2 diabetes,65.76,4.32,70.08000000000001,neutral
-there are several things you can do to,71.439,3.04,74.479,sad
-reduce your risk of developing,73.04,2.88,75.92,neutral
-pre-diabetes,74.479,3.28,77.759,neutral
-start eating more fruits and vegetables,75.92,3.68,79.60000000000001,neutral
-they contain a lot of fiber which are,77.759,3.441,81.2,sad
-very great for your heart,79.6,3.92,83.52,sad
-and help to keep you fuller for longer,81.2,4.16,85.36,sad
-start to minimize your portions,83.52,4.16,87.67999999999999,sad
-try using measuring spoons and measuring,85.36,3.92,89.28,neutral
-cups when you're eating,87.68,3.28,90.96000000000001,neutral
-another thing you can do is start to,89.28,4.32,93.6,neutral
-move your body more aim for 150 minutes,90.96,4.4,95.36,neutral
-a week of physical activity,93.6,4.4,98.0,neutral
-that can be walking biking yoga or even,95.36,4.16,99.52,neutral
-strength training,98.0,3.759,101.759,sad
-if you're currently a smoker pursue,99.52,3.36,102.88,sad
-options to stop,101.759,3.761,105.52,neutral
-talk to your provider or join a group,102.88,4.48,107.36,neutral
-another thing you can do is be mindful,105.52,3.2,108.72,neutral
-of your beverage intake,107.36,4.0,111.36,neutral
-choose water more and try to eliminate,108.72,4.24,112.96,neutral
-sugar sweetened beverages they have a,111.36,2.64,114.0,neutral
-lot of calories,112.96,4.0,116.96,neutral
-and have a great impact on blood sugar,114.0,4.64,118.64,neutral
-if you believe you may be at risk for,116.96,3.92,120.88,neutral
-pre-diabetes or type 2 diabetes,118.64,4.0,122.64,neutral
-reach out to your provider today to,120.88,8.8,129.68,neutral
+did you know one in three american adults has pre-diabetes what does that really mean so pre-diabetes is when your blood sugar levels are running higher than normal,0.399,18.880000000000003,19.279000000000003,neutral
+but they haven't quite reached the type 2 diabetes numbers that means that your cells aren't effectively using insulin and blood sugar like they should insulin,9.679,20.482,30.161,neutral
+is a hormone produced from the pancreas after a meal your pancreas reduces insulin to get that sugar into your cells when you have pre-diabetes or insulin,19.92,18.959000000000003,38.879000000000005,neutral
+resistance that insulin is unable to get into your cells to open it up to all that sugar so all of that extra sugar runs into your blood,29.84,23.2,53.04,neutral
+leading to elevated glucose levels you may be at risk for pre-diabetes if you're over the age of 45 have a family history of type 2 diabetes if you were a pregnant woman and had,39.2,24.801,64.001,neutral
+gestational diabetes had elevated blood pressure levels have elevated cholesterol levels or physically inactive all of these things put you at,53.6,18.398999999999997,71.999,neutral
+a greater risk for developing pre-diabetes and then potentially type 2 diabetes there are several things you can do to reduce your risk of developing,62.879,18.801,81.67999999999999,neutral
+pre-diabetes start eating more fruits and vegetables they contain a lot of fiber which are very great for your heart and help to keep you fuller for longer,74.479,18.481,92.96000000000001,neutral
+start to minimize your portions try using measuring spoons and measuring cups when you're eating another thing you can do is start to move your body more aim for 150 minutes,83.52,20.08,103.6,neutral
+a week of physical activity that can be walking biking yoga or even strength training if you're currently a smoker pursue options to stop,93.6,19.44,113.03999999999999,neutral
+talk to your provider or join a group another thing you can do is be mindful of your beverage intake choose water more and try to eliminate sugar sweetened beverages they have a,102.88,18.56,121.44,neutral
+lot of calories and have a great impact on blood sugar if you believe you may be at risk for pre-diabetes or type 2 diabetes reach out to your provider today to,112.96,25.360000000000003,138.32,neutral
 schedule an appointment,122.64,7.04,129.68,neutral

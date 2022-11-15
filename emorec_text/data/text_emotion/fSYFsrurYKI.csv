@@ -1,193 +1,111 @@
 text,start,duration,end,dominant_emotion
 "Development of Type 1 Diabetes Mellitus by
-Doctor Michael Agus.",23.47,4.37,27.84,
-"Hi, and welcome. I'll be speaking today about
-diabetic ketoacidosis, or DKA. My name is",27.84,8.21,36.05,
-"Michael Agus. I am a pediatric intensive care
-doctor, and a pediatric endocrinologist at",36.05,6.06,42.11,
-"Boston Children's Hospital. I'm the Director
-of the Medicine Critical Care Program here",42.11,5.1,47.21,fear
-"at Children's, and an Assistant Professor
-at Harvard Medical School.",47.21,4.48,51.69,
+Doctor Michael Agus. Hi, and welcome. I'll be speaking today about
+diabetic ketoacidosis, or DKA. My name is Michael Agus. I am a pediatric intensive care
+doctor, and a pediatric endocrinologist at Boston Children's Hospital. I'm the Director
+of the Medicine Critical Care Program here at Children's, and an Assistant Professor
+at Harvard Medical School.",23.47,28.220000000000002,51.69,angry
 "I'll start by explaining how one gets diabetes
-to begin with, because it's a surprise to",51.69,8.31,60.0,
-"many that diabetes really occurs, develops
-over a period of many, many months. When endocrinologists",60.0,7.39,67.39,
-"in Boston set up the Diabetes Prevention Trial,
-or DPT1, several years ago, although we weren't",67.39,7.74,75.13,
-"able to stop the onset of diabetes, we were
-able to track people getting diabetes. And",75.13,5.66,80.78999999999999,
-"the way we chose the most likely people to
-get diabetes were to look at first degree",80.79,6.67,87.46000000000001,
-relatives of patients with diabetes.,87.46,3.83,91.28999999999999,
-"We know that patients who are about to get
-diabetes have a genetic predisposition, and",91.29,4.07,95.36000000000001,
-"then they have some environmental component
-that occurs at some point in their life. We",95.36,6.369,101.729,
-"don't understand what that environmental component
-is, but we understand that if you have that",101.729,5.491,107.22,
-"genetic predisposition, you are at risk to
-be affected by the environmental exposure.",107.22,8.31,115.53,
+to begin with, because it's a surprise to many that diabetes really occurs, develops
+over a period of many, many months. When endocrinologists in Boston set up the Diabetes Prevention Trial,
+or DPT1, several years ago, although we weren't able to stop the onset of diabetes, we were
+able to track people getting diabetes. And the way we chose the most likely people to
+get diabetes were to look at first degree",51.69,35.769999999999996,87.46,sad
+"relatives of patients with diabetes. We know that patients who are about to get
+diabetes have a genetic predisposition, and then they have some environmental component
+that occurs at some point in their life. We don't understand what that environmental component
+is, but we understand that if you have that genetic predisposition, you are at risk to
+be affected by the environmental exposure.",87.46,28.07,115.53,NA
 "When trying to identify patients at increased
-risk, those first degree relatives-- so siblings,",115.53,6.33,121.86,
-"parents, children-- instead of having the
-usual background rate in the North American",121.86,5.7,127.56,
-"population, for example, of 0.5%, roughly,
-of Type 1 diabetes, people who have a first",127.56,8.61,136.17000000000002,
-"degree relative with diabetes are at a tenfold
-increased risk, and now have a 5% incidence",136.17,6.94,143.10999999999999,
-"of Type 1 diabetes. So you went from 1 in
-200 to 1 in 20. By following these people",143.11,9.23,152.34,
+risk, those first degree relatives-- so siblings, parents, children-- instead of having the
+usual background rate in the North American population, for example, of 0.5%, roughly,
+of Type 1 diabetes, people who have a first degree relative with diabetes are at a tenfold
+increased risk, and now have a 5% incidence of Type 1 diabetes. So you went from 1 in
+200 to 1 in 20. By following these people",115.53,36.81,152.34,NA
 "who are at increased risk of getting diabetes,
-we can understand that they begin to lose",152.34,5.67,158.01,
-"beta cell function, months and months and
-months prior to the onset of clinical symptoms",158.01,6.75,164.76,
-of diabetes.,164.76,1.13,165.89,
-"So if we were going to take an example of
-a child who is developing diabetes, we could",165.89,6.15,172.04,fear
-"look at this particular graph. And you see
-that even though she didn't know she was on",172.04,4.79,176.82999999999998,
+we can understand that they begin to lose beta cell function, months and months and
+months prior to the onset of clinical symptoms of diabetes. So if we were going to take an example of
+a child who is developing diabetes, we could look at this particular graph. And you see
+that even though she didn't know she was on",152.34,24.490000000000002,176.83,NA
 "her way to get diabetes, she's been losing
-beta cell function, beta cell mass, from autoimmune",176.83,5.739,182.56900000000002,
-"destruction over a period of many months.
-When she's at the point that you see here,",182.569,6.151,188.72,
-"there's no symptoms whatsoever. She has enough
-insulin to cover the meals, cover her basal",188.72,6.64,195.35999999999999,
-production.,195.36,2.03,197.39000000000001,
-"When she moves to the next step, she has intermittent
-hyperglycemia. That refers to the fact that",197.39,6.04,203.42999999999998,
+beta cell function, beta cell mass, from autoimmune destruction over a period of many months.
+When she's at the point that you see here, there's no symptoms whatsoever. She has enough
+insulin to cover the meals, cover her basal production. When she moves to the next step, she has intermittent
+hyperglycemia. That refers to the fact that",176.83,26.6,203.43,NA
 "when she has a large carbohydrate load, an
-ice cream sundae, for example, blood sugar",203.43,6.65,210.08,
-"may go up into the 200s, 300s. She may get
-a little flush. She may have increased urine",210.08,4.45,214.53,
-"output, because her glucose has exceeded the
-renal threshold of 180 milligrams per deciliter.",214.53,4.97,219.5,
-"But she'll have an extra cup of water, may
-be be a little bit thirsty, and come right",219.5,5.51,225.01,
-back down into the mid to low 100s after that.,225.01,5.71,230.72,
+ice cream sundae, for example, blood sugar may go up into the 200s, 300s. She may get
+a little flush. She may have increased urine output, because her glucose has exceeded the
+renal threshold of 180 milligrams per deciliter. But she'll have an extra cup of water, may
+be be a little bit thirsty, and come right back down into the mid to low 100s after that.",203.43,27.29,230.72,NA
 "Almost nobody gets diagnosed in that particular
-period, with the rare exception of a child",230.72,7.96,238.68,
-"of a mother with diabetes. That's not a medical
-rule, but it's a sociological reality that",238.68,7.35,246.03,
-"a family member who has diabetes, in particular
-a mother, will be much more vigilant at checking",246.03,6.819,252.849,
-"the child from the time they're born, doing
-a finger stick here and there when they have",252.849,4.79,257.639,
-"a tantrum, when something doesn't look quite
-right. And so those patients are likely to",257.639,5.43,263.069,
-get diagnosed a little bit earlier.,263.069,2.461,265.53000000000003,
-"Most patients will continue to lose beta cell
-function, and move into this yellow zone of",265.53,5.68,271.21,
-"frequent hyperglycemia. And with hyperglycemia
-again over the renal threshold of 180, you",271.21,6.63,277.84,
-"get polyuria, and when you lose that water,
-you'll get thirsty. And so you get polydipsia.",277.84,7.04,284.88,
-"And diagnosis at this point may have more
-to do with the family's sleep set up than",284.88,5.7,290.58,
-anything else.,290.58,1.119,291.699,happy
-"If, for example, a child is going to share
-the bathroom with the adults, then they're",291.699,4.801,296.5,
-"going to notice in the middle of the night
-that they're getting up four times at night.",296.5,3.389,299.889,
-"They live in a massive house, or the child
-uses a different bathroom, it may be a longer",299.889,8.321,308.21000000000004,
-"period until the parents notice that the child's
-getting up at night. Same thing at school,",308.21,3.92,312.13,
+period, with the rare exception of a child of a mother with diabetes. That's not a medical
+rule, but it's a sociological reality that a family member who has diabetes, in particular
+a mother, will be much more vigilant at checking the child from the time they're born, doing
+a finger stick here and there when they have a tantrum, when something doesn't look quite
+right. And so those patients are likely to",230.72,32.349,263.069,NA
+"get diagnosed a little bit earlier. Most patients will continue to lose beta cell
+function, and move into this yellow zone of frequent hyperglycemia. And with hyperglycemia
+again over the renal threshold of 180, you get polyuria, and when you lose that water,
+you'll get thirsty. And so you get polydipsia. And diagnosis at this point may have more
+to do with the family's sleep set up than",263.069,27.511,290.58000000000004,NA
+"anything else. If, for example, a child is going to share
+the bathroom with the adults, then they're going to notice in the middle of the night
+that they're getting up four times at night. They live in a massive house, or the child
+uses a different bathroom, it may be a longer period until the parents notice that the child's
+getting up at night. Same thing at school,",290.58,21.549999999999997,312.13,NA
 "depending on how vigilant or how much the
-teacher notices.",312.13,5.349,317.479,
-"But despite the difference in what the adults
-see, what happens to the child is pretty identical.",317.479,5.731,323.21,surprise
-"And over a period of at very least a couple
-of weeks, the child will become more and more",323.21,4.22,327.43,
-"symptomatic. In retrospect, one can often
-find symptoms well beyond just the two weeks",327.43,9.43,336.86,
-"of polydipsia and polyuria-- see a little
-bit of weight loss, maybe some growth stunting,",336.86,7.11,343.97,
+teacher notices. But despite the difference in what the adults
+see, what happens to the child is pretty identical. And over a period of at very least a couple
+of weeks, the child will become more and more symptomatic. In retrospect, one can often
+find symptoms well beyond just the two weeks of polydipsia and polyuria-- see a little
+bit of weight loss, maybe some growth stunting,",312.13,31.84,343.96999999999997,NA
 "maybe some increased hunger, because of that
-weight loss they're not able to sustain a",343.97,4.56,348.53000000000003,
-normal weight.,348.53,2.69,351.21999999999997,
-"If this period goes unnoticed, the patient
-can progress to diabetic ketoacidosis. And",351.22,8.009,359.22900000000004,
-"we'll talk about that in a minute. The interesting
-thing, however, is that not all patients really",359.229,5.151,364.38,
-"have a clear history of two or three weeks
-of polydipsia and polyuria until they present",364.38,4.24,368.62,
+weight loss they're not able to sustain a normal weight. If this period goes unnoticed, the patient
+can progress to diabetic ketoacidosis. And we'll talk about that in a minute. The interesting
+thing, however, is that not all patients really have a clear history of two or three weeks
+of polydipsia and polyuria until they present",343.97,24.65,368.62,NA
 "with ketoacidosis. Rather, they're basically
-fine on Monday, and then on Tuesday they're",368.62,7.76,376.38,
-"in extremis, quite ill.",376.38,2.289,378.669,
-"And so if we go back and look at a patient
-who, say is in the green zone on a Monday,",378.669,7.261,385.93,
-"what changes between Monday and Tuesday? Is
-it that they lose beta cell mass, a massive",385.93,6.54,392.47,
-"amount of beta cell function over a day? That
-can't be true, because we know that it takes",392.47,6.09,398.56,
+fine on Monday, and then on Tuesday they're in extremis, quite ill. And so if we go back and look at a patient
+who, say is in the green zone on a Monday, what changes between Monday and Tuesday? Is
+it that they lose beta cell mass, a massive amount of beta cell function over a day? That
+can't be true, because we know that it takes",368.62,29.939999999999998,398.56,NA
 "months and months and months, up to 10 to
-12 months, to develop clinical diabetes.",398.56,5.32,403.88,
-"So much more likely what happens is that they
-encounter a stress. And if you look at the",403.88,6.28,410.15999999999997,
-"patient in the green zone, when they go from
-Monday to Tuesday, what changes is not their",410.16,5.14,415.3,
-"beta cell mass. What changes is their insulin
-requirement. And what was enough insulin on",415.3,6.51,421.81,
-"Monday to keep them under control is suddenly
-on Tuesday not nearly enough, and it throws",421.81,4.56,426.37,
-them right into ketoacidosis.,426.37,2.78,429.15,
-"And so what could have happened between Monday
-and Tuesday, to create that kind of differential",429.15,5.109,434.25899999999996,fear
-"in insulin requirement? Well, stress is a
-very straightforward answer, and basically",434.259,7.06,441.319,
-"in childhood it can be virtually any kind
-of stress. It can be a viral illness, can",441.319,3.871,445.19,
-"be dehydration. It can be an injury, a fever.",445.19,6.259,451.449,
+12 months, to develop clinical diabetes. So much more likely what happens is that they
+encounter a stress. And if you look at the patient in the green zone, when they go from
+Monday to Tuesday, what changes is not their beta cell mass. What changes is their insulin
+requirement. And what was enough insulin on Monday to keep them under control is suddenly
+on Tuesday not nearly enough, and it throws",398.56,27.81,426.37,NA
+"them right into ketoacidosis. And so what could have happened between Monday
+and Tuesday, to create that kind of differential in insulin requirement? Well, stress is a
+very straightforward answer, and basically in childhood it can be virtually any kind
+of stress. It can be a viral illness, can be dehydration. It can be an injury, a fever.",426.37,25.078999999999997,451.449,NA
 "Now if we take one of those, say a viral illness,
-and look how it progresses through, we see",451.449,5.84,457.289,
-"that any viral illness can lead to decreased
-water intake, dehydration. And in any of us,",457.289,6.53,463.81899999999996,
-"when we get a little bit of hypovolemic, when
-we get a little bit of hypovolemia, we will",463.819,4.88,468.699,
-"begin to counter-regulate with stress hormones.
-Primarily those are cortisol and epinephrine,",468.699,5.331,474.03000000000003,
-"but there's a whole host of hormones, catecholemines,
-that begin to get increased in a setting of",474.03,6.169,480.19899999999996,
-stress.,480.199,1.081,481.28000000000003,
-"And those give anybody a little bit of insulin
-resistance. And so in somebody without diabetes,",481.28,6.06,487.34,
-"that might bump their blood sugar from a baseline
-of, you know, 80, to a baseline of 95. Still",487.34,6.169,493.50899999999996,
-"within the normal range, but a slight increase.",493.509,2.63,496.139,
-"Why is a body triggering a response to increased
-blood sugar slightly? No one really understands",496.139,7.381,503.52,
+and look how it progresses through, we see that any viral illness can lead to decreased
+water intake, dehydration. And in any of us, when we get a little bit of hypovolemic, when
+we get a little bit of hypovolemia, we will begin to counter-regulate with stress hormones.
+Primarily those are cortisol and epinephrine, but there's a whole host of hormones, catecholemines,
+that begin to get increased in a setting of",451.449,28.75,480.199,NA
+"stress. And those give anybody a little bit of insulin
+resistance. And so in somebody without diabetes, that might bump their blood sugar from a baseline
+of, you know, 80, to a baseline of 95. Still within the normal range, but a slight increase. Why is a body triggering a response to increased
+blood sugar slightly? No one really understands",480.199,23.320999999999998,503.52,NA
 "that. No one understands if there's any survival
-benefit to 95, for example, over 80. But in",503.52,6.32,509.84,
-"patients with evolving diabetes, or with frank
-diabetes, a little bit of insulin resistance",509.84,6.179,516.019,
-"goes a long way, from a blood glucose point
-of view. And instead of bumping from 80 to",516.019,4.421,520.44,
-"95, they go from 80 to 180, and then to 280,
-and to 380.",520.44,4.72,525.1600000000001,
-"And as they hit that renal threshold of about
-180 milligrams per deciliter, they'll begin",525.16,4.679,529.8389999999999,
+benefit to 95, for example, over 80. But in patients with evolving diabetes, or with frank
+diabetes, a little bit of insulin resistance goes a long way, from a blood glucose point
+of view. And instead of bumping from 80 to 95, they go from 80 to 180, and then to 280,
+and to 380. And as they hit that renal threshold of about
+180 milligrams per deciliter, they'll begin",503.52,26.319000000000003,529.8389999999999,NA
 "to spill a lot of urine. And with that polyuria,
-they will lose even more fluid, they'll get",529.839,5.341,535.1800000000001,
-"even more dehydrated. They'll counter-regulate
-even more. And as a result, they'll begin",535.18,5.639,540.819,
-to develop even more significant insulin resistance.,540.819,3.45,544.269,
-"That insulin resistance will become significant
-enough that instead of just increasing the",544.269,3.8,548.069,
-"glucose concentration, they'll begin to have
-significant ketone production. Ketones are",548.069,5.161,553.2299999999999,
+they will lose even more fluid, they'll get even more dehydrated. They'll counter-regulate
+even more. And as a result, they'll begin to develop even more significant insulin resistance. That insulin resistance will become significant
+enough that instead of just increasing the glucose concentration, they'll begin to have
+significant ketone production. Ketones are",529.839,23.391,553.23,NA
 "a weak acid, but in significant concentrations
-they'll give you a significant acidosis, that",553.23,4.919,558.149,
-will trigger even more counter-regulation.,558.149,2.62,560.769,
-"Once you get into this cycle, there is no
-way out without insulin. This is a spiral",560.769,6.711,567.48,
-"that, untreated with insulin, will result
-in death. This is the death spiral, to demonstrate",567.48,9.81,577.29,
-"that there are no case reports of somebody
-getting diabetic ketoacidosis and spontaneously",577.29,9.81,587.0999999999999,
+they'll give you a significant acidosis, that will trigger even more counter-regulation. Once you get into this cycle, there is no
+way out without insulin. This is a spiral that, untreated with insulin, will result
+in death. This is the death spiral, to demonstrate that there are no case reports of somebody
+getting diabetic ketoacidosis and spontaneously",553.23,33.870000000000005,587.1,NA
 "surviving. Unless you get insulin therapy,
-there is no way out. The problem with DKA",587.1,7.07,594.1700000000001,
-"is insulin deficiency, and the cure for DKA
-is insulin.",594.17,4.88,599.05,
-"Please help us improve the content by providing
-us with some feedback.",599.05,3.399,602.449,
+there is no way out. The problem with DKA is insulin deficiency, and the cure for DKA
+is insulin. Please help us improve the content by providing
+us with some feedback.",587.1,15.349,602.4490000000001,NA

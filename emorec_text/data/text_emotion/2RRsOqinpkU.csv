@@ -1,74 +1,42 @@
 text,start,duration,end,dominant_emotion
 "Hi, this is Dr. Silvester and I’m going
-to talk to you about just in general why we",0.25,3.93,4.18,happy
-use supplements in patients with neuropathy.,4.18,3.77,7.949999999999999,
-"We really have worked hard at trying to establish
-a neuropathy relief center at our clinic.",7.95,5.73,13.68,happy
-"What we’re after is to try to give the patient,
-besides just the normal pharmaceutical treatment",13.68,5.13,18.81,happy
-"that you can get at most of the doctors around
-that just give you a pill to take and it makes",18.81,4.54,23.349999999999998,happy
+to talk to you about just in general why we use supplements in patients with neuropathy. We really have worked hard at trying to establish
+a neuropathy relief center at our clinic. What we’re after is to try to give the patient,
+besides just the normal pharmaceutical treatment that you can get at most of the doctors around
+that just give you a pill to take and it makes",0.25,23.099999999999998,23.349999999999998,angry
 "you feel a little better, but really doesn’t
-solve the problem - we try to give you solutions",23.35,4.589,27.939,happy
-"to get your neuropathy better, to improve
-them.",27.939,3.26,31.198999999999998,happy
-"We’ve invested a lot in trying to learn
-about supplements and the role that they play,",31.199,5.651,36.85,happy
-"using pharmaceuticals appropriately to give
-you relief, using electrical nerve signal",36.85,4.82,41.67,
-"therapy with local anesthetic block to try
-and regenerate nerves, laser therapy has been",41.67,5.49,47.160000000000004,
+solve the problem - we try to give you solutions to get your neuropathy better, to improve
+them. We’ve invested a lot in trying to learn
+about supplements and the role that they play, using pharmaceuticals appropriately to give
+you relief, using electrical nerve signal therapy with local anesthetic block to try
+and regenerate nerves, laser therapy has been",23.35,23.810000000000002,47.160000000000004,angry
 "very effective at helping nerves get better
-- not just feel better, but also get better.",47.16,4.85,52.01,fear
-"Also, there’s surgery, in the right person.",52.01,2.7,54.71,neutral
-"Sometimes nerves are pinched in association
-with having neuropathy the nerves can be entrapped,",54.71,5.579,60.289,happy
-"just like carpal tunnel syndrome can cause
-pain under you hand, the same thing can happen",60.289,4.851,65.14,
-"in your foot and lower extremity, so by decompressing
-those nerves, you can have significant relief",65.14,5.14,70.28,happy
+- not just feel better, but also get better. Also, there’s surgery, in the right person. Sometimes nerves are pinched in association
+with having neuropathy the nerves can be entrapped, just like carpal tunnel syndrome can cause
+pain under you hand, the same thing can happen in your foot and lower extremity, so by decompressing
+those nerves, you can have significant relief",47.16,23.12,70.28,angry
 "and dramatically improve nerve function, and
-in the case of patients with diabetes, much",70.28,4.71,74.99,happy
-"lower risk of future diabetic foot ulcers,
-and that’s been demonstrated by a lot of",74.99,3.86,78.85,
-studies that have been done.,78.85,2.57,81.41999999999999,happy
-"How supplements work basically is, a lot of
-them are geared towards helping the cell,",81.42,6.48,87.9,happy
-"the nerve cell, have enough energy.",87.9,1.509,89.409,happy
+in the case of patients with diabetes, much lower risk of future diabetic foot ulcers,
+and that’s been demonstrated by a lot of studies that have been done. How supplements work basically is, a lot of
+them are geared towards helping the cell, the nerve cell, have enough energy.",70.28,19.129,89.409,angry
 "The nerve cells in general are very high energy
-consumers, and they’re very small, very",89.409,7.131,96.54,happy
-"long, skinny nerves and if they don’t have
-enough energy, they can’t heal themselves",96.54,4.33,100.87,happy
-"and repair themselves or maintain this electro-gradient
-that’s across the nerve.",100.87,5.65,106.52000000000001,happy
-"For example, how a nerve carries an impulse
-is there’s an electrical current and there’s",106.52,5.48,112.0,happy
-"a little gate that opens and lets calcium
-in and out of the cell, and it creates an",112.0,4.93,116.93,
-electrical current across this nerve.,116.93,2.78,119.71000000000001,
-"To establish that, the cell has to pump that
-calcium out to keep that gradient there.",119.71,6.17,125.88,
-"It has to work all of the time, and what happens
-when you get not enough energy, those gates",125.88,4.519,130.399,happy
-"just stay open, the nerve doesn’t function
-and you start getting feelings like burning,",130.399,4.351,134.75,happy
-"tingling, electrical sensation, and eventually
-numbness because the nerve doesn’t work.",134.75,4.569,139.319,happy
+consumers, and they’re very small, very long, skinny nerves and if they don’t have
+enough energy, they can’t heal themselves and repair themselves or maintain this electro-gradient
+that’s across the nerve. For example, how a nerve carries an impulse
+is there’s an electrical current and there’s a little gate that opens and lets calcium
+in and out of the cell, and it creates an",89.409,27.521,116.93,sad
+"electrical current across this nerve. To establish that, the cell has to pump that
+calcium out to keep that gradient there. It has to work all of the time, and what happens
+when you get not enough energy, those gates just stay open, the nerve doesn’t function
+and you start getting feelings like burning, tingling, electrical sensation, and eventually
+numbness because the nerve doesn’t work.",116.93,22.389,139.31900000000002,angry
 "I’ve actually had patients who I’ve operated
-on without local anesthetic and they haven’t",139.319,6.001,145.32,fear
-"felt it a bit because they’re so profoundly
-neuropathic - their nerves are so far damaged",145.32,5.1,150.42,fear
-that they don’t feel anything.,150.42,1.51,151.92999999999998,neutral
-"That’s a major cause of falls, it’s a
-major cause of ulcers, it’s a major cause",151.93,5.1,157.03,happy
-"of calluses - I’ve had patients break their
-feet and not feel it - they come in and they",157.03,4.72,161.75,happy
+on without local anesthetic and they haven’t felt it a bit because they’re so profoundly
+neuropathic - their nerves are so far damaged that they don’t feel anything. That’s a major cause of falls, it’s a
+major cause of ulcers, it’s a major cause of calluses - I’ve had patients break their
+feet and not feel it - they come in and they",139.319,22.430999999999997,161.75,angry
 "have a swollen, red foot and they don’t
-know why, and you take x-rays and they have",161.75,3.85,165.6,happy
-all of these fractures inside of their foot.,165.6,1.93,167.53,neutral
-"There are ways, if you catch it early enough,
-and use the right supplements and keep your",167.53,5.28,172.81,happy
-"blood sugar down, that you can preserve your
-nerve function until late in life and have",172.81,3.5,176.31,happy
-a healthy life.,176.31,1.44,177.75,angry
-Thanks for listening.,177.75,0.99,178.74,neutral
+know why, and you take x-rays and they have all of these fractures inside of their foot. There are ways, if you catch it early enough,
+and use the right supplements and keep your blood sugar down, that you can preserve your
+nerve function until late in life and have a healthy life.",161.75,16.0,177.75,angry
+Thanks for listening.,177.75,0.99,178.74,angry

@@ -1,42 +1,10 @@
 text,start,duration,end,dominant_emotion
-yeah so almost all cases with acromegaly,2.32,4.479,6.7989999999999995,
-are due to a pituitary tumor,4.88,4.24,9.120000000000001,fear
-it's usually a macroadenoma meaning a,6.799,4.081,10.88,fear
-tumor that's greater than one centimeter,9.12,4.0,13.12,fear
-as opposed to a microadenoma which is a,10.88,4.4,15.280000000000001,fear
-pituitary tumor less than one centimeter,13.12,4.079,17.198999999999998,fear
-both cases are possible even rare cases,15.28,3.52,18.8,neutral
-of no tumor seen because it's so small,17.199,3.201,20.400000000000002,fear
-you can't find it on the mri,18.8,3.2,22.0,fear
-the vast majority of patients with,20.4,4.16,24.56,fear
-acromegaly have a macroadenoma and that,22.0,4.48,26.48,fear
-will be seen on the mri,24.56,4.4,28.96,neutral
-and that is a pituitary tumor that looks,26.48,5.36,31.84,neutral
-like a lesion there or a mass lesion,28.96,5.92,34.88,neutral
-that is over producing an over secreting,31.84,5.44,37.28,neutral
-growth hormone causing this disease,34.88,4.32,39.2,neutral
-almost all patients will have a growth,37.28,4.24,41.52,neutral
-hormone secreting pituitary adenoma,39.2,5.039,44.239000000000004,neutral
-as the cause for their acromegaly there,41.52,5.359,46.879000000000005,neutral
-are very rare situations,44.239,4.8,49.038999999999994,neutral
-where there are alternate causes of,46.879,3.441,50.32,neutral
-acromegaly,49.039,2.961,52.0,neutral
-and those are patients that have what we,50.32,4.719,55.039,neutral
-call ectopic secretion of growth hormone,52.0,6.239,58.239,neutral
-that can be from a tumor somewhere else,55.039,3.921,58.96,neutral
-that makes,58.239,3.921,62.16,neutral
-growth hormone or a tumor somewhere else,58.96,5.839,64.799,neutral
-that makes growth hormone releasing,62.16,3.279,65.439,neutral
-hormone,64.799,2.881,67.68,neutral
-ghrh which is the stimulator for growth,65.439,3.121,68.55999999999999,neutral
-hormone,67.68,4.72,72.4,neutral
-they're both very uncommon although ghrh,68.56,5.68,74.24000000000001,neutral
-secretion as an ectopic source of,72.4,2.88,75.28,neutral
-acromegaly,74.24,4.48,78.72,neutral
-is more likely than ectopic gh,75.28,6.159,81.43900000000001,neutral
-secretion but in either case you you,78.72,3.439,82.15899999999999,neutral
-would have no,81.439,3.521,84.96,neutral
-pituitary tumor but you would have an,82.159,4.721,86.88000000000001,neutral
-excess of growth hormone or,84.96,4.56,89.52,neutral
-its stimulator ghrh coming from another,86.88,9.12,96.0,neutral
-tumor source,89.52,6.48,96.0,neutral
+yeah so almost all cases with acromegaly are due to a pituitary tumor it's usually a macroadenoma meaning a tumor that's greater than one centimeter as opposed to a microadenoma which is a,2.32,21.200000000000003,23.520000000000003,NA
+pituitary tumor less than one centimeter both cases are possible even rare cases of no tumor seen because it's so small you can't find it on the mri the vast majority of patients with,13.12,18.16,31.28,fear
+acromegaly have a macroadenoma and that will be seen on the mri and that is a pituitary tumor that looks like a lesion there or a mass lesion that is over producing an over secreting,22.0,25.600000000000005,47.60000000000001,fear
+growth hormone causing this disease almost all patients will have a growth hormone secreting pituitary adenoma as the cause for their acromegaly there are very rare situations,34.88,23.758,58.638000000000005,fear
+where there are alternate causes of acromegaly and those are patients that have what we call ectopic secretion of growth hormone that can be from a tumor somewhere else,46.879,21.281,68.16,fear
+that makes growth hormone or a tumor somewhere else that makes growth hormone releasing hormone ghrh which is the stimulator for growth,58.239,19.041,77.28,fear
+hormone they're both very uncommon although ghrh secretion as an ectopic source of acromegaly is more likely than ectopic gh,67.68,23.918999999999997,91.599,fear
+secretion but in either case you you would have no pituitary tumor but you would have an excess of growth hormone or its stimulator ghrh coming from another,78.72,25.360999999999997,104.08099999999999,NA
+tumor source,89.52,6.48,96.0,NA

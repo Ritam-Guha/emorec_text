@@ -1,73 +1,16 @@
 text,start,duration,end,dominant_emotion
-hi my name is Heidi and I have a,5.93,3.97,9.9,
-pharmacist and today we'll be talking,8.43,6.66,15.09,fear
-about mixing insolence before injecting,9.9,7.16,17.060000000000002,fear
-your insulin you want to make sure that,15.09,4.65,19.740000000000002,sad
-the clear insulin doesn't have any,17.06,5.529,22.589,fear
-particulates in it and also check the,19.74,6.539,26.278999999999996,fear
-expiration date and you want to make,22.589,5.16,27.749,fear
-sure that the cloudy insulin doesn't,26.279,3.361,29.64,sad
-have anything settled at the bottom and,27.749,4.861,32.61,sad
-check the expiration date if you notice,29.64,4.32,33.96,sad
-that things have settled at the bottom,32.61,4.41,37.019999999999996,fear
-of your cloudy insolent roll the insulin,33.96,6.149,40.109,fear
-back and forth in your hands for 15 to,37.02,6.48,43.5,fear
-30 seconds it's important that you never,40.109,9.871,49.980000000000004,fear
-shake insulin after you've rolled the,43.5,9.96,53.46,fear
-insulin check again for anything,49.98,5.309,55.288999999999994,fear
-settling and if it's all gone then,53.46,6.54,60.0,fear
-you're all set take your syringe and,55.289,8.241,63.53,fear
-remove the cap from the needle,60.0,3.53,63.53,fear
-at this point it's important to know,69.65,4.29,73.94000000000001,fear
-what your dose is of each of the,71.75,5.94,77.69,fear
-insolence in this case I will be drawing,73.94,7.05,80.99,sad
-up 20 units of the cloudy at 10 units of,77.69,7.5,85.19,fear
-the clear insulin so first I'm going to,80.99,7.92,88.91,fear
-put 20 units of air into the cloudy,85.19,6.27,91.46,sad
-insulin without letting the needle touch,88.91,5.4,94.31,sad
-the insulin so I'm going to draw my,91.46,6.48,97.94,sad
-plunger back to 20 I'm going to stick,94.31,7.23,101.54,sad
-the needle into the cloudy insulin again,97.94,6.99,104.92999999999999,sad
-without turning it over I'm going to,101.54,6.93,108.47,sad
-inject the air into the vial and then,104.93,6.81,111.74000000000001,sad
-I'm going to pull the syringe out again,108.47,7.41,115.88,sad
-without touching the insulin I'm then,111.74,6.75,118.49,sad
-going to pull the plunger again back but,115.88,6.989,122.869,sad
-this time I'm going it to 10 we're going,118.49,9.06,127.55,sad
-to inject that 10 minutes of air into my,122.869,10.59,133.459,sad
-clear insulin I'm going to turn the,127.55,8.88,136.43,sad
-whole thing over and I'm going to,133.459,7.821,141.28,sad
-withdraw 10 units got clear n slide on,136.43,7.86,144.29000000000002,sad
-this one if you have bubbles you can,141.28,5.14,146.42,sad
-pull back a little bit farther and then,144.29,7.83,152.12,sad
-push the bubbles out but make sure you,146.42,8.76,155.17999999999998,sad
-don't do that in the next step and turn,152.12,7.74,159.86,sad
-the whole thing back over again withdraw,155.18,6.87,162.05,sad
-our needle and you can see I have 10,159.86,6.599,166.459,sad
-units of insulin I'm going to stick the,162.05,6.36,168.41000000000003,sad
-needle again back into the cloudy,166.459,6.661,173.12,sad
-insolent legend verte the whole thing,168.41,9.9,178.31,sad
-and when to withdraw 20 more units so,173.12,9.23,182.35,sad
-I'm pulling back to 30 on the syringe,178.31,6.54,184.85,sad
-again make sure once you pull back that,182.35,7.23,189.57999999999998,sad
-you don't push this the plunger back in,184.85,4.73,189.57999999999998,sad
-so I pull the plunger back to 30 I'm,191.35,5.699,197.049,sad
-going to turn the whole thing over again,194.299,6.72,201.019,sad
-pull the needle out and at this point,197.049,5.651,202.70000000000002,sad
-I'm ready to inject,201.019,3.871,204.89000000000001,sad
-insulin can be injected into the upper,202.7,4.44,207.14,sad
-arm into the thigh or into the abdomen,204.89,4.349,209.23899999999998,sad
-make sure that you're rotating sites,207.14,3.36,210.5,sad
-within a site so there you're not,209.239,3.601,212.84,sad
-injecting into exactly the same spot to,210.5,8.28,218.78,sad
-each time inject insulin at a 90 degree,212.84,10.8,223.64000000000001,sad
-angle into the skin of putting the,218.78,8.52,227.3,sad
-needle in then pressing down on the,223.64,10.14,233.77999999999997,sad
-plunger and once the plunderers all the,227.3,9.15,236.45000000000002,sad
-way down hold there for another five,233.78,9.84,243.62,sad
-seconds and then remove the needle the,236.45,9.24,245.69,sad
-syringe and needle go into the sharps,243.62,5.58,249.20000000000002,sad
-container when you're done if you have,245.69,5.639,251.329,sad
-any more questions please contact your,249.2,5.93,255.13,sad
-pharmacist or doctor thank you,251.329,3.801,255.13,fear
-you,261.239,2.06,263.299,
+hi my name is Heidi and I have a pharmacist and today we'll be talking about mixing insolence before injecting your insulin you want to make sure that the clear insulin doesn't have any,5.93,27.968999999999998,33.899,NA
+particulates in it and also check the expiration date and you want to make sure that the cloudy insulin doesn't have anything settled at the bottom and check the expiration date if you notice,19.74,24.241,43.980999999999995,neutral
+that things have settled at the bottom of your cloudy insolent roll the insulin back and forth in your hands for 15 to 30 seconds it's important that you never shake insulin after you've rolled the,32.61,36.870000000000005,69.48,neutral
+insulin check again for anything settling and if it's all gone then you're all set take your syringe and remove the cap from the needle at this point it's important to know,49.98,27.91,77.89,neutral
+what your dose is of each of the insolence in this case I will be drawing up 20 units of the cloudy at 10 units of the clear insulin so first I'm going to put 20 units of air into the cloudy,71.75,34.68000000000001,106.43,neutral
+insulin without letting the needle touch the insulin so I'm going to draw my plunger back to 20 I'm going to stick the needle into the cloudy insulin again without turning it over I'm going to,88.91,33.03,121.94,neutral
+inject the air into the vial and then I'm going to pull the syringe out again without touching the insulin I'm then going to pull the plunger again back but this time I'm going it to 10 we're going,104.93,37.019,141.949,neutral
+to inject that 10 minutes of air into my clear insulin I'm going to turn the whole thing over and I'm going to withdraw 10 units got clear n slide on this one if you have bubbles you can,122.869,40.291,163.16,neutral
+pull back a little bit farther and then push the bubbles out but make sure you don't do that in the next step and turn the whole thing back over again withdraw our needle and you can see I have 10,144.29,37.799,182.089,neutral
+units of insulin I'm going to stick the needle again back into the cloudy insolent legend verte the whole thing and when to withdraw 20 more units so I'm pulling back to 30 on the syringe,162.05,38.690999999999995,200.741,neutral
+again make sure once you pull back that you don't push this the plunger back in so I pull the plunger back to 30 I'm going to turn the whole thing over again pull the needle out and at this point,182.35,30.029999999999998,212.38,neutral
+I'm ready to inject insulin can be injected into the upper arm into the thigh or into the abdomen make sure that you're rotating sites within a site so there you're not,201.019,19.621,220.64000000000001,neutral
+injecting into exactly the same spot to each time inject insulin at a 90 degree angle into the skin of putting the needle in then pressing down on the plunger and once the plunderers all the,210.5,46.88999999999999,257.39,neutral
+way down hold there for another five seconds and then remove the needle the syringe and needle go into the sharps container when you're done if you have any more questions please contact your,233.78,36.229,270.009,neutral
+pharmacist or doctor thank you you,251.329,5.861000000000001,257.19,neutral

@@ -1,28 +1,16 @@
 text,start,duration,end,dominant_emotion
 "Dipeptidyl Peptidase-4 Inhibitors
-(known as gliptins or DPP4 inhibitors) is",1.05,6.629,7.678999999999999,disgust
-"a class of medications that are commonly used
-to treat diabetes.",7.679,3.761,11.440000000000001,disgust
-"Gliptins work by preventing the release of
-glucagon- a naturally occurring substance",11.44,4.73,16.17,disgust
-in the body that raises blood sugar.,16.17,2.21,18.380000000000003,happy
-"Gliptins share a few common side effects including
-nausea, headache, minor skin rashes, and cold-like",18.38,5.83,24.21,disgust
-symptoms. These side effects are usually mild.,24.21,3.329,27.539,disgust
-"Some examples of Gliptins include sitagliptin
-(the generic name for Januvia) and linagliptin",27.539,4.95,32.489000000000004,happy
-(the generic name for Tradjenta).,32.489,2.021,34.51,disgust
-"Talk to your doctor or pharmacist before starting
-a Gliptin as they can sometimes cause low",34.51,4.599,39.108999999999995,happy
-"blood sugar when not monitored properly or
-taken with certain other diabetic medications.",39.109,5.561,44.67,disgust
+(known as gliptins or DPP4 inhibitors) is a class of medications that are commonly used
+to treat diabetes. Gliptins work by preventing the release of
+glucagon- a naturally occurring substance in the body that raises blood sugar. Gliptins share a few common side effects including
+nausea, headache, minor skin rashes, and cold-like",1.05,23.160000000000004,24.210000000000004,angry
+"symptoms. These side effects are usually mild. Some examples of Gliptins include sitagliptin
+(the generic name for Januvia) and linagliptin (the generic name for Tradjenta). Talk to your doctor or pharmacist before starting
+a Gliptin as they can sometimes cause low blood sugar when not monitored properly or
+taken with certain other diabetic medications.",24.21,20.46,44.67,angry
 "Make to ask about early warning signs of low
-blood sugar and how to prevent it. In addition,",44.67,5.75,50.42,disgust
-"Gliptins may cause joint pain that can be
-severe and disabling. Do not stop taking your",50.42,4.22,54.64,happy
-"medication, but contact your health care professional
-right away if you experience severe and persistent",54.64,5.37,60.01,happy
-joint pain.,60.01,0.649,60.659,NA
-"It is always a good idea to ask questions
-about your medication if you are unsure or",60.659,5.131,65.78999999999999,NA
+blood sugar and how to prevent it. In addition, Gliptins may cause joint pain that can be
+severe and disabling. Do not stop taking your medication, but contact your health care professional
+right away if you experience severe and persistent joint pain. It is always a good idea to ask questions
+about your medication if you are unsure or",44.67,21.12,65.79,angry
 if you experience something out of the ordinary.,65.79,2.19,67.98,NA

@@ -79,6 +79,8 @@ class Trainer:
         pickle.dump(loss_curve,
                     open(f"{config.BASE_PATH}/code/model_storage/{self.type_model}/training_loss_curve.pickle", "wb"))
 
+        return test_loss
+
     def checkpoint(self,
                    epoch,
                    model,

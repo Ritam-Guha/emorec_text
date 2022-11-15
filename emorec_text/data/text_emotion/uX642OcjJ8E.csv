@@ -1,78 +1,17 @@
 text,start,duration,end,dominant_emotion
-[Music],0.96,4.56,5.52,
-acromegaly,4.279,5.32,9.599,happy
-is thought of as a rare disease,5.52,7.119,12.639,happy
-with very specific,9.599,6.561,16.16,happy
-characteristic manifestations,12.639,7.121,19.759999999999998,happy
-these manifestations can include changes,16.16,5.279,21.439,happy
-in the way the patients look,19.76,5.839,25.599000000000004,happy
-so coarsening of their features,21.439,6.801,28.240000000000002,happy
-increased in the size of the tongue,25.599,3.121,28.72,happy
-teeth,28.24,3.76,32.0,fear
-shifting and enlargement of the hands,28.72,3.679,32.399,fear
-and,32.0,2.96,34.96,fear
-feet which is what we call acronym,32.399,4.801,37.2,happy
-enlargement,34.96,5.439,40.399,happy
-the problem was looking at acromegaly,37.2,7.08,44.28,happy
-in this fashion as a disease with,40.399,6.961,47.36,happy
-pathognomonic features is that,44.28,6.439,50.719,happy
-these features develop slowly over the,47.36,5.359,52.719,happy
-course of years,50.719,5.601,56.32,happy
-which tends to delay the diagnosis,52.719,6.64,59.359,happy
-by more than five years,56.32,6.32,62.64,happy
-in the past it was actually more than,59.359,6.8,66.159,happy
-10 years that a patient would experience,62.64,7.28,69.92,happy
-in terms of a delay from when the first,66.159,6.401,72.56,happy
-manifestations occurred,69.92,6.8,76.72,happy
-until the the correct diagnosis was made,72.56,7.04,79.60000000000001,happy
-i think the recent literature shows some,76.72,3.84,80.56,happy
-progress,79.6,4.159,83.759,happy
-that there is a delay that um of,80.56,6.8,87.36,happy
-only about five or ten years but this,83.759,6.641,90.4,happy
-i think anyone would agree that is still,87.36,6.16,93.52,happy
-a very long time so the problem with,90.4,4.48,94.88000000000001,happy
-having a,93.52,3.76,97.28,fear
-delay between manifestations and,94.88,3.36,98.24,fear
-diagnosis,97.28,4.08,101.36,fear
-is that chronic exposure with high,98.24,4.0,102.24,happy
-growth to grow,101.36,3.039,104.399,happy
-high growth hormone levels would,102.24,3.6,105.83999999999999,happy
-actually,104.399,5.121,109.52,happy
-cause comorbidities complications,105.84,7.04,112.88000000000001,happy
-things like cardiovascular,109.52,5.68,115.19999999999999,happy
-changes from high blood pressure to,112.88,4.279,117.15899999999999,happy
-heart problems,115.2,5.919,121.119,happy
-hyperglycemia changes in,117.159,7.32,124.47900000000001,happy
-the bones and during this time the tumor,121.119,5.201,126.32,happy
-has time to grow,124.479,5.84,130.319,happy
-and become more invasive,126.32,6.16,132.48,happy
-and more difficult to remove in its,130.319,4.0,134.319,happy
-entirety,132.48,5.68,138.16,happy
-by the neurosurgeon so,134.319,6.961,141.28,happy
-in my practice as a as a,138.16,6.56,144.72,happy
-pituitary specialist of more than,141.28,7.599,148.879,happy
-20 years i have started to,144.72,8.799,153.519,happy
-think and to educate people,148.879,7.841,156.72,happy
-in a different fashion we shouldn't be,153.519,3.921,157.44,happy
-waiting,156.72,3.519,160.239,happy
-until anyone is able to make this,157.44,4.4,161.84,happy
-diagnosis,160.239,5.041,165.28,happy
-we should instead look for a cluster,161.84,7.28,169.12,happy
-of characteristic manifestations,165.28,7.28,172.56,happy
-such as increased sweating carpal tunnel,169.12,4.479,173.59900000000002,happy
-syndrome,172.56,3.759,176.319,happy
-and that may be in conjunction with um,173.599,4.56,178.159,
-other things that are actually,176.319,4.801,181.11999999999998,
-common in the general population such as,178.159,4.481,182.64,NA
-hypertension,181.12,5.92,187.04,NA
-or joint pain or hypoglycemia,182.64,7.76,190.39999999999998,NA
-i think if we look at a combination,187.04,7.04,194.07999999999998,NA
-of suggestive manifestations and,190.4,6.64,197.04,NA
-symptoms we would make the diagnosis,194.08,4.159,198.239,NA
-sooner,197.04,4.0,201.04,NA
-and with this bring the patient to the,198.239,4.321,202.56,NA
-correct,201.04,4.08,205.12,NA
-to the to the correct physician and have,202.56,4.48,207.04,NA
-the correct treatment,205.12,8.0,213.12,NA
-um sooner than before,207.04,8.16,215.2,NA
-you,213.12,2.08,215.20000000000002,NA
+[Music] acromegaly is thought of as a rare disease with very specific characteristic manifestations,0.96,30.680999999999997,31.641,angry
+these manifestations can include changes in the way the patients look so coarsening of their features increased in the size of the tongue teeth,16.16,24.799999999999997,40.959999999999994,angry
+shifting and enlargement of the hands and feet which is what we call acronym enlargement the problem was looking at acromegaly,28.72,23.958999999999996,52.678999999999995,neutral
+in this fashion as a disease with pathognomonic features is that these features develop slowly over the course of years which tends to delay the diagnosis,40.399,31.0,71.399,neutral
+by more than five years in the past it was actually more than 10 years that a patient would experience in terms of a delay from when the first manifestations occurred,56.32,33.601,89.92099999999999,neutral
+until the the correct diagnosis was made i think the recent literature shows some progress that there is a delay that um of only about five or ten years but this,72.56,28.479999999999997,101.03999999999999,neutral
+i think anyone would agree that is still a very long time so the problem with having a delay between manifestations and diagnosis,87.36,21.840000000000003,109.2,neutral
+is that chronic exposure with high growth to grow high growth hormone levels would actually cause comorbidities complications,98.24,22.8,121.03999999999999,neutral
+things like cardiovascular changes from high blood pressure to heart problems hyperglycemia changes in the bones and during this time the tumor,109.52,28.399,137.91899999999998,neutral
+has time to grow and become more invasive and more difficult to remove in its entirety by the neurosurgeon so,124.479,28.641,153.12,neutral
+in my practice as a as a pituitary specialist of more than 20 years i have started to think and to educate people in a different fashion we shouldn't be,138.16,34.72,172.88,neutral
+waiting until anyone is able to make this diagnosis we should instead look for a cluster of characteristic manifestations,156.72,27.520000000000003,184.24,neutral
+such as increased sweating carpal tunnel syndrome and that may be in conjunction with um other things that are actually common in the general population such as,169.12,22.08,191.2,angry
+hypertension or joint pain or hypoglycemia i think if we look at a combination of suggestive manifestations and symptoms we would make the diagnosis,181.12,31.519,212.639,NA
+sooner and with this bring the patient to the correct to the to the correct physician and have the correct treatment,197.04,24.881,221.921,NA
+um sooner than before you,207.04,10.24,217.28,NA

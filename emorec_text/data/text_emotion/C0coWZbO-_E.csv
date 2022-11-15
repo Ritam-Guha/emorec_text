@@ -1,65 +1,14 @@
 text,start,duration,end,dominant_emotion
-[Music],0.3,4.95,5.25,fear
-hello my name is Mara and I'm a,2.54,4.9,7.44,fear
-certified diabetes educator here at,5.25,4.65,9.9,fear
-Boston Medical Center today I will be,7.44,4.59,12.030000000000001,happy
-teaching you how to prepare and inject,9.9,5.43,15.33,happy
-insulin insulin is a medication that is,12.03,5.97,18.0,happy
-prescribed for people with diabetes you,15.33,4.709,20.039,
-may be prescribed insulin in a vial and,18.0,4.5,22.5,
-you will use a syringe to inject it it,20.039,4.711,24.75,
-also may be prescribed as a pen and you,22.5,4.34,26.84,
-will use a pen needle to inject it,24.75,4.65,29.4,
-instructions for injecting insulin with,26.84,5.68,32.519999999999996,
-a vial and syringe always start by,29.4,5.55,34.949999999999996,
-washing your hands if you take two,32.52,4.68,37.2,
-insulins check the vial label to make,34.95,4.109,39.059000000000005,
-sure it's the insulin you intend to,37.2,4.65,41.85,
-inject remove the cap and wipe the top,39.059,6.391,45.449999999999996,
-of the vial with an alcohol swab you can,41.85,5.72,47.57,
-throw away the cap after its first use,45.45,4.679,50.129000000000005,
-it's a good idea to write down the date,47.57,4.809,52.379,
-on the vial of when you first opened it,50.129,5.18,55.309,
-as it is only good for 28 days,52.379,7.261,59.64,
-take the white cap off the syringe draw,55.309,6.671,61.98,
-the plunger on the syringe to the number,59.64,4.769,64.409,
-of units you will be injecting for this,61.98,5.999,67.979,
-example we are using 10 units carefully,64.409,5.57,69.97900000000001,
-take the orange cap off of the syringe,67.979,4.89,72.869,
-both the orange and white caps can be,69.979,6.25,76.229,
-thrown in the trash insert the needle,72.869,5.881,78.75,
-into the rubber top of the vial and push,76.229,6.0,82.229,
-that amount of air into the vial turn,78.75,6.65,85.4,
-both the vial and syringe upside down,82.229,6.39,88.619,
-with your free hand pull the plunger to,85.4,5.14,90.54,
-withdraw the correct dose into the,88.619,4.011,92.63,
-syringe,90.54,4.369,94.909,
-check the syringe for air bubbles if,92.63,4.83,97.46,
-bubbles are present hold the syringe,94.909,5.28,100.18900000000001,
-straight up and tap the side until the,97.46,5.28,102.74,
-bubbles float to the top push any,100.189,4.651,104.83999999999999,
-bubbles out and be sure the correct,102.74,6.9,109.64,
-number of units are in your syringe wipe,104.84,7.47,112.31,
-your skin with an alcohol pad dry off,109.64,5.31,114.95,
-any excess alcohol on your skin before,112.31,5.96,118.27,
-injecting do not inject through clothing,114.95,6.0,120.95,
-pinch a fold of your skin between your,118.27,5.65,123.92,
-thumb and finger with your other hand,120.95,6.209,127.159,
-hold the syringe like a pencil at a 90,123.92,5.46,129.38,
-degree angle to the skin insert the,127.159,4.83,131.989,
-needle with one quick motion make sure,129.38,5.22,134.6,
-the needle is all the way in push the,131.989,4.771,136.76,
-plunger at a moderate and steady pace,134.6,5.13,139.73,
-until it is fully injected keep the,136.76,6.199,142.959,
-needle in your skin for five seconds,139.73,6.27,146.0,
-remove the needle at the same 90 degree,142.959,5.741,148.7,
-angle at which it was inserted discard,146.0,5.48,151.48,
-your syringe in a safe sharps container,148.7,5.46,154.16,
-for more information on how to properly,151.48,5.08,156.56,
-rotate your injection sites for both,154.16,5.37,159.53,
-syringe and pen needle delivery watch,156.56,5.19,161.75,
-the animated insulin video on the,159.53,8.97,168.5,
-website BMC org slash diabetes thank you,161.75,8.88,170.63,
-for watching for more information please,168.5,5.79,174.29,fear
-talk to your diabetes care team,170.63,5.719,176.349,
-you,174.29,2.059,176.349,
+[Music] hello my name is Mara and I'm a certified diabetes educator here at Boston Medical Center today I will be teaching you how to prepare and inject,0.3,24.520000000000003,24.820000000000004,sad
+insulin insulin is a medication that is prescribed for people with diabetes you may be prescribed insulin in a vial and you will use a syringe to inject it it also may be prescribed as a pen and you,12.03,24.23,36.26,NA
+will use a pen needle to inject it instructions for injecting insulin with a vial and syringe always start by washing your hands if you take two insulins check the vial label to make,24.75,24.668999999999997,49.419,NA
+sure it's the insulin you intend to inject remove the cap and wipe the top of the vial with an alcohol swab you can throw away the cap after its first use it's a good idea to write down the date,37.2,26.249,63.449,NA
+on the vial of when you first opened it as it is only good for 28 days take the white cap off the syringe draw the plunger on the syringe to the number of units you will be injecting for this,50.129,29.88,80.009,NA
+example we are using 10 units carefully take the orange cap off of the syringe both the orange and white caps can be thrown in the trash insert the needle into the rubber top of the vial and push,64.409,28.591,93.0,NA
+that amount of air into the vial turn both the vial and syringe upside down with your free hand pull the plunger to withdraw the correct dose into the syringe,78.75,26.56,105.31,NA
+check the syringe for air bubbles if bubbles are present hold the syringe straight up and tap the side until the bubbles float to the top push any bubbles out and be sure the correct,92.63,26.941000000000003,119.571,NA
+number of units are in your syringe wipe your skin with an alcohol pad dry off any excess alcohol on your skin before injecting do not inject through clothing pinch a fold of your skin between your,104.84,30.39,135.23000000000002,NA
+thumb and finger with your other hand hold the syringe like a pencil at a 90 degree angle to the skin insert the needle with one quick motion make sure the needle is all the way in push the,120.95,26.490000000000002,147.44,NA
+plunger at a moderate and steady pace until it is fully injected keep the needle in your skin for five seconds remove the needle at the same 90 degree angle at which it was inserted discard,134.6,28.82,163.42,NA
+your syringe in a safe sharps container for more information on how to properly rotate your injection sites for both syringe and pen needle delivery watch the animated insulin video on the,148.7,30.07,178.76999999999998,NA
+website BMC org slash diabetes thank you for watching for more information please talk to your diabetes care team you,161.75,22.448000000000004,184.198,NA

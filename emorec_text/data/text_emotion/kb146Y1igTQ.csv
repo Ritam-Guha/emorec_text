@@ -1,286 +1,161 @@
 text,start,duration,end,dominant_emotion
 "Here’s a couple of words you might find
-useful in the study of human metabolism.",0.0,2.84,2.84,angry
-"They also happen to be two words that I enjoy
-in general.",2.85,2.91,5.76,angry
-Brunch. Buffet.,5.76,2.14,7.9,happy
-"I’d throw in “all you can eat,” but
-that’s kind of implied, and then it would",7.9,3.22,11.120000000000001,angry
-"be six words, unless you hyphenate them. But
-still, brunch buffet!",11.13,3.57,14.700000000000001,angry
+useful in the study of human metabolism. They also happen to be two words that I enjoy
+in general. Brunch. Buffet. I’d throw in “all you can eat,” but
+that’s kind of implied, and then it would be six words, unless you hyphenate them. But
+still, brunch buffet!",0.0,14.680000000000001,14.680000000000001,angry
 "You’ve got eggs and bacon and french toast
-and biscuits and fruit and some kind of weird",14.7,4.139,18.839,angry
-"sort of jello thing in there. And once you’ve
-paid your twelve-ninety-nine, you know there’s",18.839,3.78,22.619,angry
-"a pretty good chance that it’s all gonna
-get eaten.",22.619,1.851,24.47,angry
-But here’s the thing.,24.47,1.0,25.47,neutral
-"Not everything that you fit into your face
-during brunch-time is going to be handled",25.47,3.849,29.319,angry
-the same way by your body.,29.319,1.33,30.649,angry
-"After you’re done digesting, some nutrients
-will go straight to your body’s pile of",30.649,4.071,34.72,
-"stuff to burn right away. But others will
-have to be converted into something else.",34.72,4.12,38.839999999999996,
-"For example, the carbs and fats in your buttered
-toast can be directly oxidized into useable",38.84,3.95,42.790000000000006,
-"energy, but the amino acids in the bacon have
-to converted to molecules that get broken",42.79,4.21,47.0,
+and biscuits and fruit and some kind of weird sort of jello thing in there. And once you’ve
+paid your twelve-ninety-nine, you know there’s a pretty good chance that it’s all gonna
+get eaten. But here’s the thing. Not everything that you fit into your face
+during brunch-time is going to be handled",14.7,14.619,29.319,angry
+"the same way by your body. After you’re done digesting, some nutrients
+will go straight to your body’s pile of stuff to burn right away. But others will
+have to be converted into something else. For example, the carbs and fats in your buttered
+toast can be directly oxidized into useable energy, but the amino acids in the bacon have
+to converted to molecules that get broken",29.319,17.681,47.0,angry
 "down like carbs, if you want to get energy
-out of them.",47.0,2.3,49.3,
-"And while excess carbs and fat can be stored
-in larger, polymer versions of their original",49.3,4.96,54.26,
-"forms, any extra amino acids can’t be -- they have to
-be converted and then stored as fat or glycogen.",54.26,4.8,59.059999999999995,angry
-"So, as I’ve mentioned before, the molecules
-in your body are constantly changing shape,",59.07,4.19,63.26,angry
-"and renewing and rearranging themselves to
-either build things or to use energy.",63.26,4.62,67.88,
+out of them. And while excess carbs and fat can be stored
+in larger, polymer versions of their original forms, any extra amino acids can’t be -- they have to
+be converted and then stored as fat or glycogen. So, as I’ve mentioned before, the molecules
+in your body are constantly changing shape, and renewing and rearranging themselves to
+either build things or to use energy.",47.0,20.87,67.87,angry
 "And eating food replenishes these nutrients
--- especially glucose. Then, depending on",67.88,4.129,72.009,
-"what your body needs, and when you last ate,
-certain hormones like insulin will help decide",72.009,4.31,76.319,angry
-"what to burn, and what to store for later.",76.319,2.08,78.399,
-"This, of course, is an important function.
-Which is why things can go badly if this process",78.399,4.481,82.88,
-"doesn’t work properly because of a metabolic
-disorder, like diabetes.",82.88,2.97,85.85,happy
+-- especially glucose. Then, depending on what your body needs, and when you last ate,
+certain hormones like insulin will help decide what to burn, and what to store for later. This, of course, is an important function.
+Which is why things can go badly if this process doesn’t work properly because of a metabolic
+disorder, like diabetes.",67.88,17.97,85.85,angry
 "In that case, your body can’t properly use
-and store nutritional energy, which makes",85.85,3.949,89.79899999999999,angry
-"the very acts of eating and metabolizing more
-difficult, and possibly dangerous.",89.799,4.45,94.24900000000001,
-"Exactly how glucose levels can spike or plummet,
-how we convert nutrients into energy, and",94.249,4.72,98.969,
-"how all of that that relates to eating, and
-hunger, and weight, metabolism, and your health",98.969,3.42,102.389,angry
-in general is -- guess what? -- complicated.,102.389,2.15,104.539,
+and store nutritional energy, which makes the very acts of eating and metabolizing more
+difficult, and possibly dangerous. Exactly how glucose levels can spike or plummet,
+how we convert nutrients into energy, and how all of that that relates to eating, and
+hunger, and weight, metabolism, and your health in general is -- guess what? -- complicated.",85.85,18.689,104.53899999999999,angry
 "But as you are a living thing that must eat
-in order to stay alive, I’d say it’s worth",104.539,4.18,108.719,angry
-learning how it works.,108.72,1.38,110.1,
-"And brunch is as good a place to start as
-any.",110.1,2.24,112.33999999999999,
-"Waiting in line for the all-you-can-eat brunch
-buffet is a good time to recall the law of",123.06,3.66,126.72,
-conservation of energy.,126.72,1.259,127.979,
+in order to stay alive, I’d say it’s worth learning how it works. And brunch is as good a place to start as
+any. Waiting in line for the all-you-can-eat brunch
+buffet is a good time to recall the law of conservation of energy.",104.539,12.719000000000001,117.25800000000001,angry
 "The law simply states that energy can never
-be created or destroyed; it can only change forms.",127.979,4.78,132.759,
-"And the processes of metabolism involves conversions
-of energy -- either through catabolizing reactions",132.77,4.92,137.69,
-"that release the energy stored in your food,
-or anabolizing ones that use or store that energy.",137.69,5.23,142.92,
-"So, you can enjoy your short-stack of flapjacks
-and biscuits and gravy, but remember: That",142.92,4.86,147.78,
-"energy has to either get released, or stored,
-somewhere inside you.",147.78,3.61,151.39000000000001,
+be created or destroyed; it can only change forms. And the processes of metabolism involves conversions
+of energy -- either through catabolizing reactions that release the energy stored in your food,
+or anabolizing ones that use or store that energy. So, you can enjoy your short-stack of flapjacks
+and biscuits and gravy, but remember: That energy has to either get released, or stored,
+somewhere inside you.",127.979,23.4,151.379,angry
 "Now, the conversion of food energy is part
-of the great balancing act that is maintaining",151.39,3.68,155.07,
-"homeostasis, and one of its greatest tricks
-is cellular respiration.",155.07,3.88,158.95,
-"Cellular respiration is how we derive energy
-from the food we eat, specifically glucose,",158.95,4.21,163.16,
-which is where most of our food ends up.,163.16,1.54,164.7,
-"In order for glucose to become energy we can
-use, we have to to give it some oxygen, and",164.7,3.84,168.54,
+of the great balancing act that is maintaining homeostasis, and one of its greatest tricks
+is cellular respiration. Cellular respiration is how we derive energy
+from the food we eat, specifically glucose, which is where most of our food ends up. In order for glucose to become energy we can
+use, we have to to give it some oxygen, and",151.39,17.15,168.54,angry
 "convert each sugar molecule into six molecules
-of CO2, and six molecules of water, which",168.54,5.05,173.59,
-usually produces about 32 molecules of ATP.,173.59,3.05,176.64000000000001,
-"Cellular respiration occurs in three simultaneous
-phases, where glucose is broken down by glycolysis",176.64,4.72,181.35999999999999,
-"and other catabolic reactions; and then turned
-into pyruvic acid and acetyl CoA; and finally",181.36,6.12,187.48000000000002,neutral
-ushered into the Kreb’s cycle.,187.48,1.73,189.20999999999998,
+of CO2, and six molecules of water, which usually produces about 32 molecules of ATP. Cellular respiration occurs in three simultaneous
+phases, where glucose is broken down by glycolysis and other catabolic reactions; and then turned
+into pyruvic acid and acetyl CoA; and finally ushered into the Kreb’s cycle.",168.54,20.67,189.20999999999998,angry
 "It’s all pretty complicated, but we covered
-it extensively in Crash Course Biology, so",189.21,3.58,192.79000000000002,
-"rather than getting into the blow-by-blow here, I
-recommend you check out that video for a refresher.",192.79,4.36,197.15,angry
-"For now, just remember that cellular respiration
-breaks down nutrient molecules to generate",197.15,3.94,201.09,
-"ATP. And in doing so, it captures some of
-the chemical energy that was in those bonds",201.09,4.24,205.33,
-for use in your body.,205.33,1.19,206.52,
+it extensively in Crash Course Biology, so rather than getting into the blow-by-blow here, I
+recommend you check out that video for a refresher. For now, just remember that cellular respiration
+breaks down nutrient molecules to generate ATP. And in doing so, it captures some of
+the chemical energy that was in those bonds for use in your body.",189.21,17.310000000000002,206.52,angry
 "Now, when it comes to how that energy is converted
-and where, that depends largely on when you",206.52,4.72,211.24,
-ate your last meal.,211.24,1.2,212.44,surprise
-"We all switch back and forth between two nutritional
-states -- the absorptive, or fed state -- which",212.44,4.81,217.25,angry
-"is during or after eating -- and the postabsorptive,
-or fasting state, when the GI tract is empty",217.25,6.01,223.26,angry
-and the body is running off of stored supplies.,223.26,1.86,225.12,angry
+and where, that depends largely on when you ate your last meal. We all switch back and forth between two nutritional
+states -- the absorptive, or fed state -- which is during or after eating -- and the postabsorptive,
+or fasting state, when the GI tract is empty and the body is running off of stored supplies.",206.52,18.6,225.12,angry
 "So, say you’re just post brunch-buffet,
-and you’re still in the absorptive state,",225.12,4.04,229.16,angry
-"unbuckling your belt as your digestive system
-breaks up the eggs and bacon and French toast",229.16,4.09,233.25,
-"and syrup into a bunch of mostly-glucose molecules
-that pass into your bloodstream.",233.25,4.31,237.56,
-"The first bit of glucose gets delivered throughout
-the body and is tapped to generate ATP on",237.56,3.97,241.53,
-"the spot, through cellular respiration.",241.53,2.21,243.74,
+and you’re still in the absorptive state, unbuckling your belt as your digestive system
+breaks up the eggs and bacon and French toast and syrup into a bunch of mostly-glucose molecules
+that pass into your bloodstream. The first bit of glucose gets delivered throughout
+the body and is tapped to generate ATP on the spot, through cellular respiration.",225.12,18.619999999999997,243.74,angry
 "But since the meal was big and rich, there’s
-more glucose floating around than your cells",243.74,3.59,247.33,
-need at the moment.,247.33,1.17,248.5,fear
-"And remember, ATP is too unstable to be used
-for storage, which means all the extra glucose",248.5,4.65,253.15,angry
-is gonna get stored as fat or glycogen.,253.15,2.39,255.54,angry
-"And that storage is part of how you can end
-up gaining weight!.",255.54,2.64,258.18,angry
+more glucose floating around than your cells need at the moment. And remember, ATP is too unstable to be used
+for storage, which means all the extra glucose is gonna get stored as fat or glycogen. And that storage is part of how you can end
+up gaining weight!.",243.74,14.440000000000001,258.18,angry
 "Because: How much energy gets stored depends
-partly on your basal metabolic rate -- that’s",258.18,4.06,262.24,
-"the number of daily calories your body needs
-to do business as usual.",262.24,3.27,265.51,
-"And that rate can be influenced by your age,
-your sex, and body size or composition. A",265.51,4.74,270.25,
-"young bodybuilder is gonna burn way more calories
-than that tiny grandma, but generally, if",270.25,4.67,274.92,angry
-"you’re absorbing more nutrients than you’re
-burning, you will gain weight.",274.92,2.96,277.88,
+partly on your basal metabolic rate -- that’s the number of daily calories your body needs
+to do business as usual. And that rate can be influenced by your age,
+your sex, and body size or composition. A young bodybuilder is gonna burn way more calories
+than that tiny grandma, but generally, if you’re absorbing more nutrients than you’re
+burning, you will gain weight.",258.18,19.700000000000003,277.88,angry
 "So yeah, for that you can blame the law of
-conservation of energy.",277.88,2.39,280.27,
-"Now, of course all nutrients are important.
-I mean, your body is basically made of protein,",280.27,4.0,284.27,
-so that’s kinda key.,284.27,1.47,285.74,
-"But in terms of immediate fuel, glucose is
-the easiest source of food for cells like",285.75,4.47,290.22,
-"your neurons. And it is always good policy
-to keep your brain well-fed, so it doesn’t",290.22,3.91,294.13000000000005,
-"get hangry, or dead.",294.13,1.58,295.71,happy
-"So, your body likes to maintain a blood glucose
-level of 70 to 100 milligrams per deciliter.",295.71,5.32,301.03,
-"But let’s say that, thanks to the buffet,
-you’ve now got 140 milligrams per deciliter.",301.03,4.22,305.25,
-"This means too much sugar is swimming around
-in your blood, and your body isn’t happy about it.",305.25,3.99,309.24,
-"If your blood sugar levels get too high, it
-can damage blood vessels, especially those",309.24,3.82,313.06,
+conservation of energy. Now, of course all nutrients are important.
+I mean, your body is basically made of protein, so that’s kinda key. But in terms of immediate fuel, glucose is
+the easiest source of food for cells like your neurons. And it is always good policy
+to keep your brain well-fed, so it doesn’t",277.88,16.240000000000002,294.12,NA
+"get hangry, or dead. So, your body likes to maintain a blood glucose
+level of 70 to 100 milligrams per deciliter. But let’s say that, thanks to the buffet,
+you’ve now got 140 milligrams per deciliter. This means too much sugar is swimming around
+in your blood, and your body isn’t happy about it. If your blood sugar levels get too high, it
+can damage blood vessels, especially those",294.13,18.93,313.06,angry
 "in the nervous system, heart, kidneys, eyes,
-and extremities.",313.07,3.21,316.28,
-"That’s why diabetes is often associated
-with a higher risk of heart and kidney disease,",316.28,4.24,320.52,
-"loss of vision, and foot amputation.",320.52,2.35,322.87,
-"But typically, rising blood sugar levels sets
-off a series of events that trim them back down.",322.87,4.44,327.31,
-"Specifically, they trigger special beta cells
-in the pancreas to start secreting more of",327.31,4.19,331.5,
+and extremities. That’s why diabetes is often associated
+with a higher risk of heart and kidney disease, loss of vision, and foot amputation. But typically, rising blood sugar levels sets
+off a series of events that trim them back down. Specifically, they trigger special beta cells
+in the pancreas to start secreting more of",313.07,18.430000000000003,331.5,NA
 "the hormone that regulates everything that
-happens when you’re in the absorptive state.",331.5,4.44,335.94,
-And this hormone is the all-powerful insulin.,335.94,2.16,338.1,
-"Insulin’s job in this instance is to move
-glucose out of the blood and into storage.",338.1,4.71,342.81,
-"And to do that, it triggers a shift from catabolic
-reactions to anabolic ones.",342.81,4.1,346.91,
-"For example, it puts a stop to glycogenolysis,
-or breaking down glycogen in your liver and",346.91,4.03,350.94,
+happens when you’re in the absorptive state. And this hormone is the all-powerful insulin. Insulin’s job in this instance is to move
+glucose out of the blood and into storage. And to do that, it triggers a shift from catabolic
+reactions to anabolic ones. For example, it puts a stop to glycogenolysis,
+or breaking down glycogen in your liver and",331.5,19.44,350.94,angry
 "muscles to release glucose for energy, and
-instead ramps up the process of glycogenesis,",350.94,4.55,355.49,
-"where extra glucose is linked together to
-form glycogen.",355.49,2.959,358.449,
-"It also activates lipogenesis, where very
-cool chemical reactions in the liver convert",358.449,3.961,362.41,
-"glucose to triglycerides and then ship them
-off to your adipose tissue for storage.",362.41,4.03,366.44,
-"A similar thing happens with the extra fatty
-acids that you got from the eggs and bacon",366.44,3.9,370.34,
-that aren’t immediately needed for energy.,370.34,1.65,371.98999999999995,
-"They get processed through lipogenesis, too,
-and are rebuilt back into triglycerides, and",371.99,3.85,375.84000000000003,
-then tucked away for a rainy day.,375.84,1.579,377.419,angry
-"The thing is, if you’re thinking about this, all these
-lipids hate water, right? Fat and water don’t mix.",377.42,4.74,382.16,
-"So you should be asking yourself, how can they be
-transported in the blood, when they’re so hydrophobic?",382.16,4.7,386.86,
+instead ramps up the process of glycogenesis, where extra glucose is linked together to
+form glycogen. It also activates lipogenesis, where very
+cool chemical reactions in the liver convert glucose to triglycerides and then ship them
+off to your adipose tissue for storage. A similar thing happens with the extra fatty
+acids that you got from the eggs and bacon",350.94,19.4,370.34,angry
+"that aren’t immediately needed for energy. They get processed through lipogenesis, too,
+and are rebuilt back into triglycerides, and then tucked away for a rainy day. The thing is, if you’re thinking about this, all these
+lipids hate water, right? Fat and water don’t mix. So you should be asking yourself, how can they be
+transported in the blood, when they’re so hydrophobic?",370.34,16.519,386.859,angry
 "The answer is lipoproteins, four specialized
-proteins made by the liver that surround fats",386.86,5.32,392.18,
-"and allow them to move in the bloodstream
-as an emulsion.",392.18,2.57,394.75,angry
-"You’ve probably heard of some of these.
-One is low density lipoprotein -- also known as",394.75,3.75,398.5,
-"LDL cholesterol. It’s what delivers some of the glucose
-and fat that you just ate to your body’s fat deposits.",398.52,5.84,404.35999999999996,
-"Another is high density lipoprotein -- or
-HDL cholesterol, which is the “good” cholesterol.",404.36,5.42,409.78000000000003,
+proteins made by the liver that surround fats and allow them to move in the bloodstream
+as an emulsion. You’ve probably heard of some of these.
+One is low density lipoprotein -- also known as LDL cholesterol. It’s what delivers some of the glucose
+and fat that you just ate to your body’s fat deposits. Another is high density lipoprotein -- or
+HDL cholesterol, which is the “good” cholesterol.",386.86,22.9,409.76,angry
 "It starts out as an empty protein packet sent
-out by the liver to gather up other cholesterols",409.78,4.94,414.71999999999997,
-"from the blood, and artery walls, and other
-cells.",414.72,2.64,417.36,
-"HDL then delivers the cholesterol back to
-the liver, or to places like the ovaries,",417.36,3.79,421.15000000000003,neutral
-"testes, and adrenal glands, which use it to
-make steroid hormones.",421.15,3.23,424.38,
-"Alright, so now your body has put all the
-glucose and lipids and proteins where they",424.38,3.34,427.71999999999997,
+out by the liver to gather up other cholesterols from the blood, and artery walls, and other
+cells. HDL then delivers the cholesterol back to
+the liver, or to places like the ovaries, testes, and adrenal glands, which use it to
+make steroid hormones. Alright, so now your body has put all the
+glucose and lipids and proteins where they",409.78,17.94,427.71999999999997,angry
 "need to go, and you can just coast into the
-postabsorptive state.",427.72,3.75,431.47,
-"But several hours later, even though your
-small intestine is still working on what’s",431.47,3.419,434.889,
-"left of the buffet, your cells have been helping
-themselves to the remaining glucose in theblood,",434.889,4.821,439.71000000000004,angry
-"and eventually your blood sugar level will
-start to drop.",439.71,2.51,442.21999999999997,angry
-"Remember, your neurons are on an exclusive
-glucose meal plan, so they need sugar at the",442.22,4.79,447.01000000000005,neutral
+postabsorptive state. But several hours later, even though your
+small intestine is still working on what’s left of the buffet, your cells have been helping
+themselves to the remaining glucose in theblood, and eventually your blood sugar level will
+start to drop. Remember, your neurons are on an exclusive
+glucose meal plan, so they need sugar at the",427.72,19.29,447.01000000000005,angry
 "ready. And if your body senses an imbalance
-in blood sugar levels, it sounds the alarm.",447.01,4.23,451.24,
-"A decrease in glucose stimulates alpha cells
-in the pancreas to release insulin’s nemesis,",451.24,4.76,456.0,angry
-the hormone glucagon.,456.0,1.42,457.42,
-"It starts raising the blood sugar level, by
-triggering the liver and adipose tissues to",457.43,4.239,461.669,
-"metabolize their fat and glycogen stores,
-thereby releasing fatty acids, glycerol, and",461.669,5.26,466.929,angry
-glucose back into the blood.,466.929,1.511,468.44,
-"But if it’s been a day or two since you’ve eaten --
-for some reason -- and you’ve burned through",468.449,3.88,472.329,
-"both your blood glucose and your glycogen stores,
-and you don’t have any sugars left to feed your brain?",472.329,4.551,476.88,
-"In that case, your body will launch into gluconeogenesis,
-and convert fats and amino acids into glucose,",476.88,6.23,483.11,
-"so ATP synthesis can continue in your brain
-cells.",483.11,2.7,485.81,
+in blood sugar levels, it sounds the alarm. A decrease in glucose stimulates alpha cells
+in the pancreas to release insulin’s nemesis, the hormone glucagon. It starts raising the blood sugar level, by
+triggering the liver and adipose tissues to metabolize their fat and glycogen stores,
+thereby releasing fatty acids, glycerol, and",447.01,19.909,466.919,angry
+"glucose back into the blood. But if it’s been a day or two since you’ve eaten --
+for some reason -- and you’ve burned through both your blood glucose and your glycogen stores,
+and you don’t have any sugars left to feed your brain? In that case, your body will launch into gluconeogenesis,
+and convert fats and amino acids into glucose, so ATP synthesis can continue in your brain
+cells.",466.929,18.872,485.801,NA
 "This process is a sort of last-ditch effort
-by the body to protect the nervous system",485.81,3.15,488.96,NA
-from the damaging effects of low blood sugar.,488.96,1.98,490.94,NA
-"Now, of course, this whole system has flaws.
-And one of them is that the whole setup is",490.94,3.85,494.79,NA
-"almost entirely dependent on the proper release
-and reception of insulin.",494.79,4.159,498.949,NA
-"People with diabetes either don’t produce
-enough insulin, or have abnormal receptors",498.949,3.94,502.889,NA
+by the body to protect the nervous system from the damaging effects of low blood sugar. Now, of course, this whole system has flaws.
+And one of them is that the whole setup is almost entirely dependent on the proper release
+and reception of insulin. People with diabetes either don’t produce
+enough insulin, or have abnormal receptors",485.81,17.079,502.889,NA
 "for it, which is why they often have to inject a
-pharmaceutical version of the chemical after eating.",502.889,4.411,507.3,NA
-"Otherwise, their blood sugar levels will remain
-too high after eating, and they’ll start",507.3,3.08,510.38,NA
-"peeing out large amounts of glucose to try
-and balance the levels in their blood.",510.389,3.571,513.96,NA
-"The problem is, because glucose is being excreted
-and not stored, it’s not available when",513.96,4.29,518.25,NA
-"the blood sugar starts to drop, so the body
-has to draw on fat and protein tissues for",518.25,4.349,522.599,NA
+pharmaceutical version of the chemical after eating. Otherwise, their blood sugar levels will remain
+too high after eating, and they’ll start peeing out large amounts of glucose to try
+and balance the levels in their blood. The problem is, because glucose is being excreted
+and not stored, it’s not available when the blood sugar starts to drop, so the body
+has to draw on fat and protein tissues for",502.889,19.701,522.59,NA
 "energy -- which is one reason why sudden weight
-loss can be an early sign of diabetes.",522.599,3.971,526.57,NA
-"Whether you’re diabetic or not, I think
-we can all agree it is important to respect",526.57,3.54,530.11,NA
-"your blood sugar levels, and remember to continue
-feeding the beast.",530.11,3.49,533.6,NA
-"But, at brunch, just -- you know -- use small
-plates, and try to keep the trips to the buffet",533.6,4.85,538.45,NA
-to under five or so.,538.45,1.88,540.33,NA
+loss can be an early sign of diabetes. Whether you’re diabetic or not, I think
+we can all agree it is important to respect your blood sugar levels, and remember to continue
+feeding the beast. But, at brunch, just -- you know -- use small
+plates, and try to keep the trips to the buffet to under five or so.",522.599,17.731,540.33,NA
 "Today, you learned how your body uses energy
-from food -- including through cellular respiration,",540.33,5.11,545.44,NA
-"which converts glucose into ATP; glycogenesis,
-which converts it to glycogen; and lipogenesis,",545.45,5.34,550.7900000000001,NA
-"which converts it to triglycerides. And you
-also learned how insulin regulates your sugar",550.79,4.41,555.1999999999999,NA
-levels.,555.2,0.35,555.5500000000001,NA
-"Thank you to our Headmaster of Learning, Linnea
-Boyev, and thanks to all of our Patreon patrons",555.55,4.51,560.06,NA
+from food -- including through cellular respiration, which converts glucose into ATP; glycogenesis,
+which converts it to glycogen; and lipogenesis, which converts it to triglycerides. And you
+also learned how insulin regulates your sugar levels. Thank you to our Headmaster of Learning, Linnea
+Boyev, and thanks to all of our Patreon patrons",540.33,19.72,560.0500000000001,NA
 "whose monthly contributions help make Crash
-Course possible, not only for themselves,",560.06,3.8,563.8599999999999,NA
-"but for everyone, everywhere. If you like
-Crash Course and want to help us keep making",563.86,3.71,567.57,NA
-"videos like this one, you can go to patreon.com/crashcourse.",567.57,2.64,570.21,NA
-"This episode was filmed in the Doctor Cheryl
-C. Kinney Crash Course Studio, it was written",570.21,3.56,573.77,NA
-"by Kathleen Yale, edited by Blake de Pastino,
-and our consultant is Dr. Brandon Jackson.",573.77,4.61,578.38,NA
+Course possible, not only for themselves, but for everyone, everywhere. If you like
+Crash Course and want to help us keep making videos like this one, you can go to patreon.com/crashcourse. This episode was filmed in the Doctor Cheryl
+C. Kinney Crash Course Studio, it was written by Kathleen Yale, edited by Blake de Pastino,
+and our consultant is Dr. Brandon Jackson.",560.06,18.32,578.38,NA
 "It was directed by Nicholas Jenkins, edited
-by Nicole Sweeney; our sound designer is Michael",578.38,4.0,582.38,NA
-"Aranda, and the Graphics team is Thought Cafe.",582.38,2.5,584.88,NA
+by Nicole Sweeney; our sound designer is Michael Aranda, and the Graphics team is Thought Cafe.",578.38,6.5,584.88,NA
