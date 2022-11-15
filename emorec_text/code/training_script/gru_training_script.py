@@ -22,7 +22,8 @@ class GRUTrainScript(TrainScript):
 
 def main():
     train_script = GRUTrainScript(device="cuda")
-    train_script.train()
+    train_script.train(lr=1e-4,
+                       n_epochs=300)
 
 
 if __name__ == "__main__":

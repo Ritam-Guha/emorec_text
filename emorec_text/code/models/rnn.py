@@ -22,7 +22,7 @@ class RNNModel(torch.nn.Module):
         self.num_outputs = num_outputs
         self.seed = seed
 
-        self.gru = nn.GRU(input_size=self.input_size,
+        self.gru = nn.RNN(input_size=self.input_size,
                           hidden_size=self.hidden_size,
                           num_layers=self.num_layers,
                           batch_first=True,
