@@ -21,7 +21,7 @@ class LinearClassifierTrainScript(TrainScript):
 
 
 def main():
-    train_script = LinearClassifierTrainScript(device="cpu")
+    train_script = LinearClassifierTrainScript(device="cuda")
     train_script.train(n_epochs=300,
                        lr=1e-3)
 
