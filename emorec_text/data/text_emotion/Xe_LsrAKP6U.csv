@@ -1,56 +1,12 @@
 text,start,duration,end,dominant_emotion
-hi my name is Jennifer de Rossi DeCosta,8.62,4.95,13.57,happy
-I'm a certified diabetes educator and,11.23,4.14,15.370000000000001,happy
-registered nurse for Southwest hospitals,13.57,3.54,17.11,happy
-group and today I'd like to talk to you,15.37,4.47,19.84,happy
-about insulin pump therapy insulin pumps,17.11,5.13,22.24,happy
-are small page like devices that deliver,19.84,4.74,24.58,happy
-insulin they deliver insulin in two,22.24,4.29,26.529999999999998,happy
-different ways one way is that it,24.58,4.35,28.93,happy
-delivers insulin in a slow fashion a,26.53,4.589,31.119,happy
-continuous fashion which is called a,28.93,4.23,33.16,happy
-basal rate this basal rate runs,31.119,5.251,36.37,happy
-continuously for 24 hours it's very,33.16,4.89,38.05,surprise
-similar to what you might already be,36.37,4.02,40.39,surprise
-using for insulin called Lantis or 11:00,38.05,4.439,42.489,surprise
-ER which is continuous or slow acting,40.39,5.58,45.97,happy
-the insulin pump also uses insulin and,42.489,5.611,48.099999999999994,happy
-delivers it in a quick way it delivers,45.97,4.23,50.2,happy
-insulin as a large burst of insulin,48.1,3.15,51.25,happy
-which is called,50.2,3.359,53.559000000000005,happy
-a bolus a bolus would be delivered,51.25,4.079,55.329,happy
-through the pump anytime that you eat,53.559,4.081,57.64,happy
-grams of carbohydrate or anytime your,55.329,4.89,60.219,happy
-blood sugar is elevated for instance if,57.64,4.259,61.899,happy
-your blood sugar is above your target,60.219,4.171,64.39,happy
-you would give more insulin that's,61.899,5.401,67.3,happy
-called the bolus now I know this sounds,64.39,4.649,69.039,happy
-difficult to understand but actually,67.3,3.27,70.57,happy
-insulin pumps are pretty easy to use,69.039,3.901,72.94,fear
-prior to someone going on an insulin,70.57,4.32,74.88999999999999,fear
-pump you would be thoroughly trained on,72.94,3.959,76.899,happy
-how to use these now to clear up some,74.89,6.03,80.92,happy
-misconceptions insulin pumps are easy to,76.899,6.36,83.259,happy
-use with training there is not a,80.92,4.289,85.209,happy
-surgical procedure there's no surgery,83.259,5.161,88.42,happy
-involved most people feel that insulin,85.209,4.981,90.19,happy
-pumps are probably too fragile for your,88.42,3.42,91.84,happy
-lifestyle and that's actually a,90.19,2.55,92.74,happy
-misconception,91.84,3.27,95.11,happy
-insulin pumps are used by all types of,92.74,4.14,96.88,happy
-people from children to professional,95.11,5.459,100.569,happy
-athletes in addition to that pumps do,96.88,5.67,102.55,happy
-not know what your blood Sugar's are you,100.569,3.72,104.289,happy
-still have to monitor your blood sugar,102.55,3.84,106.39,happy
-and you basically tell the pump how much,104.289,4.291,108.58,happy
-insulin to give it does not know what,106.39,4.56,110.95,happy
-your blood sugars are so hopefully this,108.58,3.929,112.509,happy
-gets you thinking about what insulin,110.95,3.75,114.7,happy
-pumps are all about and we hope to see,112.509,3.961,116.47,happy
-you here I think it's a great tool for,114.7,3.93,118.63000000000001,happy
-people to use in fact I personally use,116.47,4.22,120.69,happy
-an insulin pump for the last 15 years,118.63,4.409,123.039,happy
-hope to see you at the diabetes program,120.69,4.269,124.959,happy
-at South Coast Hospitals group our,123.039,4.14,127.179,happy
-number is five zero eight three two four,124.959,5.991,130.95,happy
-three two six zero thank you,127.179,3.771,130.95,happy
+hi my name is Jennifer de Rossi DeCosta I'm a certified diabetes educator and registered nurse for Southwest hospitals group and today I'd like to talk to you about insulin pump therapy insulin pumps,8.62,22.229999999999997,30.849999999999994,angry
+are small page like devices that deliver insulin they deliver insulin in two different ways one way is that it delivers insulin in a slow fashion a continuous fashion which is called a,19.84,22.199,42.039,angry
+basal rate this basal rate runs continuously for 24 hours it's very similar to what you might already be using for insulin called Lantis or 11:00 ER which is continuous or slow acting,31.119,24.18,55.299,angry
+the insulin pump also uses insulin and delivers it in a quick way it delivers insulin as a large burst of insulin which is called a bolus a bolus would be delivered,42.489,20.429000000000002,62.918,angry
+through the pump anytime that you eat grams of carbohydrate or anytime your blood sugar is elevated for instance if your blood sugar is above your target you would give more insulin that's,53.559,22.802,76.36099999999999,angry
+called the bolus now I know this sounds difficult to understand but actually insulin pumps are pretty easy to use prior to someone going on an insulin pump you would be thoroughly trained on,64.39,20.099,84.489,angry
+how to use these now to clear up some misconceptions insulin pumps are easy to use with training there is not a surgical procedure there's no surgery involved most people feel that insulin,74.89,26.821000000000005,101.71100000000001,angry
+pumps are probably too fragile for your lifestyle and that's actually a misconception insulin pumps are used by all types of people from children to professional,88.42,18.839,107.259,angry
+athletes in addition to that pumps do not know what your blood Sugar's are you still have to monitor your blood sugar and you basically tell the pump how much insulin to give it does not know what,96.88,22.081,118.961,angry
+your blood sugars are so hopefully this gets you thinking about what insulin pumps are all about and we hope to see you here I think it's a great tool for people to use in fact I personally use,108.58,19.79,128.37,angry
+an insulin pump for the last 15 years hope to see you at the diabetes program at South Coast Hospitals group our number is five zero eight three two four three two six zero thank you,118.63,22.580000000000002,141.21,sad

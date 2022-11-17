@@ -1,54 +1,12 @@
 text,start,duration,end,dominant_emotion
-when Alex was first diagnosed the pump,0.0,6.629,6.629,angry
-was a popular way to go she utterly did,2.28,6.27,8.549999999999999,angry
-not feel comfortable doing that she,6.629,4.201,10.829999999999998,angry
-wanted to do injections I thought it was,8.55,4.11,12.66,surprise
-important to follow her lead in all,10.83,4.62,15.45,surprise
-things because it was helping her to,12.66,4.949,17.609,
-become independent living with type 1,15.45,4.19,19.64,
-diabetes,17.609,2.031,19.64,
-so what ended up happening was she was,25.57,7.72,33.29,happy
-using the injections pretty much every,29.9,5.61,35.51,happy
-day and there was a lot of ups and downs,33.29,5.01,38.3,fear
-there were a lot of things we couldn't,35.51,7.74,43.25,fear
-figure out and it just became very clear,38.3,8.91,47.209999999999994,happy
-that the management of the diabetes was,43.25,6.54,49.79,happy
-going to be much better handled if she,47.21,6.24,53.45,happy
-went on a pump and I think initially as,49.79,6.269,56.059,happy
-a young woman she felt that having,53.45,5.94,59.39,happy
-anything attached to her body was not,56.059,5.041,61.099999999999994,fear
-something that she really wanted to do,59.39,4.83,64.22,happy
-and I understood that she did the,61.1,5.73,66.83,happy
-injections for about a year and then she,64.22,6.18,70.4,fear
-went on the pump and it is remarkable,66.83,6.899,73.729,happy
-the difference in how the pump is able,70.4,7.68,78.08000000000001,happy
-to manage diabetes better than in our,73.729,8.311,82.03999999999999,happy
-opinion in our experience injections,78.08,6.149,84.229,neutral
-because it's a lot more work with the,82.04,5.82,87.86000000000001,happy
-injections so we kind of took baby steps,84.229,6.871,91.1,happy
-towards it but at the end of the day and,87.86,5.34,93.2,happy
-the technology has changed greatly as,91.1,6.15,97.25,happy
-well the pump is very tiny now and it,93.2,6.9,100.10000000000001,happy
-just becomes normal to wear but in the,97.25,5.22,102.47,happy
-beginning it can be a transition the,100.1,4.35,104.44999999999999,fear
-second thing that was incredibly helpful,102.47,6.0,108.47,fear
-was CGM which again alex refused to do,104.45,6.779,111.229,happy
-for a while and she was finger pricking,108.47,6.539,115.009,happy
-and that became somewhat untenable,111.229,7.2,118.429,happy
-because you have to prick your finger so,115.009,5.67,120.679,happy
-many times during the day and you know,118.429,4.14,122.569,happy
-what sometimes you don't because you,120.679,3.811,124.49000000000001,happy
-don't feel like doing it but with the,122.569,5.731,128.3,
-CGM it's automatic and it gives you all,124.49,5.879,130.369,
-the information and it feeds you,128.3,5.549,133.84900000000002,NA
-everything so I would say in our,130.369,6.871,137.24,NA
-experience that using the pump and the,133.849,4.851,138.7,NA
-CGM technology,137.24,4.7,141.94,NA
-was life-altering but what I would also,138.7,6.93,145.63,NA
-say is that as a newly diagnosed family,141.94,6.6,148.54,NA
-sometimes you need to go through what,145.63,5.76,151.39,NA
-you need to go through in terms of the,148.54,5.19,153.73,NA
-initial injections and that's okay,151.39,4.13,155.51999999999998,NA
-that's okay,153.73,4.28,158.01,NA
-[Music],155.52,4.549,160.06900000000002,NA
-you,158.01,2.059,160.069,NA
+when Alex was first diagnosed the pump was a popular way to go she utterly did not feel comfortable doing that she wanted to do injections I thought it was important to follow her lead in all,0.0,25.83,25.83,angry
+things because it was helping her to become independent living with type 1 diabetes so what ended up happening was she was using the injections pretty much every,12.66,24.5,37.16,sad
+day and there was a lot of ups and downs there were a lot of things we couldn't figure out and it just became very clear that the management of the diabetes was going to be much better handled if she,33.29,34.44,67.72999999999999,sad
+went on a pump and I think initially as a young woman she felt that having anything attached to her body was not something that she really wanted to do and I understood that she did the,49.79,27.81,77.6,sad
+injections for about a year and then she went on the pump and it is remarkable the difference in how the pump is able to manage diabetes better than in our opinion in our experience injections,64.22,35.219,99.439,sad
+because it's a lot more work with the injections so we kind of took baby steps towards it but at the end of the day and the technology has changed greatly as well the pump is very tiny now and it,82.04,31.080999999999996,113.12100000000001,sad
+just becomes normal to wear but in the beginning it can be a transition the second thing that was incredibly helpful was CGM which again alex refused to do for a while and she was finger pricking,97.25,28.887999999999998,126.138,sad
+and that became somewhat untenable because you have to prick your finger so many times during the day and you know what sometimes you don't because you don't feel like doing it but with the,111.229,26.552,137.781,sad
+CGM it's automatic and it gives you all the information and it feeds you everything so I would say in our experience that using the pump and the CGM technology,124.49,27.849999999999998,152.34,NA
+was life-altering but what I would also say is that as a newly diagnosed family sometimes you need to go through what you need to go through in terms of the initial injections and that's okay,138.7,28.61,167.31,NA
+that's okay [Music] you,153.73,10.888000000000002,164.618,NA

@@ -1,78 +1,17 @@
 text,start,duration,end,dominant_emotion
-when talking to women with PCOS about,0.0,4.799,4.799,surprise
-nutrition one of the first things I,2.82,4.05,6.869999999999999,happy
-recommend that they do is to anti,4.799,5.461,10.260000000000002,happy
-oxidize themselves fruits that are one,6.87,5.43,12.3,happy
-of mother nature's most potent,10.26,5.879,16.139,neutral
-anti-inflammatory chemicals antioxidants,12.3,6.21,18.51,neutral
-are your body seekers and destroyers,16.139,5.611,21.75,happy
-they specialize in scavenging damaging,18.51,7.89,26.400000000000002,happy
-chemicals that encourage aging when,21.75,6.9,28.65,fear
-choosing fruits choose fruits that are,26.4,5.25,31.65,surprise
-deeper in color generally they have a,28.65,6.21,34.86,happy
-higher antioxidant content these fruits,31.65,5.27,36.92,happy
-would include blueberries cherries,34.86,5.16,40.019999999999996,neutral
-pomegranates and strawberries it is,36.92,4.479,41.399,neutral
-important to keep your blood sugar,40.02,4.01,44.03,surprise
-stable and that will help reduce,41.399,6.39,47.789,neutral
-carbohydrate cravings refuel your body,44.03,6.82,50.85,neutral
-frequently and spread your meal or,47.789,6.231,54.02,surprise
-snacks evenly throughout the day,50.85,6.209,57.059,surprise
-remember to eat every three to five,54.02,7.57,61.59,surprise
-hours and at each meal or snack include,57.059,8.25,65.309,surprise
-a carbohydrate a protein and a healthy,61.59,7.02,68.61,surprise
-fat remember to moderate your meat,65.309,6.211,71.52,surprise
-intake a diet high in protein will,68.61,6.119,74.729,surprise
-provoked inflammation keep your serving,71.52,6.15,77.67,surprise
-size of protein to the size of the palm,74.729,6.18,80.90899999999999,neutral
-of your hand and remember choose lean,77.67,7.699,85.369,surprise
-animal protein red meat poultry and fish,80.909,7.14,88.049,surprise
-you might even want to try an occasional,85.369,6.551,91.92,surprise
-vegetarian meal of beans lentils hummus,88.049,7.11,95.159,surprise
-or tofu as a way of increasing protein,91.92,5.55,97.47,surprise
-in your diet without encouraging,95.159,5.491,100.65,surprise
-information it is important to have fat,97.47,5.789,103.259,surprise
-in your meal plan and choosing healthy,100.65,5.94,106.59,surprise
-fats are an important way of balancing,103.259,7.231,110.49,surprise
-your diet choose fats such as olive oil,106.59,7.74,114.33,surprise
-canola oil peanut oil avocados and,110.49,7.35,117.83999999999999,fear
-all of nuts and seeds and peanut butter,114.33,6.18,120.50999999999999,surprise
-and nut butters remember to watch the,117.84,5.01,122.85000000000001,surprise
-portion size as they are very high in,120.51,7.34,127.85000000000001,neutral
-calories a word about whole grains,122.85,7.56,130.41,surprise
-low-carbohydrate diets are often,127.85,5.61,133.46,surprise
-recommended for women with PCOS,130.41,5.61,136.02,happy
-carbohydrates are frequently referred to,133.46,6.55,140.01000000000002,surprise
-as bad or good harp and associated with,136.02,7.95,143.97,surprise
-weight gain when seeking carbohydrates,140.01,7.86,147.87,fear
-choose whole grain breads pastas cereals,143.97,6.78,150.75,fear
-and crackers and remember to monitor,147.87,5.82,153.69,happy
-your portion size I teach a series,150.75,6.959,157.709,happy
-gaining control of PCOS the program will,153.69,6.99,160.68,happy
-not cure PCOS but it is designed to,157.709,5.641,163.35,surprise
-empower women to make lifestyle and,160.68,5.45,166.13,surprise
-eating changes to reduce or minimize,163.35,7.98,171.32999999999998,surprise
-PCOS symptoms the program provides sound,166.13,8.44,174.57,surprise
-nutrition information based on evidence,171.33,7.23,178.56,surprise
-based research since PCOS is not a,174.57,7.35,181.92,happy
-perfect disease there is not one perfect,178.56,6.899,185.459,neutral
-treatment in series one we talk about,181.92,7.08,189.0,neutral
-signs and symptoms of PCOS various,185.459,5.581,191.04,fear
-medications used in treating the,189.0,5.73,194.73,fear
-symptoms for PCOS balanced meal planning,191.04,7.199,198.239,surprise
-and meal patterns and ways to reduce,194.73,7.38,202.10999999999999,surprise
-stress and emotional eating in series,198.239,6.901,205.14000000000001,surprise
-two we look at the different types of,202.11,6.3,208.41000000000003,surprise
-fats that are in our diet and focusing,205.14,7.319,212.45899999999997,neutral
-on omega-3 fatty acids we tell the truth,208.41,6.93,215.34,surprise
-about carbohydrates and learn how to,212.459,7.081,219.54,surprise
-read a label after the series there's a,215.34,7.11,222.45000000000002,fear
-30 minute individual nutrition consult,219.54,5.82,225.35999999999999,fear
-with the dietitian where women can meet,222.45,5.19,227.64,fear
-with the dietitian to discuss their,225.36,5.07,230.43,fear
-individual nutritional needs gaining,227.64,6.99,234.63,surprise
-control of PCOS will not cure PCOS it,230.43,6.96,237.39000000000001,surprise
-was designed to empower women to make,234.63,6.0,240.63,surprise
-lifestyle and eating changes to reduce,237.39,6.179,243.569,surprise
-or minimize polycystic ovarian syndrome,240.63,5.72,246.35,neutral
-symptoms,243.569,2.781,246.35,neutral
+when talking to women with PCOS about nutrition one of the first things I recommend that they do is to anti oxidize themselves fruits that are one of mother nature's most potent,0.0,25.619,25.619,sad
+anti-inflammatory chemicals antioxidants are your body seekers and destroyers they specialize in scavenging damaging chemicals that encourage aging when choosing fruits choose fruits that are,12.3,31.860999999999997,44.161,sad
+deeper in color generally they have a higher antioxidant content these fruits would include blueberries cherries pomegranates and strawberries it is important to keep your blood sugar,28.65,25.128999999999998,53.778999999999996,sad
+stable and that will help reduce carbohydrate cravings refuel your body frequently and spread your meal or snacks evenly throughout the day remember to eat every three to five,41.399,33.22,74.619,sad
+hours and at each meal or snack include a carbohydrate a protein and a healthy fat remember to moderate your meat intake a diet high in protein will provoked inflammation keep your serving,57.059,33.75,90.809,sad
+size of protein to the size of the palm of your hand and remember choose lean animal protein red meat poultry and fish you might even want to try an occasional vegetarian meal of beans lentils hummus,74.729,34.68,109.40899999999999,sad
+or tofu as a way of increasing protein in your diet without encouraging information it is important to have fat in your meal plan and choosing healthy fats are an important way of balancing,91.92,30.000999999999998,121.92099999999999,sad
+your diet choose fats such as olive oil canola oil peanut oil avocados and all of nuts and seeds and peanut butter and nut butters remember to watch the portion size as they are very high in,106.59,33.620000000000005,140.21,sad
+calories a word about whole grains low-carbohydrate diets are often recommended for women with PCOS carbohydrates are frequently referred to as bad or good harp and associated with,122.85,33.28,156.13,sad
+weight gain when seeking carbohydrates choose whole grain breads pastas cereals and crackers and remember to monitor your portion size I teach a series gaining control of PCOS the program will,140.01,34.409,174.41899999999998,sad
+not cure PCOS but it is designed to empower women to make lifestyle and eating changes to reduce or minimize PCOS symptoms the program provides sound nutrition information based on evidence,157.709,34.741,192.45,sad
+based research since PCOS is not a perfect disease there is not one perfect treatment in series one we talk about signs and symptoms of PCOS various medications used in treating the,174.57,32.64,207.20999999999998,sad
+symptoms for PCOS balanced meal planning and meal patterns and ways to reduce stress and emotional eating in series two we look at the different types of fats that are in our diet and focusing,191.04,35.099000000000004,226.139,sad
+on omega-3 fatty acids we tell the truth about carbohydrates and learn how to read a label after the series there's a 30 minute individual nutrition consult with the dietitian where women can meet,208.41,32.131,240.541,sad
+with the dietitian to discuss their individual nutritional needs gaining control of PCOS will not cure PCOS it was designed to empower women to make lifestyle and eating changes to reduce,225.36,31.198999999999998,256.559,sad
+or minimize polycystic ovarian syndrome symptoms,240.63,8.501,249.131,sad

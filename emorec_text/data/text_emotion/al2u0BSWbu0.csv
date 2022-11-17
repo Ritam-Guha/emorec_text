@@ -1,47 +1,11 @@
 text,start,duration,end,dominant_emotion
-fasting blood sugar levels are measured,0.03,3.99,4.0200000000000005,happy
-by taking a blood test during a period,2.25,4.2,6.45,happy
-of fasting usually of around 8 hours,4.02,5.28,9.3,happy
-without food typically blood glucose,6.45,4.56,11.01,neutral
-levels are measured in the morning,9.3,3.99,13.290000000000001,happy
-before any breakfast is eaten when,11.01,3.839,14.849,happy
-having your blood glucose levels,13.29,3.3,16.59,happy
-measured you should make sure you don't,14.849,3.571,18.42,happy
-drink anything apart from water during,16.59,5.88,22.47,happy
-the period of fasting a fasting blood,18.42,6.21,24.630000000000003,happy
-glucose test can be useful to see how,22.47,3.899,26.369,happy
-well the body can manage blood sugar,24.63,4.38,29.009999999999998,happy
-levels in the absence of food when we do,26.369,4.381,30.75,neutral
-not eat for several hours the body,29.01,3.51,32.52,neutral
-should release glucose into the blood,30.75,3.87,34.62,neutral
-via the liver and in response to this,32.52,4.11,36.63,neutral
-the body should produce insulin to,34.62,6.15,40.769999999999996,neutral
-stabilize blood sugar levels a fasting,36.63,6.14,42.77,neutral
-blood glucose test therefore shows,40.77,4.5,45.27,happy
-whether the body is able to bring down,42.77,4.539,47.309000000000005,happy
-the blood glucose levels present from,45.27,4.559,49.829,happy
-the previous meal how effectively the,47.309,4.171,51.48,happy
-body copes with its own production of,49.829,4.591,54.42,neutral
-glucose the targets for fasting blood,51.48,4.919,56.398999999999994,neutral
-glucose levels are the same as the,54.42,4.77,59.19,neutral
-targets for before meal readings for,56.399,5.101,61.5,neutral
-adults with diabetes the target levels,59.19,4.439,63.629,neutral
-are between 4 and 7 millimoles per liter,61.5,5.04,66.54,happy
-for children with diabetes the target,63.629,4.861,68.49,happy
-levels are between 4 and 8 millimoles,66.54,4.59,71.13000000000001,neutral
-per liter however some people may be,68.49,5.4,73.89,happy
-given individual targets by their doctor,71.13,7.29,78.42,happy
-that differ to these fasting blood,73.89,6.36,80.25,happy
-glucose tests for people with type 2,78.42,4.199,82.619,happy
-diabetes are useful for showing how well,80.25,4.38,84.63,neutral
-your body's insulin responds to periods,82.619,5.011,87.63,NA
-without food such as overnight in type 1,84.63,3.629,88.259,NA
-diabetes,87.63,3.09,90.72,NA
-fasting blood glucose tests help to show,88.259,4.11,92.369,NA
-whether your long-term insulin or,90.72,3.48,94.2,NA
-background insulin as it's sometimes,92.369,3.901,96.27,NA
-known is set to the right levels if,94.2,4.11,98.31,NA
-you're in any doubt your healthcare team,96.27,3.599,99.869,NA
-should be able to help you understand,98.31,3.33,101.64,NA
-your levels and determine whether they,99.869,4.521,104.39,NA
+fasting blood sugar levels are measured by taking a blood test during a period of fasting usually of around 8 hours without food typically blood glucose levels are measured in the morning,0.03,22.020000000000003,22.050000000000004,happy
+before any breakfast is eaten when having your blood glucose levels measured you should make sure you don't drink anything apart from water during the period of fasting a fasting blood,11.01,22.8,33.81,happy
+glucose test can be useful to see how well the body can manage blood sugar levels in the absence of food when we do not eat for several hours the body should release glucose into the blood,22.47,20.040000000000003,42.510000000000005,happy
+via the liver and in response to this the body should produce insulin to stabilize blood sugar levels a fasting blood glucose test therefore shows whether the body is able to bring down,32.52,25.439,57.959,happy
+the blood glucose levels present from the previous meal how effectively the body copes with its own production of glucose the targets for fasting blood glucose levels are the same as the,45.27,23.01,68.28,happy
+targets for before meal readings for adults with diabetes the target levels are between 4 and 7 millimoles per liter for children with diabetes the target levels are between 4 and 8 millimoles,56.399,24.031,80.43,happy
+per liter however some people may be given individual targets by their doctor that differ to these fasting blood glucose tests for people with type 2 diabetes are useful for showing how well,68.49,27.629,96.119,happy
+your body's insulin responds to periods without food such as overnight in type 1 diabetes fasting blood glucose tests help to show whether your long-term insulin or,82.619,19.32,101.939,NA
+background insulin as it's sometimes known is set to the right levels if you're in any doubt your healthcare team should be able to help you understand your levels and determine whether they,92.369,19.461,111.83,NA
 need changing,101.64,2.75,104.39,NA

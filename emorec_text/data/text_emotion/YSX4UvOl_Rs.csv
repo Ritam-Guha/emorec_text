@@ -1,28 +1,7 @@
 text,start,duration,end,dominant_emotion
-BMI stands for body mass index it's a,0.11,5.68,5.79,happy
-system used to give a rough idea as to,3.929,4.041,7.970000000000001,happy
-whether people are under or overweight,5.79,5.34,11.129999999999999,happy
-the BMI index compares a person's height,7.97,5.74,13.71,happy
-against their weight the heavier you are,11.13,4.65,15.780000000000001,surprise
-compared with how tall you are the,13.71,4.56,18.27,fear
-higher your BMI value will be this is,15.78,4.38,20.16,fear
-based around the idea that a person who,18.27,5.22,23.49,fear
-is taller should weigh more the NHS,20.16,5.789,25.948999999999998,fear
-advises at a BMI of between eighteen and,23.49,4.56,28.049999999999997,happy
-a half and twenty-five is a healthy,25.949,4.561,30.51,happy
-weight under eighteen and a half,28.05,4.4,32.45,happy
-indicates that you may be underweight,30.51,4.83,35.34,happy
-over 25 indicates that you may be,32.45,5.83,38.28,happy
-overweight and over thirty indicates,35.34,6.809,42.149,fear
-that you may be obese the BMI idea is,38.28,5.97,44.25,fear
-sometimes criticized as some people can,42.149,3.901,46.05,fear
-be incorrectly labelled as overweight by,44.25,4.26,48.51,
-the system people with a high muscle,46.05,5.43,51.48,
-mass such as boxers or rugby players for,48.51,5.45,53.96,
-example may be labeled as overweight,51.48,5.27,56.75,
-it's quite easy to get a BMI measurement,53.96,5.02,58.980000000000004,
-to start with you need to measure your,56.75,5.05,61.8,NA
-height and weight then visit the BMI,58.98,6.329,65.309,NA
-calculator page on diabetes Co UK which,61.8,5.58,67.38,NA
-has a tool that to work out your own BMI,65.309,4.49,69.79899999999999,NA
-value,67.38,2.419,69.79899999999999,NA
+BMI stands for body mass index it's a system used to give a rough idea as to whether people are under or overweight the BMI index compares a person's height against their weight the heavier you are,0.11,25.451,25.561,angry
+compared with how tall you are the higher your BMI value will be this is based around the idea that a person who is taller should weigh more the NHS advises at a BMI of between eighteen and,13.71,24.508999999999997,38.218999999999994,happy
+a half and twenty-five is a healthy weight under eighteen and a half indicates that you may be underweight over 25 indicates that you may be overweight and over thirty indicates,25.949,26.430000000000003,52.379000000000005,happy
+that you may be obese the BMI idea is sometimes criticized as some people can be incorrectly labelled as overweight by the system people with a high muscle mass such as boxers or rugby players for,38.28,25.011,63.291,NA
+example may be labeled as overweight it's quite easy to get a BMI measurement to start with you need to measure your height and weight then visit the BMI calculator page on diabetes Co UK which,51.48,27.249000000000002,78.729,NA
+has a tool that to work out your own BMI value,65.309,6.909000000000001,72.218,NA

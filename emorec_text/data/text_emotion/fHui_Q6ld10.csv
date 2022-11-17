@@ -1,96 +1,58 @@
 text,start,duration,end,dominant_emotion
 "{Music Playing}
-Ellie: it's difficult to describe acromegaly",0.0,20.15,20.15,surprise
-"to people. It's extremely hard. You can give
-them resources and show them the definitions,",20.15,6.629,26.778999999999996,
-"but unless you're experiencing it, there
-really is no way to describe it to people.",26.779,7.071,33.85,
-"My name is Ellie Kolosovsky and I was diagnosed
-in 2010 with acromegaly. My first symptoms",33.85,6.869,40.719,
-"with acromegaly were a change in ring size
-and feet size after the birth of my daughter.",40.719,7.531,48.25,
+Ellie: it's difficult to describe acromegaly to people. It's extremely hard. You can give
+them resources and show them the definitions, but unless you're experiencing it, there
+really is no way to describe it to people. My name is Ellie Kolosovsky and I was diagnosed
+in 2010 with acromegaly. My first symptoms with acromegaly were a change in ring size
+and feet size after the birth of my daughter.",0.0,48.24999999999999,48.24999999999999,sad
 "Before acromegaly, I was a very active individual.
-It was landscaping during college, loved to",48.25,6.129,54.379,
-"be outdoors. I loved rock climbing. I loved,
-any kind of outdoor activity with, you know,",54.379,5.881,60.26,
-"my husband. We just really liked adventure.
-My OGBYN diagnosed me kind of as a fluke.",60.26,11.179,71.439,
-"She saw me at my yearly checkup after the
-birth of my daughter. The reason that my OGBYN",71.439,6.451,77.88999999999999,
-"was able to diagnose me was because she did
-part of her residency in the endocrine clinic",77.89,5.28,83.17,
+It was landscaping during college, loved to be outdoors. I loved rock climbing. I loved,
+any kind of outdoor activity with, you know, my husband. We just really liked adventure.
+My OGBYN diagnosed me kind of as a fluke. She saw me at my yearly checkup after the
+birth of my daughter. The reason that my OGBYN was able to diagnose me was because she did
+part of her residency in the endocrine clinic",48.25,34.92,83.17,sad
 "at Froedtert Hospital in Milwaukee, and with
-that she saw a number of other acromegaly",83.17,7.01,90.18,
-"patients, so she was able to spot, the
-symptoms. Without that I don't think that",90.18,5.54,95.72000000000001,
-"I would have been diagnosed.
-After I was diagnosed, I met with a team,",95.72,5.13,100.85,
-"a neurosurgeon and an endocrinologist, and
-they decided that it was best that I receive",100.85,4.47,105.32,
-"surgery first to debulk most of my tumor.
-The results of having residual tumor in my",105.32,5.79,111.11,
+that she saw a number of other acromegaly patients, so she was able to spot, the
+symptoms. Without that I don't think that I would have been diagnosed.
+After I was diagnosed, I met with a team, a neurosurgeon and an endocrinologist, and
+they decided that it was best that I receive surgery first to debulk most of my tumor.
+The results of having residual tumor in my",83.17,27.939999999999998,111.11,sad
 "brain is that now I need to follow up with
-radiation and medication in order to continue",111.11,5.619,116.729,
-"to treat the IGF1 levels that are still
-in my blood stream.",116.729,6.191,122.92,
-"Despite being on my medication for, four to
-five years, it took that long for me to get,",122.92,6.679,129.599,
-"relief from my symptoms of fatigue and
-joint pain, sweating being able to get",129.599,8.381,137.98,
-"back to a normal life again. A typical day
-was pretty rough from the time that I woke",137.98,5.28,143.26,
+radiation and medication in order to continue to treat the IGF1 levels that are still
+in my blood stream. Despite being on my medication for, four to
+five years, it took that long for me to get, relief from my symptoms of fatigue and
+joint pain, sweating being able to get back to a normal life again. A typical day
+was pretty rough from the time that I woke",111.11,32.15,143.26,sad
 "up if I even slept. It was very difficult
-for me to take care of my newborn child. Waking",143.26,7.91,151.17,
-"up and putting my feet on the floor the
-pain in my feet was so severe that sometimes",151.17,5.73,156.89999999999998,fear
-"I would fall over if I would forget to brace
-myself when I would get out of bed.",156.9,5.6,162.5,
-"I'm extremely lucky to have the family support
-that I have. A support system is so vital",162.5,6.75,169.25,
-"with this disease. I decided to go to the
-last acromegaly conference kind of on a whim.",169.25,9.14,178.39,
+for me to take care of my newborn child. Waking up and putting my feet on the floor the
+pain in my feet was so severe that sometimes I would fall over if I would forget to brace
+myself when I would get out of bed. I'm extremely lucky to have the family support
+that I have. A support system is so vital with this disease. I decided to go to the
+last acromegaly conference kind of on a whim.",143.26,35.13,178.39,sad
 "I'm part of the acromegaly community on Facebook
-and I had seen that this conference was coming",178.39,5.22,183.60999999999999,
-"up. And I have a very good friend that has
-kind of been with me through thick and thin,",183.61,5.72,189.33,
-"and she jumped right onboard and decided that
-she wanted to come with me. She was unbelievably",189.33,6.61,195.94000000000003,happy
-"supportive the entire time that she was there,
-and took notes. Took better notes than",195.94,5.39,201.32999999999998,
-"I did. And one of the most incredible things
-was when she looked at me and just said, ""I",201.33,8.299,209.62900000000002,
+and I had seen that this conference was coming up. And I have a very good friend that has
+kind of been with me through thick and thin, and she jumped right onboard and decided that
+she wanted to come with me. She was unbelievably supportive the entire time that she was there,
+and took notes. Took better notes than I did. And one of the most incredible things
+was when she looked at me and just said, ""I",178.39,31.239,209.629,sad
 "can't believe that this is what you guys deal
-with every day."" It was like somebody",209.629,5.19,214.819,fear
-"finally got it.
-After surgery and radiation, I started on",214.819,7.711,222.53,
-"my monthly injection. After that did not work,
-then we went to daily injections as well as",222.53,5.83,228.36,
-"the monthly injection, and then I had the
-birth of my son, so we kind of, we stopped",228.36,4.79,233.15,
-"the injections, and after he was born, we
-went back up to the maximum dose of both injections.",233.15,5.8,238.95000000000002,
+with every day."" It was like somebody finally got it.
+After surgery and radiation, I started on my monthly injection. After that did not work,
+then we went to daily injections as well as the monthly injection, and then I had the
+birth of my son, so we kind of, we stopped the injections, and after he was born, we
+went back up to the maximum dose of both injections.",209.629,29.321,238.95,sad
 "In a regular treatment month I receive my
-injection, and about three weeks into my injection",238.95,7.8,246.75,
-"I have some pretty severe wear-off effects.
-I can immediately feel, you know, hip pain",246.75,8.56,255.31,
-"and joint pain, and my headaches get pretty
-severe. It's regular almost to the, to the",255.31,7.54,262.85,
-"day of three weeks into my injections that
-I start feeling that wear-off effect.",262.85,5.3,268.15000000000003,
-"Three months ago I started finally feeling
-a lot better, able to physically do a lot",268.15,6.19,274.34,fear
+injection, and about three weeks into my injection I have some pretty severe wear-off effects.
+I can immediately feel, you know, hip pain and joint pain, and my headaches get pretty
+severe. It's regular almost to the, to the day of three weeks into my injections that
+I start feeling that wear-off effect. Three months ago I started finally feeling
+a lot better, able to physically do a lot",238.95,35.39,274.34,sad
 "of the things that I was able to do before:
-exercise, I lost a lot of weight, started",274.34,5.54,279.88,neutral
-"looking like myself again. My husband and
-I booked a trip to Colorado and looking into",279.88,6.92,286.8,
-"our trip, I was starting to plan things that
-I never would have imagined planning in the",286.8,5.24,292.04,
-"last five years.
-And we got out on the trail and of course",292.04,3.04,295.08000000000004,
-"my husband, who's super adventurous is feeling
-ambitious, and he's like, ""Come on, let's",295.08,4.179,299.25899999999996,
+exercise, I lost a lot of weight, started looking like myself again. My husband and
+I booked a trip to Colorado and looking into our trip, I was starting to plan things that
+I never would have imagined planning in the last five years.
+And we got out on the trail and of course my husband, who's super adventurous is feeling
+ambitious, and he's like, ""Come on, let's",274.34,24.919000000000004,299.25899999999996,sad
 "do it."" And I never would have done that before.
-There's no way. It's the- absolutely the hardest",299.259,6.451,305.71000000000004,
-"thing I've ever done in my life, but I'm so
-proud that I did it, and I can I can say that",305.71,6.209,311.919,
-I conquered it.,311.919,0.921,312.84,fear
+There's no way. It's the- absolutely the hardest thing I've ever done in my life, but I'm so
+proud that I did it, and I can I can say that I conquered it.",299.259,13.581,312.84000000000003,sad

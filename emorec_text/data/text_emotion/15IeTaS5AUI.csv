@@ -1,98 +1,55 @@
 text,start,duration,end,dominant_emotion
 "JOHN ESSIGMANN: There are
-many different treatments",0.215,2.125,2.34,
-for diabetes.,2.34,1.08,3.42,
-"I'll just use myself
-as a case study.",3.42,2.28,5.699999999999999,
-"One of the things
-I did to myself",5.7,1.71,7.41,
-"is I measure my blood sugar at
-different times during the day,",7.41,4.47,11.879999999999999,surprise
+many different treatments for diabetes. I'll just use myself
+as a case study. One of the things
+I did to myself is I measure my blood sugar at
+different times during the day,",0.215,11.665,11.879999999999999,sad
 "and my blood sugar
-this morning was 116.",11.88,5.34,17.22,surprise
-"And my blood sugar at about
-five o'clock this afternoon",17.22,4.02,21.24,sad
-"will probably be in
-the high 80s or 90.",21.24,3.21,24.45,surprise
-"My blood sugar after I have a
-meal might go up to 160, 170,",24.45,6.93,31.38,
-and it shouldn't go that high.,31.38,2.1,33.48,surprise
+this morning was 116. And my blood sugar at about
+five o'clock this afternoon will probably be in
+the high 80s or 90. My blood sugar after I have a
+meal might go up to 160, 170, and it shouldn't go that high.",11.88,21.6,33.480000000000004,sad
 "And some mornings, like
-a couple of days ago,",33.48,2.1,35.58,surprise
-"my blood sugar was
-146, which is too high.",35.58,4.83,40.41,surprise
-"And that reflects two things,
-what I ate the night before,",40.41,3.457,43.867,
-"but the second thing
-is the one that's",43.867,1.583,45.449999999999996,
-"my problem, which
-is gluconeogenesis.",45.45,2.25,47.7,sad
+a couple of days ago, my blood sugar was
+146, which is too high. And that reflects two things,
+what I ate the night before, but the second thing
+is the one that's my problem, which
+is gluconeogenesis.",33.48,14.22,47.699999999999996,sad
 "Gluconeogenesis technically
-means new synthesis of glucose",51.386,3.594,54.980000000000004,
-"from non-carbohydrate
-precursors.",54.98,1.98,56.959999999999994,
-"For example, I could take
-the amino acid aspartate,",56.96,5.13,62.09,
-"and I could find a path by
-which I could convert that",62.09,2.91,65.0,
-into glucose.,65.0,1.32,66.32,sad
+means new synthesis of glucose from non-carbohydrate
+precursors. For example, I could take
+the amino acid aspartate, and I could find a path by
+which I could convert that into glucose.",51.386,14.934000000000001,66.32000000000001,sad
 "I could take lactate, and I
-could convert it into glucose.",66.32,2.58,68.89999999999999,
-"OK, so during the day, I use
-my glucose, and I stay active,",71.84,4.23,76.07000000000001,
-and I walk around.,76.07,1.44,77.50999999999999,sad
-I ride my bike and so on.,77.51,1.45,78.96000000000001,
-"So my glucose level, it's
-pretty reasonable by the time",78.96,2.66,81.61999999999999,
-I go to bed.,81.62,1.59,83.21000000000001,angry
-"But then at night, when I
-stop moving around a lot,",83.21,6.09,89.3,surprise
-"this gluconeogenesis
-process continues in me,",89.3,3.6,92.89999999999999,sad
-"and that's what causes
-my blood sugar to go up.",92.9,3.87,96.77000000000001,angry
-"The medicine I take
-is called Metformin.",96.77,2.295,99.065,
+could convert it into glucose. OK, so during the day, I use
+my glucose, and I stay active, and I walk around. I ride my bike and so on. So my glucose level, it's
+pretty reasonable by the time",66.32,12.36,78.67999999999999,sad
+"I go to bed. But then at night, when I
+stop moving around a lot, this gluconeogenesis
+process continues in me, and that's what causes
+my blood sugar to go up. The medicine I take
+is called Metformin.",81.62,17.445,99.065,sad
 "It has a number of
-targets, but one of them",99.065,2.925,101.99,
-"is one of the enzymes, called
-PEPCK, Pyruvate Carboxykinase,",101.99,9.54,111.53,
-"that's in the
-gluconeogenic pathway.",111.53,2.11,113.64,surprise
-"Let me say a word about
-gluconeogenesis, another word",113.64,2.42,116.06,surprise
-actually.,116.06,1.89,117.95,fear
+targets, but one of them is one of the enzymes, called
+PEPCK, Pyruvate Carboxykinase, that's in the
+gluconeogenic pathway. Let me say a word about
+gluconeogenesis, another word actually.",99.065,18.884999999999998,117.94999999999999,sad
 "So we all have dinner, like say
-six to nine o'clock at night.",117.95,5.43,123.38,
-"We go to bed, and there
-are certain organs",123.38,4.71,128.09,
-"in the body, the
-brain, our red blood",128.09,3.78,131.87,
-"cells, that require glucose.",131.87,3.72,135.59,
-"They can't work
-with anything else.",135.59,2.62,138.21,
+six to nine o'clock at night. We go to bed, and there
+are certain organs in the body, the
+brain, our red blood cells, that require glucose. They can't work
+with anything else.",117.95,20.26,138.21,sad
 "So gluconeogenesis, by
-principally the liver,",138.21,4.91,143.12,
-"provides a constant
-stream of glucose",143.12,3.24,146.36,
-"to these organs that absolutely
-require it, like our brain.",146.36,4.63,150.99,
-"Now, when we go to sleep at
-night, as time gets longer",150.99,5.81,156.8,surprise
-"and longer and longer,
-after the meal,",156.8,2.91,159.71,
+principally the liver, provides a constant
+stream of glucose to these organs that absolutely
+require it, like our brain. Now, when we go to sleep at
+night, as time gets longer and longer and longer,
+after the meal,",138.21,21.5,159.71,sad
 "our glucose level, our
-natural glucose level,",159.71,3.04,162.75,
-is going to start to fall off.,162.75,1.73,164.48,
-"And the liver then
-compensates by increasing",164.48,3.03,167.51,
-"the amount of
-gluconeogenesis in order",167.51,2.58,170.09,
-"to keep our blood
-glucose at about 100",170.09,3.3,173.39000000000001,sad
-while we're not eating.,173.39,1.38,174.76999999999998,sad
-"What I do, during the night,
-is to take this drug that",174.77,3.51,178.28,sad
-"will prevent the switch to
-produce more and more sugar",178.28,4.33,182.61,sad
-by gluconeogenesis.,182.61,3.49,186.10000000000002,
+natural glucose level, is going to start to fall off. And the liver then
+compensates by increasing the amount of
+gluconeogenesis in order to keep our blood
+glucose at about 100",159.71,13.68,173.39000000000001,sad
+"while we're not eating. What I do, during the night,
+is to take this drug that will prevent the switch to
+produce more and more sugar by gluconeogenesis.",173.39,12.709999999999999,186.1,sad

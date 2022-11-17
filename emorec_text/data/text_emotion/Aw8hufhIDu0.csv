@@ -1,159 +1,94 @@
 text,start,duration,end,dominant_emotion
-"""What Causes Insulin Resistance?""",0.0,5.85,5.85,
-"Studies dating back nearly a century
-noted a striking finding.",5.85,2.57,8.42,
-"If you take young, healthy people
-and split them up into two groups,",8.42,4.22,12.64,happy
-"half on a fat-rich diet, and the
-other half on a carb rich diet,",12.64,4.49,17.130000000000003,happy
-"within just two days,
-this is what happens.",17.13,3.48,20.61,happy
+"""What Causes Insulin Resistance?"" Studies dating back nearly a century
+noted a striking finding. If you take young, healthy people
+and split them up into two groups, half on a fat-rich diet, and the
+other half on a carb rich diet, within just two days,
+this is what happens.",0.0,20.610000000000003,20.610000000000003,angry
 "The glucose intolerance
-skyrockets in the fatty diet group.",20.61,4.1,24.71,happy
-"In response to the same
-sugar water challenge,",24.71,2.12,26.830000000000002,happy
-"the group that had
-been shoveling in fat",26.83,2.17,29.0,happy
-"ended up with twice
-the blood sugar.",29.0,3.13,32.13,happy
-"As the amount of fat in the diet goes
-up, so does one’s blood sugar spikes.",32.13,6.659,38.789,
+skyrockets in the fatty diet group. In response to the same
+sugar water challenge, the group that had
+been shoveling in fat ended up with twice
+the blood sugar. As the amount of fat in the diet goes
+up, so does one’s blood sugar spikes.",20.61,18.179,38.789,angry
 "It would take scientists nearly seven
-decades to unravel this mystery,",38.789,4.41,43.199,happy
-"but it would end up holding the key to
-our current understanding of the cause",43.199,4.811,48.01,happy
-of type 2 diabetes.,48.01,2.879,50.888999999999996,
-"When athletes carb load before a
-race, they’re trying to build up",50.889,3.231,54.120000000000005,
-"the fuel supply
-within their muscles.",54.12,1.559,55.678999999999995,
+decades to unravel this mystery, but it would end up holding the key to
+our current understanding of the cause of type 2 diabetes. When athletes carb load before a
+race, they’re trying to build up the fuel supply
+within their muscles.",38.789,16.89,55.679,angry
 "They break down the starch into
-glucose in their digestive tract;",55.679,3.14,58.819,
-"it circulates as blood
-glucose, blood sugar,",58.819,3.17,61.989000000000004,angry
-"and is taken up by our muscles
-to be stored and burned for energy.",61.989,4.361,66.35,
-"Blood sugar, though,
-is like a vampire.",66.35,1.65,68.0,angry
-"It needs an invitation
-to come into our cells.",68.0,3.1,71.1,happy
-And that invitation is insulin.,71.1,2.4,73.5,happy
-Here's a muscle cell.,73.5,3.42,76.92,happy
-"Here's some blood sugar outside
-waiting patiently to come in.",76.92,4.5,81.42,happy
-"Insulin is the key
-that unlocks the door",81.42,3.339,84.759,happy
-"to let the sugar in our blood
-enter the muscle cell.",84.759,2.951,87.71,
+glucose in their digestive tract; it circulates as blood
+glucose, blood sugar, and is taken up by our muscles
+to be stored and burned for energy. Blood sugar, though,
+is like a vampire. It needs an invitation
+to come into our cells.",55.679,15.421,71.1,angry
+"And that invitation is insulin. Here's a muscle cell. Here's some blood sugar outside
+waiting patiently to come in. Insulin is the key
+that unlocks the door to let the sugar in our blood
+enter the muscle cell.",71.1,16.61,87.71,angry
 "When insulin attaches
-to the insulin receptor,",87.71,2.519,90.229,
-"it activates an enzyme, which
-activates another enzyme,",90.229,3.371,93.6,
-"which activates two more enzymes,
-which finally activates glucose transport,",93.6,5.47,99.07,happy
-"which acts as a gateway
-for glucose to enter the cell.",99.07,4.15,103.22,
-"So insulin is the key that unlocks
-the door into our muscle cells.",103.22,4.709,107.929,
+to the insulin receptor, it activates an enzyme, which
+activates another enzyme, which activates two more enzymes,
+which finally activates glucose transport, which acts as a gateway
+for glucose to enter the cell. So insulin is the key that unlocks
+the door into our muscle cells.",87.71,20.219,107.929,angry
 "What if there was 
-no insulin though?",107.929,2.561,110.49000000000001,angry
-"Well, blood sugar would be
-stuck out in the bloodstream",110.49,2.339,112.829,angry
-"banging on the door to our
-muscles and not be able to get inside,",112.829,3.281,116.11,
-"and so with nowhere to go,
-sugar levels would rise and rise.",116.11,4.28,120.39,
-"That's what happens
-in type 1 diabetes.",120.39,3.67,124.06,happy
+no insulin though? Well, blood sugar would be
+stuck out in the bloodstream banging on the door to our
+muscles and not be able to get inside, and so with nowhere to go,
+sugar levels would rise and rise. That's what happens
+in type 1 diabetes.",107.929,16.131,124.06,angry
 "The cells in the pancreas
-that make insulin",124.06,1.869,125.929,angry
-"get destroyed, and without insulin,
-sugar in the blood can't get",125.929,2.97,128.899,angry
-"out of the blood into the muscles,
-and blood sugar rises.",128.899,3.231,132.13,happy
-"But there's a second way we could
-end up with high blood sugar.",132.13,4.37,136.5,happy
-"What if there's enough insulin,
-but the insulin doesn't work?",136.5,5.47,141.97,
+that make insulin get destroyed, and without insulin,
+sugar in the blood can't get out of the blood into the muscles,
+and blood sugar rises. But there's a second way we could
+end up with high blood sugar. What if there's enough insulin,
+but the insulin doesn't work?",124.06,17.91,141.97,angry
 "The key is there but something's
-gummed up the lock.",141.97,4.29,146.26,
-This is called insulin resistance.,146.26,2.77,149.03,happy
-"Our muscle cells become
-resistant to the effect of insulin.",149.03,5.0,154.03,
-"What's gumming up the door
-locks on our muscle cells",154.03,2.58,156.61,angry
-"preventing insulin
-from letting sugar in?",156.61,3.79,160.4,happy
+gummed up the lock. This is called insulin resistance. Our muscle cells become
+resistant to the effect of insulin. What's gumming up the door
+locks on our muscle cells preventing insulin
+from letting sugar in?",141.97,18.43,160.4,angry
 "Fat.  What's called
-intramyocellular lipid,",160.4,3.99,164.39000000000001,angry
-"fat inside our 
-muscle cells.",164.39,3.47,167.85999999999999,angry
-"Fat in the bloodstream can build
-up inside the muscle cell,",167.86,2.94,170.8,happy
-"creating toxic fatty
-breakdown products",170.8,2.4,173.20000000000002,happy
-"and free radicals that can block
-the signaling pathway process.",173.2,5.29,178.48999999999998,happy
+intramyocellular lipid, fat inside our 
+muscle cells. Fat in the bloodstream can build
+up inside the muscle cell, creating toxic fatty
+breakdown products and free radicals that can block
+the signaling pathway process.",160.4,18.09,178.49,angry
 "So no matter how much insulin
-we have out in our blood,",178.49,2.66,181.15,angry
-"it's not able to open
-the glucose gates,",181.15,2.33,183.48000000000002,angry
-"and blood sugar levels
-build up in the blood.",183.48,4.42,187.89999999999998,
-"This mechanism by which fat,
-specifically saturated fat,",187.9,4.19,192.09,
-induces insulin resistance,192.09,1.38,193.47,neutral
+we have out in our blood, it's not able to open
+the glucose gates, and blood sugar levels
+build up in the blood. This mechanism by which fat,
+specifically saturated fat, induces insulin resistance",178.49,14.98,193.47,angry
 "wasn't known until fancy MRI
-techniques were developed",193.47,3.79,197.26,happy
-"to see what was happening
-inside people's muscles",197.26,3.18,200.44,happy
-"as fat was infused
-into their bloodstream.",200.44,3.63,204.07,
-"That's how they found out that
-elevation of fat levels in the blood",204.07,3.66,207.73,angry
-"causes insulin resistance by inhibition
-of glucose transport into the muscles.",207.73,4.35,212.07999999999998,angry
+techniques were developed to see what was happening
+inside people's muscles as fat was infused
+into their bloodstream. That's how they found out that
+elevation of fat levels in the blood causes insulin resistance by inhibition
+of glucose transport into the muscles.",193.47,18.61,212.07999999999998,angry
 "And this can happen
-within just three hours.",212.08,4.26,216.34,angry
-"One hit of fat can start
-causing insulin resistance,",216.34,3.73,220.07,angry
-"inhibiting glucose uptake
-after just 160 minutes.",220.07,4.45,224.51999999999998,happy
-"Same thing happens
-to adolescents.",224.52,2.91,227.43,happy
-"You infuse fat into
-their bloodstream.",227.43,1.74,229.17000000000002,angry
+within just three hours. One hit of fat can start
+causing insulin resistance, inhibiting glucose uptake
+after just 160 minutes. Same thing happens
+to adolescents. You infuse fat into
+their bloodstream.",212.08,17.09,229.17000000000002,angry
 "It builds up in their muscles and
-decreases their insulin sensitivity,",229.17,4.58,233.75,angry
-"showing that increased
-fat in the blood can be",233.75,2.49,236.24,angry
-"an important contributor
-of insulin resistance.",236.24,2.81,239.05,NA
-"And then you can do
-the opposite experiment.",239.05,2.55,241.60000000000002,NA
-"Lower the level of fat
-in people's blood",241.6,1.22,242.82,NA
+decreases their insulin sensitivity, showing that increased
+fat in the blood can be an important contributor
+of insulin resistance. And then you can do
+the opposite experiment. Lower the level of fat
+in people's blood",229.17,13.65,242.82,angry
 "and the insulin resistance
-comes right down.",242.82,2.79,245.60999999999999,NA
-"Clear the fat out of the blood, and
-you clear the sugar out of the blood.",245.61,6.18,251.79000000000002,NA
-"So that explains 
-this finding.",251.79,2.36,254.15,NA
-"On a high fat diet, the ketogenic diet,
-insulin doesn't work as well.",254.15,6.32,260.47,NA
-"Our bodies are 
-insulin resistant.",260.47,3.27,263.74,NA
+comes right down. Clear the fat out of the blood, and
+you clear the sugar out of the blood. So that explains 
+this finding. On a high fat diet, the ketogenic diet,
+insulin doesn't work as well. Our bodies are 
+insulin resistant.",242.82,20.919999999999998,263.74,NA
 "But as the amount of fat in
-our diet gets lower and lower,",263.74,4.82,268.56,NA
-"insulin works
-better and better.",268.56,2.33,270.89,NA
-"This is a clear demonstration
-that the sugar tolerance",270.89,4.04,274.93,NA
-"of even healthy individuals
-can be impaired",274.93,3.85,278.78000000000003,NA
-"by administering a
-low-carb, high-fat diet.",278.78,3.9,282.67999999999995,NA
+our diet gets lower and lower, insulin works
+better and better. This is a clear demonstration
+that the sugar tolerance of even healthy individuals
+can be impaired by administering a
+low-carb, high-fat diet.",263.74,18.94,282.68,NA
 "But we can decrease insulin resistance,
-the cause of pre-diabetes,",282.68,4.08,286.76,NA
-"the cause of type 2 diabetes,
-by decreasing saturated fat intake.",286.76,5.84,292.59999999999997,NA
+the cause of pre-diabetes, the cause of type 2 diabetes,
+by decreasing saturated fat intake.",282.68,9.92,292.6,NA

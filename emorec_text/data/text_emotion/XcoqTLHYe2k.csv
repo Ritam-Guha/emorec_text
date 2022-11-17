@@ -1,26 +1,14 @@
 text,start,duration,end,dominant_emotion
 "In my practice I see a lot of patients with
-a diagnosis called peripheral neuropathy.",0.25,4.09,4.34,fear
-"Peripheral neuropathy is where the nerves
-in the feet generally don't work as well as",4.34,4.35,8.69,fear
-they should for one reason or another.,8.69,1.77,10.459999999999999,fear
-"The most common cause of this is diabetes,
-however there is innumerable amounts of different",10.46,4.719,15.179000000000002,fear
-causes of peripheral neuropathy.,15.179,1.961,17.14,fear
+a diagnosis called peripheral neuropathy. Peripheral neuropathy is where the nerves
+in the feet generally don't work as well as they should for one reason or another. The most common cause of this is diabetes,
+however there is innumerable amounts of different causes of peripheral neuropathy.",0.25,16.889999999999997,17.139999999999997,fear
 "And one of the things that our task is is
-trying to figure out what's that cause.",17.14,3.07,20.21,fear
-"And if so, how can we treat that cause?",20.21,2.87,23.080000000000002,fear
-"Most common symptoms of peripheral neuropathy
-include cold sensations, numbness, tingling",23.08,5.41,28.49,fear
-"in the feet, pins and needles, burning pain
-in the feet as well as balance issues and",28.49,4.86,33.35,fear
-lightheadedness upon standing.,33.35,1.95,35.300000000000004,fear
+trying to figure out what's that cause. And if so, how can we treat that cause? Most common symptoms of peripheral neuropathy
+include cold sensations, numbness, tingling in the feet, pins and needles, burning pain
+in the feet as well as balance issues and lightheadedness upon standing.",17.14,18.16,35.3,fear
 "When patients come for treatment for peripheral
-neuropathy, other than the actual cause of",35.3,4.841,40.141,fear
-"the disorder itself, most commonly that's
-in the form of a bothersome tingling, pins",40.141,4.709,44.849999999999994,fear
-and needles or burning pain.,44.85,1.96,46.81,
-"We treat this with a multitude of different
-we call neuropathic pain agents, which are",46.81,5.61,52.42,
-"medications that dull nerve sensations and
-nerve pain.",52.42,2.5,54.92,NA
+neuropathy, other than the actual cause of the disorder itself, most commonly that's
+in the form of a bothersome tingling, pins and needles or burning pain. We treat this with a multitude of different
+we call neuropathic pain agents, which are medications that dull nerve sensations and
+nerve pain.",35.3,19.62,54.92,fear

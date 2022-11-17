@@ -1,72 +1,16 @@
 text,start,duration,end,dominant_emotion
-this information is provided for public,0.03,3.84,3.8699999999999997,
-education purposes only and is not,2.129,3.121,5.25,
-intended to substitute for a,3.87,2.64,6.51,
-manufacturer's directions or,5.25,3.15,8.4,
-consultation with a licensed pharmacist,6.51,3.36,9.87,
-or healthcare professional all,8.4,2.88,11.280000000000001,
-medication including those available,9.87,3.389,13.258999999999999,
-over-the-counter can be harmful if not,11.28,3.96,15.239999999999998,
-used as directed in taking more than one,13.259,4.291,17.55,
-medication could result in harmful drug,15.24,4.32,19.560000000000002,
-interactions please consult a licensed,17.55,3.3,20.85,
-pharmacist or healthcare professional,19.56,3.51,23.07,
-before taking any medication or changing,20.85,4.11,24.96,
-and already approved or prescribed,23.07,9.689,32.759,
-medication plan hello my name is Ali and,24.96,9.21,34.17,
-I'm a student pharmacist at the,32.759,2.971,35.730000000000004,neutral
-University of Arkansas for Medical,34.17,4.619,38.789,neutral
-Sciences today I'm here to talk to you,35.73,5.129,40.858999999999995,fear
-about your medication Pio glitters own,38.789,4.62,43.409,neutral
-pew glitters own is also known as the,40.859,5.46,46.319,neutral
-brand name Actos peel glitters own comes,43.409,5.4,48.809,neutral
-as a tablet dosage form Pio glitters own,46.319,3.93,50.249,neutral
-is most commonly used for the treatment,48.809,4.861,53.669999999999995,neutral
-of type 2 diabetes Pio glitters own is,50.249,6.121,56.370000000000005,neutral
-usually taken by mouth once daily and is,53.67,4.95,58.620000000000005,neutral
-safe to take either with meals or on an,56.37,4.439,60.809,neutral
-empty stomach some common side effects,58.62,4.41,63.03,neutral
-with pee elitism include swelling in the,60.809,4.92,65.729,neutral
-hands or feet lightheadedness or shaking,63.03,5.76,68.79,neutral
-runny nose and sore throat some less,65.729,4.74,70.469,neutral
-common side effects with pee Oakland A's,68.79,4.17,72.96000000000001,fear
-own include headache heart failure and,70.469,4.171,74.64,neutral
-muscle and bone weakness,72.96,4.74,77.69999999999999,neutral
-do not take pee elitism if you have,74.64,5.28,79.92,neutral
-heart failure or are allergic to peel a,77.7,5.04,82.74000000000001,neutral
-zone while taking P o close own remember,79.92,4.71,84.63,neutral
-it is important to tell your doctor or,82.74,4.14,86.88,neutral
-pharmacist if you have signs of an,84.63,4.71,89.33999999999999,neutral
-allergic reaction such as a rash itching,86.88,4.79,91.67,neutral
-swelling or tightness of the chest,89.34,4.559,93.899,neutral
-change in your vision or blurred vision,91.67,4.809,96.479,neutral
-if you have blood in your urine pain,93.899,5.07,98.969,neutral
-when you urinate increase in the amount,96.479,4.92,101.399,neutral
-of urine produced or pain in your lower,98.969,3.0,101.969,neutral
-back,101.399,2.4,103.799,neutral
-pío glitter zone might weaken your bones,101.969,4.051,106.02,neutral
-so discuss a way to keep them strong,103.799,4.71,108.509,neutral
-with your doctor or pharmacist it's also,106.02,4.05,110.07,neutral
-important to tell your doctor or,108.509,3.21,111.719,neutral
-pharmacist if you start taking new,110.07,3.74,113.80999999999999,neutral
-medications vitamins or supplements,111.719,4.47,116.189,neutral
-thank you for watching and if you have,113.81,4.33,118.14,neutral
-any further questions please contact,116.189,5.801,121.99,neutral
-your pharmacist or health care provider,118.14,5.909,124.049,neutral
-you,121.99,2.059,124.04899999999999,neutral
-this information is provided for public,125.63,3.81,129.44,
-education purposes only and is not,127.7,3.089,130.78900000000002,
-intended to substitute for a,129.44,2.61,132.05,
-manufacturer's directions or,130.789,3.151,133.94,
-consultation with a licensed pharmacist,132.05,3.299,135.34900000000002,
-or healthcare professional all,133.94,3.15,137.09,
-medication including those available,135.349,3.481,138.82999999999998,
-over-the-counter can be harmful if not,137.09,3.72,140.81,
-used as directed in taking more than one,138.83,4.29,143.12,
-medication could result in harmful drug,140.81,4.289,145.099,
-interactions please consult a licensed,143.12,3.3,146.42000000000002,
-pharmacist or healthcare professional,145.099,3.541,148.64,
-before taking any medication or changing,146.42,4.08,150.5,
-and already approved or prescribed,148.64,4.73,153.36999999999998,
-medication plan,150.5,2.87,153.37,
-you,159.28,2.06,161.34,
+this information is provided for public education purposes only and is not intended to substitute for a manufacturer's directions or consultation with a licensed pharmacist,0.03,16.111,16.141000000000002,NA
+or healthcare professional all medication including those available over-the-counter can be harmful if not used as directed in taking more than one medication could result in harmful drug,8.4,18.84,27.240000000000002,NA
+interactions please consult a licensed pharmacist or healthcare professional before taking any medication or changing and already approved or prescribed medication plan hello my name is Ali and,17.55,29.819000000000003,47.369,NA
+I'm a student pharmacist at the University of Arkansas for Medical Sciences today I'm here to talk to you about your medication Pio glitters own pew glitters own is also known as the,32.759,22.799,55.558,happy
+brand name Actos peel glitters own comes as a tablet dosage form Pio glitters own is most commonly used for the treatment of type 2 diabetes Pio glitters own is usually taken by mouth once daily and is,43.409,25.261999999999997,68.67099999999999,happy
+safe to take either with meals or on an empty stomach some common side effects with pee elitism include swelling in the hands or feet lightheadedness or shaking runny nose and sore throat some less,56.37,24.269,80.639,happy
+common side effects with pee Oakland A's own include headache heart failure and muscle and bone weakness do not take pee elitism if you have heart failure or are allergic to peel a,68.79,23.401,92.191,happy
+zone while taking P o close own remember it is important to tell your doctor or pharmacist if you have signs of an allergic reaction such as a rash itching swelling or tightness of the chest,79.92,22.909,102.82900000000001,happy
+change in your vision or blurred vision if you have blood in your urine pain when you urinate increase in the amount of urine produced or pain in your lower back,91.67,20.198999999999998,111.869,happy
+pío glitter zone might weaken your bones so discuss a way to keep them strong with your doctor or pharmacist it's also important to tell your doctor or pharmacist if you start taking new,101.969,19.761000000000003,121.72999999999999,happy
+medications vitamins or supplements thank you for watching and if you have any further questions please contact your pharmacist or health care provider you,111.719,22.569000000000003,134.288,happy
+this information is provided for public education purposes only and is not intended to substitute for a manufacturer's directions or consultation with a licensed pharmacist,125.63,15.959,141.589,NA
+or healthcare professional all medication including those available over-the-counter can be harmful if not used as directed in taking more than one medication could result in harmful drug,133.94,18.93,152.87,NA
+interactions please consult a licensed pharmacist or healthcare professional before taking any medication or changing and already approved or prescribed medication plan,143.12,18.521,161.64100000000002,NA
+you,159.28,2.06,161.34,NA

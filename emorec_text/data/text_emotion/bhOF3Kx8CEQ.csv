@@ -1,55 +1,12 @@
 text,start,duration,end,dominant_emotion
-(Music),0.0,4.07,4.07,
-Announcer: Welcome to Your Health with Joan Lunden.,4.07,2.17,6.24,
-Presented by the Centers for Disease Control and Prevention.,6.24,4.93,11.17,
-"Joan Lunden: Hi, I'm Joan Lunden.",11.17,1.63,12.8,happy
-"Believe it or not, more than one in three people",12.8,2.7,15.5,fear
-in the US have pre-diabetes.,15.5,2.3,17.8,fear
-"Even scarier, 90% of them don't know it.",17.8,3.37,21.17,fear
-And if all those people with pre-diabetes,21.17,1.97,23.14,fear
-"don't do anything about it, 25% of all Americans",23.14,4.83,27.97,fear
-could have Type 2 diabetes by the year 2025.,27.97,4.54,32.51,fear
-Pre-diabetes can be reversed and you do not have to,32.51,2.79,35.3,fear
-live with the disease alone.,35.3,2.1,37.4,
-The CDC has created,37.4,1.34,38.74,
-the National Diabetes Prevention Program.,38.74,2.73,41.47,
-This program can help people with pre-diabetes significantly,41.47,3.97,45.44,fear
-lower their risk of ever developing Type 2 diabetes.,45.44,3.86,49.3,fear
-"In fact, using the program's services",49.3,1.87,51.169999999999995,
-can actually help reduce your risk by 58%.,51.17,4.0,55.17,
-"And if you're living with the disease,",55.17,1.97,57.14,
-the program can help you avoid some of,57.14,2.03,59.17,
-the serious complications associated with it.,59.17,3.07,62.24,
-What is so unique about the program,62.24,2.13,64.37,
-is the supportive community available to participants.,64.37,3.83,68.2,fear
-The program's lifestyle coaches help you,68.2,2.77,70.97,fear
-"establish and maintain important lifestyle changes,",70.97,3.8,74.77,fear
-"like healthy eating and increased physical activity,",74.77,3.4,78.17,
-as well as tips to keep you motivated and manage your stress,78.17,3.97,82.14,
-and the fellow participants share ideas,82.14,2.53,84.67,
-and they kind of help you keep on track.,84.67,1.97,86.64,
-Learn how you can be part of the program,86.64,2.6,89.24,
-by visiting cdc.gov/diabetesTV.,89.24,4.3,93.53999999999999,
-It can be daunting to change,93.54,1.63,95.17,
-"your daily diet and exercise routine,",95.17,2.13,97.3,fear
-but it can also be life saving.,97.3,2.27,99.57,fear
-And who better to understand what you're going through,99.57,2.5,102.07,fear
-than others who are going through it too.,102.07,2.27,104.33999999999999,fear
-Have a question about your diet,104.34,1.46,105.8,fear
-or looking to change up your exercise routine?,105.8,3.0,108.8,fear
-Maybe feeling discouraged because you haven't seen,108.8,2.57,111.36999999999999,fear
-an immediate decrease in your blood sugar levels?,111.37,3.0,114.37,fear
-The support of the program could help you,114.37,3.14,117.51,fear
-through all of those challenges.,117.51,2.0,119.51,happy
-So many people have turned their health,119.51,0.93,120.44000000000001,neutral
-around with this program.,120.44,2.16,122.6,neutral
-It is an incredible resource.,122.6,2.57,125.16999999999999,fear
-"To find out more about the CDC Diabetes Prevention Program,",125.17,4.1,129.27,fear
-visit cdc.gov/diabetesTV.,129.27,5.13,134.4,fear
-See you next time.,134.4,2.11,136.51000000000002,happy
-I'm Joan Lunden.,136.51,0.59,137.1,neutral
-(music),137.1,1.44,138.54,happy
-"Announcer: Sponsored by NACDD, with support from",138.54,2.63,141.17,
-the Centers for Disease Control and Prevention.,141.17,2.23,143.39999999999998,
-Visit cdc.gov/diabetesTV.,143.4,3.0,146.4,
-(music),146.4,3.0,149.4,
+"(Music) Announcer: Welcome to Your Health with Joan Lunden. Presented by the Centers for Disease Control and Prevention. Joan Lunden: Hi, I'm Joan Lunden. Believe it or not, more than one in three people",0.0,15.5,15.5,NA
+"in the US have pre-diabetes. Even scarier, 90% of them don't know it. And if all those people with pre-diabetes don't do anything about it, 25% of all Americans could have Type 2 diabetes by the year 2025.",15.5,17.009999999999998,32.51,fear
+Pre-diabetes can be reversed and you do not have to live with the disease alone. The CDC has created the National Diabetes Prevention Program. This program can help people with pre-diabetes significantly,32.51,12.930000000000001,45.44,NA
+"lower their risk of ever developing Type 2 diabetes. In fact, using the program's services can actually help reduce your risk by 58%. And if you're living with the disease, the program can help you avoid some of",45.44,13.73,59.17,NA
+"the serious complications associated with it. What is so unique about the program is the supportive community available to participants. The program's lifestyle coaches help you establish and maintain important lifestyle changes,",59.17,15.599999999999998,74.77,NA
+"like healthy eating and increased physical activity, as well as tips to keep you motivated and manage your stress and the fellow participants share ideas and they kind of help you keep on track. Learn how you can be part of the program",74.77,14.47,89.24,NA
+"by visiting cdc.gov/diabetesTV. It can be daunting to change your daily diet and exercise routine, but it can also be life saving. And who better to understand what you're going through",89.24,12.829999999999998,102.07,NA
+than others who are going through it too. Have a question about your diet or looking to change up your exercise routine? Maybe feeling discouraged because you haven't seen an immediate decrease in your blood sugar levels?,102.07,12.3,114.36999999999999,fear
+The support of the program could help you through all of those challenges. So many people have turned their health around with this program. It is an incredible resource.,114.37,10.8,125.17,fear
+"To find out more about the CDC Diabetes Prevention Program, visit cdc.gov/diabetesTV. See you next time. I'm Joan Lunden. (music)",125.17,13.37,138.54,fear
+"Announcer: Sponsored by NACDD, with support from the Centers for Disease Control and Prevention. Visit cdc.gov/diabetesTV. (music)",138.54,10.86,149.39999999999998,NA

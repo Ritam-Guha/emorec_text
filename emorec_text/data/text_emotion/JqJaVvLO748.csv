@@ -1,75 +1,39 @@
 text,start,duration,end,dominant_emotion
-"Hi, I’m Ansley from Diabetes—What To Know.",0.599,2.61,3.2089999999999996,fear
-"I’m here today to talk about the signs and
-symptoms of diabetes.",3.209,4.271,7.48,fear
-"Many people wonder if they have diabetes—and
-you may be wondering—what are the warning",7.48,4.63,12.11,fear
-signs of diabetes?,12.11,1.07,13.18,
-What’s the first clue?,13.18,2.19,15.37,
+"Hi, I’m Ansley from Diabetes—What To Know. I’m here today to talk about the signs and
+symptoms of diabetes. Many people wonder if they have diabetes—and
+you may be wondering—what are the warning signs of diabetes? What’s the first clue?",0.599,14.770999999999999,15.37,angry
 "Unfortunately, diabetes itself doesn’t have
-any symptoms.",15.37,3.36,18.73,fear
-"I say unfortunately, because if diabetes were
-as easy to recognize as the common cold, people",18.73,5.01,23.740000000000002,fear
-"would go to their doctor at the first sign
-of trouble.",23.74,2.7,26.439999999999998,
-"Instead, we can only look at the signs and
-symptoms of high blood sugar, which often",26.44,4.65,31.090000000000003,fear
-"don’t occur until diabetes is already in
-place.",31.09,2.859,33.949,fear
-Some of those symptoms include--,33.949,1.63,35.579,
-Frequent urination.,35.579,1.101,36.68,
-"If you’re going to the bathroom a lot, even
-during the night, that could be a sign of",36.68,3.99,40.67,fear
-diabetes.,40.67,1.209,41.879000000000005,fear
-"As blood glucose goes up, the body tries to
-get rid of that excess sugar through urine,",41.879,4.8,46.678999999999995,fear
+any symptoms. I say unfortunately, because if diabetes were
+as easy to recognize as the common cold, people would go to their doctor at the first sign
+of trouble. Instead, we can only look at the signs and
+symptoms of high blood sugar, which often don’t occur until diabetes is already in
+place.",15.37,18.579,33.949,angry
+"Some of those symptoms include-- Frequent urination. If you’re going to the bathroom a lot, even
+during the night, that could be a sign of diabetes. As blood glucose goes up, the body tries to
+get rid of that excess sugar through urine,",33.949,12.73,46.679,NA
 "and the excess sugar draws water with it,
-so that you end up going to the bathroom more",46.679,4.04,50.719,
-often.,50.719,1.0,51.719,fear
-"This can occur slowly over a long period of
-time, which makes it easy for people to ignore",51.719,4.43,56.149,fear
-it or get used to it.,56.149,2.46,58.609,surprise
-Excessive thirst.,58.609,1.3,59.909,
+so that you end up going to the bathroom more often. This can occur slowly over a long period of
+time, which makes it easy for people to ignore it or get used to it. Excessive thirst.",46.679,13.23,59.909000000000006,angry
 "When you go to the bathroom more frequently,
-your body compensates by increasing your thirst",59.909,4.311,64.22,fear
-so that you can replace the lost water.,64.22,2.76,66.98,fear
-"You may have thought that you were going to
-the bathroom all the time because you’ve",66.98,2.55,69.53,fear
-"been drinking so much water (or soda, or juice).",69.53,2.269,71.799,angry
-"But, actually it’s the other way around--
-high blood sugar causes you to go to the bathroom",71.799,4.78,76.57900000000001,fear
-"a lot, which makes you thirsty.",76.579,1.68,78.259,
-"And if you drink sugary drinks (like cola
-or sweet tea), it only makes things worse.",78.259,5.65,83.909,
-"Blurry vision is another symptom of high blood
-sugar.",83.909,2.831,86.74000000000001,
-"Large changes in the glucose in your blood
-can temporarily change the shape of the lens",86.74,4.64,91.38,
-"in your eye, causing your vision to be poorly
-focused, or blurry.",91.38,4.51,95.89,fear
+your body compensates by increasing your thirst so that you can replace the lost water. You may have thought that you were going to
+the bathroom all the time because you’ve been drinking so much water (or soda, or juice). But, actually it’s the other way around--
+high blood sugar causes you to go to the bathroom",59.909,16.669999999999998,76.579,angry
+"a lot, which makes you thirsty. And if you drink sugary drinks (like cola
+or sweet tea), it only makes things worse. Blurry vision is another symptom of high blood
+sugar. Large changes in the glucose in your blood
+can temporarily change the shape of the lens in your eye, causing your vision to be poorly
+focused, or blurry.",76.579,19.311,95.88999999999999,angry
 "This is only temporary; there’s no permanent
-change in the lens.",95.89,3.64,99.53,fear
-"Once you get your blood sugar levels within
-your target range your vision will improve.",99.53,5.24,104.77,
-"Another sign of diabetes is urinary infections
-and yeast infections, particularly in women.",104.77,5.72,110.49,
-"If any of these symptoms persist, you should
-visit your doctor.",110.49,3.019,113.509,
-"A quick and easy blood test can tell you whether
-or not you have diabetes",113.509,4.65,118.159,fear
+change in the lens. Once you get your blood sugar levels within
+your target range your vision will improve. Another sign of diabetes is urinary infections
+and yeast infections, particularly in women. If any of these symptoms persist, you should
+visit your doctor. A quick and easy blood test can tell you whether
+or not you have diabetes",95.89,22.269,118.15899999999999,angry
 "If you find that you do have diabetes, know
-that you can do very well by paying just a",118.159,4.231,122.39,
-little attention to it.,122.39,1.78,124.17,
-"Having diabetes isn’t so bad, unless you
-ignore it, and then it can be very bad.",124.17,4.96,129.13,
-"And remember-- all the signs and symptoms
-are caused by the high blood sugar, not the",129.13,4.37,133.5,NA
-"diabetes itself, and these symptoms are temporary.",133.5,3.41,136.91,NA
+that you can do very well by paying just a little attention to it. Having diabetes isn’t so bad, unless you
+ignore it, and then it can be very bad. And remember-- all the signs and symptoms
+are caused by the high blood sugar, not the diabetes itself, and these symptoms are temporary.",118.159,18.751,136.91,NA
 "Once your blood glucose levels are in range
-and stable, you’re going to feel a million",136.91,3.62,140.53,NA
-times better.,140.53,1.55,142.08,NA
-"If you’d like information about how to get
-your blood sugar levels in range—go to our",142.08,3.74,145.82000000000002,NA
-"website and you’ll be able to enroll in
-our free email program.",145.82,4.01,149.82999999999998,NA
-Thanks-,149.83,0.27,150.10000000000002,NA
+and stable, you’re going to feel a million times better. If you’d like information about how to get
+your blood sugar levels in range—go to our website and you’ll be able to enroll in
+our free email program. Thanks-",136.91,13.19,150.1,NA

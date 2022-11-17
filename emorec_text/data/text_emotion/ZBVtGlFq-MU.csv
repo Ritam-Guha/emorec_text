@@ -1,86 +1,18 @@
 text,start,duration,end,dominant_emotion
-so we have,2.159,4.24,6.399,happy
-really two categories of medications um,3.04,5.44,8.48,happy
-those that target at the level of the,6.399,3.521,9.92,fear
-tumor itself,8.48,3.36,11.84,fear
-uh in order to reduce growth hormone,9.92,3.2,13.120000000000001,fear
-secretion and in,11.84,3.919,15.759,fear
-some cases shrink the tumor remnant that,13.12,3.999,17.119,fear
-is present,15.759,3.36,19.119,fear
-we also have therapies that are more,17.119,4.401,21.52,fear
-targeted at decreasing the insulin-like,19.119,4.641,23.759999999999998,fear
-growth factor or igf-1 production from,21.52,3.04,24.56,fear
-the liver,23.76,2.64,26.400000000000002,fear
-in response to that growth hormone,24.56,3.2,27.759999999999998,fear
-secretion from the tumor,26.4,4.16,30.56,fear
-so really at two different levels and,27.76,4.56,32.32,fear
-these can be used as,30.56,4.96,35.519999999999996,fear
-single or monotherapies and in some,32.32,5.12,37.44,fear
-cases it is necessary to use,35.52,2.879,38.399,fear
-combinations,37.44,3.84,41.28,fear
-of these medications to control growth,38.399,4.721,43.120000000000005,fear
-hormone igf-1 levels,41.28,4.88,46.160000000000004,fear
-and tumor growth at the level of the,43.12,4.4,47.519999999999996,fear
-tumor,46.16,4.399,50.559,fear
-we think about somatostatin receptor,47.52,3.84,51.36,fear
-ligands,50.559,3.281,53.839999999999996,fear
-these are medications that bind to a,51.36,4.879,56.239,fear
-receptor on the surface of the tumor,53.84,4.96,58.800000000000004,fear
-they turn down growth hormone production,56.239,3.441,59.68,fear
-uh they can,58.8,3.759,62.559,fear
-slow growth tumor growth and sometimes,59.68,4.879,64.559,fear
-even lead to cell death,62.559,4.321,66.88,fear
-and so these are um very important,64.559,3.92,68.479,fear
-medications for use,66.88,4.08,70.96,fear
-for patients with acromegaly they,68.479,4.881,73.36,fear
-include some of,70.96,6.64,77.6,fear
-the older injectables sandostatin lar,73.36,8.399,81.759,fear
-and lanreatide autogel are both,77.6,6.72,84.32,fear
-intermittent intramuscular or deep,81.759,5.281,87.04,fear
-subcutaneous injections respectively,84.32,4.4,88.72,fear
-that patients will have an injection,87.04,3.92,90.96000000000001,fear
-every four weeks and in some cases every,88.72,4.16,92.88,fear
-six to eight weeks depending on the,90.96,3.28,94.24,fear
-control of their,92.88,4.879,97.759,fear
-of their disease um a newer uh,94.24,5.76,100.0,fear
-medication in the landscape in the last,97.759,3.201,100.96,fear
-decade,100.0,4.0,104.0,fear
-is passariotide lar it is a similar,100.96,5.04,106.0,fear
-somatostatin receptor ligand although it,104.0,2.56,106.56,angry
-is,106.0,3.6,109.6,angry
-uh more activity in many of these tumors,106.56,4.48,111.04,angry
-and can be used for,109.6,5.199,114.79899999999999,angry
-more aggressive or um large tumors that,111.04,6.0,117.04,angry
-are not as responsive to actual tidal,114.799,3.6,118.399,angry
-and rheotide,117.04,3.6,120.64,fear
-um and then and then we now have the new,118.399,3.521,121.92,fear
-kid on the block which is,120.64,3.519,124.159,fear
-oral octreotide capsules so we,121.92,3.28,125.2,fear
-understand how,124.159,4.32,128.479,fear
-octreotide works to treat growth hormone,125.2,4.96,130.16,fear
-tumors and so now,128.479,3.601,132.08,angry
-uh there is an oral formulation so,130.16,4.0,134.16,sad
-instead of a monthly injection,132.08,5.12,137.20000000000002,fear
-or um or every six weeks or every eight,134.16,4.079,138.239,fear
-weeks patients,137.2,2.8,140.0,fear
-now have a choice to do the oral,138.239,3.841,142.08,fear
-octreotide capsules which would,140.0,4.56,144.56,fear
-be twice daily and so it just really,142.08,3.92,146.0,fear
-depends on,144.56,4.8,149.36,fear
-the patient's preference their,146.0,6.0,152.0,fear
-own personal characteristics in terms of,149.36,3.28,152.64000000000001,fear
-the,152.0,3.44,155.44,fear
-tumor as to whether which of those,152.64,6.0,158.64,fear
-therapies would be appropriate for them,155.44,6.56,162.0,
-with regard to a therapy that targets at,158.64,5.04,163.67999999999998,NA
-the level of the liver,162.0,4.48,166.48,NA
-we have pigvisimont which inhibits the,163.68,3.52,167.20000000000002,NA
-production,166.48,2.64,169.11999999999998,NA
-of insulin like growth factor from the,167.2,4.24,171.44,NA
-liver in response to growth hormone,169.12,5.04,174.16,NA
-so it's not really going to control the,171.44,3.439,174.879,NA
-tumor,174.16,3.2,177.35999999999999,NA
-growth per se or shrink the tumor but it,174.879,4.961,179.84,NA
-does lead to lower igf-1 and can really,177.36,3.76,181.12,NA
-alleviate symptoms,179.84,6.0,185.84,NA
-in many patients because of that hormone,181.12,4.72,185.84,NA
+so we have really two categories of medications um those that target at the level of the tumor itself uh in order to reduce growth hormone,2.159,19.761,21.919999999999998,angry
+secretion and in some cases shrink the tumor remnant that is present we also have therapies that are more targeted at decreasing the insulin-like,11.84,20.32,32.16,angry
+growth factor or igf-1 production from the liver in response to that growth hormone secretion from the tumor so really at two different levels and,21.52,17.599999999999998,39.12,angry
+these can be used as single or monotherapies and in some cases it is necessary to use combinations of these medications to control growth,30.56,21.52,52.08,angry
+hormone igf-1 levels and tumor growth at the level of the tumor we think about somatostatin receptor ligands,41.28,20.8,62.08,angry
+these are medications that bind to a receptor on the surface of the tumor they turn down growth hormone production uh they can slow growth tumor growth and sometimes,51.36,21.918,73.27799999999999,angry
+even lead to cell death and so these are um very important medications for use for patients with acromegaly they include some of,62.559,23.842,86.401,angry
+the older injectables sandostatin lar and lanreatide autogel are both intermittent intramuscular or deep subcutaneous injections respectively that patients will have an injection,73.36,28.72,102.08,angry
+every four weeks and in some cases every six to eight weeks depending on the control of their of their disease um a newer uh medication in the landscape in the last,88.72,21.28,110.0,angry
+decade is passariotide lar it is a similar somatostatin receptor ligand although it is uh more activity in many of these tumors,100.0,19.68,119.68,angry
+and can be used for more aggressive or um large tumors that are not as responsive to actual tidal and rheotide um and then and then we now have the new,109.6,21.92,131.51999999999998,angry
+kid on the block which is oral octreotide capsules so we understand how octreotide works to treat growth hormone tumors and so now,120.64,19.68,140.32,angry
+uh there is an oral formulation so instead of a monthly injection or um or every six weeks or every eight weeks patients now have a choice to do the oral,130.16,19.840000000000003,150.0,angry
+octreotide capsules which would be twice daily and so it just really depends on the patient's preference their own personal characteristics in terms of,140.0,22.560000000000002,162.56,angry
+the tumor as to whether which of those therapies would be appropriate for them with regard to a therapy that targets at the level of the liver,152.0,25.52,177.52,NA
+we have pigvisimont which inhibits the production of insulin like growth factor from the liver in response to growth hormone so it's not really going to control the,163.68,18.879,182.559,NA
+tumor growth per se or shrink the tumor but it does lead to lower igf-1 and can really alleviate symptoms in many patients because of that hormone,174.16,22.641,196.801,NA

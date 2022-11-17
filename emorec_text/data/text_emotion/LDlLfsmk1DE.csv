@@ -1,38 +1,9 @@
 text,start,duration,end,dominant_emotion
-hi GI low-gi do you understand the,0.0,4.859,4.859,surprise
-glycemic index,3.57,4.32,7.890000000000001,fear
-I'm Susan Bowerman registered dietitian,4.859,5.761,10.620000000000001,fear
-when you need carbs and you digest them,7.89,4.59,12.48,fear
-and absorb them they end up in your,10.62,3.87,14.489999999999998,fear
-bloodstream as a sugar called glucose,12.48,4.44,16.92,fear
-and this sugar is important because it,14.49,4.44,18.93,fear
-fuels your daily activities and it fuels,16.92,4.439,21.359,happy
-your brain but different carbs have,18.93,3.99,22.92,happy
-different effects on your blood sugar,21.359,4.68,26.039,happy
-and what the glycemic index does is it,22.92,5.369,28.289,happy
-tends to rank foods according to their,26.039,5.16,31.199,fear
-effects on your blood sugar foods that,28.289,5.341,33.63,fear
-have a high glycemic index are assigned,31.199,5.61,36.809000000000005,fear
-a value of 55 or higher when you eat,33.63,5.49,39.120000000000005,fear
-these foods they tend to cause rapid,36.809,4.59,41.399,
-rises in your blood sugar and your blood,39.12,4.89,44.01,
-sugar stays elevated for some time,41.399,5.16,46.559,
-these foods tend to be highly processed,44.01,5.49,49.5,fear
-foods like white rice and white pasta,46.559,6.18,52.739,fear
-and white bread on the other hand when,49.5,5.67,55.17,fear
-you eat low glycemic index foods which,52.739,5.64,58.379,fear
-have a value of 55 or less these foods,55.17,5.49,60.660000000000004,fear
-cause more modest rises in your blood,58.379,4.32,62.699,fear
-sugar and your blood sugar level doesn't,60.66,5.069,65.729,fear
-rise nearly as high part of the reason,62.699,5.221,67.92,fear
-that low glycemic index foods have this,65.729,4.14,69.869,fear
-effect on your blood sugar is because,67.92,4.89,72.81,fear
-they contain fiber fiber slows the rate,69.869,4.68,74.549,fear
-at which you digest and absorb your,72.81,4.26,77.07000000000001,
-foods therefore your rises in blood,74.549,4.591,79.14,
-sugar when you eat them is much more,77.07,4.619,81.689,
-modest in general if your diet,79.14,5.519,84.659,NA
-emphasizes low glycemic index foods it's,81.689,4.621,86.30999999999999,NA
-going to steer you towards healthier,84.659,4.041,88.7,NA
-food choices,86.31,2.39,88.7,NA
-you,95.95,2.059,98.009,NA
+hi GI low-gi do you understand the glycemic index I'm Susan Bowerman registered dietitian when you need carbs and you digest them and absorb them they end up in your,0.0,23.400000000000002,23.400000000000002,angry
+bloodstream as a sugar called glucose and this sugar is important because it fuels your daily activities and it fuels your brain but different carbs have different effects on your blood sugar,12.48,21.989,34.469,angry
+and what the glycemic index does is it tends to rank foods according to their effects on your blood sugar foods that have a high glycemic index are assigned a value of 55 or higher when you eat,22.92,26.97,49.89,angry
+these foods they tend to cause rapid rises in your blood sugar and your blood sugar stays elevated for some time these foods tend to be highly processed foods like white rice and white pasta,36.809,26.310000000000002,63.119,angry
+and white bread on the other hand when you eat low glycemic index foods which have a value of 55 or less these foods cause more modest rises in your blood sugar and your blood sugar level doesn't,49.5,26.188999999999997,75.689,angry
+rise nearly as high part of the reason that low glycemic index foods have this effect on your blood sugar is because they contain fiber fiber slows the rate at which you digest and absorb your,62.699,23.191000000000003,85.89,angry
+foods therefore your rises in blood sugar when you eat them is much more modest in general if your diet emphasizes low glycemic index foods it's going to steer you towards healthier,74.549,23.391000000000002,97.94000000000001,NA
+food choices you,86.31,4.449,90.759,NA

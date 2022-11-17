@@ -1,29 +1,7 @@
 text,start,duration,end,dominant_emotion
-a blood-sugar is typically what we check,0.0,4.35,4.35,fear
-when we identify those who are at risk,2.31,4.89,7.199999999999999,fear
-for diabetes and we do it as a screening,4.35,4.95,9.3,happy
-test as well generally what we do is we,7.2,4.2,11.4,happy
-do a finger stick or blood serum,9.3,4.499,13.799,happy
-analysis to determine what your blood,11.4,4.68,16.08,happy
-sugar is typically eight to ten hours,13.799,4.531,18.33,happy
-before eating or eight to ten hours,16.08,4.709,20.788999999999998,happy
-after your last meal now the Rangers,18.33,4.17,22.5,happy
-have changed over the years,20.789,4.681,25.470000000000002,happy
-initially the cutoff for a normal,22.5,5.4,27.9,happy
-glucose was less than 120 but currently,25.47,5.61,31.08,happy
-the cutoff is less than 95 anyone who's,27.9,6.179,34.079,happy
-above 95 really classifies as somebody,31.08,5.49,36.57,happy
-who's at risk for diabetes and those,34.079,4.351,38.43,happy
-individuals will actually come in at,36.57,5.07,41.64,happy
-about 135 to 140 or even higher well,38.43,5.039,43.469,happy
-those are people who are either at,41.64,4.919,46.559,happy
-diabetic range or even exceed the range,43.469,5.191,48.660000000000004,happy
-at which they have diabetes which is not,46.559,3.18,49.739,angry
-under good control,48.66,3.12,51.779999999999994,
-I'm dr. bears Jen Williams one of the,49.739,3.631,53.37,
-family medicine doctors here at Mount,51.78,3.599,55.379000000000005,
-Sinai doctors and you can schedule an,53.37,3.93,57.3,
-appointment with us anytime for the same,55.379,4.621,60.0,
-day even next day I see patients of all,57.3,6.71,64.00999999999999,
-ages and we'd be happy to see you,60.0,4.01,64.01,
-you,69.56,2.059,71.619,NA
+a blood-sugar is typically what we check when we identify those who are at risk for diabetes and we do it as a screening test as well generally what we do is we do a finger stick or blood serum,0.0,22.888999999999996,22.888999999999996,angry
+analysis to determine what your blood sugar is typically eight to ten hours before eating or eight to ten hours after your last meal now the Rangers have changed over the years,11.4,22.770999999999997,34.171,angry
+initially the cutoff for a normal glucose was less than 120 but currently the cutoff is less than 95 anyone who's above 95 really classifies as somebody who's at risk for diabetes and those,22.5,27.03,49.53,angry
+individuals will actually come in at about 135 to 140 or even higher well those are people who are either at diabetic range or even exceed the range at which they have diabetes which is not,36.57,23.398999999999997,59.968999999999994,angry
+under good control I'm dr. bears Jen Williams one of the family medicine doctors here at Mount Sinai doctors and you can schedule an appointment with us anytime for the same,48.66,18.901,67.56099999999999,NA
+day even next day I see patients of all ages and we'd be happy to see you you,57.3,12.779,70.079,NA

@@ -12,16 +12,18 @@ class LSTMTrainScript(TrainScript):
         self.trainer = None
 
     def get_model(self):
-        self.model = LSTMModel().double()
+        self.model = LSTMModel(device=self.device).double().to(self.device)
         print(self.model)
 
     def get_trainer(self):
-        self.trainer = LSTMTrainer(type_model="lstm")
+        self.trainer = LSTMTrainer(type_model="lstm",
+                                   device=self.device)
 
 
 def main():
-    train_script = LSTMTrainScript()
-    train_script.train()
+    train_script = LSTMTrainScript(device="cuda")
+    train_script.train(lr=1e-4,
+                       n_epochs=300)
 
 
 if __name__ == "__main__":

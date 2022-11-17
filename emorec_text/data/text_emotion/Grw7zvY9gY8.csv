@@ -1,65 +1,35 @@
 text,start,duration,end,dominant_emotion
-"So, what is peripheral vascular disease?",4.99,2.34,7.33,fear
-"Well, first of all, vascular disease refers
-to any problem with the vasculature of the",7.33,4.32,11.65,fear
-body.,11.65,1.0,12.65,fear
-Those would be the arteries and veins.,12.65,2.0,14.65,fear
-"Peripheral is to distinguish it from two other
-vascular beds in the body.",14.65,3.81,18.46,happy
+"So, what is peripheral vascular disease? Well, first of all, vascular disease refers
+to any problem with the vasculature of the body. Those would be the arteries and veins. Peripheral is to distinguish it from two other
+vascular beds in the body.",4.99,13.47,18.46,sad
 "The main three vascular beds in the body would
-be the cerebral, or vascular bed of the brain,",18.46,5.5,23.96,fear
-"the coronary vascular bed, which feeds the
-heart, and then, the vascular bed which feeds",23.96,4.079,28.039,fear
-"everything else, the rest of the body.",28.039,1.601,29.64,
-"So vascular disease is really talking about
-the disease which affects the vasculature",29.64,4.59,34.230000000000004,fear
-"of the rest of the body, from the most part,
-our lower extremities and legs.",34.23,4.06,38.29,
+be the cerebral, or vascular bed of the brain, the coronary vascular bed, which feeds the
+heart, and then, the vascular bed which feeds everything else, the rest of the body. So vascular disease is really talking about
+the disease which affects the vasculature of the rest of the body, from the most part,
+our lower extremities and legs.",18.46,19.83,38.29,sad
 "It can be caused by a lot of the same things
-that cause the cerebral vascular disease or",38.29,3.88,42.17,
-the coronary vascular disease.,42.17,1.47,43.64,
-"That would be the buildup of cholesterol plaque
-within those arteries.",43.64,3.309,46.949,
-"For the most part, they have a lot of the
-same risk factors as the cerebral and coronary",46.949,3.821,50.769999999999996,
-vascular disease does.,50.77,1.32,52.09,neutral
+that cause the cerebral vascular disease or the coronary vascular disease. That would be the buildup of cholesterol plaque
+within those arteries. For the most part, they have a lot of the
+same risk factors as the cerebral and coronary vascular disease does.",38.29,13.799999999999999,52.089999999999996,sad
 "That would be smoking, lack of exercise, increased
-blood pressure and cholesterol.",52.09,5.37,57.46,
-"For peripheral vascular disease, however,
-smoking, plays a large factor.",57.46,3.75,61.21,
-"So, how do you know if you have peripheral
-vascular disease?",61.21,3.309,64.519,
-"Oftentimes, you can note that in one of two
-ways.",64.519,3.501,68.02000000000001,fear
-"One would be lower extremity cramping or pain,
-which we call claudication with walking.",68.02,5.57,73.59,
+blood pressure and cholesterol. For peripheral vascular disease, however,
+smoking, plays a large factor. So, how do you know if you have peripheral
+vascular disease? Oftentimes, you can note that in one of two
+ways. One would be lower extremity cramping or pain,
+which we call claudication with walking.",52.09,21.5,73.59,sad
 "Another way may be to see that the signs of
-decreased blood flow to the legs or feet.",73.59,5.22,78.81,
-"That would be cold or cool feet, or hair loss
-on the lower extremities, or a change in color",78.81,5.72,84.53,
-of the feet or toes.,84.53,1.25,85.78,
-"The most common symptom would be claudication,
-which is a leg cramping during walking.",85.78,5.59,91.37,
-"The best thing to do would be to see your
-doctor.",91.37,2.41,93.78,
+decreased blood flow to the legs or feet. That would be cold or cool feet, or hair loss
+on the lower extremities, or a change in color of the feet or toes. The most common symptom would be claudication,
+which is a leg cramping during walking. The best thing to do would be to see your
+doctor.",73.59,20.19,93.78,angry
 "Your doctor can order a pretty simple test,
-which we call a lower extremity vascular study",93.78,4.199,97.979,
-or a peripheral artery study.,97.979,1.57,99.54899999999999,
-"The test starts off with something called
-an ankle brachial index, which is just a simple",99.549,3.831,103.38000000000001,
-"measure of the blood pressure difference between
-the arms, or upper extremity, and the legs.",103.38,4.509,107.889,
-"It can be done with a simple 15 minute in-office
-procedure.",107.889,3.34,111.229,
+which we call a lower extremity vascular study or a peripheral artery study. The test starts off with something called
+an ankle brachial index, which is just a simple measure of the blood pressure difference between
+the arms, or upper extremity, and the legs. It can be done with a simple 15 minute in-office
+procedure.",93.78,17.448999999999998,111.229,sad
 "It's pretty painless and will tell the doctor
-right away if there's any problems with the",111.229,3.91,115.139,NA
-vasculature in your legs.,115.139,1.0,116.139,NA
-"So, how do we treat peripheral artery disease?",116.139,3.08,119.219,NA
-"It would be going back to the basic lifestyle
-modifications; stopping smoking, reducing",119.219,4.83,124.04899999999999,NA
-"your blood pressure, and treating high cholesterol.",124.049,2.28,126.32900000000001,NA
+right away if there's any problems with the vasculature in your legs. So, how do we treat peripheral artery disease? It would be going back to the basic lifestyle
+modifications; stopping smoking, reducing your blood pressure, and treating high cholesterol.",111.229,15.1,126.329,NA
 "Another very important way we treat peripheral
-artery disease would be to increase the amount",126.329,3.74,130.069,NA
-of exercise that you do.,130.069,1.331,131.39999999999998,NA
-"And that's the basic things you need to know
-about peripheral artery disease.",131.4,2.79,134.19,NA
+artery disease would be to increase the amount of exercise that you do. And that's the basic things you need to know
+about peripheral artery disease.",126.329,7.861,134.19,NA

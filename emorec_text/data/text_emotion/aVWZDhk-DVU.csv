@@ -1,39 +1,20 @@
 text,start,duration,end,dominant_emotion
 "A fifth group of agents are called Alpha-
-glucosidase inhibitors. ",5.066,7.0,12.065999999999999,fear
-In Canada is available as Glucobay or Acarbose,12.066,6.0,18.066000000000003,fear
-this is a pill that's taken with meals ,18.066,3.967,22.032999999999998,angry
-"and acts to slow the breakdown of starch or 
-carbohydrates in the gut",22.033,6.033,28.066000000000003,fear
-allowing for a slower rise in your blood sugar ,28.066,3.934,32.0,fear
-as the digestion of those starches is slow,32.0,5.0,37.0,fear
-"is also allows the amount of insulin that you 
-currently can secrete",37.0,5.066,42.066,fear
-"to be effective enough to hold your blood sugar 
-down",42.066,4.934,47.0,fear
-"as it delays the absorption of the glucose from 
-the intestines. ",47.0,5.066,52.066,fear
-Glucobay is taken as a 50 mg or 100 mg tablet,52.066,7.0,59.066,fear
+glucosidase inhibitors.  In Canada is available as Glucobay or Acarbose this is a pill that's taken with meals  and acts to slow the breakdown of starch or 
+carbohydrates in the gut allowing for a slower rise in your blood sugar ",5.066,26.934,32.0,angry
+"as the digestion of those starches is slow is also allows the amount of insulin that you 
+currently can secrete to be effective enough to hold your blood sugar 
+down as it delays the absorption of the glucose from 
+the intestines.  Glucobay is taken as a 50 mg or 100 mg tablet",32.0,27.066,59.066,angry
 "and it must be titrated that is you must started a 
-low dose and tested taking it less frequently",59.066,7.0,66.066,fear
-and slowly increase it over several weeks ,66.066,4.967,71.033,angry
-"to the full dose, the reason for that is that this 
+low dose and tested taking it less frequently and slowly increase it over several weeks  to the full dose, the reason for that is that this 
 drug can cause a considerable amount of 
-abdominal gas bloating",71.033,8.033,79.066,angry
-"and some cramping of the gut and therefore if 
-taken in low dose with meals",79.066,7.967,87.033,fear
-"and starting at for example a 1/2 or 1 tablet in the 
-morning ",87.033,5.033,92.066,fear
+abdominal gas bloating and some cramping of the gut and therefore if 
+taken in low dose with meals and starting at for example a 1/2 or 1 tablet in the 
+morning ",59.066,33.0,92.066,angry
 "once a day and then increasing it after one week 
 to twice a day or three times a day and slowly 
-working up to 50 mg",92.066,9.934,102.0,fear
-three times a day or even 100 mg,102.0,4.066,106.066,neutral
-three times a day,106.066,2.0,108.066,angry
-and it can be been very effective,108.066,2.0,110.066,neutral
-in reducing your blood sugar,110.066,2.0,112.066,angry
+working up to 50 mg three times a day or even 100 mg three times a day and it can be been very effective in reducing your blood sugar",92.066,20.0,112.066,angry
 "however it is not as overall powerful in reducing 
-blood sugars as of the sulfonylureas",112.066,9.0,121.066,fear
-or metformin ,121.066,2.0,123.066,fear
-"however it works very effectively and certainly as 
-an add-on agent ",123.066,5.934,129.0,fear
-in treating blood sugars.,129.0,3.0,132.0,neutral
+blood sugars as of the sulfonylureas or metformin  however it works very effectively and certainly as 
+an add-on agent  in treating blood sugars.",112.066,19.934,132.0,angry

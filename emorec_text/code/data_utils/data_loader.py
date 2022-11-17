@@ -50,30 +50,37 @@ class EmotionData(Dataset):
         list_files = os.listdir(self.data_path)
         idx_list = np.arange(len(list_files))
         train_size = int(self.train_percent * len(list_files))
+        val_size = int(len(list_files) - train_size)//2
 
         np.random.seed(self.seed)
         np.random.shuffle(idx_list)
 
         train_idx = idx_list[:train_size]
-        test_idx = idx_list[train_size:]
+        val_idx = idx_list[train_size:train_size+val_size]
+        test_idx = idx_list[train_size+val_size:]
 
         train_list = [list_files[i] for i in train_idx]
+        val_list = [list_files[i] for i in val_idx]
         test_list = [list_files[i] for i in test_idx]
 
-        list_data_files = {"train": train_list, "test": test_list}
+        list_data_files = {"train": train_list, "val": val_list, "test": test_list}
 
         data = {"train": {"text": [], "emotion": [], "embedding": [], "video_id": []},
+                "val": {"text": [], "emotion": [], "embedding": [], "video_id": []},
                 "test": {"text": [], "emotion": [], "embedding": [], "video_id": []}}
 
         print(f"train size: {len(train_list)}")
+        print(f"val size: {len(val_list)}")
         print(f"test size: {len(test_list)}")
 
-        for partition_type in ["train", "test"]:
+        for partition_type in ["train", "val", "test"]:
             for i, video_id in enumerate(list_data_files[partition_type]):
-                df_emotion = pd.read_csv(f"{config.BASE_PATH}/data/text_emotion/{video_id}")
-                if df_emotion.isnull().any().any():
+                try:
+                    df_emotion = pd.read_csv(f"{config.BASE_PATH}/data/text_emotion/{video_id}")
+                except:
                     continue
 
+                df_emotion = df_emotion.fillna("NA")
                 data[partition_type]["video_id"].append(video_id)
                 data[partition_type]["text"].append(list(df_emotion["text"]))
                 list_emotions = []

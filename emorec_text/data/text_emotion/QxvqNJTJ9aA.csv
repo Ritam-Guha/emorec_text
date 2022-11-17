@@ -1,80 +1,17 @@
 text,start,duration,end,dominant_emotion
-[Music],0.65,5.62,6.2700000000000005,happy
-growth hormone is pulsatile throughout,3.74,4.66,8.4,happy
-the day and is not useful for the,6.27,4.409,10.678999999999998,surprise
-diagnosis of acromegaly the best,8.4,5.31,13.71,surprise
-screening test is a serum igf-1 or,10.679,6.511,17.19,surprise
-insulin derived growth factor excess,13.71,5.79,19.5,surprise
-growth hormone is confirmed with an oral,17.19,4.56,21.75,surprise
-glucose tolerance test because glucose,19.5,3.869,23.369,surprise
-normally suppresses growth hormone,21.75,5.18,26.93,surprise
-levels to less than one nanogram per ml,23.369,5.941,29.31,surprise
-growth hormone levels greater than one,26.93,5.439,32.369,fear
-nanogram per per ml are diagnostic of,29.31,6.929,36.239,surprise
-growth hormone excess anterior pituitary,32.369,5.791,38.16,surprise
-MRI should be obtained once growth,36.239,3.48,39.718999999999994,
-hormone excess is confirmed by,38.16,3.96,42.12,
-chemically to rule out aperture tree,39.719,4.981,44.7,
-lesion acromegaly is the clinical,42.12,4.32,46.44,
-syndrome that occurs when a pituitary,44.7,4.44,49.14,
-tumor secretes excessive amounts of,46.44,5.7,52.14,surprise
-growth hormone in an adult patient prior,49.14,5.37,54.51,surprise
-to puberty patients with growth hormone,52.14,4.62,56.76,surprise
-secreting tumors develop excessive,54.51,4.92,59.43,surprise
-longitudinal growth and gigantism above,56.76,6.75,63.51,surprise
-normal for age let's go through some of,59.43,5.58,65.01,surprise
-the external features of acromegaly,63.51,3.69,67.2,surprise
-again in the head there may be,65.01,4.62,69.63000000000001,surprise
-prominence of the brow and jawline they,67.2,4.919,72.119,surprise
-may have been enlarged skull there may,69.63,4.98,74.61,surprise
-be facial edema and cautioning of facial,72.119,5.101,77.22,surprise
-features excessive spacing between the,74.61,4.35,78.96,surprise
-teeth usually of the lower jaw and,77.22,4.829,82.04899999999999,surprise
-finally macro gracia or enlargement of,78.96,5.909,84.869,surprise
-the tongue the skin can demonstrate,82.049,6.421,88.47000000000001,surprise
-thickening and skin tags and the hands,84.869,6.561,91.43,surprise
-and feet may be disproportionately large,88.47,5.789,94.259,surprise
-in the joints arthritis may be a,91.43,5.17,96.60000000000001,surprise
-manifestation and other internal,94.259,4.32,98.57900000000001,surprise
-features include diabetes mellitus,96.6,6.39,102.99,surprise
-hypertension colon polyps and excessive,98.579,7.911,106.49,surprise
-perspiration or hyperhidrosis,102.99,6.269,109.259,surprise
-obstructive sleep apnea is usually,106.49,4.93,111.41999999999999,surprise
-caused by excessive growth of tissue in,109.259,4.201,113.46,surprise
-the upper airway and are in and around,111.42,5.19,116.61,surprise
-the mouth along with macro gracia which,113.46,5.67,119.13,surprise
-leads to obstructive symptoms when,116.61,5.03,121.64,surprise
-sleeping left ventricular hypertrophy,119.13,4.83,123.96,surprise
-can occur in the heart and these,121.64,3.75,125.39,surprise
-patients may present with,123.96,4.079,128.039,surprise
-cardiomyopathies and then finally there,125.39,4.119,129.50900000000001,
-are increased rates of cancers,128.039,3.871,131.91,
-particularly the colon esophagus and,129.509,4.111,133.61999999999998,
-stomach as well,131.91,5.4,137.31,
-and even melanomas a clinical pearl here,133.62,5.94,139.56,
-is in clinical practice because of the,137.31,4.02,141.33,
-increased number of colonic polyps,139.56,4.349,143.909,
-patients are predisposed to colon,141.33,5.34,146.67000000000002,
-cancers and will often present as a as a,143.909,5.42,149.32899999999998,
-first feature with blood in the stool,146.67,5.19,151.85999999999999,surprise
-the treatment of acromegaly requires,149.329,4.63,153.959,surprise
-transfer noodle tumor resection and,151.86,4.29,156.15,surprise
-surgery is the only treatment that is,153.959,5.31,159.269,surprise
-potentially curative remission is,156.15,5.399,161.549,surprise
-achieved when igf-1 levels are within,159.269,4.56,163.829,surprise
-the normal range for age and the,161.549,3.961,165.51000000000002,surprise
-response of growth hormone to glucose,163.829,4.071,167.9,angry
-tolerance tests returns to normal,165.51,5.25,170.76,angry
-patients not achieving remission require,167.9,4.69,172.59,angry
-injection injectable somatostatin,170.76,3.75,174.51,angry
-analogs to inhibit growth hormone,172.59,4.739,177.329,angry
-secretion high-dose dopamine agonist,174.51,5.25,179.76,angry
-therapy is marginally effective when the,177.329,5.58,182.90900000000002,angry
-tumor Co secretes prolactin heavy,179.76,4.68,184.44,angry
-segment a growth hormone receptor,182.909,3.811,186.72,NA
-blocker is then used to lower igf-1,184.44,5.01,189.45,NA
-levels but it works in the peripheral,186.72,4.59,191.31,NA
-tissues as an antagonist to growth,189.45,3.99,193.44,NA
-hormone and does not decrease growth,191.31,5.69,197.0,NA
-hormone production by the tumor,193.44,3.56,197.0,NA
-[Music],201.01,14.429,215.439,NA
+[Music] growth hormone is pulsatile throughout the day and is not useful for the diagnosis of acromegaly the best screening test is a serum igf-1 or,0.65,26.509999999999998,27.159999999999997,angry
+insulin derived growth factor excess growth hormone is confirmed with an oral glucose tolerance test because glucose normally suppresses growth hormone levels to less than one nanogram per ml,13.71,25.34,39.05,angry
+growth hormone levels greater than one nanogram per per ml are diagnostic of growth hormone excess anterior pituitary MRI should be obtained once growth hormone excess is confirmed by,26.93,25.599,52.528999999999996,angry
+chemically to rule out aperture tree lesion acromegaly is the clinical syndrome that occurs when a pituitary tumor secretes excessive amounts of growth hormone in an adult patient prior,39.719,24.811,64.53,angry
+to puberty patients with growth hormone secreting tumors develop excessive longitudinal growth and gigantism above normal for age let's go through some of the external features of acromegaly,52.14,25.56,77.7,angry
+again in the head there may be prominence of the brow and jawline they may have been enlarged skull there may be facial edema and cautioning of facial features excessive spacing between the,65.01,23.97,88.98,angry
+teeth usually of the lower jaw and finally macro gracia or enlargement of the tongue the skin can demonstrate thickening and skin tags and the hands and feet may be disproportionately large,77.22,29.509,106.729,angry
+in the joints arthritis may be a manifestation and other internal features include diabetes mellitus hypertension colon polyps and excessive perspiration or hyperhidrosis,91.43,30.059999999999995,121.49000000000001,angry
+obstructive sleep apnea is usually caused by excessive growth of tissue in the upper airway and are in and around the mouth along with macro gracia which leads to obstructive symptoms when,106.49,25.021,131.511,angry
+sleeping left ventricular hypertrophy can occur in the heart and these patients may present with cardiomyopathies and then finally there are increased rates of cancers,119.13,20.648999999999997,139.779,NA
+particularly the colon esophagus and stomach as well and even melanomas a clinical pearl here is in clinical practice because of the increased number of colonic polyps,129.509,23.82,153.32899999999998,angry
+patients are predisposed to colon cancers and will often present as a as a first feature with blood in the stool the treatment of acromegaly requires transfer noodle tumor resection and,141.33,24.869999999999997,166.20000000000002,angry
+surgery is the only treatment that is potentially curative remission is achieved when igf-1 levels are within the normal range for age and the response of growth hormone to glucose,153.959,23.300999999999995,177.26,angry
+tolerance tests returns to normal patients not achieving remission require injection injectable somatostatin analogs to inhibit growth hormone secretion high-dose dopamine agonist,165.51,23.679000000000002,189.189,angry
+therapy is marginally effective when the tumor Co secretes prolactin heavy segment a growth hormone receptor blocker is then used to lower igf-1 levels but it works in the peripheral,177.329,23.671,201.0,angry
+tissues as an antagonist to growth hormone and does not decrease growth hormone production by the tumor [Music],189.45,27.669,217.119,NA

@@ -1,32 +1,8 @@
 text,start,duration,end,dominant_emotion
-symptoms of type 2 diabetes are often,0.0,4.799,4.799,surprise
-subtle and it's possible you may be too,2.639,4.111,6.75,surprise
-used to them to notice the symptoms,4.799,4.291,9.09,surprise
-include chronic fatigue itchy skin,6.75,5.219,11.969000000000001,surprise
-frequent thirst blurry vision sexual,9.09,5.129,14.219,surprise
-dysfunction gum disease or mood changes,11.969,4.381,16.35,
-it's even true that many people aren't,14.219,3.931,18.15,
-diagnosed until chronically high blood,16.35,3.99,20.340000000000003,
-sugar levels damage their cardiovascular,18.15,6.03,24.18,
-system eyes kidneys skin or nerves but,20.34,5.67,26.009999999999998,surprise
-how does type 2 diabetes develop in,24.18,4.2,28.38,surprise
-healthy people the pancreas produces a,26.01,4.62,30.630000000000003,
-steady supply of the hormone insulin to,28.38,4.05,32.43,
-help move glucose from the bloodstream,30.63,4.26,34.89,
-into every cell in your body where it is,32.43,4.86,37.29,
-used for fuel and people with type 2,34.89,4.71,39.6,
-diabetes however your body becomes,37.29,4.26,41.55,
-resistant to the effects of insulin so,39.6,4.35,43.95,
-it cannot do its job eventually you may,41.55,4.71,46.26,
-produce less and less insulin these,43.95,4.14,48.09,
-problems don't appear overnight but,46.26,3.42,49.68,fear
-gradually they trigger symptoms that,48.09,4.68,52.77,
-worsen over time that's why everyone 45,49.68,5.16,54.84,
-and older should get screened for type 2,52.77,5.01,57.78,
-diabetes every 3 years especially if,54.84,5.039,59.879000000000005,
-they have one of the risk factors such,57.78,5.279,63.059,
-as obesity physical inactivity family,59.879,5.43,65.309,
-history of the disease heart disease or,63.059,4.501,67.56,
-high blood pressure learn more about,65.309,4.231,69.53999999999999,
-type 2 diabetes by checking out other,67.56,4.76,72.32000000000001,surprise
+symptoms of type 2 diabetes are often subtle and it's possible you may be too used to them to notice the symptoms include chronic fatigue itchy skin frequent thirst blurry vision sexual,0.0,23.549,23.549,angry
+dysfunction gum disease or mood changes it's even true that many people aren't diagnosed until chronically high blood sugar levels damage their cardiovascular system eyes kidneys skin or nerves but,11.969,24.002000000000002,35.971000000000004,angry
+how does type 2 diabetes develop in healthy people the pancreas produces a steady supply of the hormone insulin to help move glucose from the bloodstream into every cell in your body where it is,24.18,21.990000000000002,46.17,NA
+used for fuel and people with type 2 diabetes however your body becomes resistant to the effects of insulin so it cannot do its job eventually you may produce less and less insulin these,34.89,22.169999999999998,57.06,NA
+problems don't appear overnight but gradually they trigger symptoms that worsen over time that's why everyone 45 and older should get screened for type 2 diabetes every 3 years especially if,46.26,23.308999999999997,69.56899999999999,NA
+they have one of the risk factors such as obesity physical inactivity family history of the disease heart disease or high blood pressure learn more about type 2 diabetes by checking out other,57.78,24.201,81.981,NA
 videos in this series,69.54,2.78,72.32000000000001,fear

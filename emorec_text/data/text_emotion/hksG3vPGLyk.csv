@@ -1,74 +1,45 @@
 text,start,duration,end,dominant_emotion
 "hey guys so today I want to talk to you
-about the Dario glucose monitoring",0.03,4.11,4.140000000000001,surprise
-"system this one it's a glucose meter but
-it's actually way more than that so it's",4.14,4.89,9.03,surprise
-"FDA cleared meaning that's accurate but
-it's not just accurate measuring test",9.03,4.769,13.799,surprise
-"over test I was really impressed with
-how accurate and it gives you the",13.799,3.81,17.608999999999998,surprise
-"reading in less than six seconds so
-that's pretty neat as well but when I",17.609,3.571,21.180000000000003,happy
+about the Dario glucose monitoring system this one it's a glucose meter but
+it's actually way more than that so it's FDA cleared meaning that's accurate but
+it's not just accurate measuring test over test I was really impressed with
+how accurate and it gives you the reading in less than six seconds so
+that's pretty neat as well but when I",0.03,21.150000000000002,21.180000000000003,sad
 "save so much more it's so much more
-because you use this with your phone so",21.18,5.79,26.97,happy
-"the people at Dario automatically know
-if you're running low in strips so if",26.97,3.99,30.96,surprise
-"you sign up for one of the programs you
-get unlimited test strips",30.96,4.439,35.399,surprise
-"every month that means that if they
-know that you're running low they'll",35.399,3.57,38.969,surprise
-"just automatically ship those to you you
-can also sign up for different programs",38.969,3.991,42.96,neutral
+because you use this with your phone so the people at Dario automatically know
+if you're running low in strips so if you sign up for one of the programs you
+get unlimited test strips every month that means that if they
+know that you're running low they'll just automatically ship those to you you
+can also sign up for different programs",21.18,21.78,42.96,sad
 "and you can even get access to their
-coaches so if that's what you need",42.96,4.86,47.82,neutral
-"that's what you can get there but let me
-show you how to use it so you use it",47.82,3.66,51.480000000000004,neutral
-"together with your phone there we go so
-here we go that's what that looks like",51.48,5.43,56.91,neutral
-"okay so how does it work let me show you
-again everything is in this little",56.91,3.93,60.839999999999996,neutral
-"device you just slide it and there's the
-actual meter look at that it's tiny",60.84,6.209,67.049,neutral
+coaches so if that's what you need that's what you can get there but let me
+show you how to use it so you use it together with your phone there we go so
+here we go that's what that looks like okay so how does it work let me show you
+again everything is in this little device you just slide it and there's the
+actual meter look at that it's tiny",42.96,24.089,67.049,sad
 "so that little meter slide into your
-phone like that and it automatically",67.049,7.711,74.76,neutral
-"connects and it'll ask you to insert the
-test strips so where are the test strips",74.76,3.96,78.72,neutral
-"they're in here too right here okay so
-picking up the phone again just insert",78.72,13.56,92.28,neutral
-"that into the slot and you'll tell you
-to add a blood drop we can do that",92.28,5.24,97.52,neutral
-"where is our Lancet device
-it's in here too it's up here so it's",97.52,5.08,102.6,neutral
+phone like that and it automatically connects and it'll ask you to insert the
+test strips so where are the test strips they're in here too right here okay so
+picking up the phone again just insert that into the slot and you'll tell you
+to add a blood drop we can do that where is our Lancet device
+it's in here too it's up here so it's",67.049,35.551,102.60000000000001,sad
 "just there we go the spring is ready I
-just push that button okay so hold drop",102.6,4.769,107.369,neutral
-"against my finger push the button there
-we go",107.369,2.761,110.13,neutral
-"I'm already bleeding fantastic small
-drop you can hardly see it",110.13,4.559,114.689,neutral
-"you can see it there we go tiny drop
-hold it up against the meter oh there",114.689,6.21,120.89899999999999,neutral
-"were already go and in six seconds we
-will, less than six seconds we will",120.899,4.231,125.13,neutral
+just push that button okay so hold drop against my finger push the button there
+we go I'm already bleeding fantastic small
+drop you can hardly see it you can see it there we go tiny drop
+hold it up against the meter oh there were already go and in six seconds we
+will, less than six seconds we will",102.6,22.53,125.13,sad
 "know the reading oh that's pretty neat
-so see now I came up with all these",125.13,4.859,129.989,happy
-"options because
-the cool thing about the app is it can",129.989,3.08,133.06900000000002,neutral
-"help us track not just our blood sugar's
-but also what kind of activities you",133.069,4.051,137.11999999999998,neutral
-"know when did we take this blood sugar
-did we eat how much insulin did we",137.12,3.33,140.45000000000002,neutral
-"take etc so it's a really cool one-stop
-shop for all your data so this I have to look",140.45,5.819,146.26899999999998,neutral
+so see now I came up with all these options because
+the cool thing about the app is it can help us track not just our blood sugar's
+but also what kind of activities you know when did we take this blood sugar
+did we eat how much insulin did we take etc so it's a really cool one-stop
+shop for all your data so this I have to look",125.13,21.139,146.269,sad
 "at it it's post meal meaning I just ate
-okay so if it had been pre",146.269,6.181,152.45000000000002,neutral
-"meal I could have put in how many
-carbohydrates I've even taken like",152.45,2.73,155.17999999999998,neutral
-"photos of my food and they also have a
-database with different kinds of food so",155.18,4.47,159.65,neutral
-"you can store all this click that little
-checkmark up in the corner my phone",159.65,5.61,165.26000000000002,neutral
-"there we go and now it's recorded so
-it's all in the lock book you can share",165.26,3.93,169.19,happy
+okay so if it had been pre meal I could have put in how many
+carbohydrates I've even taken like photos of my food and they also have a
+database with different kinds of food so you can store all this click that little
+checkmark up in the corner my phone there we go and now it's recorded so
+it's all in the lock book you can share",146.269,22.921,169.19,sad
 "that with your coach or with your doctor
-and just help you manage your diabetes",169.19,3.859,173.049,neutral
-pretty neat,173.049,3.211,176.26000000000002,happy
+and just help you manage your diabetes pretty neat",169.19,7.07,176.26,happy

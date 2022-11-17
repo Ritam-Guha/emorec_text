@@ -1,45 +1,10 @@
 text,start,duration,end,dominant_emotion
-hi my name is Heidi and I'm a pharmacist,5.15,4.45,9.600000000000001,happy
-and today we'll be talking about how to,8.1,4.83,12.93,neutral
-inject cloudy insulin before injecting,9.6,5.67,15.27,neutral
-your insulin check the expiration date,12.93,5.34,18.27,neutral
-to make sure it's not expired then,15.27,5.67,20.939999999999998,neutral
-enroll the insulin between your hands,18.27,6.75,25.02,neutral
-for fifteen to thirty seconds you never,20.94,6.03,26.970000000000002,neutral
-want to shake insulin you always want to,25.02,9.09,34.11,happy
-roll it to mix it after you're done,26.97,8.609,35.579,happy
-check to make sure that there's nothing,34.11,6.84,40.95,neutral
-settled at the bottom and then use an,35.579,9.901,45.480000000000004,neutral
-alcohol swab to sterilize the top of the,40.95,10.41,51.36,sad
-vial at this point take your syringe and,45.48,9.2,54.67999999999999,sad
-roll the cap from the needle,51.36,3.32,54.68,sad
-and pull the plunger down to the amount,57.18,4.47,61.65,sad
-of insulin that you intend to inject in,59.1,6.78,65.88,sad
-this case I intend to inject 20 units so,61.65,8.43,70.08,neutral
-I pull the plunger down to 20 then I'm,65.88,5.88,71.75999999999999,neutral
-going to stick the needle into the vial,70.08,7.2,77.28,sad
-I press down on the plunger to inject,71.76,8.52,80.28,sad
-the air into the vial turn the whole,77.28,7.37,84.65,sad
-thing over and then pull the plunger,80.28,8.94,89.22,sad
-back to 20 if you have bubbles in the,84.65,5.469,90.119,sad
-syringe,89.22,5.009,94.229,sad
-you can pull past 20 and then push back,90.119,6.871,96.99,sad
-up to push the bubbles back into the,94.229,7.321,101.55,sad
-vial then turn the whole thing over,96.99,9.72,106.71,sad
-again and pull the needle out at this,101.55,8.22,109.77,sad
-point you're ready to inject insulin can,106.71,4.65,111.36,sad
-be injected into the upper arm the,109.77,4.92,114.69,sad
-abdomen or the thigh make sure that,111.36,5.46,116.82,sad
-you're rotating sites within the site so,114.69,3.599,118.289,sad
-that you're not injecting exactly the,116.82,4.73,121.55,sad
-same spot each time,118.289,3.261,121.55,sad
-when you are injecting make sure you go,123.75,6.33,130.08,sad
-in at a 90 degree angle to the skin,126.04,4.04,130.08,sad
-let's the needle in the skin press down,131.16,6.01,137.17,sad
-on the plunger until all of the insulin,135.31,10.89,146.2,sad
-is injected then wait 5 seconds and then,137.17,13.59,150.76,sad
-withdraw the needle place the whole,146.2,7.62,153.82,sad
-syringe into a sharps container if you,150.76,4.5,155.26,sad
-have more questions about injecting,153.82,3.66,157.48,sad
-insulin please contact your pharmacist,155.26,5.36,160.62,sad
-or doctor thank you,157.48,3.14,160.61999999999998,sad
+hi my name is Heidi and I'm a pharmacist and today we'll be talking about how to inject cloudy insulin before injecting your insulin check the expiration date to make sure it's not expired then,5.15,25.96,31.11,sad
+enroll the insulin between your hands for fifteen to thirty seconds you never want to shake insulin you always want to roll it to mix it after you're done check to make sure that there's nothing,18.27,37.319,55.589,sad
+settled at the bottom and then use an alcohol swab to sterilize the top of the vial at this point take your syringe and roll the cap from the needle and pull the plunger down to the amount,35.579,37.300999999999995,72.88,sad
+of insulin that you intend to inject in this case I intend to inject 20 units so I pull the plunger down to 20 then I'm going to stick the needle into the vial I press down on the plunger to inject,59.1,36.81,95.91,sad
+the air into the vial turn the whole thing over and then pull the plunger back to 20 if you have bubbles in the syringe you can pull past 20 and then push back,77.28,33.659,110.939,sad
+up to push the bubbles back into the vial then turn the whole thing over again and pull the needle out at this point you're ready to inject insulin can be injected into the upper arm the,94.229,34.831,129.06,sad
+abdomen or the thigh make sure that you're rotating sites within the site so that you're not injecting exactly the same spot each time when you are injecting make sure you go,111.36,23.380000000000003,134.74,sad
+in at a 90 degree angle to the skin let's the needle in the skin press down on the plunger until all of the insulin is injected then wait 5 seconds and then withdraw the needle place the whole,126.04,42.15,168.19,sad
+syringe into a sharps container if you have more questions about injecting insulin please contact your pharmacist or doctor thank you,150.76,16.66,167.42,sad

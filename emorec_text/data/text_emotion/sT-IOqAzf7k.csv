@@ -1,426 +1,236 @@
 text,start,duration,end,dominant_emotion
-"Hello, everybody.",0.55,1.0,1.55,fear
-My name is Dr. Talia Marcheggiani.,1.55,2.61,4.16,fear
-"I'm recording to you guys from my clinic in
-Bloor West Village.",4.16,4.8,8.96,fear
-It's called Bloor West Wellness Clinic.,8.96,2.89,11.850000000000001,fear
-"And today I want to talk to you guys about
-one of my favourite conditions to treat when",11.85,4.55,16.4,fear
-it comes to naturopathic medicine.,16.4,2.62,19.02,surprise
-"And this condition is called Polycystic Ovarian
-Syndrome.",19.02,4.13,23.15,neutral
-"And this is an endocrine, or hormonal condition,
-and it affects about 10% of women.",23.15,3.699,26.848999999999997,fear
-"It's the most common cause of hormonal imbalance
-in women of menstruating age.",26.849,6.431,33.28,fear
-"And it's a syndrome, so it's not a disease.",33.28,2.98,36.26,neutral
+"Hello, everybody. My name is Dr. Talia Marcheggiani. I'm recording to you guys from my clinic in
+Bloor West Village. It's called Bloor West Wellness Clinic. And today I want to talk to you guys about
+one of my favourite conditions to treat when",0.55,15.850000000000001,16.400000000000002,neutral
+"it comes to naturopathic medicine. And this condition is called Polycystic Ovarian
+Syndrome. And this is an endocrine, or hormonal condition,
+and it affects about 10% of women. It's the most common cause of hormonal imbalance
+in women of menstruating age. And it's a syndrome, so it's not a disease.",16.4,19.86,36.26,neutral
 "There's a different constellation of symptoms
-that arise with it and this could be one of",36.26,5.13,41.39,fear
-the causes of infertility in a lot of women.,41.39,4.01,45.4,fear
-"And because the symptom pictures are so diverse,
-it's really hard for a lot of women to be",45.4,5.889,51.289,fear
-"suspected for a diagnosis of PCOS, or polycystic
-ovarian syndrome.",51.289,5.02,56.309,fear
-"So, PCOS, the hallmark, the diagnostic criteria,
-based on the Rotterdam Criteria, is having",56.309,9.711,66.02,neutral
+that arise with it and this could be one of the causes of infertility in a lot of women. And because the symptom pictures are so diverse,
+it's really hard for a lot of women to be suspected for a diagnosis of PCOS, or polycystic
+ovarian syndrome. So, PCOS, the hallmark, the diagnostic criteria,
+based on the Rotterdam Criteria, is having",36.26,29.759999999999998,66.02,neutral
 "either two of these three symptoms: anovulation
-or oligomenorrhea, which means having periods",66.02,6.62,72.64,fear
-that are irregular.,72.64,1.81,74.45,fear
-"So, either having more than one period per
-month or missed cycles and long cycles of",74.45,6.77,81.22,fear
-6 weeks or more.,81.22,1.01,82.23,fear
-"The average female menstrual cycle is about
-26-34 days, so having periods outside of that",82.23,6.99,89.22,fear
+or oligomenorrhea, which means having periods that are irregular. So, either having more than one period per
+month or missed cycles and long cycles of 6 weeks or more. The average female menstrual cycle is about
+26-34 days, so having periods outside of that",66.02,23.200000000000003,89.22,neutral
 """normal"" range could indicate one of the symptoms
-of PCOS.",89.22,4.95,94.17,fear
-"The other one is something called ""hirsutism"",
-which is caused by high androgens, or male",94.17,4.96,99.13,fear
-"sex hormones, like testosterone or DHEA.",99.13,3.85,102.97999999999999,neutral
-"And some of the symptoms of that are acne,
-so hormonal acne, those pustular, cystic acne",102.98,5.69,108.67,neutral
-"that happens around the chin and jaw-line,
-or the chest and back.",108.67,5.14,113.81,fear
+of PCOS. The other one is something called ""hirsutism"",
+which is caused by high androgens, or male sex hormones, like testosterone or DHEA. And some of the symptoms of that are acne,
+so hormonal acne, those pustular, cystic acne that happens around the chin and jaw-line,
+or the chest and back.",89.22,24.59,113.81,neutral
 "And ""hirsutism"", which is the male-pattern
-hair growth, which is great, if you're a woman,",113.81,6.93,120.74000000000001,fear
-"to have, which is the hair on the mustache
-and chin.",120.74,3.36,124.1,fear
-"So, you kind of sport a Frida Kahlo mustache
-and probably have to deal with that on the",124.1,4.579,128.679,fear
-regular.,128.679,1.0,129.679,fear
-"Similarly, having hair loss on the scalp,
-is another sign.",129.679,3.871,133.55,fear
+hair growth, which is great, if you're a woman, to have, which is the hair on the mustache
+and chin. So, you kind of sport a Frida Kahlo mustache
+and probably have to deal with that on the regular. Similarly, having hair loss on the scalp,
+is another sign.",113.81,19.74,133.55,neutral
 "So, when you think of men, men will typically
-experience male-pattern hair loss, and hair-growth",133.55,8.07,141.62,fear
-in the facial area.,141.62,1.32,142.94,neutral
-"And the third symptoms is the presence of
-cysts on the ovaries, which is diagnosed or",142.94,5.56,148.5,fear
-sighted with a transvaginal ultrasound.,148.5,2.72,151.22,neutral
-"There's a scope placed through the vagina
-and an ultrasound is done to see if there",151.22,4.88,156.1,fear
-are cysts on the ovaries.,156.1,2.93,159.03,fear
-"It can also be diagnosed with lab work, so
-that's not using the Rotterdam criteria, but",159.03,3.56,162.59,fear
-"there are two hormones that the brain makes
-that control the ovaries and these are called",162.59,4.41,167.0,neutral
-"FSH, or follicle-stimulating hormone, and
-LH, lutenizing hormone.",167.0,5.31,172.31,fear
-"The brain makes the hormones and they tell
-the ovaries when to ovulate and the ovaries",172.31,4.06,176.37,fear
+experience male-pattern hair loss, and hair-growth in the facial area. And the third symptoms is the presence of
+cysts on the ovaries, which is diagnosed or sighted with a transvaginal ultrasound. There's a scope placed through the vagina
+and an ultrasound is done to see if there",133.55,22.549999999999997,156.10000000000002,neutral
+"are cysts on the ovaries. It can also be diagnosed with lab work, so
+that's not using the Rotterdam criteria, but there are two hormones that the brain makes
+that control the ovaries and these are called FSH, or follicle-stimulating hormone, and
+LH, lutenizing hormone. The brain makes the hormones and they tell
+the ovaries when to ovulate and the ovaries",156.1,20.27,176.37,neutral
 "also make LH, lutenizing hormone after they've
-ovulated, or after the corpus luteum forms,",176.37,7.64,184.01,fear
-"after ovulation should happen, so whether
-the egg is fertilized or not, the corpus luteum",184.01,4.96,188.97,fear
-will form.,188.97,1.98,190.95,happy
-"And so PCOS is probable when you order labs
-and find that, so the FSH and LH should be",190.95,8.58,199.53,fear
-"almost the same, they should be at a 1:1 ratio
-and PCOS suspect when the LH to FSH ratio",199.53,8.28,207.81,fear
-is 2:1 or higher.,207.81,1.25,209.06,fear
-"So you have either 2 or more times the LH
-than you have FSH.",209.06,5.539,214.599,fear
-"And this is because in PCOS, the ovaries will
-secrete a lot more LH and that is one of the",214.599,9.081,223.67999999999998,fear
-"reasons why they hypothesize that there are
-high androgens, because the LH can stimulate",223.68,4.16,227.84,neutral
-more androgen release.,227.84,1.54,229.38,neutral
+ovulated, or after the corpus luteum forms, after ovulation should happen, so whether
+the egg is fertilized or not, the corpus luteum will form. And so PCOS is probable when you order labs
+and find that, so the FSH and LH should be almost the same, they should be at a 1:1 ratio
+and PCOS suspect when the LH to FSH ratio",176.37,31.439999999999998,207.81,neutral
+"is 2:1 or higher. So you have either 2 or more times the LH
+than you have FSH. And this is because in PCOS, the ovaries will
+secrete a lot more LH and that is one of the reasons why they hypothesize that there are
+high androgens, because the LH can stimulate more androgen release.",207.81,21.57,229.38,neutral
 "So, there's a ""skinny PCOS"", so these are
-women with those symptoms that don't experience",229.38,6.88,236.26,fear
-"obesity or metabolic syndrome, and then there's
-the metabolic syndrome type of PCOS and in",236.26,6.52,242.78,fear
-"these patients there's an insulin-resistance
-present, or a glucose-intolerance.",242.78,4.28,247.06,fear
-"And so these women will frequently experience
-hypoglycaemic crashes.",247.06,3.8,250.86,fear
-"They'll also probably be on the obese side
-and really struggle to keep weight off and",250.86,4.87,255.73000000000002,fear
+women with those symptoms that don't experience obesity or metabolic syndrome, and then there's
+the metabolic syndrome type of PCOS and in these patients there's an insulin-resistance
+present, or a glucose-intolerance. And so these women will frequently experience
+hypoglycaemic crashes. They'll also probably be on the obese side
+and really struggle to keep weight off and",229.38,26.35,255.73,neutral
 "they'll experience the low energy, the cravings
-for carbs.",255.73,4.21,259.94,neutral
-"They'll experience the hunger that comes two
-hours after a meal, despite having eaten an",259.94,5.939,265.879,fear
-"adequate amount of fat and protein, and this
-is really problematic for them because they're",265.879,7.051,272.93,fear
-"set up for diabetes and for cardiovascular
-disease down the line.",272.93,3.889,276.819,fear
-"And then they're also experiencing symptoms
-of obesity and they're not super happy with",276.819,4.331,281.15000000000003,fear
-how they look.,281.15,2.269,283.419,fear
-"And we're not exactly sure what causes PCOS
-in women.",283.419,5.4,288.81899999999996,fear
-"There's evidence for it being heritable, so
-genetically passed on.",288.819,4.271,293.09000000000003,fear
-"There's evidence for it being caused by insulin-dysregulation,
-and perhaps the ovaries are not responding",293.09,6.829,299.919,fear
-properly to insulin.,299.919,1.981,301.9,sad
+for carbs. They'll experience the hunger that comes two
+hours after a meal, despite having eaten an adequate amount of fat and protein, and this
+is really problematic for them because they're set up for diabetes and for cardiovascular
+disease down the line. And then they're also experiencing symptoms
+of obesity and they're not super happy with",255.73,25.42,281.15,neutral
+"how they look. And we're not exactly sure what causes PCOS
+in women. There's evidence for it being heritable, so
+genetically passed on. There's evidence for it being caused by insulin-dysregulation,
+and perhaps the ovaries are not responding properly to insulin.",281.15,20.750000000000004,301.9,neutral
 "What insulin does, is it helps us take in
-fuel or glucose into our cells and, just like",301.9,5.43,307.33,fear
-"all the cells in our body, the ovaries require
-insulin to absorb glucose so that they can",307.33,4.38,311.71,fear
-function properly.,311.71,1.06,312.77,fear
-"And so one of the theories of PCOS is that
-the ovaries are resisting insulin and the",312.77,6.75,319.52,neutral
-"insulin is signalling them to grow, but they're
-growing in the absence of proper fuel, or",319.52,7.239,326.75899999999996,fear
+fuel or glucose into our cells and, just like all the cells in our body, the ovaries require
+insulin to absorb glucose so that they can function properly. And so one of the theories of PCOS is that
+the ovaries are resisting insulin and the insulin is signalling them to grow, but they're
+growing in the absence of proper fuel, or",301.9,24.858999999999998,326.75899999999996,neutral
 "proper glucose as fuel and so they're creating
-these follicles, or cysts.",326.759,5.96,332.719,fear
-"And so, absence of periods, or irregular periods;
-male-pattern hair growth; obesity; infertility",332.719,6.51,339.229,fear
-"and then the presence of those cysts on the
-ovaries are all symptoms of PCOS.",339.229,4.21,343.43899999999996,fear
-"So, when we're trying to get a diagnosis,
-we'll send patients in for a transvaginal",343.439,3.931,347.37,fear
-ultrasound.,347.37,1.0,348.37,fear
+these follicles, or cysts. And so, absence of periods, or irregular periods;
+male-pattern hair growth; obesity; infertility and then the presence of those cysts on the
+ovaries are all symptoms of PCOS. So, when we're trying to get a diagnosis,
+we'll send patients in for a transvaginal ultrasound.",326.759,21.611,348.37,neutral
 "We'll also look at their fasting blood glucose
-and fasting insulin.",348.37,3.35,351.72,fear
-"We'll look at their progesterone and estrogen,
-because oftentimes these women are suffering",351.72,3.819,355.53900000000004,fear
-"from estrogen-dominance: there's low progesterone
-and high estrogen in relation to the levels",355.539,5.451,360.99,neutral
-of progesterone.,360.99,1.0,361.99,neutral
-"We'll look at their FSH and their LH, and
-I'll also check out their thyroid because",361.99,4.629,366.619,fear
+and fasting insulin. We'll look at their progesterone and estrogen,
+because oftentimes these women are suffering from estrogen-dominance: there's low progesterone
+and high estrogen in relation to the levels of progesterone. We'll look at their FSH and their LH, and
+I'll also check out their thyroid because",348.37,18.249000000000002,366.619,neutral
 "oftentimes the symptoms of hypothyroidism
-and PCOS are overlapping and so I want to",366.619,4.781,371.40000000000003,fear
-"find out if there's a thyroid pathology happening
-in the background.",371.4,3.97,375.37,fear
-"So, one of the main reasons that women will
-come in with PCOS is because they're trying",375.37,6.799,382.169,fear
-"to get pregnant, or they want to preserve
-their fertility in the future.",382.169,3.851,386.02,fear
-"They might come in for acne issues or the
-hair growth, or just to sort out their periods,",386.02,4.639,390.659,fear
-but the main reason that they come in is fertility.,390.659,2.361,393.02,fear
-"And 40% of women with PCOS do experience infertility
-or fertility challenges.",393.02,5.319,398.339,fear
-So this is a big issue for them.,398.339,2.97,401.309,neutral
-"And the reason I love treating PCOS in my
-practice is I find that, and this is sort",401.309,5.85,407.15900000000005,fear
-"of perhaps not technical or scientific, but
-I find that the personality of women with",407.159,5.25,412.409,fear
+and PCOS are overlapping and so I want to find out if there's a thyroid pathology happening
+in the background. So, one of the main reasons that women will
+come in with PCOS is because they're trying to get pregnant, or they want to preserve
+their fertility in the future. They might come in for acne issues or the
+hair growth, or just to sort out their periods,",366.619,24.04,390.65900000000005,neutral
+"but the main reason that they come in is fertility. And 40% of women with PCOS do experience infertility
+or fertility challenges. So this is a big issue for them. And the reason I love treating PCOS in my
+practice is I find that, and this is sort of perhaps not technical or scientific, but
+I find that the personality of women with",390.659,21.75,412.409,neutral
 "PCOS tends to be more phlegmatic, so they're
-usually more agreeable, and happier and patients",412.409,7.0,419.409,fear
-"that really want to do good work and so it's
-really enjoyable to work with them.",419.409,2.831,422.24,fear
-"But also, the reason I love treating patients
-with PCOS is because there are so many effective",422.24,5.47,427.71000000000004,neutral
-"strategies that naturopathic medicine offers
-and I don't see an equal amount of strategies",427.71,5.049,432.75899999999996,fear
-in the conventional system.,432.759,1.951,434.71000000000004,fear
+usually more agreeable, and happier and patients that really want to do good work and so it's
+really enjoyable to work with them. But also, the reason I love treating patients
+with PCOS is because there are so many effective strategies that naturopathic medicine offers
+and I don't see an equal amount of strategies in the conventional system.",412.409,22.301,434.71,neutral
 "And I'll talk a little bit about some of the
-conventional therapies of PCOS.",434.71,4.829,439.539,fear
-"So, what happens is, in conventional therapy,
-is they kind of look at the symptoms in the",439.539,5.38,444.919,fear
-"syndrome spectrum and they kind of try to
-deal with each symptom individually.",444.919,5.041,449.96,fear
-"So they look at irregular periods and they'll
-prescribe a birth control pill.",449.96,3.0,452.96,fear
-"So, like, ""ok, we'll just over-ride your own
-hormonal production and we'll control your",452.96,5.349,458.30899999999997,fear
+conventional therapies of PCOS. So, what happens is, in conventional therapy,
+is they kind of look at the symptoms in the syndrome spectrum and they kind of try to
+deal with each symptom individually. So they look at irregular periods and they'll
+prescribe a birth control pill. So, like, ""ok, we'll just over-ride your own
+hormonal production and we'll control your",434.71,23.599,458.30899999999997,neutral
 "periods and get you cycling regularly"", which
-obviously doesn't treat the underlying hormonal",458.309,4.741,463.05,fear
-"imbalance, because you're just placing exogenous,
-fake hormones on top of the picture.",463.05,5.22,468.27000000000004,fear
-"Or they'll say, ""ok, there's blood-sugar dysregulation,
-so I'm going to prescribe a diabetic medication",468.27,4.09,472.35999999999996,fear
-"called 'metformin', which will help resensitize
-your cells to insulin"", which again is not",472.36,5.44,477.8,fear
-"the best strategy, although there's some evidence
-to support that this helps.",477.8,3.539,481.339,neutral
+obviously doesn't treat the underlying hormonal imbalance, because you're just placing exogenous,
+fake hormones on top of the picture. Or they'll say, ""ok, there's blood-sugar dysregulation,
+so I'm going to prescribe a diabetic medication called 'metformin', which will help resensitize
+your cells to insulin"", which again is not the best strategy, although there's some evidence
+to support that this helps.",458.309,23.03,481.33900000000006,neutral
 "But, we're not again treating the underlying
-issue of insulin resistance and metformin",481.339,5.121,486.46,neutral
-"is pretty toxic to oocytes, or ovarian cells,
-so when you're treating infertility you're",486.46,5.929,492.38899999999995,fear
-"not setting the body up for healthy ovulation
-and producing a healthy baby.",492.389,5.3,497.689,fear
-"So, ehh, metformin.",497.689,3.051,500.74,fear
-"And then we have, they'll treat the high androgen
-symptoms, the hirsutism symptoms, the hyperandrogenism,",500.74,8.22,508.96000000000004,fear
+issue of insulin resistance and metformin is pretty toxic to oocytes, or ovarian cells,
+so when you're treating infertility you're not setting the body up for healthy ovulation
+and producing a healthy baby. So, ehh, metformin. And then we have, they'll treat the high androgen
+symptoms, the hirsutism symptoms, the hyperandrogenism,",481.339,27.621000000000002,508.96,neutral
 "by prescribing spironolactone, or Yas or Yasmin
-birth control pills, that block androgens.",508.96,5.59,514.55,fear
-"And, again, not the best strategy because
-it's not treating the underlying cause, and",514.55,4.58,519.13,fear
-"there's some evidence that Yas and Yasmin
-are one of the oral contraceptive pills that",519.13,5.43,524.56,fear
-"set you up for a higher risk of blood clots
-compared to other pills.",524.56,3.96,528.52,sad
-"So, women who are taking these are slightly
-higher than normal, compared to other birth",528.52,5.78,534.3,fear
+birth control pills, that block androgens. And, again, not the best strategy because
+it's not treating the underlying cause, and there's some evidence that Yas and Yasmin
+are one of the oral contraceptive pills that set you up for a higher risk of blood clots
+compared to other pills. So, women who are taking these are slightly
+higher than normal, compared to other birth",508.96,25.34,534.3,neutral
 "control pills, risk of pulmonary embolism,
-deep vein thromboses, and those kind of blood",534.3,7.019,541.319,fear
-"clotting issues, which could be fatal.",541.319,2.181,543.5,fear
-"So, that's an issue, right?",543.5,1.42,544.92,sad
-"And, again, not treating the underlying cause.",544.92,3.219,548.139,fear
-"So there's not that many great therapies and
-they're not holistic.",548.139,4.061,552.2,fear
+deep vein thromboses, and those kind of blood clotting issues, which could be fatal. So, that's an issue, right? And, again, not treating the underlying cause. So there's not that many great therapies and
+they're not holistic.",534.3,17.9,552.1999999999999,neutral
 "They're not looking at the whole picture,
-they're kind of reactionary and they're just",552.2,4.21,556.4100000000001,neutral
-treating the symptoms.,556.41,1.789,558.199,fear
-"And then in terms of fertility, so women will
-undergo IVF treatments or they'll be prescribed",558.199,7.26,565.459,fear
-"ovulation drugs like Clomid, which increase
-estrogen and get your body ovulating, kind",565.459,5.301,570.76,fear
-"of forcing ovulation to happen and again can
-be an issue because these women with PCOS",570.76,3.96,574.72,fear
+they're kind of reactionary and they're just treating the symptoms. And then in terms of fertility, so women will
+undergo IVF treatments or they'll be prescribed ovulation drugs like Clomid, which increase
+estrogen and get your body ovulating, kind of forcing ovulation to happen and again can
+be an issue because these women with PCOS",552.2,22.520000000000003,574.72,neutral
 "are having sometimes an estrogen dominance
-picture, so their estrogen is high in relation",574.72,5.08,579.8000000000001,fear
-"to their low progesterone and so adding more
-estrogen-promoting drugs like clomid could",579.8,5.33,585.13,fear
-"just make life a mental and emotional disaster
-for these women while they still have the",585.13,6.0,591.13,sad
-drug in their bodies.,591.13,1.34,592.47,neutral
-"That could happen to a lot of women, but,
-again, not the best.",592.47,3.489,595.9590000000001,neutral
+picture, so their estrogen is high in relation to their low progesterone and so adding more
+estrogen-promoting drugs like clomid could just make life a mental and emotional disaster
+for these women while they still have the drug in their bodies. That could happen to a lot of women, but,
+again, not the best.",574.72,21.239,595.9590000000001,neutral
 "It could achieve the end goal of getting pregnant,
-by increasing your chances, but we're not",595.959,4.101,600.06,fear
-looking at what's going on.,600.06,1.92,601.9799999999999,fear
-"And so, what happens, if when I first see
-a patient with PCOS, we'll run the labs, or",601.98,4.191,606.171,fear
-"I'll get the labs that their family doctor
-has run, if that was done recently, and we'll",606.171,5.278,611.4490000000001,neutral
-"take a look at their symptoms, so I'll ask
-them how their periods are, and if they get",611.449,4.591,616.04,neutral
+by increasing your chances, but we're not looking at what's going on. And so, what happens, if when I first see
+a patient with PCOS, we'll run the labs, or I'll get the labs that their family doctor
+has run, if that was done recently, and we'll take a look at their symptoms, so I'll ask
+them how their periods are, and if they get",595.959,20.081,616.04,neutral
 "PMS symptoms, and how often their periods
-come.",616.04,2.33,618.37,neutral
-"And I'll get them to track their periods,
-so I can see are they happening regularly,",618.37,4.279,622.649,fear
-and they're just very far apart?,622.649,1.11,623.759,fear
-Or are they all over the place?,623.759,1.95,625.7090000000001,fear
-"We'll look at their FSH and their LH, to see
-if they have that classic high LH to FSH ratio,",625.709,5.891,631.5999999999999,fear
+come. And I'll get them to track their periods,
+so I can see are they happening regularly, and they're just very far apart? Or are they all over the place? We'll look at their FSH and their LH, to see
+if they have that classic high LH to FSH ratio,",616.04,15.56,631.5999999999999,neutral
 "and we'll look at their insulin and fasting
-blood glucose and their testosterone.",631.6,4.22,635.82,fear
-"And I'll ask them about symptoms, like acne
-and hair growth and we'll talk about weight",635.82,5.71,641.5300000000001,fear
-"loss and if they're getting those hypoglycaemic
-or insulin resistance symptoms.",641.53,5.44,646.97,fear
-"And we'll talk about mood and emotions and
-digestion as well, which I talk about with",646.97,3.419,650.389,fear
-"all my patients, and energy and things like
-that, because we want to get a holistic picture",650.389,3.401,653.79,fear
+blood glucose and their testosterone. And I'll ask them about symptoms, like acne
+and hair growth and we'll talk about weight loss and if they're getting those hypoglycaemic
+or insulin resistance symptoms. And we'll talk about mood and emotions and
+digestion as well, which I talk about with all my patients, and energy and things like
+that, because we want to get a holistic picture",631.6,22.19,653.7900000000001,neutral
 "and we want to —the reason is when I'm treating
-people I'm treating from the premise that",653.79,4.89,658.68,fear
-"it's possible to be healthy and we can influence
-our health and the more I examine healthcare,",658.68,5.349,664.029,fear
-"and the healthcare model that is conventional,
-the more I doubt that that's the premise that",664.029,5.54,669.569,fear
-they're standing on.,669.569,1.02,670.5889999999999,fear
-Right?,670.589,1.0,671.589,fear
+people I'm treating from the premise that it's possible to be healthy and we can influence
+our health and the more I examine healthcare, and the healthcare model that is conventional,
+the more I doubt that that's the premise that they're standing on. Right?",653.79,17.799,671.5889999999999,neutral
 "They're kind of looking at making symptoms
-manageable, or maybe achieving outcomes or",671.589,4.321,675.9100000000001,fear
-"end goals, or preventing death and things
-like that, but they're not coming at health",675.91,5.429,681.3389999999999,fear
-"conditions from a place of: ""this person can
-influence the situation that they're in through",681.339,6.911,688.25,fear
-"targeting and trying to understand the root
-cause of what's going on, and then treating",688.25,5.49,693.74,fear
-"that.""",693.74,1.56,695.3,neutral
-So that's where I'm coming at it.,695.3,1.16,696.4599999999999,neutral
-"I'm looking at the whole picture, and I'm
-trying to understand this person's unique",696.46,4.67,701.13,fear
-"hormonal imbalance and what the symptoms are
-that manifest from that.",701.13,8.59,709.72,fear
-"Then it comes to choosing a treatment plan,
-so there's lot of treatment that have a robust",709.72,4.33,714.0500000000001,fear
-"amount of evidence surrounding them and so
-you frequently hear people say that naturopathic",714.05,5.74,719.79,fear
+manageable, or maybe achieving outcomes or end goals, or preventing death and things
+like that, but they're not coming at health conditions from a place of: ""this person can
+influence the situation that they're in through targeting and trying to understand the root
+cause of what's going on, and then treating that.""",671.589,23.711000000000002,695.3000000000001,neutral
+"So that's where I'm coming at it. I'm looking at the whole picture, and I'm
+trying to understand this person's unique hormonal imbalance and what the symptoms are
+that manifest from that. Then it comes to choosing a treatment plan,
+so there's lot of treatment that have a robust amount of evidence surrounding them and so
+you frequently hear people say that naturopathic",695.3,24.490000000000002,719.79,neutral
 "medicine, or functional medicine, of these
-natural forms of medicine have no evidence",719.79,4.59,724.38,fear
-"and they're pseudoscientific, well there's
-tons of evidence for increasing fertility",724.38,5.93,730.31,fear
-"and improving PCOS using natural remedies,
-like nutriceutical remedies and herbal remedies.",730.31,6.19,736.5,fear
-"So, first of all we have something called
-inositol.",736.5,3.709,740.209,fear
-"Inositol acts like a sugar in the body and
-what it does is it re-sensitizes the ovaries",740.209,6.3,746.5089999999999,neutral
-to insulin and serves as a fuel for the ovaries.,746.509,4.591,751.1,fear
-"And inositol doesn't have much of a taste,
-it doesn't have any side effects.",751.1,2.88,753.98,fear
-"It actually has some positive effects in helping
-with bipolar disorder and psychosis and those",753.98,4.63,758.61,fear
-"kind of mental health disorders, so if those
-are comorbid, then it's great.",758.61,3.88,762.49,fear
-"If you have PCOS and you have bipolar, then
-inositol is a great choice.",762.49,3.4,765.89,fear
+natural forms of medicine have no evidence and they're pseudoscientific, well there's
+tons of evidence for increasing fertility and improving PCOS using natural remedies,
+like nutriceutical remedies and herbal remedies. So, first of all we have something called
+inositol. Inositol acts like a sugar in the body and
+what it does is it re-sensitizes the ovaries",719.79,26.719,746.509,neutral
+"to insulin and serves as a fuel for the ovaries. And inositol doesn't have much of a taste,
+it doesn't have any side effects. It actually has some positive effects in helping
+with bipolar disorder and psychosis and those kind of mental health disorders, so if those
+are comorbid, then it's great. If you have PCOS and you have bipolar, then
+inositol is a great choice.",746.509,19.380999999999997,765.89,neutral
 "And with inositol, there's some studies that
-show that in 3 months of supplementing with",765.89,4.44,770.33,fear
-"inositol periods have become regular, hyperandrogenism
-symptoms have gone down, so the acne and hair",770.33,5.08,775.4100000000001,fear
-"growth, and women had a 1 in 2 chance of getting
-pregnant.",775.41,3.02,778.43,fear
-"And then another 3 months of that, and their
-chances went up.",778.43,3.719,782.149,fear
-"So, inositol on its own is pretty powerful.",782.149,3.37,785.519,fear
+show that in 3 months of supplementing with inositol periods have become regular, hyperandrogenism
+symptoms have gone down, so the acne and hair growth, and women had a 1 in 2 chance of getting
+pregnant. And then another 3 months of that, and their
+chances went up. So, inositol on its own is pretty powerful.",765.89,19.629,785.519,neutral
 "Another nutriceutical is N-acetyl cysteine,
-so NAC, which helps the liver clear out hormones",785.519,5.601,791.12,fear
-"and rebalance hormones and another great remedy
-for PCOS.",791.12,3.149,794.269,fear
-"We're not exactly sure how it works, but there's
-some theories about it rebalancing hormones,",794.269,6.291,800.5600000000001,fear
-"and perhaps through it's antioxidant activity,
-because NAC creates an antioxidant, the main",800.56,6.339,806.899,fear
-"antioxidant in the body called ""glutathione"".",806.899,2.101,809.0,fear
+so NAC, which helps the liver clear out hormones and rebalance hormones and another great remedy
+for PCOS. We're not exactly sure how it works, but there's
+some theories about it rebalancing hormones, and perhaps through it's antioxidant activity,
+because NAC creates an antioxidant, the main antioxidant in the body called ""glutathione"".",785.519,23.481,809.0,neutral
 "So, probably through its antioxidant activity,
-it's helping the mitochondria, those fuel-houses",809.0,6.12,815.12,fear
-"for the cell, work better.",815.12,4.49,819.61,fear
-"Another thing, when it comes to PCOS are some
-herbal remedies.",819.61,2.969,822.5790000000001,neutral
-"So there's an herb called vitex that helps
-establish a healthy hormonal estrogen and",822.579,4.981,827.56,fear
-"progesterone balance and that could be appropriate
-for some women.",827.56,2.86,830.42,fear
+it's helping the mitochondria, those fuel-houses for the cell, work better. Another thing, when it comes to PCOS are some
+herbal remedies. So there's an herb called vitex that helps
+establish a healthy hormonal estrogen and progesterone balance and that could be appropriate
+for some women.",809.0,21.419999999999998,830.42,neutral
 "And there's some studies using white peony
-and licorice that can help lower those hyperandrogenism",830.42,5.909,836.329,fear
-symptoms.,836.329,2.63,838.959,fear
-"And then there are some herbs like saw palmetto
-that can help balance those high androgens",838.959,4.351,843.31,fear
-"as well, as they bind up testosterone and
-DHEA in the blood, so they increase something",843.31,4.25,847.56,fear
-"called sex hormone binding globulin (SHBG)
-and that can help clear out excess testosterone.",847.56,6.42,853.9799999999999,fear
+and licorice that can help lower those hyperandrogenism symptoms. And then there are some herbs like saw palmetto
+that can help balance those high androgens as well, as they bind up testosterone and
+DHEA in the blood, so they increase something called sex hormone binding globulin (SHBG)
+and that can help clear out excess testosterone.",830.42,23.560000000000002,853.98,neutral
 "So those are just a few of these herbal and
-nutriceutical remedies that can be helpful",853.98,3.729,857.7090000000001,fear
-"in PCOS and I might prescribe some B-complex
-or some magnesium depending on how the adrenal",857.709,6.37,864.079,fear
-"glands are functioning and how hormones are
-cycling.",864.079,3.7,867.779,fear
-"And another thing we really like to do is
-tackle PCOS with diet and improve that blood-sugar",867.779,6.05,873.829,fear
-"balance if some of those insulin resistant
-symptoms or metabolic syndrome symptoms are",873.829,4.461,878.29,fear
-there.,878.29,1.69,879.98,neutral
-"And there's a great study that shows that
-front-loading, so really increasing the calories",879.98,6.39,886.37,fear
-"that women are eating in the morning, having
-moderate calories at lunch and then having",886.37,5.399,891.769,fear
-"a lower or lighter dinner, kind of a snack
-for dinner, is really helpful in promoting",891.769,5.81,897.579,fear
-"fertility, lowering those androgens, resensitizing
-the ovaries and the other cells in their bodies",897.579,4.831,902.41,fear
+nutriceutical remedies that can be helpful in PCOS and I might prescribe some B-complex
+or some magnesium depending on how the adrenal glands are functioning and how hormones are
+cycling. And another thing we really like to do is
+tackle PCOS with diet and improve that blood-sugar balance if some of those insulin resistant
+symptoms or metabolic syndrome symptoms are",853.98,24.310000000000002,878.29,neutral
+"there. And there's a great study that shows that
+front-loading, so really increasing the calories that women are eating in the morning, having
+moderate calories at lunch and then having a lower or lighter dinner, kind of a snack
+for dinner, is really helpful in promoting fertility, lowering those androgens, resensitizing
+the ovaries and the other cells in their bodies",878.29,24.119999999999997,902.41,neutral
 "to insulin and thereby resetting the hormonal
-stage.",902.41,5.94,908.35,fear
-"Really cool that this study just by changing
-your diet, although not the easiest change,",908.35,5.789,914.139,fear
-"is helpful for balancing hormones and you're
-not doing something toxic, like the birth",914.139,4.7,918.839,fear
-"control pill or metformin, or something like
-that.",918.839,3.101,921.94,fear
-"Also, a paleolithic diet, so changing the
-glycemic index of your diet by choosing fruits",921.94,7.97,929.9100000000001,fear
+stage. Really cool that this study just by changing
+your diet, although not the easiest change, is helpful for balancing hormones and you're
+not doing something toxic, like the birth control pill or metformin, or something like
+that. Also, a paleolithic diet, so changing the
+glycemic index of your diet by choosing fruits",902.41,27.499999999999996,929.91,neutral
 "and vegetables that are lower on the glycemic
-index, so those leafy greens and adding fat",929.91,4.599,934.509,fear
-and protein to every meal.,934.509,2.64,937.149,fear
-"It's difficult as a vegetarian to shift hormones
-for the better and so I often recommend a",937.149,6.261,943.41,fear
-"more paleolithic diet to women, however, vegetarians,
-it is possible to increase your protein, it",943.41,5.441,948.851,fear
-"just takes a little bit more of conscious
-effort.",948.851,2.369,951.22,fear
+index, so those leafy greens and adding fat and protein to every meal. It's difficult as a vegetarian to shift hormones
+for the better and so I often recommend a more paleolithic diet to women, however, vegetarians,
+it is possible to increase your protein, it just takes a little bit more of conscious
+effort.",929.91,21.31,951.2199999999999,neutral
 "And the reason that paleo diet is helpful
-is because it is lower glycemic index and",951.22,5.039,956.259,fear
-"has those higher fruits and vegetables with
-their antioxidant properties, but it also",956.259,4.341,960.6,fear
-"promotes the healthy fats and having an adequate
-intake of lean protein, such as your chicken,",960.6,6.919,967.519,fear
-"fish, lean beef, or eggs and even some dairy
-products depending on how someone tolerates",967.519,5.38,972.899,fear
-that.,972.899,2.391,975.29,fear
+is because it is lower glycemic index and has those higher fruits and vegetables with
+their antioxidant properties, but it also promotes the healthy fats and having an adequate
+intake of lean protein, such as your chicken, fish, lean beef, or eggs and even some dairy
+products depending on how someone tolerates that.",951.22,24.07,975.2900000000001,neutral
 "And the last thing I'm going to talk about—this
-is just sort of a PCOS overview—the last",975.29,3.69,978.98,fear
-"thing I'm going to talk about is, with my
-patients I always work on self-care and stress",978.98,3.839,982.8190000000001,fear
-"relief because we know that the stress hormone
-cortisol can really mess up the other hormones",982.819,10.33,993.149,fear
-in our body.,993.149,1.611,994.76,fear
-"It can contribute to insulin or worsen insulin
-resistance.",994.76,3.129,997.889,fear
+is just sort of a PCOS overview—the last thing I'm going to talk about is, with my
+patients I always work on self-care and stress relief because we know that the stress hormone
+cortisol can really mess up the other hormones in our body. It can contribute to insulin or worsen insulin
+resistance.",975.29,22.599000000000004,997.889,neutral
 "It can worse that estrogen-dominance picture,
-it can prevent us from making enough progesterone",997.889,5.7,1003.589,fear
-"because the progesterone and the cortisol
-pathway follows the same pathway and so that",1003.589,6.601,1010.19,fear
-"could be problematic if we need more progesterone
-but we're using all of the resources to make",1010.19,4.589,1014.7790000000001,fear
-"it on making cortisol to deal with our stressful
-lifestyle.",1014.779,4.341,1019.12,fear
-"And a big part of managing PCOS, I find, is
-just getting cortisol under control and that",1019.12,5.719,1024.839,fear
+it can prevent us from making enough progesterone because the progesterone and the cortisol
+pathway follows the same pathway and so that could be problematic if we need more progesterone
+but we're using all of the resources to make it on making cortisol to deal with our stressful
+lifestyle. And a big part of managing PCOS, I find, is
+just getting cortisol under control and that",997.889,26.950000000000003,1024.839,neutral
 "might include increasing self-care, getting
-into things like yoga or meditation or doing",1024.839,6.131,1030.97,neutral
-"some shin-rin yoku, like in the other video
-where I talk about Japanese Forest Bathing,",1030.97,3.82,1034.79,fear
-so spending time in nature.,1034.79,1.81,1036.6,fear
-"That could be walking in the woods, or gardening,
-even watering a plant or hanging out with",1036.6,4.93,1041.53,fear
-a pet or animal.,1041.53,2.04,1043.57,fear
+into things like yoga or meditation or doing some shin-rin yoku, like in the other video
+where I talk about Japanese Forest Bathing, so spending time in nature. That could be walking in the woods, or gardening,
+even watering a plant or hanging out with a pet or animal.",1024.839,18.731,1043.57,neutral
 "Doing these things that feel nurturing and
-feel supportive to the mind and the emotions",1043.57,5.22,1048.79,fear
-"and help us face the daily stressors that
-we face with more resilience are all great",1048.79,8.15,1056.94,fear
-strategies for managing hormonal health.,1056.94,2.7,1059.64,sad
-"So, if you have any questions, just send me
-an email at connect@taliand.com or you can",1059.64,7.38,1067.0200000000002,neutral
-"check out my website at taliand.com and my
-blog for other articles on hormonal balance,",1067.02,6.06,1073.08,fear
+feel supportive to the mind and the emotions and help us face the daily stressors that
+we face with more resilience are all great strategies for managing hormonal health. So, if you have any questions, just send me
+an email at connect@taliand.com or you can check out my website at taliand.com and my
+blog for other articles on hormonal balance,",1043.57,29.509999999999998,1073.08,neutral
 "such as estrogen dominance, choosing an oral
-contraceptive pill, if you need one, and another",1073.08,7.35,1080.4299999999998,fear
-article that I wrote about PCOS.,1080.43,1.16,1081.5900000000001,neutral
-"Have a great day, and I'll see you guys soon.",1081.59,3.13,1084.72,neutral
+contraceptive pill, if you need one, and another article that I wrote about PCOS. Have a great day, and I'll see you guys soon.",1073.08,11.64,1084.72,neutral

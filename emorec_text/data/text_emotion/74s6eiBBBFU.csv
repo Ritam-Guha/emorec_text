@@ -1,121 +1,53 @@
 text,start,duration,end,dominant_emotion
-Hey guys.,1.73,1.0,2.73,fear
-It's Dr. Berg here.,2.73,1.0,3.73,fear
-"I had a patient recently who wanted to know
-what causes hypoglycemia and I want to create",3.73,4.32,8.05,fear
-a little video on that.,8.05,1.58,9.63,
-"Hypo mean low, glycemia, which means sugar
-in the blood.",9.63,4.1,13.73,fear
+"Hey guys. It's Dr. Berg here. I had a patient recently who wanted to know
+what causes hypoglycemia and I want to create a little video on that. Hypo mean low, glycemia, which means sugar
+in the blood.",1.73,12.0,13.73,NA
 "When the sugar goes down to low, you feel
-dizzy, irritable, a craving for sweets, thirsty,",13.73,10.32,24.05,fear
-"depressed, all these different symptoms.",24.05,2.569,26.619,happy
-Okay?,26.619,1.0,27.619,
-"If the sugar goes low, it's not good.",27.619,2.14,29.759,
-"If the sugar goes high, it's not good.",29.759,1.991,31.75,
-Here's what initially happens.,31.75,2.149,33.899,fear
-"You start, even in my case, you start off
-eating a lot of sugar.",33.899,3.771,37.67,fear
-"As a child you eat a lot of sugar and you're
-eating large quantities of sugar.",37.67,4.95,42.620000000000005,fear
-"Now, if you think about it, when you measure
-your sugars it should be like between 80 and",42.62,4.8,47.419999999999995,fear
-100.,47.42,1.0,48.42,fear
-Let's say 100 is normal roughly.,48.42,1.77,50.190000000000005,fear
-100 units of sugar in your blood.,50.19,3.75,53.94,fear
-What does that mean?,53.94,1.209,55.149,fear
-"It means that equivalent to roughly around
-one teaspoon of sugar per gallon of blood.",55.149,5.601,60.75,fear
-It's not a lot.,60.75,1.26,62.01,fear
-It's a little tiny bit.,62.01,2.15,64.16,angry
-"You can imagine if you consume, I don't know,
-a cup of flavored yogurt, a glass of juice,",64.16,6.81,70.97,fear
-that's 38 grams of sugar.,70.97,3.79,74.76,fear
-"That's 38 grams of sugar in one small period
-consuming them.",74.76,4.65,79.41000000000001,fear
-"I mean, I remember myself, I had hypoglycemia.",79.41,3.76,83.17,fear
+dizzy, irritable, a craving for sweets, thirsty, depressed, all these different symptoms. Okay? If the sugar goes low, it's not good. If the sugar goes high, it's not good.",13.73,18.02,31.75,NA
+"Here's what initially happens. You start, even in my case, you start off
+eating a lot of sugar. As a child you eat a lot of sugar and you're
+eating large quantities of sugar. Now, if you think about it, when you measure
+your sugars it should be like between 80 and 100.",31.75,16.67,48.42,NA
+"Let's say 100 is normal roughly. 100 units of sugar in your blood. What does that mean? It means that equivalent to roughly around
+one teaspoon of sugar per gallon of blood. It's not a lot.",48.42,13.589999999999998,62.01,angry
+"It's a little tiny bit. You can imagine if you consume, I don't know,
+a cup of flavored yogurt, a glass of juice, that's 38 grams of sugar. That's 38 grams of sugar in one small period
+consuming them. I mean, I remember myself, I had hypoglycemia.",62.01,21.159999999999997,83.16999999999999,NA
 "I remember going trick or treating, coming
-home with a bag this big of candy, sitting",83.17,7.11,90.28,fear
-down and eating the whole thing in one sitting.,90.28,4.44,94.72,fear
-What was I thinking or not thinking?,94.72,1.99,96.71,fear
-It was crazy.,96.71,1.0,97.71,fear
-"I mean, talk about a massive whiplash to that
-pancreas.",97.71,4.22,101.92999999999999,fear
-That's a trauma situation.,101.93,1.72,103.65,fear
-"My body had to raise insulin so high to get
-this out and work so hard.",103.65,6.57,110.22,fear
-"If you do that a few times in a row, it's
-going to create a whiplash effect so it's",110.22,2.91,113.13,fear
-"going to over-react and bring it down and
-keep it down there too long because I'm creating",113.13,5.32,118.44999999999999,fear
-a kind of stimulus response then.,118.45,2.07,120.52,
-I'm just like hitting that thing.,120.52,1.0,121.52,
-It's going up and it comes right down.,121.52,2.57,124.08999999999999,fear
-That's an over-reaction.,124.09,1.0,125.09,
-That's hypoglycemia.,125.09,2.07,127.16,
-"Other causes of hypoglycemia could stem from
-adrenal stress as well because the adrenal",127.16,4.469,131.629,
+home with a bag this big of candy, sitting down and eating the whole thing in one sitting. What was I thinking or not thinking? It was crazy. I mean, talk about a massive whiplash to that
+pancreas.",83.17,18.76,101.93,NA
+"That's a trauma situation. My body had to raise insulin so high to get
+this out and work so hard. If you do that a few times in a row, it's
+going to create a whiplash effect so it's going to over-react and bring it down and
+keep it down there too long because I'm creating a kind of stimulus response then.",101.93,18.590000000000003,120.52000000000001,NA
+"I'm just like hitting that thing. It's going up and it comes right down. That's an over-reaction. That's hypoglycemia. Other causes of hypoglycemia could stem from
+adrenal stress as well because the adrenal",120.52,11.109000000000002,131.629,NA
 "gland can create that as well, but also just
-sugar in general.",131.629,5.08,136.709,fear
-"I'll have people like they're don't eat sugar,
-but they have hypoglycemia because the adrenals",136.709,4.2,140.909,fear
-"are stressing out and that's turning your
-protein into sugar.",140.909,3.95,144.85899999999998,fear
-"That happens when you get a little bit older,
-but when you're younger, it's just the sugar.",144.859,4.86,149.71900000000002,fear
-Sugar goes into the bloodstream.,149.719,2.27,151.989,fear
+sugar in general. I'll have people like they're don't eat sugar,
+but they have hypoglycemia because the adrenals are stressing out and that's turning your
+protein into sugar. That happens when you get a little bit older,
+but when you're younger, it's just the sugar. Sugar goes into the bloodstream.",131.629,20.36,151.98899999999998,NA
 "Your body can only maintain one teaspoon per
-gallon so it has to trigger insulin to pull",151.989,5.431,157.42000000000002,fear
-it out.,157.42,1.0,158.42,
-"If you start doing too much, it converts to
-fat.",158.42,4.48,162.89999999999998,fear
-Okay.,162.9,2.11,165.01000000000002,fear
-"Then basically what happens over time is hypoglycemia
-then turns into hyperglycemia, high sugar,",165.01,8.959,173.969,fear
-because this gets exhausted.,173.969,3.181,177.15,fear
-"The other thing is that your body considers
-that much sugar toxic, so it's going to start",177.15,6.229,183.37900000000002,fear
-to repel and block and resist insulin.,183.379,3.551,186.92999999999998,fear
-"They call it insulin-resistant, so the cells
-in the liver are going to block it and not",186.93,5.83,192.76000000000002,fear
-"accept that sugar, and so might have the high
-spike of sugar from the pancreas, but it won't",192.76,7.099,199.85899999999998,fear
-allow it in the liver.,199.859,1.22,201.079,fear
-Okay?,201.079,1.0,202.079,fear
-"Now, if it won't allow the insulin to be going
-in the liver, and insulin suppresses sugar,",202.079,6.11,208.18900000000002,fear
-then the sugar stays high so we have hyperglycemia.,208.189,4.14,212.32899999999998,
-Diabetes.,212.329,1.0,213.329,
-Okay?,213.329,1.0,214.329,happy
-That comes from doing too much of this.,214.329,1.86,216.18900000000002,
-"Sometimes somebody will have a comment on
-YouTube, where people make these comments",216.189,4.28,220.469,fear
-"to which they have no clue, they'll make a
-comment like, ""Oh, eating sugar doesn't cause",220.469,4.89,225.35899999999998,fear
-diabetes.,225.359,1.0,226.359,fear
-"It's all genetic.""",226.359,1.88,228.239,
-"Really, just genetic?",228.239,1.5,229.739,NA
-We're born with that?,229.739,1.571,231.31,NA
-This doesn't make sense.,231.31,1.569,232.879,NA
-"And also they say, ""Well, you can't ever cure
-diabetes type 1 because it's all just autoimmune.""",232.879,6.381,239.26,NA
+gallon so it has to trigger insulin to pull it out. If you start doing too much, it converts to
+fat. Okay. Then basically what happens over time is hypoglycemia
+then turns into hyperglycemia, high sugar,",151.989,21.98,173.969,NA
+"because this gets exhausted. The other thing is that your body considers
+that much sugar toxic, so it's going to start to repel and block and resist insulin. They call it insulin-resistant, so the cells
+in the liver are going to block it and not accept that sugar, and so might have the high
+spike of sugar from the pancreas, but it won't",173.969,25.89,199.85899999999998,NA
+"allow it in the liver. Okay? Now, if it won't allow the insulin to be going
+in the liver, and insulin suppresses sugar, then the sugar stays high so we have hyperglycemia. Diabetes.",199.859,13.469999999999999,213.329,NA
+"Okay? That comes from doing too much of this. Sometimes somebody will have a comment on
+YouTube, where people make these comments to which they have no clue, they'll make a
+comment like, ""Oh, eating sugar doesn't cause diabetes.",213.329,13.030000000000001,226.359,NA
+"It's all genetic."" Really, just genetic? We're born with that? This doesn't make sense. And also they say, ""Well, you can't ever cure
+diabetes type 1 because it's all just autoimmune.""",226.359,12.901,239.26000000000002,NA
 "Well, what happens over time, is you do this
-over a period of time, you are going to burn",239.26,5.35,244.60999999999999,NA
-"this out because even when people are diabetics,
-they never really correct the diet.",244.61,5.36,249.97000000000003,NA
-They just take the medication.,249.97,1.62,251.59,NA
-"Then you burn this out and now you have to
-take insulin.",251.59,3.07,254.66,NA
-Why?,254.66,1.0,255.66,NA
-Because this has stopped working.,255.66,1.12,256.78,NA
-That's type 1.,256.78,1.13,257.90999999999997,NA
-That wasn't created from an autoimmune.,257.91,1.97,259.88000000000005,NA
-That was created from bad diet.,259.88,2.42,262.3,NA
-Okay?,262.3,1.08,263.38,NA
+over a period of time, you are going to burn this out because even when people are diabetics,
+they never really correct the diet. They just take the medication. Then you burn this out and now you have to
+take insulin. Why?",239.26,16.400000000000002,255.66,NA
+Because this has stopped working. That's type 1. That wasn't created from an autoimmune. That was created from bad diet. Okay?,255.66,7.72,263.38,NA
 "The point is that what we want to do, is we
-want to avoid sugar.",263.38,4.5,267.88,NA
-That's the goal.,267.88,3.66,271.54,NA
-"There's various videos I have to actually
-improve the pancreas and the blood sugars",271.54,3.94,275.48,NA
-"and all that, but I just wanted to talk about
-what causes hypoglycemia in this video.",275.48,5.4,280.88,NA
-I will see you in the next one.,280.88,1.06,281.94,NA
+want to avoid sugar. That's the goal. There's various videos I have to actually
+improve the pancreas and the blood sugars and all that, but I just wanted to talk about
+what causes hypoglycemia in this video. I will see you in the next one.",263.38,18.56,281.94,NA
