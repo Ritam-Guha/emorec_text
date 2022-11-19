@@ -15,6 +15,7 @@ class GRUModel(torch.nn.Module):
                  **kwargs):
         super(GRUModel, self).__init__()
 
+        # take the user-specified parameters
         self.device = device
         self.input_size = input_size
         self.hidden_size = hidden_size
@@ -22,6 +23,7 @@ class GRUModel(torch.nn.Module):
         self.num_outputs = num_outputs
         self.seed = seed
 
+        # define the gru model
         self.gru = nn.GRU(input_size=self.input_size,
                           hidden_size=self.hidden_size,
                           num_layers=self.num_layers,
@@ -30,6 +32,7 @@ class GRUModel(torch.nn.Module):
                           dropout=0.2,
                           **kwargs)
 
+        # define the linear classifier
         self.classifier = nn.Sequential(nn.ReLU(),
                                         nn.Linear(self.hidden_size, self.num_outputs))
 
@@ -38,9 +41,10 @@ class GRUModel(torch.nn.Module):
         h_0 = torch.zeros(self.num_layers, x.size(0), self.hidden_size, dtype=torch.double).to(self.device).to(
             self.device)
 
-        # map the hidden representations to the emotions
+        # get the hidden representations from the gru hidden layer
         hidden, h_ = self.gru(x, h_0)
 
+        # map the hidden representations to the emotions
         emotions = self.classifier(hidden)
 
         return emotions

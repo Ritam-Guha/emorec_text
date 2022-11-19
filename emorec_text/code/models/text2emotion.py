@@ -16,6 +16,8 @@ nltk.download('omw-1.4')
 def evaluate(data,
              model,
              type_partition="test"):
+
+    # initialize the necessary variables
     create_dir(f"results/{model.name}")
     accuracy = 0
     accuracy_list = []
@@ -24,18 +26,22 @@ def evaluate(data,
 
     for text, emotions in zip(data[type_partition]["text"], data[type_partition]["emotion"]):
         cur_prediction = model.predict(text)
+
+        # we are not counting NA emotions for training or testing, so mask them
         mask_emotions = [emotion == "NA" for emotion in emotions]
         mask_index = list(np.nonzero(mask_emotions)[0])
         all_index = list(np.arange(len(emotions)))
         selected_index = list(set(all_index) - set(mask_index))
-        emotions = [config.emotions[torch.nonzero(emotions[0])[0][0].item()] for emotion in emotions]
 
         if len(selected_index) == 0:
             video_id_list.remove(video_id_list[count])
             continue
 
+        # take the selected emotions
         emotions = [emotions[i] for i in selected_index]
         cur_prediction = [cur_prediction[i] for i in selected_index]
+
+        # check the correct predictions
         correct_count = sum([i == j for i, j in zip(cur_prediction, emotions) if j != np.nan])
         cur_accuracy = (float(correct_count) / len(emotions)) * 100
 

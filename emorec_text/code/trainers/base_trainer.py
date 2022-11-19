@@ -13,6 +13,7 @@ class Trainer:
     def __init__(self,
                  type_model,
                  device="cpu"):
+        # initialize the variables
         self.type_model = type_model
         self.device = device
         self.optimizer = None
@@ -44,10 +45,10 @@ class Trainer:
                                                          last_epoch=-1)
 
         prev_loss = 1e33
-        val_loss = 1e33
-
         loss_curve = {"train": [], "val": []}
+
         for epoch in range(n_epochs):
+            # compute the train and validation loss after processing an epoch
             train_loss = self.process_one_epoch(net=model,
                                                 data_loader=data_loader["train"],
                                                 optimizer=self.optimizer,
@@ -59,9 +60,11 @@ class Trainer:
                                               type_process="val")
             print(f"epoch: {epoch}, train_loss: {train_loss}, val loss: {val_loss}")
 
+            # add the losses to the curve for plotting
             loss_curve["train"].append(train_loss)
             loss_curve["val"].append(val_loss)
 
+            # if validation loss is better, checkpoint the current model
             if val_loss < prev_loss:
                 prev_loss = val_loss
                 self.checkpoint(epoch=epoch,
@@ -71,6 +74,7 @@ class Trainer:
 
             self.scheduler.step(val_loss)
 
+        # finally check the loss on the test data
         test_loss = self.process_one_epoch(net=model,
                                            data_loader=data_loader["test"],
                                            optimizer=self.optimizer,
