@@ -1,12 +1,22 @@
 text,start,duration,end,dominant_emotion
-"Diabetes drugs may  lower the incidence of autoimmune disease Dipeptidyl peptidase-4 inhibitors such Tradjenta,
-Onglza, and Januvia are approved by the United States Food and Drug Administration for the
-treatment of type 2 diabetes. Researchers from the Brigham and Women's Hospital
-in Boston recently studied how often people",6.98,41.509,48.489000000000004,sad
+Diabetes drugs may ,6.98,13.18,20.16,sad
+lower the incidence of autoimmune disease,20.16,3.98,24.14,sad
+"Dipeptidyl peptidase-4 inhibitors such Tradjenta,
+Onglza, and Januvia are approved by the United",24.14,10.9,35.04,sad
+"States Food and Drug Administration for the
+treatment of type 2 diabetes.",35.04,7.17,42.21,sad
+"Researchers from the Brigham and Women's Hospital
+in Boston recently studied how often people",42.21,6.279,48.489000000000004,sad
 "with type 2 diabetes taking a DPP-4 inhibitor
-developed autoimmune diseases. They found that patients with type 2 diabetes
-who were starting a DPP-4 inhibitor appear to be at a lower risk of developing RA or
-other autoimmune diseases compared to those starting non-DPP4i drugs. Although the overall incidence rate of RA
-or other autoimmune diseases was low, patients",48.489,35.010999999999996,83.5,sad
+developed autoimmune diseases.",48.489,10.12,58.608999999999995,sad
+"They found that patients with type 2 diabetes
+who were starting a DPP-4 inhibitor appear",58.609,8.601,67.21000000000001,sad
+"to be at a lower risk of developing RA or
+other autoimmune diseases compared to those",67.21,6.13,73.33999999999999,NA
+starting non-DPP4i drugs.,73.34,3.95,77.29,NA
+"Although the overall incidence rate of RA
+or other autoimmune diseases was low, patients",77.29,6.21,83.5,NA
 "taking DPP4i drugs appeared to be 34 percent
-less likely to develop RA and 27 percent less likely to develop the other autoimmune diseases. Comment: Interesting but is it real?",83.5,42.14,125.64,NA
+less likely to develop RA and 27 percent less",83.5,7.67,91.17,NA
+likely to develop the other autoimmune diseases.,91.17,7.02,98.19,NA
+Comment: Interesting but is it real?,98.19,27.45,125.64,NA

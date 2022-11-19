@@ -1,16 +1,74 @@
 text,start,duration,end,dominant_emotion
-hello there this video will demonstrate a possible way of solving for a patient who needs an insulin drip we know that with insulin drips that regular insulin will be the insulin will use and we will,0.589,26.619999999999997,27.208999999999996,angry
-mix that with normal saline and so that would be given as an IV piggyback and let's say for this example that we have in order to infuse the patient with 0.1 units per kilogram for per hour so we,14.28,36.291,50.571,angry
-have orders for regular insulin 0.1 units or kilogram per hour so with the kilogram in there we notices weight base we need to have a patient's weight and in this case we will say the patient's,30.84,30.48,61.32,angry
-weight is a hundred and eighty pounds also what we need is the insulin in the piggyback so we're going to say for this example that we have a hundred units of regular insulin mixed into a hundred,47.16,34.178999999999995,81.339,angry
-units of normal saline we fix that here a hundred units in 100 MLS of normal saline okay so we with this 100 units per 100 ml you also know that we are going to have a concentration of one,61.289,51.84100000000001,113.13000000000001,angry
-unit per 1 ml okay so I can either solve for MLS per hour I can solve for units per hour let's go ahead and solve for units per hour so I start bringing down my information that I have I do know,89.22,36.119,125.339,angry
-that I have 0.1 units per kilogram per hour so at this point I already have what I'm looking for but I do have a kilogram here that's left over and I need to cancel that out,107.009,30.511000000000003,137.52,angry
-so one kilogram is equal to 2.2 pounds and my patient weighs 180 pounds now I'm able to cancel out and all that I'm left with are the units I'm looking for and then my math at this point we have,122.49,39.929,162.41899999999998,angry
-an eight point one eight units per hour infusion okay and since we know that this is a one to one ratio that I can also then just say I have a one point one eight ml per hour,142.739,40.25,182.989,angry
-infusion just to verify that through the formula let's go ahead and solve for mils per hour okay so now that I've solved the units for hour I'll take this answer here and I'll need,162.53,30.451,192.981,angry
-that in order to solve for mils per hour so mils per hour I have 100 MLS in 100 units so I already have my top descriptor but I still need hours so I bring the hours from up here into my,179.43,40.99,220.42000000000002,NA
-problem I now take the eight point one eight units per hour cancel out my units at this point I don't even need this little train track here because now I actually have only left what I'm looking,198.84,38.007999999999996,236.848,NA
-for and then I come here and I say one hundred times eight point one eight divided by one hundred eight point one eight I also know that I can just take and,218.729,26.311,245.04000000000002,NA
-cross that out I'm left with my eight point eight bring it over here and that tells me that my eight point one eight miles per hour is the same as my eight point one eight years per hour which,232.049,21.689,253.738,NA
-that confirms that I have this one-to-one solution you,242.939,10.62,253.559,NA
+hello there this video will demonstrate,0.589,7.06,7.648999999999999,sad
+a possible way of solving for a patient,3.6,6.959,10.559,sad
+who needs an insulin drip we know that,7.649,4.86,12.509,sad
+with insulin drips that regular insulin,10.559,3.721,14.28,fear
+will be the insulin will use and we will,12.509,4.02,16.529,sad
+mix that with normal saline and so that,14.28,4.46,18.74,sad
+would be given as an IV piggyback and,16.529,5.67,22.198999999999998,sad
+let's say for this example that we have,18.74,7.51,26.25,sad
+in order to infuse the patient with 0.1,22.199,8.641,30.840000000000003,sad
+units per kilogram for per hour so we,26.25,10.01,36.26,sad
+have orders for regular insulin 0.1,30.84,10.379,41.219,NA
+units or kilogram per hour so with the,36.26,6.79,43.05,sad
+kilogram in there we notices weight base,41.219,3.57,44.789,sad
+we need to have a patient's weight and,43.05,4.11,47.16,sad
+in this case we will say the patient's,44.789,5.631,50.42,sad
+weight is a hundred and eighty pounds,47.16,5.969,53.129,sad
+also what we need is the insulin in the,50.42,5.74,56.160000000000004,sad
+piggyback so we're going to say for this,53.129,5.581,58.71,sad
+example that we have a hundred units of,56.16,5.129,61.288999999999994,sad
+regular insulin mixed into a hundred,58.71,11.76,70.47,sad
+units of normal saline we fix that here,61.289,15.811,77.1,sad
+a hundred units in 100 MLS of normal,70.47,13.05,83.52,NA
+saline okay so we with this 100 units,77.1,9.809,86.90899999999999,NA
+per 100 ml you also know that we are,83.52,5.7,89.22,sad
+going to have a concentration of one,86.909,7.471,94.38000000000001,sad
+unit per 1 ml okay so I can either solve,89.22,7.259,96.479,sad
+for MLS per hour I can solve for units,94.38,4.44,98.82,sad
+per hour let's go ahead and solve for,96.479,7.831,104.31,sad
+units per hour so I start bringing down,98.82,8.189,107.00899999999999,NA
+my information that I have I do know,104.31,8.4,112.71000000000001,NA
+that I have 0.1 units per kilogram per,107.009,8.701,115.71000000000001,NA
+hour so at this point I already have,112.71,5.39,118.1,NA
+what I'm looking for,115.71,5.04,120.75,NA
+but I do have a kilogram here that's,118.1,4.39,122.49,sad
+left over and I need to cancel that out,120.75,6.99,127.74,sad
+so one kilogram is equal to 2.2 pounds,122.49,11.19,133.68,NA
+and my patient weighs 180 pounds now,127.74,8.4,136.14,NA
+I'm able to cancel out and all that I'm,133.68,5.009,138.68900000000002,NA
+left with are the units I'm looking for,136.14,6.599,142.73899999999998,NA
+and then my math at this point we have,138.689,8.731,147.42,NA
+an eight point one eight units per hour,142.739,11.31,154.049,NA
+infusion okay and since we know that,147.42,10.17,157.58999999999997,NA
+this is a one to one ratio that I can,154.049,5.791,159.84,NA
+also then just say I have a one point,157.59,4.94,162.53,NA
+one eight ml per hour,159.84,8.039,167.879,NA
+infusion just to verify that through the,162.53,7.569,170.099,NA
+formula let's go ahead and solve for,167.879,6.181,174.06,NA
+mils per hour okay so now that I've,170.099,5.34,175.439,NA
+solved the units for hour,174.06,5.37,179.43,NA
+I'll take this answer here and I'll need,175.439,5.991,181.43,NA
+that in order to solve for mils per hour,179.43,8.539,187.969,NA
+so mils per hour I have 100 MLS in 100,181.43,10.539,191.969,NA
+units so I already have my top,187.969,7.24,195.209,NA
+descriptor but I still need hours so I,191.969,6.871,198.84,NA
+bring the hours from up here into my,195.209,7.801,203.01,NA
+problem I now take the eight point one,198.84,11.28,210.12,NA
+eight units per hour cancel out my units,203.01,9.569,212.57899999999998,NA
+at this point I don't even need this,210.12,5.67,215.79,NA
+little train track here because now I,212.579,6.15,218.729,NA
+actually have only left what I'm looking,215.79,5.339,221.129,NA
+for and then I come here and I say one,218.729,4.021,222.75,NA
+hundred times eight point one eight,221.129,4.681,225.81,NA
+divided by one hundred eight point one,222.75,3.629,226.379,NA
+eight,225.81,6.239,232.049,NA
+I also know that I can just take and,226.379,7.741,234.12,NA
+cross that out I'm left with my eight,232.049,4.53,236.579,NA
+point eight bring it over here and that,234.12,4.289,238.409,NA
+tells me that my eight point one eight,236.579,4.11,240.68900000000002,NA
+miles per hour is the same as my eight,238.409,4.53,242.939,NA
+point one eight years per hour which,240.689,4.23,244.91899999999998,NA
+that confirms that I have this,242.939,5.27,248.209,NA
+one-to-one solution,244.919,3.29,248.209,NA
+you,252.94,2.06,255.0,NA

@@ -1,42 +1,78 @@
 text,start,duration,end,dominant_emotion
 "Dr. Timothy Jackson: As a surgeon at the Toronto
-Western Hospital bariatric clinic, I’d like to talk to you about the types of weight loss
-surgeries that are currently performed in our clinic: The Roux-en-Y gastric bypass,
-also called the “Roux-en-Y”, and the sleeve gastrectomy, also called the “sleeve”. Both have been proven to be effective treatments
-for morbid obesity.",8.24,18.849999999999998,27.089999999999996,angry
+Western Hospital bariatric clinic, I’d like",8.24,3.38,11.620000000000001,fear
+"to talk to you about the types of weight loss
+surgeries that are currently performed in",11.62,3.479,15.099,fear
+"our clinic: The Roux-en-Y gastric bypass,
+also called the “Roux-en-Y”, and the sleeve",15.099,5.741,20.84,sad
+"gastrectomy, also called the “sleeve”.",20.84,2.77,23.61,sad
+"Both have been proven to be effective treatments
+for morbid obesity.",23.61,3.48,27.09,fear
 "Each takes a few hours to perform, and requires
-a short hospital stay. Research shows that the Roux-en-Y is the current
-gold standard which means it has the best weight loss and health benefits. Let me show you more about the Roux-en-Y surgery
-that we perform. To gain access to the abdominal
-cavity, small incisions are created on the",27.09,19.539,46.629000000000005,angry
-"abdomen. Trocars, which serve as passageways for the
-surgical instruments, are placed into the incisions. The surgical instruments are passed through
-the trocars to access the abdominal cavity. The surgeon observes the abdominal cavity
-using a laparoscope, or video camera.",46.629,22.511,69.14,NA
+a short hospital stay.",27.09,4.95,32.04,fear
+"Research shows that the Roux-en-Y is the current
+gold standard which means it has the best",32.04,4.409,36.449,fear
+weight loss and health benefits.,36.449,1.981,38.43,fear
+"Let me show you more about the Roux-en-Y surgery
+that we perform.",38.43,3.269,41.699,fear
+"To gain access to the abdominal
+cavity, small incisions are created on the",41.699,4.93,46.629,fear
+abdomen.,46.629,1.371,48.0,NA
+"Trocars, which serve as passageways for the
+surgical instruments, are placed into the",48.0,5.46,53.46,NA
+incisions.,53.46,1.59,55.050000000000004,NA
+"The surgical instruments are passed through
+the trocars to access the abdominal cavity.",55.05,6.259,61.309,NA
+"The surgeon observes the abdominal cavity
+using a laparoscope, or video camera.",61.309,7.831,69.14,NA
 "A small stomach pouch is created using a stapling
-device. The small intestine is separated into two
-sections, the lower portion of the small intestine is attached to the newly created stomach pouch. This allows food to pass directly into the
-small intestine where digestion continues. The upper portion of the small intestine is
-reconnected to the lower part of the intestine.",69.14,34.28,103.42,NA
+device.",69.14,10.66,79.8,NA
+"The small intestine is separated into two
+sections, the lower portion of the small intestine",79.8,8.41,88.21,NA
+is attached to the newly created stomach pouch.,88.21,3.79,92.0,NA
+"This allows food to pass directly into the
+small intestine where digestion continues.",92.0,5.78,97.78,NA
+"The upper portion of the small intestine is
+reconnected to the lower part of the intestine.",97.78,5.64,103.42,NA
 "The bile and pancreatic fluids from the liver
-and pancreas allow for food to be completely digested. By altering the anatomy of the gastro-intestinal
-tract, gastric bypass changes signals in the body, resulting in decreased hunger and increased
-feelings of fullness after meals. Dr. Timothy Jackson: As I mentioned before,
-the Roux-en-Y is considered the gold standard",103.42,21.96,125.38,angry
-"in weight loss surgery. In some cases there is another surgery we
-do, called the “Sleeve”. Just like in the Roux-en-Y surgery,
-trocars are placed to gain access to the abdominal cavity, and the abdomen is viewed laparoscopically. The average human stomach can expand to hold
-around 1 to 1.5 litres of food.",125.38,21.160000000000004,146.54,angry
+and pancreas allow for food to be completely",103.42,4.909,108.32900000000001,NA
+digested.,108.329,1.68,110.009,NA
+"By altering the anatomy of the gastro-intestinal
+tract, gastric bypass changes signals in the",110.009,5.53,115.539,NA
+"body, resulting in decreased hunger and increased
+feelings of fullness after meals.",115.539,5.18,120.719,NA
+"Dr. Timothy Jackson: As I mentioned before,
+the Roux-en-Y is considered the gold standard",120.719,4.661,125.38,NA
+in weight loss surgery.,125.38,1.619,126.999,sad
+"In some cases there is another surgery we
+do, called the “Sleeve”.",126.999,2.342,129.341,fear
+"Just like in the Roux-en-Y surgery,
+trocars are placed to gain access to the abdominal",129.341,7.159,136.5,NA
+"cavity, and the abdomen is viewed laparoscopically.",136.5,4.19,140.69,NA
+"The average human stomach can expand to hold
+around 1 to 1.5 litres of food.",140.69,5.85,146.54,NA
 "While in the stomach, food is mixed with digestive
-enzymes to help break down the food to a more simple form, so that it can be more easily
-digested and absorbed when it is in the small bowel. During a sleeve gastectomy, a thin vertical
-sleeve is created by using a stapling device. This sleeve will typically hold between 50
-and 150 millilitres, or be about the size",146.54,25.41,171.95,NA
-"of a banana. The excised portion of the stomach is removed. This results in decreased hunger and increased
-feelings of fullness after meals. The bile and pancreatic fluids from the liver
-and pancreas mix with the food, and allow it to be completely digested and absorbed
-in the bowel.",171.95,19.58,191.52999999999997,NA
+enzymes to help break down the food to a more",146.54,5.65,152.19,NA
+"simple form, so that it can be more easily
+digested and absorbed when it is in the small",152.19,5.56,157.75,NA
+bowel.,157.75,1.5,159.25,NA
+"During a sleeve gastectomy, a thin vertical
+sleeve is created by using a stapling device.",159.25,6.54,165.79,NA
+"This sleeve will typically hold between 50
+and 150 millilitres, or be about the size",165.79,6.16,171.95,NA
+of a banana.,171.95,1.86,173.81,NA
+The excised portion of the stomach is removed.,173.81,3.03,176.84,NA
+"This results in decreased hunger and increased
+feelings of fullness after meals.",176.84,5.39,182.23,NA
+"The bile and pancreatic fluids from the liver
+and pancreas mix with the food, and allow",182.23,5.46,187.69,NA
+"it to be completely digested and absorbed
+in the bowel.",187.69,3.84,191.53,NA
 "There is no re-routing of the small bowel
-needed for the sleeve gastrectomy. As with all weight loss
-surgeries, success depends on making lifelong changes to your eating and exercise habits. All surgery has risks. Your weight, age, and medical history and
-other factors determine your specific risk.",191.53,19.93,211.46,angry
+needed for the sleeve gastrectomy.",191.53,3.82,195.35,NA
+"As with all weight loss
+surgeries, success depends on making lifelong",195.35,5.96,201.31,NA
+changes to your eating and exercise habits.,201.31,3.42,204.73,fear
+All surgery has risks.,204.73,1.92,206.64999999999998,neutral
+"Your weight, age, and medical history and
+other factors determine your specific risk.",206.65,4.81,211.46,fear

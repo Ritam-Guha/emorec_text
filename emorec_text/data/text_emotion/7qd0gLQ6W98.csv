@@ -1,28 +1,64 @@
 text,start,duration,end,dominant_emotion
-"  There's no way we're gonna get there in
-time. Hey where you going? No no no no no no no
-I don't time for you right now.  ",1.639,9.865,11.504,sad
-"Dude Cool cool. I feel like we really just bonded just then... no? Hey babe I'm in a traffic jam I'm gonna call you as soon as... I gotta go. Really? What's up dude?
-You got 10 minutes to find some food or I'm",11.504,14.926,26.43,sad
-"gonna mess you up. But I'm in the middle
-of a traffic jam. Toot toot Hey so what'd you think about dinner? You think 10
-units was about right? Yeah sure sounds right to me.",27.449,12.121,39.57,sad
+ ,1.639,0.5,2.1390000000000002,sad
+"There's no way we're gonna get there in
+time.",2.139,2.031,4.17,neutral
+Hey where you going?,4.17,2.207,6.377,fear
+"No no no no no no no
+I don't time for you right now.",6.377,3.12,9.497,fear
+ ,9.497,2.007,11.504,fear
+Dude,11.504,1.606,13.11,sad
+Cool cool. I feel like we really just bonded just then... no?,13.11,3.99,17.1,neutral
+Hey babe I'm in a traffic jam I'm gonna call you as soon as... I gotta go.,18.119,4.16,22.279,angry
+Really?,22.279,1.701,23.98,neutral
+"What's up dude?
+You got 10 minutes to find some food or I'm",23.98,3.469,27.449,fear
+gonna mess you up.,27.449,1.311,28.76,neutral
+"But I'm in the middle
+of a traffic jam.",28.76,2.1,30.860000000000003,neutral
+Toot toot,30.86,0.64,31.5,NA
+"Hey so what'd you think about dinner? You think 10
+units was about right?",31.5,4.88,36.38,fear
+Yeah sure sounds right to me.,36.38,3.19,39.57,neutral
 "Hey we're at 350 and
-skyrocketing! What kind of Mickey Mouse show are you running here? You were
-standing right there when we talked about it. You give me
-insulin or I'll take us to the moon!",39.57,15.329999999999998,54.9,sad
+skyrocketing! What kind of Mickey Mouse",39.57,4.8,44.37,fear
+show are you running here?,44.37,2.028,46.397999999999996,NA
+"You were
+standing right there",46.398,2.262,48.660000000000004,fear
+when we talked about it.,48.66,1.696,50.355999999999995,sad
+"You give me
+insulin or I'll take us to the moon!",50.356,4.544,54.9,neutral
 "Okay calm down
-I'll give some more insulin. Calm down??? Okay I tell you what don't worry
-about it. No matter how much insulin you give me I'm not coming down for seven
-hours. Calm down? Calm down? I'll show you calm. Feel better? Bro. I've been waitin on his pizza all",55.3,17.069,72.369,sad
+I'll give some more insulin.",55.3,3.5,58.8,neutral
+"Calm down??? Okay I tell you what don't worry
+about it. No matter how much insulin you",59.1,3.81,62.910000000000004,neutral
+"give me I'm not coming down for seven
+hours. Calm down? Calm down? I'll show you calm.",62.91,6.49,69.39999999999999,neutral
+Feel better?,69.4,2.0,71.4,fear
+Bro. I've been waitin on his pizza all,71.6,1.269,72.869,neutral
 "week. Been patient though. Gotta keep up
-this girlish figure. You know what I'm talkin about? Yeah you know what I'm talkin about.  He knows. Are you serious? Do not ruin this for me. Sorry false alarm. You know how pizza is, kinda weird.",72.869,17.371,90.24,sad
+this girlish figure. You know what I'm talkin about?",72.869,5.761,78.63,neutral
+Yeah you know what I'm talkin about.  He knows.,78.63,3.04,81.67,neutral
+Are you serious?,81.67,3.55,85.22,neutral
+Do not ruin this for me.,85.58,1.62,87.2,NA
+"Sorry false alarm. You know how pizza is, kinda weird.",87.2,3.4,90.60000000000001,neutral
 "Pizza is my favorite do not ruin it
-for me. All I did was pick it up.   That's impossible. I need to know that you're gonna be cool
-with me eating pizza. Hey Buddy",91.6,15.96,107.56,NA
-"What is wrong with you? Were you asleep
-yet? You looked so comfortable and cozy I almost didn't want to disturb you. Yes I was so close to sleep. I was so comfortable.",130.54,13.21,143.75,NA
+for me. All I did was pick it up.",91.6,4.24,95.83999999999999,neutral
+ ,95.84,1.72,97.56,NA
+That's impossible.,97.56,2.36,99.92,NA
+"I need to know that you're gonna be cool
+with me eating pizza.",100.04,4.0,104.04,NA
+Hey Buddy,126.9,3.64,130.54,fear
+What is wrong with you?,130.54,1.92,132.45999999999998,NA
+"Were you asleep
+yet? You looked so comfortable and cozy",132.46,5.17,137.63,NA
+I almost didn't want to disturb you.,137.63,2.58,140.21,NA
+Yes I was so close to sleep. I was so,140.21,2.58,142.79000000000002,NA
+comfortable.,142.79,0.96,143.75,NA
 "Do you want to play that
-game where we see if you can eat everything in the kitchen? I really like
-that one. No. No. I don't. I just want to go to sleep. That's all I want I was so close. Whoopsie-daisy.",143.75,14.030000000000001,157.78,NA
+game where we see if you can eat",143.75,2.37,146.12,NA
+"everything in the kitchen? I really like
+that one.",146.12,3.2,149.32,NA
+No. No. I don't. I just want to go,149.32,2.89,152.20999999999998,NA
+to sleep. That's all I want I was so close.,152.21,3.65,155.86,NA
+Whoopsie-daisy.,155.86,1.92,157.78,NA
 Kind of snuck up on us didn't it?,157.78,4.17,161.95,NA

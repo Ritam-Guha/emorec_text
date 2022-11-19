@@ -1,133 +1,235 @@
 text,start,duration,end,dominant_emotion
 "So B-cells, as their name suggests,
-‘B’, develop in the bone marrow. So the bone marrow is
-where B-cells develop. And in fact, virtually all the cells of the
-immune system start of from multipotent hematopoietic stem cells in the bone marrow. And B-cells can become fully
-mature within the bone marrow.",5.084,22.798,27.881999999999998,angry
+‘B’, develop in the bone marrow.",5.084,6.893,11.977,surprise
+"So the bone marrow is
+where B-cells develop.",13.081,2.534,15.614999999999998,fear
+"And in fact, virtually all the cells of the
+immune system start of",15.715,4.513,20.228,fear
+from multipotent hematopoietic stem cells in the bone marrow.,20.328,4.808,25.136,fear
+"And B-cells can become fully
+mature within the bone marrow.",25.236,4.05,29.286,fear
 "They don’t need to go anywhere else to become
-mature B-cells, they develop within the bone marrow. Once they are mature, they can leave the
-bone marrow and travel to the secondary lymphoid tissues; the mucosa-associated lymphoid
-tissue, the lymph nodes and the spleen. So let’s have a look at how B-cell
-development in the bone marrow occurs and the stages in B-cell maturation in the bone marrow.",29.386,25.140000000000004,54.526,angry
+mature B-cells, they develop within the bone marrow.",29.386,4.205,33.591,fear
+"Once they are mature, they can leave the
+bone marrow and travel to the secondary",34.817,5.883,40.7,fear
+"lymphoid tissues; the mucosa-associated lymphoid
+tissue, the lymph nodes and the spleen.",40.8,5.62,46.419999999999995,fear
+"So let’s have a look at how B-cell
+development in the bone marrow",48.372,5.135,53.507,fear
+occurs and the stages in B-cell maturation in the bone marrow.,53.607,4.297,57.903999999999996,fear
 "I’ve already mentioned, they start
-off from hematopoietic stem cells. These develop into pro-B cells. Those hematopoietic stem cells, that instead
-of becoming a mast cell, or instead of becoming a dendritic cell, those that are going to
-become B-cells initially become pro-B cells. The next stage in their development
-is to become a pre-B cell.",58.004,24.974999999999998,82.979,angry
+off from hematopoietic stem cells.",58.004,4.542,62.546,fear
+These develop into pro-B cells.,62.873,4.312,67.185,surprise
+"Those hematopoietic stem cells, that instead
+of becoming a mast cell, or instead of becoming",67.285,5.04,72.325,fear
+"a dendritic cell, those that are going to
+become B-cells initially become pro-B cells.",72.425,6.454,78.87899999999999,fear
+"The next stage in their development
+is to become a pre-B cell.",80.163,4.627,84.78999999999999,fear
 "Then they develop into immature B-cells and
-of course eventually into mature B-cells. There are two stages in this
-development process where these B-cells undergo very, very extensive cell
-division, in other words proliferation. That’s at a very early stage in their
-maturation, at the stem cell, pro-B cell stage. And then later on, at the pre-B, immature B-cell stage,
-they undergo further massive rounds of proliferation.",86.798,27.243000000000002,114.041,NA
+of course eventually into mature B-cells.",86.798,5.339,92.137,fear
+"There are two stages in this
+development process where these B-cells",93.975,4.258,98.23299999999999,fear
+"undergo very, very extensive cell
+division, in other words proliferation.",98.333,4.003,102.336,fear
+"That’s at a very early stage in their
+maturation, at the stem cell, pro-B cell stage.",102.884,5.529,108.413,surprise
+"And then later on, at the pre-B, immature B-cell stage,
+they undergo further massive rounds of proliferation.",109.06,8.114,117.174,fear
 "And they’re dividing all the time, but
-these two stages in their development are characterized by particularly extensive cell proliferation. There are two genes that are called RAG1 and
-RAG2, stands for Recombination Activating Genes. We already mentioned that the immunoglobulin genes in
-the B-cell undergo recombination to create diversity. These Recombination Activating Genes obviously
-play a role in it as their name suggests.",117.274,29.179000000000002,146.453,angry
+these two stages in their development",117.274,4.2,121.474,fear
+are characterized by particularly extensive cell proliferation.,121.574,4.368,125.942,fear
+"There are two genes that are called RAG1 and
+RAG2, stands for Recombination Activating Genes.",127.271,7.153,134.424,fear
+"We already mentioned that the immunoglobulin genes in
+the B-cell undergo recombination to create diversity.",135.504,8.864,144.368,fear
+"These Recombination Activating Genes obviously
+play a role in it as their name suggests.",144.468,4.594,149.06199999999998,fear
 "And these genes are also expressed
-at two different points in the development and maturation of B-cells, at the pro-B pre-B stage. And then they can become re-expressed later on in immature
-B-cells, to fine tune the antigen receptor on the B-cell. There’s another molecule which we’ll hear about shortly
-called TdT - Terminal Deoxynucleotidal Transferase. Bit of a mouthful that isn’t it?",149.162,31.166,180.328,angry
+at two different points in the",149.162,5.56,154.722,happy
+"development and maturation of B-cells, at the pro-B pre-B stage.",154.822,5.489,160.311,fear
+"And then they can become re-expressed later on in immature
+B-cells, to fine tune the antigen receptor on the B-cell.",160.411,9.439,169.85,surprise
+"There’s another molecule which we’ll hear about shortly
+called TdT - Terminal Deoxynucleotidal Transferase.",171.161,8.945,180.106,NA
+Bit of a mouthful that isn’t it?,180.814,1.733,182.547,fear
 "We normally just refer to it as TdT because Terminal
-Deoxynucleotidal Transferase is quite a long word to say, so TdT.
-And that’s expressed again at the stage between pro-B cells and pre-B cells.
-If we look at the immunoglobulin gene DNA in the B-cell and the RNA that’s produced from that DNA. In the stem
-cell stage and the pro-B cell stage, these immunoglobulin genes are what we call, in the germ line configuration.
-That means how these genes are inherited through the sperm",182.647,39.161,221.808,angry
+Deoxynucleotidal Transferase is",182.647,5.095,187.742,fear
+"quite a long word to say, so TdT.
+And that’s expressed again at the stage",187.842,5.851,193.693,fear
+"between pro-B cells and pre-B cells.
+If we look at the immunoglobulin gene DNA in the B-cell",193.793,8.487,202.28,fear
+"and the RNA that’s produced from that DNA. In the stem
+cell stage and the pro-B cell stage, these immunoglobulin",202.38,10.313,212.69299999999998,fear
+"genes are what we call, in the germ line configuration.
+That means how these genes are inherited through the sperm",212.793,9.415,222.208,fear
 "and the egg, the germline, and every single cell in the
-body will have this DNA, just like you have genes for… all the different genes you have in all the different cells.
-And in all the cells in the body, they will be in the germline orientational configuration.
-And it’s only once cells develop to become B-cells that these immunoglobulin genes recombine.
-And this recombination initially starts off at the pre-B cell stage, and some segments within the heavy",222.308,34.755,257.063,angry
-"chain genes for the immunoglobulins… because immunoglobulins consist of a heavy chain and a light chain.
-The first event that says, “Mmm, that cell, that cell’s going to become a B-cell”, is when the
-B-cell recombines its heavy chain genes, and it recombines three gene segments as we’ll see shortly.
-They’re called V, D and J - Variable, Diversity and Joining.",257.728,26.188,283.916,angry
+body will have this DNA, just like you have genes for… all",222.308,8.335,230.643,fear
+"the different genes you have in all the different cells.
+And in all the cells in the body, they will be",230.743,5.533,236.27599999999998,fear
+"in the germline orientational configuration.
+And it’s only once cells develop to become B-cells",236.376,6.495,242.871,fear
+"that these immunoglobulin genes recombine.
+And this recombination initially starts off at the",243.136,8.779,251.915,fear
+"pre-B cell stage, and some segments within the heavy",252.015,5.613,257.628,fear
+chain genes for the immunoglobulins… because immunoglobulins,257.728,3.524,261.252,fear
+"consist of a heavy chain and a light chain.
+The first event that says, “Mmm, that cell, that",261.352,6.638,267.98999999999995,fear
+"cell’s going to become a B-cell”, is when the
+B-cell recombines its heavy chain genes, and it",268.09,6.999,275.089,fear
+"recombines three gene segments as we’ll see shortly.
+They’re called V, D and J -",275.189,6.616,281.805,fear
+"Variable, Diversity and Joining.",281.905,2.411,284.316,fear
 "Once that recombination process has occurred in
-the pre-B cell, messenger RNA is produced for the heavy chain and that includes a segment
-that is from the constant region called mu (µ). So you get µ mRNA in the pre-B cell. As that cell then develops to the final stage before full maturity, in other words the immature B-cell, the recombined",285.06,29.486,314.546,NA
-"heavy chain gene associates the product of that gene, associates with the product of a recombined light chain gene. Because in the light chains, the V gene segments and J
-gene segments that recombine produce a light chain protein. So now we have Ig for the DNA that’s recombined
-in the heavy chain and the light chain. We have a µ heavy chain protein
-and either a kappa (k) or lambda (λ)",316.865,33.105999999999995,349.971,angry
-"light chain protein produced from the k or λ messenger RNA. And then finally we end up via alternative
-splicing of the V, D and J with the constant region of the IgM antibody which is encoded by a Cµ
-gene or the IgD antibody encoded by a Cδ gene. So the stage of maturation; early on the immunoglobulin
-genes are not recombined, so there’s no expression. In order to express these genes
-they need to be recombined.",351.85,34.974000000000004,386.824,angry
+the pre-B cell, messenger RNA is produced for",285.06,7.526,292.586,fear
+"the heavy chain and that includes a segment
+that is from the constant region called mu (µ).",292.686,7.298,299.984,fear
+So you get µ mRNA in the pre-B cell.,300.688,4.748,305.436,NA
+As that cell then develops to the final stage before full,306.751,5.007,311.758,NA
+"maturity, in other words the immature B-cell, the recombined",311.858,4.907,316.765,NA
+"heavy chain gene associates the product of that gene,",316.865,4.544,321.409,fear
+associates with the product of a recombined light chain gene.,321.602,4.699,326.301,fear
+"Because in the light chains, the V gene segments and J
+gene segments that recombine produce a light chain protein.",327.225,9.962,337.187,fear
+"So now we have Ig for the DNA that’s recombined
+in the heavy chain and the light chain.",337.287,7.88,345.167,fear
+"We have a µ heavy chain protein
+and either a kappa (k) or lambda (λ)",345.433,6.021,351.454,fear
+light chain protein produced from the k or λ messenger RNA.,351.85,4.06,355.91,fear
+"And then finally we end up via alternative
+splicing of the V, D and J with the constant region",356.01,9.281,365.291,fear
+"of the IgM antibody which is encoded by a Cµ
+gene or the IgD antibody encoded by a Cδ gene.",365.391,10.169,375.56,fear
+"So the stage of maturation; early on the immunoglobulin
+genes are not recombined, so there’s no expression.",378.526,7.891,386.41700000000003,NA
+"In order to express these genes
+they need to be recombined.",386.517,3.573,390.09,NA
 "They only recombine in B-cells, and they
-only recombine at the pre-B cell stage. So you start off at the pre-B cell stage with the first
-indication that this cell is going to become a B-cell. It has cytoplasmic µ heavy chain
-and on the surface it has what is called the pre-B cell receptor,
-which is a surrogate light chain. It’s not the proper light chain but it’s a sort of intermediate",390.705,26.468,417.173,NA
+only recombine at the pre-B cell stage.",390.705,6.466,397.171,NA
+"So you start off at the pre-B cell stage with the first
+indication that this cell is going to become a B-cell.",397.271,6.609,403.88,NA
+"It has cytoplasmic µ heavy chain
+and on the surface it has what is",403.98,4.814,408.79400000000004,NA
+"called the pre-B cell receptor,
+which is a surrogate light chain.",408.894,5.266,414.16,fear
+It’s not the proper light chain but it’s a sort of intermediate,414.26,3.313,417.573,fear
 "light chain that’s produced to put
-together with the µ heavy chain. And then once the light chain genes
-have been recombined, you get the full mature antibody molecule on the
-surface of this immature B-cell. So it’s a mature antibody but it’s on the surface
-of an immature B-cell, and this is membrane IgM. And then as well as IgM, another class of antibody, the
-IgD class is put on the surface of the mature B-cell.",417.673,29.967,447.64,angry
+together with the µ heavy chain.",417.673,3.491,421.164,fear
+"And then once the light chain genes
+have been recombined, you get the",421.77,4.179,425.94899999999996,fear
+"full mature antibody molecule on the
+surface of this immature B-cell.",426.049,5.129,431.178,fear
+"So it’s a mature antibody but it’s on the surface
+of an immature B-cell, and this is membrane IgM.",431.568,6.561,438.12899999999996,fear
+"And then as well as IgM, another class of antibody, the
+IgD class is put on the surface of the mature B-cell.",439.163,10.607,449.77,fear
 "As well as having antibodies on their
-cell surface, B-cells have thousands of other molecules on their cell
-surface just like every cell does. And we can use certain molecules on the surface of
-B-cells to identify which stage in maturation they are. So for example, the molecule CD43 is
-present on the surface of the stem cells. It’s also present on the
-surface of the pro-B cell.",450.182,25.316000000000003,475.49800000000005,angry
+cell surface, B-cells have thousands",450.182,3.834,454.016,fear
+"of other molecules on their cell
+surface just like every cell does.",454.116,3.233,457.349,fear
+"And we can use certain molecules on the surface of
+B-cells to identify which stage in maturation they are.",457.449,6.555,464.004,fear
+"So for example, the molecule CD43 is
+present on the surface of the stem cells.",464.487,7.786,472.273,fear
+"It’s also present on the
+surface of the pro-B cell.",472.373,3.908,476.281,NA
 "But additional molecules become
-expressed, such as CD19 and CD10. And then as those pre-B cells develop into pre-B cells,
-there is low expression of a molecule called B220. CD43 is still there. But as that pre-B cell develops into an
-immature B-cell, the expression of CD43 is lost. So if a cell has a molecule on its surface,
-we describe it as a CD-whatever positive cell.",476.666,29.999000000000002,506.665,angry
+expressed, such as CD19 and CD10.",476.666,5.164,481.83,fear
+"And then as those pre-B cells develop into pre-B cells,
+there is low expression of a molecule called B220.",482.547,8.749,491.29600000000005,fear
+CD43 is still there.,492.273,1.836,494.10900000000004,fear
+"But as that pre-B cell develops into an
+immature B-cell, the expression of CD43 is lost.",494.572,7.195,501.767,fear
+"So if a cell has a molecule on its surface,
+we describe it as a CD-whatever positive cell.",502.238,7.055,509.293,fear
 "If it doesn’t have expression, we describe
-it as a CD-whatever negative cell. So in other words, the stem cells, the pro-B
-cells and the pre-B cells are CD43 positive, whereas the immature B-cell is CD43 negative
-because it has lost expression of CD43. At that stage of the immature B-cell, there is a low level
-expression of IgM antibodies on the surface of the B-cell. And then as the B-cell further matures to become a fully
-mature B-cell, the level of expression of IgM increases.",509.393,33.919000000000004,543.312,angry
+it as a CD-whatever negative cell.",509.393,5.117,514.51,fear
+"So in other words, the stem cells, the pro-B
+cells and the pre-B cells are CD43 positive,",514.61,6.303,520.913,fear
+"whereas the immature B-cell is CD43 negative
+because it has lost expression of CD43.",521.013,7.32,528.3330000000001,fear
+"At that stage of the immature B-cell, there is a low level
+expression of IgM antibodies on the surface of the B-cell.",529.339,7.908,537.2470000000001,fear
+"And then as the B-cell further matures to become a fully
+mature B-cell, the level of expression of IgM increases.",537.792,7.271,545.063,fear
 "So where are these different types of B-cell,
-these different stages of maturation found? Well the stem cells, the pro-B cells, the
-pre-B cells are all within the bone marrow. And then as these cells develop into immature
-B-cells, they can leave the bone marrow and enter what immunologists refer to as the
-periphery; rather strange term that, the periphery. Simply means anywhere outside
-of the primary lymphoid tissues.",546.747,26.812000000000005,573.559,NA
+these different stages of maturation found?",546.747,4.873,551.62,NA
+"Well the stem cells, the pro-B cells, the
+pre-B cells are all within the bone marrow.",551.946,5.863,557.8090000000001,NA
+"And then as these cells develop into immature
+B-cells, they can leave the bone marrow and",557.909,6.524,564.433,NA
+"enter what immunologists refer to as the
+periphery; rather strange term that, the periphery.",564.533,5.254,569.787,NA
+"Simply means anywhere outside
+of the primary lymphoid tissues.",569.887,4.298,574.185,fear
 "So anywhere in the body that isn’t the bone marrow or
-the thymus, immunologists refer to as the periphery. And the mature B-cells are found in the
-periphery, or move to the periphery. The response to antigen; clearly if the
-B-cell doesn’t have an antigen receptor on its surface, it can’t respond, it
-has no way of responding to antigen. So because there is no surface antibody on stem cells,
-pro-B cells or pre-B cells, there’s no response to antigen.",574.285,28.121,602.406,angry
+the thymus, immunologists refer to as the periphery.",574.285,6.198,580.483,fear
+"And the mature B-cells are found in the
+periphery, or move to the periphery.",580.583,5.364,585.947,surprise
+"The response to antigen; clearly if the
+B-cell doesn’t have an antigen receptor",587.308,4.624,591.932,fear
+"on its surface, it can’t respond, it
+has no way of responding to antigen.",592.032,3.269,595.301,surprise
+"So because there is no surface antibody on stem cells,
+pro-B cells or pre-B cells, there’s no response to antigen.",595.401,8.666,604.067,NA
 "At the immature B-cell stage, when
-there is low level expression of IgM, the B-cells can undergo what is called
-negative selection or deletion. And this refers to the fact that if those B-cells
-encounter molecules from our own body, what we call self-antigen, then they become deleted, because we don’t
-want B-cells that can attack our own body components. We want B-cells that can fight
-infection coming from outside the body.",604.863,26.871000000000002,631.734,NA
+there is low level expression of IgM,",604.863,4.433,609.296,fear
+"the B-cells can undergo what is called
+negative selection or deletion.",609.396,4.954,614.3499999999999,fear
+"And this refers to the fact that if those B-cells
+encounter molecules from our own body, what we call",614.45,7.687,622.1370000000001,NA
+"self-antigen, then they become deleted, because we don’t
+want B-cells that can attack our own body components.",622.237,5.821,628.058,NA
+"We want B-cells that can fight
+infection coming from outside the body.",628.158,3.976,632.134,NA
 "So there’ll be deletion of B-cells that recognize
-self-antigen and there can be receptor editing. And this is why RAG1 and RAG2 get re-expressed at
-this stage, so that the receptor can be changed. If it reacts with self, it can be
-changed to a different receptor that reacts with a foreign pathogen
-rather than reacting with self. And then once they’re mature, of course the
-B-cells are fully able to respond to antigen.",632.965,23.08,656.0450000000001,angry
+self-antigen and there can be receptor editing.",632.965,5.623,638.5880000000001,NA
+"And this is why RAG1 and RAG2 get re-expressed at
+this stage, so that the receptor can be changed.",638.688,6.427,645.115,fear
+"If it reacts with self, it can be
+changed to a different receptor",645.215,3.246,648.461,neutral
+"that reacts with a foreign pathogen
+rather than reacting with self.",648.561,3.431,651.9920000000001,surprise
+"And then once they’re mature, of course the
+B-cells are fully able to respond to antigen.",653.152,4.353,657.505,neutral
 "I mean that’s how it
-should be obviously. You need the B-cells
-to be able to respond. And they can become activated, they can proliferate, divide up in number and they can differentiate and become specialized. Particularly become specialized to produce a
-progeny of a B-cell that is called a plasma cell.",657.605,17.908,675.513,fear
+should be obviously.",657.605,1.942,659.547,neutral
+"You need the B-cells
+to be able to respond.",659.647,1.92,661.567,fear
+"And they can become activated, they can proliferate, divide up",661.667,3.285,664.952,fear
+in number and they can differentiate and become specialized.,665.052,3.628,668.6800000000001,neutral
+"Particularly become specialized to produce a
+progeny of a B-cell that is called a plasma cell.",668.78,7.133,675.913,NA
 "And what plasma cells do is they secrete
-very large amounts of antibody of the same specificity that acts at the B-cell
-receptor on the surface of the B-cell. So, in the bone marrow we have these pre-B
-cells, this early stage of development. And they have on their cell surface not a mature form of
-the antibody molecule but a preliminary version if you like of the antibody molecule where you have the normal version
-of the IgM heavy chain which is called µ heavy chain.",676.013,32.821,708.8340000000001,NA
+very large amounts of antibody of the",676.013,5.181,681.1940000000001,NA
+"same specificity that acts at the B-cell
+receptor on the surface of the B-cell.",681.294,4.476,685.77,NA
+"So, in the bone marrow we have these pre-B
+cells, this early stage of development.",686.532,5.902,692.4340000000001,NA
+"And they have on their cell surface not a mature form of
+the antibody molecule but a preliminary version if you like",692.534,9.258,701.792,NA
+"of the antibody molecule where you have the normal version
+of the IgM heavy chain which is called µ heavy chain.",701.892,8.004,709.8960000000001,NA
 "But it’s not a mature
-version of the light chain. They have what we refer to as a surrogate light
-chain, and this is made up of two components. One is called V pre-B and
-the other is called λ5. And then as the pre-B cell matures into an immature B-cell, it swaps the surrogate light chain
-for a proper, a real light chain.",710.408,24.058,734.466,NA
+version of the light chain.",710.408,2.68,713.088,NA
+"They have what we refer to as a surrogate light
+chain, and this is made up of two components.",713.188,4.731,717.919,NA
+"One is called V pre-B and
+the other is called λ5.",718.019,4.96,722.979,NA
+"And then as the pre-B cell matures into an immature B-cell, it",723.533,7.165,730.698,NA
+"swaps the surrogate light chain
+for a proper, a real light chain.",730.798,4.522,735.32,NA
 "And that can either be the k
-light chain or the λ light chain. So that the mature B-cell now has on its cell surface
-a proper mature version of the antibody molecule. And initially these mature B-cells that have not yet
-encountered antigen, we call them naïve B-cells. They’ve not yet met antigen at all. They express on their cell surface two different
-classes of antibody - IgM, surface IgM and surface IgD.",735.42,29.959000000000003,765.3789999999999,NA
+light chain or the λ light chain.",735.42,4.186,739.606,NA
+"So that the mature B-cell now has on its cell surface
+a proper mature version of the antibody molecule.",740.339,8.404,748.743,NA
+"And initially these mature B-cells that have not yet
+encountered antigen, we call them naïve B-cells.",749.077,6.809,755.886,NA
+They’ve not yet met antigen at all.,755.986,1.599,757.585,NA
+"They express on their cell surface two different
+classes of antibody - IgM, surface IgM and surface IgD.",758.15,8.961,767.111,NA
 "And these cells have left the bone marrow and
-travelled to the secondary lymphoid tissue. And they sit in wait in the secondary lymphoid tissue in case their particular antigen, the
-antigen they recognize comes along.",767.868,12.322,780.19,NA
+travelled to the secondary lymphoid tissue.",767.868,5.445,773.3130000000001,NA
+And they sit in wait in the secondary lymphoid tissue in case,773.413,3.508,776.921,NA
+"their particular antigen, the
+antigen they recognize comes along.",777.021,3.369,780.39,NA

@@ -1,23 +1,40 @@
 text,start,duration,end,dominant_emotion
 "Hello everyone, my name is Paul, also known
-as Fortress on Youtube. I believe in maintaining a healthy lifestyle
-in terms of body, mind, soul, and spirit. On my channel, I focus mostly on the health
-of the body -- and I don't believe in equipment, I believe God
-has designed our body to adapt to external stimuli --",16.15,34.979,51.129,angry
+as Fortress on Youtube.",16.15,4.17,20.32,fear
+"I believe in maintaining a healthy lifestyle
+in terms of body, mind, soul, and spirit.",20.32,7.39,27.71,sad
+"On my channel, I focus mostly on the health
+of the body -- and",27.71,16.73,44.44,sad
+"I don't believe in equipment, I believe God
+has designed our body to adapt to external",44.44,5.39,49.83,sad
+stimuli --,49.83,1.299,51.129,sad
 "and gravity seems to do a pretty good job
--- so that's what I promote. Bodyweight fitness - no equipment, no spending
-money, anytime, anywhere -- and the result? Great health! What I enjoy the most about bodyweight fitness
-is freedom.",51.129,18.501,69.63,angry
+-- so that's what I promote.",51.129,4.441,55.57,neutral
+"Bodyweight fitness - no equipment, no spending
+money, anytime, anywhere",55.57,5.039,60.609,sad
+-- and the result?,60.609,3.581,64.19,sad
+Great health!,64.19,1.58,65.77,NA
+"What I enjoy the most about bodyweight fitness
+is freedom.",65.77,3.86,69.63,sad
 "When you do bodyweight fitness - Bodyweight
-fitness it gives you enough strength that you feel light as a feather and strong as
-a fortress. You actually enjoy jogging or sprinting down
-a field -- because of how light you feel. You enjoy the sensation of doing a muscle
-up because of how effortlessly you can do it...",69.63,18.41,88.03999999999999,NA
+fitness it gives you enough strength that",69.63,3.2,72.83,NA
+"you feel light as a feather and strong as
+a fortress.",72.83,3.46,76.28999999999999,sad
+"You actually enjoy jogging or sprinting down
+a field -- because of how light you feel.",76.29,5.35,81.64,sad
+"You enjoy the sensation of doing a muscle
+up because of how effortlessly you can do",81.64,5.37,87.01,NA
+it...,87.01,1.03,88.04,sad
 "and most of all, when old age comes, you enjoy
-walking on your own feet, you enjoy working in the garden, you enjoy playing with your
-grandchildren without much effort. And THAT my friend is the beauty of strength
-and fitness. That's the beauty of having a healthy body. Best of all, it is free, enjoyable, and available
-to all.",88.04,20.98,109.02000000000001,NA
+walking on your own feet, you enjoy working",88.04,5.38,93.42,sad
+"in the garden, you enjoy playing with your
+grandchildren without much effort.",93.42,4.83,98.25,NA
+"And THAT my friend is the beauty of strength
+and fitness.",98.25,2.92,101.17,sad
+That's the beauty of having a healthy body.,101.17,2.12,103.29,NA
+"Best of all, it is free, enjoyable, and available
+to all.",103.29,5.73,109.02000000000001,NA
 "The journey may be tough, but the outcome
-is worthwhile. So, my friend, let's take our first step towards
-health -- and that will make all the difference.",109.02,34.73,143.75,NA
+is worthwhile.",109.02,21.22,130.24,NA
+"So, my friend, let's take our first step towards
+health -- and that will make all the difference.",130.24,13.51,143.75,NA

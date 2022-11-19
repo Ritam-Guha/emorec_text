@@ -1,90 +1,150 @@
 text,start,duration,end,dominant_emotion
 "today we're going to talk about a very
-common yet under diagnosed condition autonomic
-neuropathy now what does autonomic neuropathy mean
-neuropathy means nerve damage and with autonomic we're dealing with the part of
-the nervous system that's called the autonomic nervous
-system which controls things",0.399,17.521,17.92,sad
+common",0.399,2.881,3.28,sad
+"yet under diagnosed condition autonomic
+neuropathy",3.28,3.92,7.199999999999999,neutral
+"now what does autonomic neuropathy mean
+neuropathy means nerve damage and with",7.2,4.399,11.599,fear
+"autonomic we're dealing with the part of
+the nervous system",11.599,2.401,14.0,NA
+"that's called the autonomic nervous
+system which controls things",14.0,3.92,17.92,NA
 "automatically which is a combination of
-the flight or fight stress response and the parasympathetic nervous system
-which is rest or digest and the enteric system which is another
-system that can control your digestive system
-that part of the nervous system is on automatic and you don't have to do
-anything it just",17.92,18.159,36.079,sad
+the flight or fight stress response",17.92,5.279,23.199,NA
+"and the parasympathetic nervous system
+which is rest or digest",23.199,4.24,27.439,NA
+"and the enteric system which is another
+system that can control your digestive",27.439,4.16,31.599,NA
+"system
+that part of the nervous system is on",31.599,1.921,33.52,NA
+"automatic and you don't have to do
+anything it just",33.52,2.559,36.079,NA
 "works on its own as in bladder control
-cardiovascular system control i mean you don't have to think about your heartbeat
-it just automatically works digestion and genitals
-you may have heard a condition called peripheral neuropathy where you have
-damage to the peripheral nerves on the bottom of your feet or your hands
-those are the sensory nerves that get",36.079,21.841,57.92,sad
+cardiovascular system control i mean you",36.079,6.48,42.559,NA
+"don't have to think about your heartbeat
+it just automatically",42.559,3.041,45.599999999999994,sad
+"works digestion and genitals
+you may have heard a condition called",45.6,4.799,50.399,NA
+"peripheral neuropathy where you have
+damage to the peripheral nerves on the",50.399,4.16,54.559,NA
+"bottom of your feet or your hands
+those are the sensory nerves that get",54.559,3.361,57.919999999999995,NA
 "damaged from conditions like diabetes
-for example where your hands or feet get numb
-like a burning sensation or even severe pain
-and here's the thing the number one cause of this condition
-is diabetes but if you think about it you don't just end up with diabetes
-overnight it gradually goes from high",57.92,20.32,78.24000000000001,sad
+for example where your hands or feet get",57.92,4.959,62.879000000000005,NA
+"numb
+like a burning sensation or even severe",62.879,3.441,66.32,sad
+"pain
+and here's the thing the number one",66.32,1.839,68.15899999999999,NA
+"cause of this condition
+is diabetes but if you think about it",68.159,5.441,73.60000000000001,NA
+"you don't just end up with diabetes
+overnight it gradually goes from high",73.6,4.64,78.24,NA
 "insulin
-to insulin resistance to pre-diabetes to eventually a diabetic right
-well you don't end up with this condition overnight either
-it gradually occurs so you may have one or more of these symptoms and that
-could be the beginning of this condition i'm increasing your awareness so you can
-do something about it before you end up",78.24,20.8,99.03999999999999,sad
+to insulin resistance to pre-diabetes to",78.24,3.6,81.83999999999999,NA
+"eventually a diabetic right
+well you don't end up with this",81.84,3.04,84.88000000000001,NA
+"condition overnight either
+it gradually occurs so you may have",84.88,4.879,89.759,NA
+"one or more of these symptoms and that
+could be the beginning of this condition",89.759,4.4,94.159,NA
+"i'm increasing your awareness so you can
+do something about it before you end up",94.159,4.881,99.04,NA
 "with this condition just because you
-weren't diagnosed with diabetes doesn't mean that it's not related to a
-blood sugar issue another cause of this could be some type
-of autoimmune condition to part of the nervous system or maybe even
-a virus but diabetes is number one on the list so let's go through the
-symptoms urinary retention",99.04,21.84,120.88000000000001,NA
+weren't diagnosed with diabetes",99.04,3.359,102.399,NA
+"doesn't mean that it's not related to a
+blood sugar issue",102.399,3.441,105.84,NA
+"another cause of this could be some type
+of autoimmune condition to",105.84,4.4,110.24000000000001,NA
+"part of the nervous system or maybe even
+a virus but diabetes is number one",110.24,5.44,115.67999999999999,NA
+"on the list so let's go through the
+symptoms urinary retention",115.68,5.2,120.88000000000001,NA
 "a lot of people have this symptom but
-they never connect the dots with it being connected to maybe a
-pre-diabetic state or even a blood sugar problem number two
-hypertension we know diabetics usually have high
-blood pressure at some point well now we know why then you have
-number three",120.88,19.76,140.64,NA
+they never connect the dots with",120.88,5.04,125.92,NA
+"it being connected to maybe a
+pre-diabetic state or even",125.92,4.08,130.0,NA
+"a blood sugar problem number two
+hypertension",130.0,3.36,133.36,NA
+"we know diabetics usually have high
+blood pressure at some point",133.36,3.68,137.04000000000002,NA
+"well now we know why then you have
+number three",137.04,3.6,140.64,NA
 "abdominal pain or achiness
-and that can show up in kind of an uncomfortable feeling
-in your abdominal area number four malabsorption this is a real big one you
-may not feel this but it might show up in nutritional deficiencies
-which is a whole other series of symptoms number five
-gastroparesis this is simply a condition",140.64,22.560000000000002,163.2,sad
+and that can show up in kind of an",140.64,5.28,145.92,NA
+"uncomfortable feeling
+in your abdominal area number four",145.92,4.84,150.76,NA
+"malabsorption this is a real big one you
+may not feel this but it might show up",150.76,4.52,155.28,NA
+"in nutritional deficiencies
+which is a whole other series of",155.28,3.28,158.56,NA
+"symptoms number five
+gastroparesis this is simply a condition",158.56,4.64,163.2,NA
 "where your digestive system is very
-sluggish it's slow and things just move at a
-snail's pace well guess what that's what's causing it
-coming usually from this or a pre-diabetic
-state number six constipation a very common symptom
-number seven sleep apnea number eight",163.2,21.520000000000003,184.72,NA
+sluggish",163.2,2.64,165.83999999999997,NA
+"it's slow and things just move at a
+snail's pace",165.84,3.84,169.68,NA
+"well guess what that's what's causing it
+coming",169.68,3.199,172.87900000000002,NA
+"usually from this or a pre-diabetic
+state number six",172.879,3.281,176.16,NA
+"constipation a very common symptom
+number seven sleep apnea number eight",176.16,8.56,184.72,NA
 "abnormal sweating that could be either
-your body is too dry or you sweat too often so many people
-have an abnormal sweating situation either they don't
-sweat enough or they sweat too much number nine orthostatic
-hypotension this occurs when you stand up and you
-get really dizzy your blood pressure",184.72,20.078999999999997,204.799,NA
+your body is too dry",184.72,4.32,189.04,NA
+"or you sweat too often so many people
+have an abnormal",189.04,3.76,192.79999999999998,NA
+"sweating situation either they don't
+sweat enough or they sweat",192.8,3.439,196.239,NA
+"too much number nine orthostatic
+hypotension",196.239,4.561,200.8,NA
+"this occurs when you stand up and you
+get really dizzy your blood pressure",200.8,3.999,204.799,NA
 "drops too
-low another name for this would be pots all right number 10 arrhythmias so that
-would involve the cardio as far as having
-autonomic neuropathy of the genitals that can range from pain
-to just lack of function of those organs what can be done
-about this condition there's two things",204.799,23.52,228.31900000000002,NA
+low another name for this would be pots",204.799,5.281,210.08,NA
+"all right number 10 arrhythmias so that
+would",211.28,3.44,214.72,NA
+"involve the cardio as far as having
+autonomic neuropathy",214.72,4.0,218.72,NA
+"of the genitals that can range from pain
+to just lack of function of those organs",218.72,6.239,224.959,NA
+"what can be done
+about this condition there's two things",224.959,4.56,229.519,NA
 "that i would recommend benfotamine which
-is a fat-soluble b vitamin which works really
-good on peripheral neuropathy but it also
-is effective in all types of neuropathy especially if it's related to diabetes
-or pre-diabetes and alpha lipoic acid both of these
-act as a very powerful antioxidant to",229.519,21.680999999999997,251.2,sad
+is a",229.519,3.841,233.36,NA
+"fat-soluble b vitamin which works really
+good on peripheral neuropathy but it",233.36,5.12,238.48000000000002,NA
+"also
+is effective in all types of neuropathy",238.48,3.44,241.92,NA
+"especially if it's related to diabetes
+or pre-diabetes",241.92,3.36,245.28,NA
+"and alpha lipoic acid both of these
+act as a very powerful antioxidant to",245.28,5.92,251.2,NA
 "repair not only the free radical damage
-that's coming from this but both of these are fat soluble and
-they support the myelin sheath around the nerve which
-is the protecting part the effectiveness of this in this
-i believe is dependent on if you're also doing keto intermittent fasting because
-this gets at the the root of this",251.2,21.92,273.12,NA
+that's coming from this",251.2,4.08,255.28,NA
+"but both of these are fat soluble and
+they support",255.28,3.919,259.199,NA
+"the myelin sheath around the nerve which
+is the protecting part",259.199,3.361,262.56,NA
+"the effectiveness of this in this
+i believe is dependent on if you're also",262.56,5.76,268.32,NA
+"doing keto intermittent fasting because
+this gets at the the root of this",268.32,4.8,273.12,NA
 "problem right here
-but these two right here would be two really good recommendations
-for this condition all right thanks for watching hey we're back with another amazing
-recipe no grains no sugar totally keto there's no
-suffering on keto absolutely not karen",273.12,19.68,292.8,NA
+but these two right here would be two",273.12,3.76,276.88,NA
+"really good recommendations
+for this condition all right thanks for",276.88,3.96,280.84,NA
+watching,280.84,3.0,283.84,NA
+"hey we're back with another amazing
+recipe no grains",284.16,3.52,287.68,NA
+"no sugar totally keto there's no
+suffering on keto absolutely not karen",287.68,5.44,293.12,NA
 "and it's an immune system builder
-absolutely you have to check this out i think you
-should hurry up watch the recipe and make it yourself it's just so easy
-to be keto but is it simple it's super simple we
-hope you enjoy making it as much as we are enjoying
-eating it",293.12,18.72,311.84000000000003,NA
+absolutely",293.12,3.04,296.16,NA
+"you have to check this out i think you
+should hurry up watch the recipe",296.16,3.68,299.84000000000003,NA
+"and make it yourself it's just so easy
+to be keto",299.84,3.199,303.039,NA
+"but is it simple it's super simple we
+hope you enjoy",303.039,4.561,307.59999999999997,NA
+"making it as much as we are enjoying
+eating it",307.6,4.24,311.84000000000003,NA

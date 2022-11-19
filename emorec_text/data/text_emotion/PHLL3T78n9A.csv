@@ -1,12 +1,56 @@
 text,start,duration,end,dominant_emotion
-acromegaly is a quite rare disease that affects both genders in the same proportion mostly but not exclusively middle-aged people,2.159,27.921000000000003,30.080000000000002,NA
-and uh it's on that it's quite insidious and there is a very long lag time between the onset of symptoms and typically the diagnosis several years typically and that's,15.04,23.759,38.799,NA
-because the symptoms are insidious and because the physical changes that may be apparent at the time of diagnosis happen so slowly,28.0,21.761,49.760999999999996,NA
-that the patient and people who see them on a regular basis often don't notice it and maybe the patient is noticed to be different,37.84,16.48,54.32000000000001,NA
-in a family reunion when the distant cousin hasn't seen them for several years and tells them you look different excessive growth hormone are seen in,46.8,21.92,68.72,NA
-multiple parts of the body and the heart the lungs the joints the bones and glucose metabolisms blood pressure so um if somebody is diagnosed with this,59.359,25.282,84.641,NA
-disease it's important that all the specialists that see these patients are involved they're aware of the diagnosis and the you know there should be collaboration,72.96,18.639,91.59899999999999,NA
-among different specialists um because uh once uh let's say somebody has a diabetes and he's on insulin uh once the acromegaly is controlled,82.159,22.801,104.96000000000001,NA
-well they most likely are gonna need less insulin or may not need insulin at all or their blood pressure medication needs to be reducing those or change or maybe even,93.68,17.359,111.03900000000002,NA
-stopped so if the cardiologist is managing their high blood pressure uh the cardiologists to be aware that well you know maybe the blood pressure,102.56,14.961,117.521,NA
-medication is no longer needed it needs to be reduced so collaboration between different specialists is really paramount in this disease,109.92,22.878,132.798,NA
+acromegaly is a,2.159,4.321,6.4799999999999995,neutral
+quite rare disease that affects,3.36,7.04,10.4,neutral
+both genders in the same proportion,6.48,6.64,13.120000000000001,neutral
+mostly but not exclusively middle-aged,10.4,4.64,15.04,NA
+people,13.12,5.28,18.4,NA
+and uh it's on that it's quite insidious,15.04,6.079,21.119,NA
+and there is a very long,18.4,5.119,23.519,NA
+lag time between the onset of symptoms,21.119,4.48,25.599,NA
+and typically the diagnosis,23.519,4.481,28.0,NA
+several years typically and that's,25.599,3.6,29.199,NA
+because,28.0,3.279,31.279,NA
+the symptoms are insidious and because,29.199,5.04,34.239000000000004,NA
+the physical changes that,31.279,5.12,36.399,NA
+may be apparent at the time of diagnosis,34.239,3.601,37.839999999999996,NA
+happen so slowly,36.399,4.721,41.120000000000005,NA
+that the patient and people who see them,37.84,3.68,41.52,NA
+on a,41.12,2.48,43.599999999999994,NA
+regular basis often don't notice it and,41.52,3.519,45.039,NA
+maybe,43.6,3.2,46.800000000000004,NA
+the patient is noticed to be different,45.039,3.601,48.64,NA
+in a family reunion when the,46.8,4.399,51.199,NA
+distant cousin hasn't seen them for,48.64,4.239,52.879,NA
+several years and tells them you look,51.199,4.081,55.28,NA
+different,52.879,2.401,55.28,NA
+excessive growth hormone are seen in,56.079,6.8,62.879,NA
+multiple parts of the body and the heart,59.359,7.281,66.64,NA
+the lungs the joints the bones,62.879,6.721,69.6,NA
+and glucose metabolisms blood pressure,66.64,3.519,70.159,NA
+so,69.6,3.36,72.96,NA
+um if somebody is diagnosed with this,70.159,4.401,74.56,NA
+disease it's important that,72.96,3.76,76.72,NA
+all the specialists that see these,74.56,4.0,78.56,NA
+patients are involved they're aware of,76.72,3.28,80.0,NA
+the diagnosis and the,78.56,3.599,82.159,NA
+you know there should be collaboration,80.0,4.0,84.0,NA
+among different specialists,82.159,5.201,87.36,NA
+um because uh once uh let's say somebody,84.0,4.88,88.88,NA
+has a diabetes,87.36,4.56,91.92,NA
+and he's on insulin uh once the,88.88,4.8,93.67999999999999,NA
+acromegaly is controlled,91.92,3.36,95.28,NA
+well they most likely are gonna need,93.68,3.439,97.119,NA
+less insulin or may not,95.28,3.44,98.72,NA
+need insulin at all or their blood,97.119,3.281,100.4,NA
+pressure medication needs to be,98.72,3.84,102.56,NA
+reducing those or change or maybe even,100.4,3.359,103.759,NA
+stopped so,102.56,2.8,105.36,NA
+if the cardiologist is managing their,103.759,3.761,107.52,NA
+high blood pressure uh the cardiologists,105.36,3.36,108.72,NA
+to be aware that well,107.52,2.4,109.92,NA
+you know maybe the blood pressure,108.72,2.64,111.36,NA
+medication is no longer needed it needs,109.92,2.72,112.64,NA
+to be reduced so,111.36,3.119,114.479,NA
+collaboration between different,112.64,3.6,116.24,NA
+specialists is really paramount in,114.479,7.6,122.079,NA
+this disease,116.24,5.839,122.079,NA

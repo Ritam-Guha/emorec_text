@@ -1,36 +1,105 @@
 text,start,duration,end,dominant_emotion
-"[ Silence ] [ Heart Beating ] >> Welcome to this introduction to the
-skill of reading blood pressure. There are many parts to the skill of taking a blood pressure. This video is focused on learning to read the gauge.",0.506,22.933999999999997,23.439999999999998,NA
-You will listen to several blood pressure readings. And you will then record your reading. So you will need some paper and a pen or pencil. The instrument used is called a sphygmomanometer. You will be able to say this word.,26.676,13.99,40.666,NA
-"It takes a bit of practice. A manometer is a device that measures pressure. Sphyg -- which rhymes with fig -- relates to blood. Broken into its parts, it is sphygmomanometer. The skill we are practicing, is to coordinate
-what you hear, with what you see on the gauge.",43.906,20.29,64.196,NA
+[ Silence ],0.506,2.01,2.516,NA
+[ Heart Beating ],3.016,9.984,13.0,NA
+">> Welcome to this introduction to the
+skill of reading blood pressure.",13.416,3.94,17.356,NA
+There are many parts to the skill of taking a blood pressure.,18.206,3.35,21.556,NA
+This video is focused on learning to read the gauge.,22.216,3.65,25.866,NA
+You will listen to several blood pressure readings.,26.676,2.74,29.415999999999997,neutral
+And you will then record your reading.,29.906,2.68,32.586,NA
+So you will need some paper and a pen or pencil.,32.946,3.25,36.196,NA
+The instrument used is called a sphygmomanometer.,37.226,3.24,40.466,NA
+You will be able to say this word.,41.296,2.08,43.376,NA
+It takes a bit of practice.,43.906,1.5,45.406,NA
+A manometer is a device that measures pressure.,45.946,3.71,49.656,NA
+Sphyg -- which rhymes with fig -- relates to blood.,50.656,3.83,54.486,NA
+"Broken into its parts, it is sphygmomanometer.",55.726,4.8,60.525999999999996,NA
+"The skill we are practicing, is to coordinate
+what you hear, with what you see on the gauge.",61.736,6.45,68.18599999999999,NA
 "You will listen for the first sound,
-which is the systolic blood pressure. Next, listen for when the sound stops. This is the diastolic blood pressure. Then write down your measurement. Every measurement has a unit that is part of recording the reading.",68.946,17.44,86.386,NA
-"For blood pressure, the unit of measurement is MMHG. This stands for millimeters of mercury. HG is the chemical symbol for mercury. Even though mercury is rarely used in blood pressure
-devices today, this remains the traditional unit of measure. When recording the blood pressure measurement,
-write down two numbers as a fraction.",90.036,26.28,116.316,NA
+which is the systolic blood pressure.",68.946,5.32,74.26599999999999,NA
+"Next, listen for when the sound stops.",74.936,3.5,78.436,NA
+This is the diastolic blood pressure.,79.156,2.26,81.41600000000001,NA
+Then write down your measurement.,82.336,1.89,84.226,neutral
+Every measurement has a unit that is part of recording the reading.,84.866,4.47,89.336,NA
+"For blood pressure, the unit of measurement is MMHG.",90.036,5.62,95.656,NA
+This stands for millimeters of mercury.,96.496,3.27,99.76599999999999,NA
+HG is the chemical symbol for mercury.,100.626,3.39,104.016,NA
+"Even though mercury is rarely used in blood pressure
+devices today, this remains the traditional unit of measure.",105.066,8.16,113.226,NA
+"When recording the blood pressure measurement,
+write down two numbers as a fraction.",113.526,5.84,119.366,NA
 "The top number indicates the systolic blood
-pressure when the heart contracts with full force. The bottom number is the diastolic blood
-pressure when the heart rests and refills. Also, write down the unit, MMHG. On a sphygmomanometer gauge, each mark
-or line stands for a unit of two. There are no odd numbers on this gauge.",119.806,24.29,144.096,NA
-"No matter what you measure, you can only read what the units allow. Round up or down, but don't make up numbers that are not on the scale. These longer marks indicate units of 10. There is not space on the gauge to write all the numbers. Look at where 80 is marked and where 100 is marked.",149.406,20.4,169.806,NA
-"The long line in between indicates 90. You can see that the numbers 100, 120, 140 are written on the gauge. The unnumbered, long lines indicate 110,
-130, 150 between the marked numbers. The short lines all equal two. Look at 100 and 120.",173.866,25.869999999999997,199.73600000000002,NA
-"The long line in between is 110. And the short lines equal 102, 104, 106, 108. The long line, 110. Short line 112. 114, 116, 118, long line, 120.",202.606,20.07,222.676,NA
-"What do you think the number is just one line under 140? If your answer is 138, than you are correct. Now let's look at the markings as the needle goes down the gauge. Let's start at 150. What number is the needle pointing to now?",225.886,17.07,242.956,NA
-It's indicating 138. Now the needle is pointing at 110. Where is the needle pointing now? It is indicating 68. Now for the moment you've been waiting for.,248.496,20.51,269.00600000000003,NA
-"These sounds are from a simulator arm. And do not sound the same as a real person's blood pressure. But the idea is to listen for the sounds, and mark
-where you hear the first sound, and the sound stopping. We will listen to six different blood pressures, and pause
-between each to give you time to record your measurement. After all six blood pressures have played, the answers will be shown.",273.706,29.65,303.356,NA
-Here we go. [ Silence ] [ Heart Beat ] [ Silence ] [ Heart Beat ],307.496,57.448,364.94399999999996,NA
-[ Silence ] [ Heart Beat ] [ Silence ] [ Heart Beat ] [ Silence ],367.516,89.968,457.48400000000004,NA
-"[ Heart Beat ] [ Silence ] [ Heart Beat ] [ Silence ] You have now heard six different blood pressure
-readings and recorded your measurement.",460.016,53.928000000000004,513.9440000000001,NA
-"Here are the answers to blood pressures one, two, and three. And here are the answers to blood pressures four, five, and six. Did you all come within plus or minus 4 millimeters
-mercury with your readings compared to the answers? That is the standard for accuracy for our course
-for the skill of measuring blood pressure. After some practice, you will come within 2 millimeters mercury
+pressure when the heart contracts with full force.",119.806,6.31,126.116,NA
+"The bottom number is the diastolic blood
+pressure when the heart rests and refills.",127.146,5.71,132.856,NA
+"Also, write down the unit, MMHG.",133.886,3.31,137.196,NA
+"On a sphygmomanometer gauge, each mark
+or line stands for a unit of two.",138.006,6.25,144.256,NA
+There are no odd numbers on this gauge.,145.326,2.71,148.036,NA
+"No matter what you measure, you can only read what the units allow.",149.406,4.54,153.946,NA
+"Round up or down, but don't make up numbers that are not on the scale.",154.936,5.26,160.196,NA
+These longer marks indicate units of 10.,160.726,3.03,163.756,NA
+There is not space on the gauge to write all the numbers.,164.716,3.24,167.95600000000002,NA
+Look at where 80 is marked and where 100 is marked.,168.966,4.33,173.29600000000002,NA
+The long line in between indicates 90.,173.866,3.46,177.32600000000002,NA
+"You can see that the numbers 100, 120, 140 are written on the gauge.",178.216,7.01,185.226,NA
+"The unnumbered, long lines indicate 110,
+130, 150 between the marked numbers.",185.826,9.84,195.666,NA
+The short lines all equal two.,196.736,2.39,199.12599999999998,NA
+Look at 100 and 120.,199.126,3.17,202.296,NA
+The long line in between is 110.,202.606,3.27,205.876,NA
+"And the short lines equal 102, 104, 106, 108.",206.376,7.11,213.48600000000002,NA
+"The long line, 110.",214.026,1.54,215.566,NA
+Short line 112.,216.316,1.93,218.246,NA
+"114, 116, 118, long line, 120.",218.386,6.22,224.606,NA
+What do you think the number is just one line under 140?,225.886,4.97,230.856,NA
+"If your answer is 138, than you are correct.",231.866,3.75,235.616,NA
+Now let's look at the markings as the needle goes down the gauge.,236.726,3.81,240.536,NA
+Let's start at 150.,241.626,1.89,243.516,NA
+What number is the needle pointing to now?,245.196,2.65,247.846,NA
+It's indicating 138.,248.496,4.53,253.026,NA
+Now the needle is pointing at 110.,253.626,8.07,261.696,NA
+Where is the needle pointing now?,263.476,2.16,265.636,NA
+It is indicating 68.,266.256,3.63,269.88599999999997,NA
+Now for the moment you've been waiting for.,270.736,2.12,272.856,NA
+These sounds are from a simulator arm.,273.706,2.81,276.516,NA
+And do not sound the same as a real person's blood pressure.,276.836,3.78,280.616,NA
+"But the idea is to listen for the sounds, and mark
+where you hear the first sound, and the sound stopping.",281.496,8.86,290.356,NA
+"We will listen to six different blood pressures, and pause
+between each to give you time to record your measurement.",291.466,9.1,300.56600000000003,NA
+"After all six blood pressures have played, the answers will be shown.",301.276,5.1,306.37600000000003,NA
+Here we go.,307.496,0.48,307.976,NA
+[ Silence ],308.516,17.0,325.516,NA
+[ Heart Beat ],326.016,5.984,332.0,NA
+[ Silence ],332.516,25.0,357.516,NA
+[ Heart Beat ],358.016,8.984,367.0,NA
+[ Silence ],367.516,26.0,393.516,NA
+[ Heart Beat ],394.016,4.984,399.0,NA
+[ Silence ],399.516,23.0,422.516,NA
+[ Heart Beat ],423.016,8.984,432.0,NA
+[ Silence ],432.516,27.0,459.516,NA
+[ Heart Beat ],460.016,4.984,465.0,NA
+[ Silence ],465.516,23.0,488.516,NA
+[ Heart Beat ],489.016,9.984,499.0,NA
+[ Silence ],499.516,10.09,509.606,NA
+"You have now heard six different blood pressure
+readings and recorded your measurement.",510.106,5.87,515.976,NA
+"Here are the answers to blood pressures one, two, and three.",517.016,5.16,522.1759999999999,NA
+"And here are the answers to blood pressures four, five, and six.",523.076,6.39,529.466,NA
+"Did you all come within plus or minus 4 millimeters
+mercury with your readings compared to the answers?",530.436,8.09,538.5260000000001,NA
+"That is the standard for accuracy for our course
+for the skill of measuring blood pressure.",539.596,6.24,545.836,NA
+"After some practice, you will come within 2 millimeters mercury
 compared to another person listening
-with you to the same blood pressure.",517.016,37.27,554.286,NA
-"You were not born knowing how to do this. It takes practice. Now, one more time, everyone say sphygmomanometer. Thank you all for participating in this exercise. I hope it was helpful.",558.976,12.98,571.956,NA
-"Please contact your instructor if you have any questions. [ Silence ]
-------------------------------8f91f9101f9a--",576.006,9.873999999999999,585.88,NA
+with you to the same blood pressure.",546.576,11.39,557.966,NA
+You were not born knowing how to do this.,558.976,2.5,561.476,NA
+It takes practice.,561.896,1.28,563.1759999999999,NA
+"Now, one more time, everyone say sphygmomanometer.",564.406,4.59,568.996,NA
+Thank you all for participating in this exercise.,569.636,3.32,572.956,NA
+I hope it was helpful.,573.746,1.29,575.036,NA
+Please contact your instructor if you have any questions.,576.006,3.62,579.626,NA
+"[ Silence ]
+------------------------------8f91f9101f9a--",580.516,6.254,586.77,NA

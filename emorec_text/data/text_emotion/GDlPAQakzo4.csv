@@ -1,46 +1,90 @@
 text,start,duration,end,dominant_emotion
 "Daredevil was actually a pretty cool, legit
-comic book, until the Affleck Attack happened. But the idea of blindness enhancing other
-senses is just fiction... isn't it? Hey gang, Trace here for DNews! Thanks for tuning in. There's a common thing in superhero and fantasy
-media...",0.14,21.299,21.439,angry
+comic book, until the Affleck Attack happened.",0.14,4.859,4.999,fear
+"But the idea of blindness enhancing other
+senses is just fiction... isn't it?",4.999,6.701,11.7,neutral
+"Hey gang, Trace here for DNews!",11.7,5.069,16.769,NA
+Thanks for tuning in.,16.769,1.32,18.089,fear
+"There's a common thing in superhero and fantasy
+media...",18.089,3.35,21.439,happy
 "if one sense is lost, the others get better
-to compensate. Do senses really DO that? The research says yes! The brain is a glutton for input, so if you
-restrict the input channels it freaks out. Sensory deprivation tanks are this in a nutshell.",21.439,15.361,36.8,angry
+to compensate.",21.439,3.201,24.64,fear
+Do senses really DO that?,24.64,1.959,26.599,neutral
+The research says yes!,26.599,2.131,28.73,happy
+"The brain is a glutton for input, so if you
+restrict the input channels it freaks out.",28.73,4.7,33.43,happy
+Sensory deprivation tanks are this in a nutshell.,33.43,3.37,36.8,NA
 "Research from the Journal of Nervous and Mental
-Disease found, when people were placed in a sensory deprivation room, the brain couldn't
-tell if the thoughts and images it was creating were inside the head, or outside the body. When deprived of input the volunteers would
-experience visual hallucinations, paranoia and a depressed mood -- all this, with less
-than 15 MINUTES of loss of input.",36.8,21.969,58.769,angry
+Disease found, when people were placed in",36.8,3.919,40.718999999999994,NA
+"a sensory deprivation room, the brain couldn't
+tell if the thoughts and images it was creating",40.719,5.14,45.859,NA
+"were inside the head, or outside the body.",45.859,2.351,48.21,happy
+"When deprived of input the volunteers would
+experience visual hallucinations, paranoia",48.21,4.7,52.910000000000004,happy
+"and a depressed mood -- all this, with less
+than 15 MINUTES of loss of input.",52.91,5.859,58.769,happy
 "So, if that's what happens with ALL the senses
-dulled, what about with just one? Studies HAVE shown blind people experience
-a higher sound placement ability, and increased sense of touch. This has to do with the brain literally REFORMING
-to take resources from the missing sense. A study in the Journal of Neuroscience used
-fMRIs to scan the brains of people who were",58.769,19.831,78.6,angry
-"born deaf. They found their senses of sight and touch
-were altered... and they found a boost in the understanding bimodal stimuli. Bimodal stimuli boosts are commonly seen in
-those who are bilingual -- they have a lot more crosstalk between their senses.",78.6,13.129999999999999,91.72999999999999,angry
+dulled, what about with just one?",58.769,5.06,63.829,neutral
+"Studies HAVE shown blind people experience
+a higher sound placement ability, and increased",63.829,5.011,68.84,NA
+sense of touch.,68.84,1.0,69.84,NA
+"This has to do with the brain literally REFORMING
+to take resources from the missing sense.",69.84,4.489,74.32900000000001,NA
+"A study in the Journal of Neuroscience used
+fMRIs to scan the brains of people who were",74.329,4.271,78.6,NA
+born deaf.,78.6,1.0,79.6,happy
+"They found their senses of sight and touch
+were altered... and they found a boost in",79.6,4.159,83.759,happy
+the understanding bimodal stimuli.,83.759,1.32,85.079,neutral
+"Bimodal stimuli boosts are commonly seen in
+those who are bilingual -- they have a lot",85.079,4.43,89.50899999999999,happy
+more crosstalk between their senses.,89.509,2.221,91.73,happy
 "This means people born deaf SEE the world
-differently than a fully sensed person! Now, knowing ALL that -- does someone who
-BECOMES blind gain sense-power? A study that came out last week says FOR SHIZZLE. Researched published in the journal Neuron
-found when fully sensed mice had blindness simulated for as little as one week -- their
-hearing was boosted.",91.73,21.83,113.56,angry
+differently than a fully sensed person!",91.73,5.64,97.37,happy
+"Now, knowing ALL that -- does someone who
+BECOMES blind gain sense-power?",97.37,4.73,102.10000000000001,happy
+A study that came out last week says FOR SHIZZLE.,102.1,2.699,104.79899999999999,NA
+"Researched published in the journal Neuron
+found when fully sensed mice had blindness",104.799,4.771,109.57000000000001,NA
+"simulated for as little as one week -- their
+hearing was boosted.",109.57,3.99,113.55999999999999,NA
 "The researchers said this has to do with how
-the senses work together. Kind of like in a movie, if what you're seeing
-doesn't match what you're hearing -- you'd get messed up. Your vision is supremely tied to what you're
-hearing. Their experiments found sight helps us hear
-softer sounds, and have better pitch!",113.56,18.31,131.87,angry
+the senses work together.",113.56,2.57,116.13,NA
+"Kind of like in a movie, if what you're seeing
+doesn't match what you're hearing -- you'd",116.13,5.489,121.619,NA
+get messed up.,121.619,1.461,123.08,happy
+"Your vision is supremely tied to what you're
+hearing.",123.08,3.319,126.399,neutral
+"Their experiments found sight helps us hear
+softer sounds, and have better pitch!",126.399,5.471,131.87,happy
 "Because of that, your sight can help work
-with your hearing to help discern talking or familiar music in a loud environment. If you take what you're seeing AWAY however,
-your hearing has to do it alone -- and it flips switches in your brain called thalamocortical
-inputs. This lets the auditory information borrow
-some of the processing power of the visual",131.87,18.490000000000002,150.36,angry
-"center. It seems to me this is kind of like Daredevil's
-power! He's using his VISUAL center to understand
-the perceived SOUND. This has been documented in others too, people
-who are blind yet can navigate an unfamiliar room, and even ride a bike.",150.36,16.330000000000002,166.69000000000003,angry
+with your hearing to help discern talking",131.87,4.119,135.989,happy
+or familiar music in a loud environment.,135.989,2.081,138.07,happy
+"If you take what you're seeing AWAY however,
+your hearing has to do it alone -- and it",138.07,4.71,142.78,NA
+"flips switches in your brain called thalamocortical
+inputs.",142.78,3.97,146.75,NA
+"This lets the auditory information borrow
+some of the processing power of the visual",146.75,3.61,150.36,NA
+center.,150.36,1.0,151.36,NA
+"It seems to me this is kind of like Daredevil's
+power!",151.36,4.84,156.20000000000002,NA
+"He's using his VISUAL center to understand
+the perceived SOUND.",156.2,4.34,160.54,NA
+"This has been documented in others too, people
+who are blind yet can navigate an unfamiliar",160.54,4.64,165.17999999999998,NA
+"room, and even ride a bike.",165.18,1.51,166.69,neutral
 "The switches they're talking about, are normally
-not used in adults -- but in a week of blindness? BAM. Switched. Very cool. They also found when they removed the blindness,
-the switches went back to normal -- so it's",166.69,11.01,177.7,angry
-"reversible. Super cool. Would you go blind for a week, for science? Think of all the things you could hear!! Come tell us down below, we read the comments
-and love to chat.",177.7,8.509,186.209,angry
+not used in adults -- but in a week of blindness?",166.69,4.24,170.93,neutral
+BAM.,170.93,1.0,171.93,neutral
+Switched.,171.93,1.0,172.93,neutral
+Very cool.,172.93,1.0,173.93,neutral
+"They also found when they removed the blindness,
+the switches went back to normal -- so it's",173.93,3.77,177.70000000000002,happy
+reversible.,177.7,1.0,178.7,neutral
+Super cool.,178.7,1.0,179.7,neutral
+"Would you go blind for a week, for science?",179.7,1.98,181.67999999999998,happy
+Think of all the things you could hear!!,181.68,1.25,182.93,happy
+"Come tell us down below, we read the comments
+and love to chat.",182.93,3.279,186.209,happy
 "Thanks for watching DNews, hear you later!",186.209,2.741,188.95000000000002,NA

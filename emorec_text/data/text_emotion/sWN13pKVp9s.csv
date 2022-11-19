@@ -1,137 +1,446 @@
 text,start,duration,end,dominant_emotion
 "Transcriber: Emma Gon
-Reviewer: Cathrine Ulstrand Hello, my name's Hertling and I'm a soldier and -- you probably could tell that. I've been in the military for 38 years.",0.0,15.168,15.168,NA
-I'm thinking of making it a career. I have seen -- (Laughter) -- I have seen and studied and analysed all types of security threats. I've fought in several wars,29.426,10.285,39.711,NA
+Reviewer: Cathrine Ulstrand",0.0,7.0,7.0,NA
+"Hello, my name's Hertling",21.258,1.888,23.146,NA
+and I'm a soldier and,23.146,1.34,24.486,sad
+-- you probably could tell that.,24.486,2.49,26.976,NA
+I've been in the military for 38 years.,26.976,2.45,29.426,NA
+I'm thinking of making it a career.,29.426,1.385,30.811,NA
+I have seen -- (Laughter) --,30.811,1.888,32.699,sad
+I have seen and studied and analysed,32.699,2.879,35.577999999999996,sad
+all types of security threats.,35.578,2.48,38.058,NA
+I've fought in several wars,38.058,1.653,39.711,NA
 "but there's an emerging threat
-that we're seeing and I'd like to talk a little bit
-about today that I think will have an effect
-on our future, our economy, our youth",39.711,13.804,53.515,NA
-"and our economic system. It is an emerging threat that concerns me significantly and it's represented in this picture. Now you might think,",53.515,11.901,65.416,NA
-why is a soldier talking about a young man who is obviously inactive and perhaps is a little bit overweight? And it's because of some things I've seen in the last several years,65.416,13.028,78.444,NA
-"and I'd like to talk a little bit about those today and related to how I believe it could be a national security threat within the next 20 to 30 years. First of all, in 1983,",78.444,11.869,90.313,NA
-"the Army sent me on something called a broadening experience. I was asked to go graduate school at Indiana University. I had studied as an undergraduate 
-in International Relations",90.313,9.469000000000001,99.78200000000001,NA
-"but they said, ""Hey we want you to go and get a Master's degree
-in Exercise Physiology and then teach PE at West Point."" So I said, ""Okay, sounds like a great idea. It's broadening to be sure.""",99.782,12.246,112.02799999999999,NA
-And I went out there -- (Laugther) -- I went to Indiana University and my first class was an anatomy class and I had an anatomy lab. I walked into the classroom,112.028,9.919,121.947,NA
-"and they issued me a cadaver. As they did everyone else in the class. And the cadaver I had,
-came with a medical history The professor told us,
-""In order to respect the people who have given
-their bodies to science",121.947,13.443999999999999,135.391,NA
+that we're seeing",39.711,3.368,43.079,NA
+"and I'd like to talk a little bit
+about today",43.079,2.374,45.453,NA
+"that I think will have an effect
+on our future,",45.453,4.173,49.626000000000005,NA
+"our economy,",49.626,1.81,51.436,sad
+our youth,51.436,2.079,53.515,NA
+and our economic system.,53.515,2.59,56.105000000000004,sad
+It is an emerging threat,56.105,1.867,57.971999999999994,NA
+that concerns me significantly,57.972,2.706,60.678000000000004,NA
+and it's represented in this picture.,60.678,3.63,64.30799999999999,NA
+"Now you might think,",64.308,1.108,65.41600000000001,NA
+why is a soldier talking about,65.416,1.832,67.24799999999999,NA
+a young man who is obviously inactive,67.248,3.977,71.22500000000001,NA
+and perhaps is a little bit overweight?,71.225,2.514,73.73899999999999,NA
+And it's because of some things I've seen,73.739,2.788,76.527,NA
+in the last several years,76.527,1.917,78.444,NA
+and I'd like to talk a little bit about those today,78.444,2.38,80.824,neutral
+and related to how I believe,80.824,1.802,82.626,neutral
+it could be a national security threat,82.626,1.851,84.477,NA
+within the next 20 to 30 years.,84.477,2.493,86.97,NA
+"First of all, in 1983,",86.97,3.343,90.313,NA
+the Army sent me on something,90.313,1.673,91.986,NA
+called a broadening experience.,91.986,1.616,93.602,NA
+I was asked to go graduate school,93.602,2.194,95.796,sad
+at Indiana University.,95.796,1.207,97.003,sad
+"I had studied as an undergraduate 
+in International Relations",97.003,2.779,99.782,sad
+"but they said, ""Hey we want you to go",99.782,1.715,101.497,sad
+"and get a Master's degree
+in Exercise Physiology",101.497,3.794,105.291,NA
+"and then teach PE at West Point.""",105.291,3.045,108.336,NA
+"So I said, ""Okay, sounds like a great idea.",108.336,1.64,109.976,NA
+"It's broadening to be sure.""",109.976,2.052,112.028,NA
+And I went out there -- (Laugther) --,112.028,2.364,114.39200000000001,NA
+I went to Indiana University,114.392,1.522,115.914,NA
+and my first class was an anatomy class,115.914,2.776,118.69,NA
+and I had an anatomy lab.,118.69,1.601,120.291,NA
+I walked into the classroom,120.291,1.656,121.947,NA
+and they issued me a cadaver.,121.947,2.677,124.62400000000001,NA
+As they did everyone else in the class.,124.624,1.88,126.50399999999999,NA
+"And the cadaver I had,
+came with a medical history",126.504,3.677,130.181,NA
+"The professor told us,
+""In order to respect",130.181,2.548,132.729,NA
+"the people who have given
+their bodies to science",132.729,2.662,135.39100000000002,NA
 "we'd ask you to respect them,
-too, and you perhaps wanna name them to remind yourself that they were once a person although we don't wanna give you
-their real name."" So I named mine Charlie.",135.391,9.597999999999999,144.98899999999998,NA
-Charlie had a medical history. He had been a two-pack-a-day smoker. Charlie had not exercised in the last 20 years. Charlie was extremely overweight and Charlie had died of a cardiovascular disease,144.989,14.601,159.59,NA
-"and he was 46 years old. When we pulled him up and we began, the various students in the room began our disection of these bodies I had a lot of a tougher time",159.64,9.787,169.427,NA
-than some of the other students because I had to cut through several layers of adipose. When I got to the internal body cavities it was amazing to me,169.427,7.813,177.23999999999998,NA
-"comparing Charlie's organs to some of the organs of 
-the other students in the class. The heart was surrounded by fat several inches. One of the tricks our instructors taught us was,",177.24,10.697,187.937,NA
-"you know, we had to through these labs where we had to name what vein was which and what artery was which, and the professor said, ""If you pull on an artery, it's like a rubber band.",187.937,10.106000000000002,198.043,NA
+too, and you perhaps",135.391,2.334,137.725,NA
+wanna name them to remind yourself,137.725,2.48,140.20499999999998,NA
+that they were once a person,140.205,1.045,141.25,NA
+"although we don't wanna give you
+their real name.""",141.25,1.715,142.965,NA
+So I named mine Charlie.,142.965,2.024,144.989,NA
+Charlie had a medical history.,144.989,1.217,146.20600000000002,NA
+He had been a two-pack-a-day smoker.,146.206,3.043,149.249,sad
+Charlie had not exercised in the last 20 years.,149.299,3.986,153.285,NA
+Charlie was extremely overweight,153.285,2.51,155.795,NA
+and Charlie had died of a cardiovascular disease,155.795,3.845,159.64,NA
+and he was 46 years old.,159.64,2.913,162.553,NA
+"When we pulled him up and we began,",162.553,1.473,164.026,NA
+the various students in the room began,164.026,1.715,165.741,NA
+our disection of these bodies,165.741,1.716,167.45700000000002,NA
+I had a lot of a tougher time,167.457,1.97,169.427,NA
+than some of the other students,169.427,1.561,170.988,NA
+because I had to cut through,170.988,1.51,172.498,NA
+several layers of adipose.,172.498,1.746,174.244,NA
+When I got to the internal body cavities,174.244,1.579,175.823,NA
+it was amazing to me,175.823,1.417,177.24,NA
+comparing Charlie's organs,177.24,1.758,178.99800000000002,NA
+"to some of the organs of 
+the other students in the class.",178.998,2.452,181.45,NA
+The heart was surrounded by fat,181.45,2.888,184.338,NA
+several inches.,184.338,0.982,185.32,NA
+"One of the tricks our instructors taught us was,",185.32,2.617,187.93699999999998,NA
+"you know, we had to through these labs",187.937,2.177,190.114,NA
+where we had to name what vein was which,190.114,2.005,192.119,sad
+"and what artery was which,",192.119,1.962,194.081,NA
+"and the professor said, ""If you pull",194.081,2.319,196.39999999999998,NA
+"on an artery, it's like a rubber band.",196.4,1.643,198.043,sad
 "If you pull on a vein, it's like 
-a guitar string and it'll twang."" When I pulled on Charlie's arteries and veins they broke off into my hand. So I finished grad school and went to teach at West Point for 3 years",198.043,11.566,209.609,NA
-"from '83 to '86 and then after that assignment I went back to the operational Army and did things that all soldiers do: commanded organizations,",210.485,8.131,218.616,NA
-"trained, went into combat several times, and then coming out of combat as a Division Commander in 2009 the Army decided they wanted to promote me to three-star General",218.617,11.542,230.159,NA
-"I think because they wanted to prove they have a sense of humor. They then sent me to be the Commander of Initial Military Training. My job was to train
-the 160,000 or so soldiers",230.159,12.87,243.029,NA
-"or correction: civilians, that would come into the Army every year and turn them into soldiers. What I found when I reported to that assignment disturbed me.",243.029,11.154,254.183,NA
-"Several facts came to my attention. First of all, 75% or more a little bit more actually of the civilians who wanted to join the Army were not qualified to do so.",254.183,13.709,267.892,NA
+a guitar string and it'll twang.""",198.043,2.701,200.744,sad
+When I pulled on Charlie's arteries and veins,200.744,2.058,202.802,NA
+they broke off into my hand.,202.802,2.929,205.731,NA
+So I finished grad school,206.607,2.241,208.848,NA
+and went to teach at West Point for 3 years,208.848,1.637,210.485,NA
+from '83 to '86,210.485,1.544,212.02900000000002,NA
+and then after that assignment,212.029,1.502,213.531,NA
+I went back to the operational Army,213.531,1.522,215.053,NA
+and did things that all soldiers do:,215.053,2.246,217.299,NA
+"commanded organizations,",217.3,1.317,218.61700000000002,NA
+"trained, went into combat several times,",218.617,2.414,221.03099999999998,NA
+and then coming out of combat,221.031,1.706,222.737,NA
+as a Division Commander in 2009,222.737,3.756,226.493,NA
+the Army decided they wanted to promote me,226.493,2.481,228.974,NA
+to three-star General,228.974,1.185,230.159,NA
+I think because they wanted to prove,230.159,1.584,231.743,sad
+they have a sense of humor.,231.743,1.472,233.215,NA
+They then sent me to be the Commander of,233.215,2.894,236.109,NA
+Initial Military Training.,236.109,2.343,238.452,NA
+"My job was to train
+the 160,000 or so soldiers",238.452,4.577,243.029,NA
+"or correction: civilians,",243.029,1.947,244.976,NA
+that would come into the Army every year,244.976,1.565,246.541,sad
+and turn them into soldiers.,246.541,2.478,249.019,NA
+What I found when I reported to that assignment,249.019,3.585,252.604,NA
+disturbed me.,252.604,1.579,254.18300000000002,NA
+Several facts came to my attention.,254.183,1.801,255.98399999999998,NA
+"First of all, 75% or more",255.984,4.36,260.344,NA
+a little bit more actually,260.344,1.197,261.541,NA
+of the civilians who wanted to join the Army,261.541,3.441,264.98199999999997,NA
+were not qualified to do so.,264.982,2.91,267.89200000000005,NA
 "75% of the 17-24 year olds 
-who wanted to join the Army were not qualified and the number one reason was because they were obese. Of the 25% that could join the Army",267.892,11.104000000000001,278.996,NA
-"what we found on the first day of basic training was that about 60% of them could not pass the PT test that we gave on the first day. And that was: 
-one minute of push-ups,",278.996,12.113,291.109,NA
+who wanted to join the Army",267.892,3.992,271.884,NA
+were not qualified,271.884,1.381,273.265,NA
+and the number one reason,273.265,1.017,274.282,neutral
+was because they were obese.,274.282,2.234,276.51599999999996,sad
+Of the 25% that could join the Army,276.516,2.48,278.99600000000004,NA
+what we found on the first day of basic training,278.996,2.335,281.33099999999996,NA
+was that about 60% of them,281.331,2.93,284.261,NA
+could not pass the PT test,284.261,3.11,287.37100000000004,NA
+that we gave on the first day.,287.371,1.686,289.05699999999996,NA
+"And that was: 
+one minute of push-ups,",289.057,2.052,291.10900000000004,NA
 "one minute of sit-ups and
-a one-mile run. Now, that's not a difficult test. But we were finding that a great majority of our new soldiers coming off the civilian environment,",291.109,10.108,301.217,NA
-could not pass that test. I couldn't understand what had happened. This was not what I had left studying physical education in 1986. As we did some analyses,301.22,12.514000000000003,313.73400000000004,sad
-"I realized that a couple of things had changed. First of all, number one
-and the primary reason was starting in the late '90s the majority of our elementary
-and high schools stopped teaching PE,",313.734,13.538000000000002,327.272,NA
-"and in fact, only five states of the 50 of our country right now have mandatory requirements
-for physical education between K and 12th grade today. Five out of 50.",327.272,12.748000000000001,340.02,NA
+a one-mile run.",291.109,2.542,293.65099999999995,NA
+"Now, that's not a difficult test.",293.654,2.038,295.692,NA
+But we were finding that,295.692,1.254,296.946,sad
+a great majority of our new soldiers,296.946,2.307,299.25300000000004,NA
+"coming off the civilian environment,",299.253,1.967,301.21999999999997,NA
+could not pass that test.,301.22,2.648,303.86800000000005,sad
+I couldn't understand what had happened.,303.868,1.776,305.644,sad
+This was not what I had left,305.644,2.382,308.026,sad
+studying physical education in 1986.,308.026,4.341,312.367,sad
+As we did some analyses,312.367,1.367,313.73400000000004,sad
+I realized that a couple of things had changed.,313.734,3.323,317.05699999999996,NA
+"First of all, number one
+and the primary reason was",317.057,3.74,320.797,NA
+starting in the late '90s,320.797,1.23,322.02700000000004,NA
+"the majority of our elementary
+and high schools",322.027,2.169,324.19599999999997,NA
+"stopped teaching PE,",324.196,3.076,327.27200000000005,NA
+"and in fact, only five states",327.272,2.199,329.471,NA
+of the 50 of our country right now,329.471,2.689,332.16,NA
+"have mandatory requirements
+for physical education",332.16,2.528,334.68800000000005,NA
+between K and 12th grade today.,334.688,3.059,337.747,NA
+Five out of 50.,337.747,2.273,340.02000000000004,NA
 "Now, you say,
-""Okay, well that's interesting, but what does the Army care about that?"" Well, we're getting the product of that but in addition to second and third order effects were young people that were joining our service",340.02,11.073,351.09299999999996,NA
-"could not run, dodge, jump, tumble, roll the kinds of things you expect soldiers to do if they're in combat. The second thing we found or that I found or realized was",351.093,11.283,362.37600000000003,NA
-"that our diet had changed radically in the last 15 years. We were supersizing everything. Having been stationed overseas in Germany, that's not the case there,",362.376,10.687000000000001,373.063,NA
-"but they were supersizing -- if you want a large fries you can get extra large
-and extra-extra large. You couldn't just get a 16 oz drink, you could get a 24, 42, 64 oz soda.",373.063,9.829999999999998,382.893,NA
-"And that was having a deleterious effect. It was fascinating to me that we were also seeing, a scientist told me, that in the last 15 years",382.893,10.348,393.241,NA
-from the time I left West Point until today Americans eat about 30% more calories a day than they had in 1983 and about 15 lbs more of sugar a year. Phenomenal statistics.,393.241,13.098,406.339,NA
+""Okay, well that's interesting,",340.02,2.253,342.27299999999997,NA
+"but what does the Army care about that?""",342.273,2.468,344.74100000000004,NA
+"Well, we're getting the product of that",344.741,1.933,346.674,sad
+but in addition to second and third order effects,346.674,2.204,348.878,NA
+were young people that were joining our service,348.878,2.215,351.09299999999996,NA
+"could not run, dodge, jump, tumble, roll",351.093,2.757,353.85,NA
+the kinds of things you expect soldiers to do,353.85,2.98,356.83000000000004,NA
+if they're in combat.,356.83,1.409,358.239,NA
+The second thing we found,358.239,2.146,360.385,NA
+or that I found or realized was,360.385,1.991,362.376,NA
+that our diet had changed radically,362.376,2.884,365.26,NA
+in the last 15 years.,365.26,1.905,367.16499999999996,NA
+We were supersizing everything.,367.165,2.72,369.88500000000005,NA
+"Having been stationed overseas in Germany,",369.885,1.745,371.63,NA
+"that's not the case there,",371.63,1.433,373.063,NA
+but they were supersizing --,373.063,1.502,374.565,NA
+if you want a large fries,374.565,0.98,375.545,NA
+"you can get extra large
+and extra-extra large.",375.545,2.288,377.833,NA
+"You couldn't just get a 16 oz drink,",377.833,1.478,379.31100000000004,NA
+"you could get a 24, 42, 64 oz soda.",379.311,3.582,382.893,NA
+And that was having a deleterious effect.,382.893,3.021,385.914,NA
+It was fascinating to me,385.914,1.764,387.678,NA
+"that we were also seeing,",387.678,2.333,390.011,NA
+"a scientist told me,",390.011,1.695,391.706,NA
+that in the last 15 years,391.706,1.535,393.24100000000004,NA
+from the time I left West Point until today,393.241,2.354,395.59499999999997,NA
+Americans eat about 30% more calories a day,395.595,3.37,398.96500000000003,sad
+than they had in 1983,398.965,1.538,400.503,NA
+and about 15 lbs more of sugar a year.,400.503,4.013,404.51599999999996,NA
+Phenomenal statistics.,404.516,1.823,406.339,sad
 "But the combination
-of a lack of physical education and an increase of poor nutrition was causing secondary effects. This is the ""O"" food group, by the way. I started calling it the ""O"" food group",406.339,14.494,420.83299999999997,NA
-"because anything that ends in an ""O"" is probably not good for you. (Laugther) I haven't found anything
-that ended in ""O"" yet that was actually very nutritious in nature.",420.833,15.619,436.452,NA
-But what we started to do was we saw some second and third order effects and this is one of them this is at one of our training bases and we have five in the United States Army.,436.481,9.869,446.35,NA
-"We were seeing a malady called femoral neck stress injuries, and what that means is that the tip of the pelvis would crack and it wouldn't be a clean break",446.35,11.540999999999999,457.891,NA
-"but it would be a stress fracture that would cause significant problems and you can see starting in 2000
-that we were beginning to see this and this is because the people 
-we were recruiting were just coming of age and many of them had not had PE",457.891,13.787,471.678,NA
-"and they had started to have the bad nutrition. But by 2009 when our new recruits were 18 or 19 years old they had gone through their entire life without having a PE class
-and dependent on bad nutrition.",471.678,12.402999999999999,484.081,NA
-"Those 135 that we had at one training base are significant injuries because in order to fix it it costs anywhere between 
-USD 100,000 and USD 300,000. So this is an economic issue.",484.093,13.36,497.45300000000003,NA
-"This isn't just a soldier health issue. For me this was an economic issue. The third reason, and I'll say this then move quickly on. The third reason we saw",497.453,9.954999999999998,507.40799999999996,NA
-"was an increase in technology. Now, I'm a big fan of technology, but the researchers had told me that we now watch as a nation about 150 hours of television a month.",508.316,10.187,518.5029999999999,NA
-"That's five hours a day. In 2009, when we started this study we were seeing anywhere
-from 30 to 40 on average hours of internet searches by adult male Americans per month.",518.503,15.072,533.575,NA
-"That's between one and two hours a day. Gaming was off the charts. In 2009, and it's increased since then the average teenager was playing thirteen hours of video games per week.",533.575,11.945,545.5200000000001,NA
-"Now all those hours in front of a tube were replacing the play time and that's significant. In addition to that, the final one, number four:",545.52,11.201,556.721,NA
-"We're terrible examples to our children. We're in too much of a rush. We're eating poorly we're eating fast foods we're relaxing in front of the television
-at the end of the day.",556.721,10.943999999999999,567.665,NA
-We also are relying on technology instead of play and we're not balancing our lives. My wife has a stitchery in our house as we've raised two children,567.667,10.182,577.849,NA
-"and now a couple of grandchildren that says, ""Your children are watching you."" What you do speaks louder
-than anything you can say. We were not doing the right things
-for our children. So in typical army fashion",577.849,13.9,591.749,NA
+of a lack of physical education",406.339,3.041,409.38,NA
+and an increase of poor nutrition,409.38,3.458,412.838,NA
+was causing secondary effects.,412.838,2.249,415.08700000000005,NA
+"This is the ""O"" food group, by the way.",415.087,2.508,417.59499999999997,NA
+"I started calling it the ""O"" food group",417.595,3.238,420.833,NA
+"because anything that ends in an ""O""",420.833,1.923,422.75600000000003,NA
+is probably not good for you.,422.756,2.767,425.52299999999997,NA
+(Laugther),425.523,4.415,429.93800000000005,NA
+"I haven't found anything
+that ended in ""O"" yet",429.967,2.923,432.89,NA
+that was actually very nutritious in nature.,432.89,3.591,436.481,NA
+But what we started to do was,436.481,1.749,438.23,NA
+we saw some second and third order effects,438.23,1.614,439.844,NA
+and this is one of them,439.844,1.847,441.691,NA
+this is at one of our training bases,441.691,2.17,443.861,NA
+and we have five in the United States Army.,443.861,2.489,446.34999999999997,NA
+We were seeing a malady called,446.35,2.094,448.444,NA
+"femoral neck stress injuries,",448.444,3.3,451.744,NA
+and what that means is that,451.744,1.175,452.91900000000004,NA
+the tip of the pelvis would crack,452.919,3.122,456.041,NA
+and it wouldn't be a clean break,456.041,1.85,457.891,NA
+but it would be a stress fracture,457.891,1.755,459.646,NA
+that would cause significant problems,459.646,1.585,461.231,NA
+"and you can see starting in 2000
+that we were beginning to see this",461.231,4.264,465.495,NA
+"and this is because the people 
+we were recruiting were just coming of age",465.495,3.889,469.384,NA
+and many of them had not had PE,469.384,2.294,471.678,NA
+and they had started to have the bad nutrition.,471.678,2.41,474.088,NA
+But by 2009 when our new recruits,474.088,2.959,477.047,NA
+were 18 or 19 years old,477.047,1.612,478.65900000000005,NA
+they had gone through their entire life,478.659,2.231,480.89,NA
+"without having a PE class
+and dependent on bad nutrition.",480.902,3.191,484.09299999999996,NA
+Those 135 that we had at one training base,484.093,3.847,487.94,NA
+are significant injuries because,487.94,1.58,489.52,NA
+in order to fix it,489.52,1.649,491.169,NA
+"it costs anywhere between 
+USD 100,000 and USD 300,000.",491.169,4.658,495.827,NA
+So this is an economic issue.,495.827,1.626,497.453,NA
+This isn't just a soldier health issue.,497.453,1.642,499.09499999999997,NA
+For me this was an economic issue.,499.095,3.997,503.09200000000004,NA
+"The third reason, and I'll say this",504.0,1.819,505.819,NA
+then move quickly on.,505.819,1.534,507.353,NA
+The third reason we saw,507.353,0.963,508.31600000000003,sad
+was an increase in technology.,508.316,1.936,510.25199999999995,sad
+"Now, I'm a big fan of technology,",510.252,1.429,511.681,NA
+but the researchers had told me,511.681,1.941,513.622,NA
+that we now watch as a nation,513.622,1.643,515.265,sad
+about 150 hours of television a month.,515.265,3.238,518.503,NA
+That's five hours a day.,518.503,1.962,520.465,NA
+"In 2009, when we started this study",520.465,2.368,522.8330000000001,sad
+"we were seeing anywhere
+from 30 to 40 on average",522.833,3.436,526.269,sad
+hours of internet searches,526.269,2.625,528.894,NA
+by adult male Americans per month.,528.894,4.681,533.575,NA
+That's between one and two hours a day.,533.575,2.725,536.3000000000001,NA
+Gaming was off the charts.,536.3,1.417,537.717,NA
+"In 2009, and it's increased since then",537.717,2.483,540.1999999999999,NA
+the average teenager was playing,540.2,1.913,542.113,NA
+thirteen hours of video games per week.,542.113,3.407,545.5200000000001,sad
+Now all those hours in front of a tube,545.52,2.926,548.446,NA
+were replacing the play time,548.446,1.78,550.226,NA
+and that's significant.,550.226,2.568,552.794,NA
+"In addition to that,",552.794,1.182,553.976,NA
+"the final one, number four:",553.976,2.745,556.721,NA
+We're terrible examples to our children.,556.721,2.941,559.662,NA
+We're in too much of a rush.,559.662,1.819,561.481,NA
+We're eating poorly,561.481,1.449,562.93,NA
+we're eating fast foods,562.93,1.919,564.8489999999999,NA
+"we're relaxing in front of the television
+at the end of the day.",564.849,2.816,567.6650000000001,NA
+We also are relying on technology,567.667,2.32,569.9870000000001,NA
+instead of play,569.987,1.214,571.201,sad
+and we're not balancing our lives.,571.201,2.318,573.519,NA
+My wife has a stitchery in our house,573.519,1.657,575.176,NA
+as we've raised two children,575.176,2.673,577.849,NA
+and now a couple of grandchildren,577.849,1.422,579.2710000000001,NA
+"that says, ""Your children are watching you.""",579.271,3.056,582.327,NA
+"What you do speaks louder
+than anything you can say.",582.327,3.367,585.694,NA
+"We were not doing the right things
+for our children.",585.694,3.991,589.685,sad
+So in typical army fashion,589.685,2.064,591.7489999999999,NA
 "I said, ""We've got to address 
-these issues with our new recruits."" And we changed several things. We began something we called the Soldier Athlete Initiative because you can't just say
-to a bunch of 18 year olds,",591.749,10.605,602.354,NA
-"""We're going to get you all in shape and stop feeding you cheeseburgers."" You have to give kind of a sexy title to it so we called it Soldier Athlete Initiative.",602.354,10.044,612.398,NA
-"If you're going to perform on the battle field, you have got to train like a champion. And what we did was,
-we completely changed well, it's a three-legged stool we completely changed the way
-we were training",612.398,9.934999999999999,622.333,NA
+these issues with our new recruits.""",591.749,2.91,594.659,NA
+And we changed several things.,594.659,1.732,596.391,NA
+We began something we called,596.391,1.897,598.288,NA
+the Soldier Athlete Initiative,598.288,1.997,600.285,NA
+"because you can't just say
+to a bunch of 18 year olds,",600.285,2.069,602.3539999999999,NA
+"""We're going to get you all in shape",602.354,1.288,603.642,NA
+"and stop feeding you cheeseburgers.""",603.642,1.98,605.6220000000001,NA
+You have to give kind of a sexy title,605.622,2.377,607.9989999999999,NA
+to it so we called it,607.999,1.316,609.315,NA
+Soldier Athlete Initiative.,609.315,3.083,612.398,NA
+"If you're going to perform on the battle field,",612.398,1.512,613.91,NA
+you have got to train like a champion.,613.91,2.601,616.511,NA
+"And what we did was,
+we completely changed",616.511,1.962,618.473,NA
+"well, it's a three-legged stool",618.477,1.528,620.005,NA
+"we completely changed the way
+we were training",620.005,2.332,622.337,NA
 "to compensate for things
-that were not going on in grade school and high school. We assigned physical terapists and athletic trainers
-to every organization because we wanted
-to prevent the injuries",622.337,11.905,634.242,NA
-"and treat them before they turned into those USD 100,000 bone stress fractures. We wanted to fix them
-as they became visible. And then the third thing
-and probably the most important was we changed the way
-we feed food in the mess halls",634.242,15.665000000000001,649.9069999999999,NA
-"the dining facilities. We called it ""Fueling the Soldier."" You can't just say,
-""Hey, have a salad."" We instead say -- (Laugther) -- you've got to advertise with soldiers",649.907,10.628,660.5350000000001,NA
+that were not going on",622.337,2.579,624.9159999999999,NA
+in grade school and high school.,624.916,2.102,627.018,NA
+We assigned physical terapists,627.018,2.432,629.45,NA
+"and athletic trainers
+to every organization",629.45,3.049,632.499,NA
+"because we wanted
+to prevent the injuries",632.499,1.743,634.2420000000001,NA
+and treat them before they turned into,634.242,1.715,635.957,NA
+"those USD 100,000 bone stress fractures.",635.957,4.504,640.461,NA
+"We wanted to fix them
+as they became visible.",640.461,3.72,644.181,NA
+"And then the third thing
+and probably the most important was",644.181,2.656,646.837,NA
+"we changed the way
+we feed food in the mess halls",646.837,3.07,649.907,NA
+the dining facilities.,649.907,1.253,651.1600000000001,NA
+"We called it ""Fueling the Soldier.""",651.16,1.771,652.9309999999999,NA
+"You can't just say,
+""Hey, have a salad.""",652.931,2.216,655.147,NA
+We instead say -- (Laugther) --,655.147,3.457,658.604,NA
+you've got to advertise with soldiers,658.604,1.931,660.5350000000001,NA
 "so we said,
-""Hey, we're going to fuel you for maximum performance."" This is what sports teams are doing. This is what NFL, major league baseball they know they've got to eat right",660.535,9.992999999999999,670.528,NA
-"in order to perform at their maximum. Okay, I'm not going to dwell... Within the first year, we saw some unbelievably strong statistics that shows this was working:",670.528,11.492999999999999,682.0210000000001,NA
-"reduction in injuries, we saved about USD 30 million the first year just in treatment of injuries. 30 million in the army. Just on injury prevention",682.021,10.965,692.986,NA
-"And we began to see weight loss and improved... or we reduced
-the number of overweight soldiers we have in the Army. We still have a way to go. We've advanced this ""Fueling the Soldier""",692.986,10.317999999999998,703.304,NA
-"to ""Fueling the Teams"" and in fact we've redirected to the Department of Defense Schools for our young people
-and we're calling it ""Fueling the future.""",703.304,9.72,713.024,NA
+""Hey, we're going to fuel you",660.535,2.065,662.6,NA
+"for maximum performance.""",662.6,1.553,664.153,NA
+This is what sports teams are doing.,664.153,2.899,667.052,NA
+"This is what NFL, major league baseball",667.052,1.934,668.986,sad
+they know they've got to eat right,668.986,1.542,670.528,sad
+in order to perform at their maximum.,670.528,3.134,673.662,NA
+"Okay, I'm not going to dwell...",673.662,1.69,675.3520000000001,NA
+"Within the first year, we saw",675.352,2.379,677.731,NA
+some unbelievably strong statistics,677.731,2.866,680.597,NA
+that shows this was working:,680.597,1.424,682.021,NA
+"reduction in injuries,",682.021,1.599,683.62,NA
+we saved about USD 30 million the first year,683.62,3.061,686.681,NA
+just in treatment of injuries.,686.681,1.665,688.346,NA
+30 million in the army.,688.346,2.572,690.918,NA
+Just on injury prevention,690.918,2.068,692.986,sad
+And we began to see weight loss,692.986,2.34,695.326,NA
+"and improved... or we reduced
+the number of",695.326,3.222,698.548,NA
+overweight soldiers we have in the Army.,698.548,1.656,700.204,NA
+We still have a way to go.,700.204,1.394,701.598,NA
+"We've advanced this ""Fueling the Soldier""",701.598,1.706,703.304,sad
+"to ""Fueling the Teams""",703.304,1.981,705.285,NA
+and in fact we've redirected,705.285,1.318,706.603,NA
+to the Department of Defense Schools,706.603,1.404,708.007,NA
+"for our young people
+and we're calling it",708.007,2.066,710.073,NA
+"""Fueling the future.""",710.073,2.951,713.024,NA
 "So we fixed it!
-Or we're on our way to fix it. What's interesting about this is your Army combined with your Navy,
-your Marine Corps you Air Force and your Coast Guard makes up less than 1%
-of the American population.",713.039,16.827,729.866,NA
-So my concern is: What's going on with the other 99%? And this gets me back to my issue of this being a national security concern. I'm going to show you,729.866,12.999,742.865,NA
-one area and that's just levels of obesity. This was a chart that represents the number of states in the Union that were below 20% obesity rates on average from a child of 14 to 19 years old.,742.865,14.308,757.173,NA
-"This was in 1985. Watch what happens. As you can see in 2009, it's significantly worse. The predictions for 2030",757.173,14.540000000000001,771.713,NA
-"are these: You can see the number of states that have greater than 65% children obese. This is not overweight, this is obese. Now, the related issues",785.423,12.576,797.999,NA
-that I told you the issue with our injury rates and how much we were paying to fix people is significant. We spend estimated the Department of Health and Education,799.276,8.878,808.154,NA
-"both determined that we spend on average today between 
-USD 150 to USD 200 billion per year treating the results of childhood obesity. We're seeing an increase in diabetes. We estimate that we will have",808.154,15.687000000000003,823.841,NA
+Or we're on our way to fix it.",713.039,3.068,716.107,NA
+What's interesting about this,716.107,1.607,717.7139999999999,neutral
+"is your Army combined with your Navy,
+your Marine Corps",717.714,5.073,722.787,NA
+you Air Force and your Coast Guard,722.787,1.623,724.4100000000001,sad
+"makes up less than 1%
+of the American population.",724.41,5.456,729.866,sad
+So my concern is:,729.866,2.187,732.053,NA
+What's going on with the other 99%?,732.053,4.098,736.151,NA
+And this gets me back to my issue of this,736.151,2.365,738.516,sad
+being a national security concern.,738.516,2.651,741.1669999999999,sad
+I'm going to show you,741.167,1.698,742.865,NA
+one area and that's just levels of obesity.,742.865,1.983,744.848,NA
+This was a chart that represents,744.848,2.598,747.4459999999999,neutral
+the number of states in the Union,747.446,1.551,748.9970000000001,fear
+that were below 20% obesity rates,748.997,4.179,753.1759999999999,fear
+on average from a child of 14 to 19 years old.,753.176,3.997,757.173,fear
+This was in 1985.,757.173,2.242,759.415,sad
+Watch what happens.,759.415,2.232,761.6469999999999,sad
+As you can see,775.357,1.737,777.0939999999999,NA
+"in 2009, it's significantly worse.",777.094,4.508,781.6020000000001,NA
+The predictions for 2030,781.602,3.821,785.423,sad
+are these:,785.423,1.761,787.184,NA
+You can see the number of states,788.461,1.702,790.163,NA
+that have greater than 65% children obese.,790.163,4.204,794.367,NA
+"This is not overweight, this is obese.",794.367,3.618,797.985,NA
+"Now, the related issues",797.985,1.291,799.2760000000001,NA
+that I told you the issue with our injury rates,799.276,1.653,800.929,NA
+and how much we were paying to fix people,800.929,2.113,803.042,NA
+is significant.,803.042,1.699,804.741,NA
+We spend estimated,804.741,1.471,806.212,NA
+the Department of Health and Education,806.212,1.942,808.154,NA
+both determined that we spend,808.154,1.992,810.146,NA
+"on average today between 
+USD 150 to USD 200 billion per year",810.146,6.154,816.3,NA
+treating the results of childhood obesity.,816.3,3.902,820.202,NA
+We're seeing an increase in diabetes.,820.202,2.249,822.451,NA
+We estimate that we will have,822.451,1.39,823.841,NA
 "a 40% cardiovascular disease rate
-by the year 2030. This is significant. This is a health care issue. An economic issue. A readiness issue for me because",823.841,12.749999999999998,836.591,NA
-"I've seen my pool of recruits deplete based on this. I can't pull them in in order to fix them. And it's just a competition issue. There's other studies
-that show what obesity",836.591,11.797,848.388,NA
-"and lack of activity do to young people. So I believe this is certainly a national security concern. There are several organizations
-who are attempting to approach this. You may have heard of
-Mayor Bloomberg in New York",848.388,14.725999999999999,863.114,NA
-"who has banned all sugary drinks above 16 oz in schools and public restaurants
-in New York City and he took a lot of heat for that. Nike, Blue Cross Blue Shield and Subway are all using overweight actors in their adds",863.119,15.9,879.019,NA
-"to pattern behavior and perhaps to turn this thing around. Nickelodeon in last year's
-Worldwide Day of Play decided to put their screens black as opposed to showing programming",879.019,11.366,890.385,NA
-"in order to get children outside and play. And of course our First Lady over the last several years has been attempting to do ""Let's Move!"" and the counter obesity measures.",890.385,9.881,900.266,NA
-"This concerns me. This concerns me greatly. Again as I said my name is Hertling,
-I am a soldier. I've been a soldier for 38 years.",900.266,11.091,911.357,NA
-"This is not something the Army can fix. This is not something you can put
-a yellow ribbon on and say, ""Let somebody else take care of it"". This is not something that we can rely on governments",912.326,11.780000000000001,924.106,NA
-or organizations to do. Be fearless in terms of writing your schools. Be fearless in trying to get nutrition back in restaurants. Be fearless in balancing your lives,924.106,10.984,935.09,sad
-and getting out to exercise. Be fearless in modelling your behavior for young people. That will prevent a whole lot of Charlies in the future.,935.09,10.578,945.668,sad
-Thank you very much. (Applause),946.515,3.526,950.0409999999999,NA
+by the year 2030.",823.841,4.362,828.203,NA
+This is significant.,828.203,1.532,829.735,sad
+This is a health care issue.,829.735,3.171,832.9060000000001,sad
+An economic issue.,832.906,1.556,834.462,NA
+A readiness issue for me because,834.462,2.129,836.591,NA
+I've seen my pool of recruits deplete,836.591,2.572,839.163,NA
+based on this.,839.163,1.4,840.563,NA
+I can't pull them in in order to fix them.,840.563,2.603,843.1659999999999,NA
+And it's just a competition issue.,843.166,2.847,846.013,NA
+"There's other studies
+that show what obesity",846.013,2.375,848.388,NA
+and lack of activity do to young people.,848.388,2.969,851.3570000000001,NA
+So I believe this is certainly,851.357,2.975,854.332,sad
+a national security concern.,854.332,2.533,856.865,sad
+"There are several organizations
+who are attempting to approach this.",856.865,3.094,859.9590000000001,NA
+"You may have heard of
+Mayor Bloomberg in New York",859.964,3.155,863.119,NA
+who has banned all sugary drinks,863.119,2.508,865.6270000000001,sad
+"above 16 oz in schools and public restaurants
+in New York City",865.627,4.019,869.646,NA
+and he took a lot of heat for that.,869.646,2.516,872.1619999999999,NA
+"Nike, Blue Cross Blue Shield and Subway",872.162,4.297,876.4590000000001,NA
+are all using overweight actors in their adds,876.459,2.56,879.0189999999999,NA
+to pattern behavior,879.019,2.174,881.193,NA
+and perhaps to turn this thing around.,881.193,2.088,883.281,NA
+"Nickelodeon in last year's
+Worldwide Day of Play",883.281,2.755,886.036,NA
+decided to put their screens black,886.036,2.162,888.198,NA
+as opposed to showing programming,888.198,2.187,890.385,NA
+in order to get children outside and play.,890.385,2.041,892.426,NA
+And of course our First Lady,892.426,1.134,893.5600000000001,NA
+over the last several years,893.56,1.772,895.332,NA
+"has been attempting to do ""Let's Move!""",895.332,2.617,897.949,sad
+and the counter obesity measures.,897.949,2.317,900.266,NA
+This concerns me.,900.266,2.255,902.521,sad
+This concerns me greatly.,902.521,1.643,904.164,sad
+Again as I said,904.164,2.361,906.525,sad
+"my name is Hertling,
+I am a soldier.",906.525,2.441,908.966,NA
+I've been a soldier for 38 years.,909.196,2.391,911.587,sad
+This is not something the Army can fix.,912.326,3.517,915.8430000000001,NA
+"This is not something you can put
+a yellow ribbon on",915.843,2.087,917.93,NA
+"and say, ""Let somebody else take care of it"".",917.93,2.975,920.905,NA
+This is not something,920.905,1.355,922.26,neutral
+that we can rely on governments,922.26,1.846,924.106,neutral
+or organizations to do.,924.106,2.039,926.145,neutral
+Be fearless in terms of writing your schools.,926.145,2.548,928.693,angry
+Be fearless in trying to get nutrition,928.693,2.389,931.082,sad
+back in restaurants.,931.082,1.496,932.578,neutral
+Be fearless in balancing your lives,932.578,2.512,935.0899999999999,sad
+and getting out to exercise.,935.09,1.771,936.861,sad
+Be fearless in modelling your behavior,936.861,2.183,939.044,sad
+for young people.,939.044,2.365,941.409,sad
+That will prevent,942.256,1.473,943.7289999999999,sad
+a whole lot of Charlies in the future.,943.729,2.786,946.515,sad
+Thank you very much.,946.515,1.297,947.812,NA
+(Applause),947.812,2.229,950.041,NA

@@ -1,28 +1,45 @@
 text,start,duration,end,dominant_emotion
 "Have you or a family member been told
-you have prediabetes? Prediabetes means blood sugar is higher than normal, but
-it's not high enough to be type 2 diabetes. Think of prediabetes as a
-traffic light that goes from green to yellow to red. Prediabetes is the yellow
-warning light. It affects both adults and children and prediabetes is on the rise
-in children and in teens. Many people",0.65,31.929000000000002,32.579,sad
+you have prediabetes? Prediabetes means",0.65,6.28,6.930000000000001,fear
+"blood sugar is higher than normal, but
+it's not high enough to be type 2",6.93,4.589,11.519,fear
+"diabetes. Think of prediabetes as a
+traffic light that goes from green to",11.519,7.471,18.990000000000002,sad
+"yellow to red. Prediabetes is the yellow
+warning light. It affects both adults and",18.99,6.75,25.74,sad
+"children and prediabetes is on the rise
+in children and in teens. Many people",25.74,6.839,32.579,sad
 "don't have any symptoms, but having high
-blood sugar increases the risk of developing type 2 diabetes. Over time
-high blood sugar can damage the eyes, the kidneys, the nerves, and other organs. By
-taking action now you can help prevent or delay type 2 diabetes. Here's what you
-can do to help bring blood sugar back to the normal range. First, move more every
-day. When you're active, your muscles use",32.579,32.55,65.12899999999999,sad
+blood sugar increases the risk of",32.579,6.061,38.64,sad
+"developing type 2 diabetes. Over time
+high blood sugar can damage the eyes, the",38.64,7.079,45.719,sad
+"kidneys, the nerves, and other organs. By
+taking action now you can help prevent",45.719,6.331,52.050000000000004,sad
+"or delay type 2 diabetes. Here's what you
+can do to help bring blood sugar back to",52.05,6.419,58.468999999999994,sad
+"the normal range. First, move more every
+day. When you're active, your muscles use",58.469,6.66,65.129,sad
 "the sugar in your blood for energy. How
-can you be more active? Turn off screens and take walks together as a family. Take
-the stairs instead of the elevator. Bike to school or work. What else can you do?
-Swap sugary drinks for water or milk. Sodas, sports drinks, and even juice can
-have as much sugar as a candy bar. That's a lot of sugar to drink. Eating healthy
-is important. Fill half your plate with",65.129,33.03,98.159,sad
+can you be more active? Turn off screens",65.129,5.641,70.77000000000001,sad
+"and take walks together as a family. Take
+the stairs instead of the elevator. Bike",70.77,5.97,76.74,sad
+"to school or work. What else can you do?
+Swap sugary drinks for water or milk.",76.74,7.91,84.64999999999999,sad
+"Sodas, sports drinks, and even juice can
+have as much sugar as a candy bar. That's",84.65,7.84,92.49000000000001,sad
+"a lot of sugar to drink. Eating healthy
+is important. Fill half your plate with",92.49,5.669,98.15899999999999,sad
 "vegetables, have healthy snacks like an
-apple with peanut butter or a handful of nuts. For kids and younger teens the goal
-is to maintain weight or slow down weight gain as they grow. Focus on
-creating healthy habits that will last a lifetime.
-For older teens and adults who are overweight, losing five to seven percent
-of body weight can reduce the risk of",98.159,26.181000000000004,124.34,sad
+apple with peanut butter or a handful of",98.159,5.761,103.92,sad
+"nuts. For kids and younger teens the goal
+is to maintain weight or slow down",103.92,5.4,109.32000000000001,sad
+"weight gain as they grow. Focus on
+creating healthy habits that will last a",109.32,4.979,114.29899999999999,sad
+"lifetime.
+For older teens and adults who are",114.299,4.551,118.85000000000001,sad
+"overweight, losing five to seven percent
+of body weight can reduce the risk of",118.85,5.49,124.33999999999999,sad
 "developing type 2 diabetes by nearly 60%.
-Prediabetes is serious but it's not too late to make healthy changes and turn
-things around.",124.34,17.039,141.37900000000002,sad
+Prediabetes is serious but it's not too",124.34,6.93,131.27,fear
+"late to make healthy changes and turn
+things around.",131.27,10.109,141.37900000000002,sad

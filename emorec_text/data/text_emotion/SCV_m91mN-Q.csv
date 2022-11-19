@@ -1,149 +1,262 @@
 text,start,duration,end,dominant_emotion
 "Got a case study for you - let me tell you
-about Marie. She was a healthy woman in her late 30s. She’d
-always been an active person, but at some point her energy level just seemed limitless. She was walking the dog four times a day.
-Up at five in the morning emailing her co-workers, and at midnight, she was still awake, like
-dusting the ceiling fans.",0.0,15.81,15.81,NA
-"At first she felt great -- she was super productive! But soon she started having trouble sleeping.
-She felt anxious all the time. She lost a lot of weight and noticed that she felt
-hot and sweaty when no one around her did. She started experiencing heart palpitations. Then one day her vision seemed blurry and
-when she looked in the mirror, she was kind",15.82,16.560000000000002,32.38,NA
+about Marie.",0.0,2.6,2.6,fear
+"She was a healthy woman in her late 30s. She’d
+always been an active person, but at some",2.61,3.8,6.41,NA
+point her energy level just seemed limitless.,6.41,2.49,8.9,fear
+"She was walking the dog four times a day.
+Up at five in the morning emailing her co-workers,",8.9,3.519,12.419,fear
+"and at midnight, she was still awake, like
+dusting the ceiling fans.",12.419,3.401,15.82,fear
+At first she felt great -- she was super productive!,15.82,2.52,18.34,fear
+"But soon she started having trouble sleeping.
+She felt anxious all the time. She lost a",18.34,3.509,21.849,fear
+"lot of weight and noticed that she felt
+hot and sweaty when no one around her",21.849,3.42,25.269,fear
+did. She started experiencing heart palpitations.,25.269,2.74,28.009,NA
+"Then one day her vision seemed blurry and
+when she looked in the mirror, she was kind",28.009,4.371,32.38,NA
 "of surprised to find that her eyes were actually
-bulging out of their sockets. So yeah, she finally called a doctor, because,
-you know bulging eyeballs. Marie’s doctor referred her to an endocrinologist,
-who, after running some tests, determined that the root of her problems was in her thyroid
-gland. The thyroid is one of the stars of your endocrine
-system -- it’s the little butterfly-shaped",32.39,18.939,51.329,NA
+bulging out of their sockets.",32.39,3.73,36.12,fear
+"So yeah, she finally called a doctor, because,
+you know bulging eyeballs.",36.12,3.61,39.73,fear
+"Marie’s doctor referred her to an endocrinologist,
+who, after running some tests, determined",39.73,4.43,44.16,NA
+"that the root of her problems was in her thyroid
+gland.",44.16,2.78,46.94,NA
+"The thyroid is one of the stars of your endocrine
+system -- it’s the little butterfly-shaped",46.94,4.389,51.329,NA
 "structure located anterior to your trachea
-and inferior to the larynx, or voicebox. It may look cute and unassuming, but don’t
-be fooled -- the powerful hormones that it produces influence some of your most important
-physiological processes. These hormones, and many others, help maintain
-your chemical homeostasis -- the balance in concentrations of substances like calcium,
-sodium, even water, within very narrow ranges,",51.329,22.571,73.9,NA
+and inferior to the larynx, or voicebox.",51.329,4.921,56.25,fear
+"It may look cute and unassuming, but don’t
+be fooled -- the powerful hormones that it",56.25,3.93,60.18,fear
+"produces influence some of your most important
+physiological processes.",60.18,4.0,64.18,NA
+"These hormones, and many others, help maintain
+your chemical homeostasis -- the balance in",64.18,4.42,68.60000000000001,fear
+"concentrations of substances like calcium,
+sodium, even water, within very narrow ranges,",68.61,5.3,73.91,fear
 "so that your body can provide a consistent
-internal environment for your cells. Your cells and the proteins in them need that
-stable environment to function, so if your body loses its homeostasis too dramatically,
-cellular function will stop, and -- as we say here on Crash Course Anatomy & Physiology
--- you will stop being alive. So your thyroid helps you avoid such a fate,
-by secreting hormones that regulate many aspects",73.91,21.22,95.13,NA
+internal environment for your cells.",73.91,4.28,78.19,fear
+"Your cells and the proteins in them need that
+stable environment to function, so if your",78.19,3.88,82.07,fear
+"body loses its homeostasis too dramatically,
+cellular function will stop, and -- as we",82.07,5.1,87.16999999999999,fear
+"say here on Crash Course Anatomy & Physiology
+-- you will stop being alive.",87.17,3.7,90.87,neutral
+"So your thyroid helps you avoid such a fate,
+by secreting hormones that regulate many aspects",90.87,4.26,95.13000000000001,fear
 "of your body’s homeostasis -- like body
-temperature, skin moisture, and your blood’s levels of oxygen, calcium, and cholesterol. It should come as no surprise that, if the
-thyroid malfunctions, and produces too much or too little of a hormone, it can lead to all
-sorts of weird and serious symptoms. And yet, thyroid disorders -- and the hormonal imbalances
-that accompany them -- are pretty common.",95.13,18.88,114.00999999999999,NA
+temperature, skin moisture, and your blood’s",95.13,4.0,99.13,fear
+"levels of oxygen, calcium, and cholesterol.",99.13,2.19,101.32,NA
+"It should come as no surprise that, if the
+thyroid malfunctions, and produces too much",101.32,4.12,105.44,NA
+"or too little of a hormone, it can lead to all
+sorts of weird and serious symptoms. And yet,",105.45,4.51,109.96000000000001,fear
+"thyroid disorders -- and the hormonal imbalances
+that accompany them -- are pretty common.",109.96,4.06,114.02,fear
 "It’s pretty likely that you know at least one person,
-most likely a woman, who has experienced an issue with a dysfunctional thyroid, and
-many more of us are walking around with thyroid disorders and haven’t even been diagnosed
-yet. In Marie’s case, it turns out that she had
-Graves’ disease -- an immune system disorder that results in the overproduction of thyroid
-hormones, or hyperthyroidism.",114.03,17.67,131.7,NA
+most likely a woman, who has experienced",114.03,3.67,117.7,fear
+"an issue with a dysfunctional thyroid, and
+many more of us are walking around with thyroid",117.7,4.15,121.85000000000001,NA
+"disorders and haven’t even been diagnosed
+yet.",121.85,2.0,123.85,NA
+"In Marie’s case, it turns out that she had
+Graves’ disease -- an immune system disorder",123.85,3.85,127.69999999999999,fear
+"that results in the overproduction of thyroid
+hormones, or hyperthyroidism.",127.7,4.0,131.7,NA
 "Although it’s just one type of hormone disorder,
-looking at her symptoms can help us understand just how important, influential, and interconnected
-hormones are, and why they need to be properly balanced to maintain healthy homeostasis. And I cannot say this enough -- homeostasis
-is life. Last time, we talked about hormone cascades,
-and how a lot of the hormone activity that’s",131.7,18.2,149.89999999999998,NA
+looking at her symptoms can help us understand",131.7,3.88,135.57999999999998,fear
+"just how important, influential, and interconnected
+hormones are, and why they need to be properly",135.59,4.64,140.23,fear
+balanced to maintain healthy homeostasis.,140.23,2.45,142.67999999999998,fear
+"And I cannot say this enough -- homeostasis
+is life.",142.68,3.3,145.98000000000002,fear
+"Last time, we talked about hormone cascades,
+and how a lot of the hormone activity that’s",157.09,3.93,161.02,fear
 "bubbling along inside of you is the result
-of one kind of hormone bossing around the cells that produce another kind of hormone. These pathways typically start with an internal
-stimulus -- often coming from the hypothalamus or pituitary gland -- and end in the target
-glands that release hormones into the blood, to get the real work of living done.",161.02,16.16,177.18,NA
+of one kind of hormone bossing around the",161.02,3.83,164.85000000000002,fear
+cells that produce another kind of hormone.,164.85,2.22,167.07,fear
+"These pathways typically start with an internal
+stimulus -- often coming from the hypothalamus",167.07,4.02,171.09,fear
+"or pituitary gland -- and end in the target
+glands that release hormones into the blood,",171.09,4.56,175.65,NA
+to get the real work of living done.,175.65,1.53,177.18,NA
 "We’ve seen how this kind of cascade controls
-your body’s stress response, through the hypothalamic-pituitary-adrenal axis, or HPA
-axis: Basically, your brain tells your hypothalamus to tell your pituitary to light a fire in
-your adrenal cortex, and in no time they’ve shut down digestion, released a bunch of energy,
-increased your blood pressure, and everything else you need to either fight or flee.",177.18,19.19,196.37,NA
+your body’s stress response, through the",177.18,3.53,180.71,neutral
+"hypothalamic-pituitary-adrenal axis, or HPA
+axis: Basically, your brain tells your hypothalamus",180.71,5.55,186.26000000000002,fear
+"to tell your pituitary to light a fire in
+your adrenal cortex, and in no time they’ve",186.26,3.9,190.16,neutral
+"shut down digestion, released a bunch of energy,
+increased your blood pressure, and everything",190.16,4.62,194.78,neutral
+else you need to either fight or flee.,194.78,1.59,196.37,fear
 "And that’s great! Your HPA axis is super-useful
-when you’re under stress and need to take action. But you do not need your adrenal cortex spouting
-off all the time. The truth is, much of the more basic, and
-more fundamental, business of everyday life is carried about by a different kind of cascade. It’s the hypothalamus-pituitary-thyroid
-axis, or HPT axis. And it’s what sets the",196.37,20.66,217.03,NA
+when you’re under stress and need to take action.",196.37,5.05,201.42000000000002,NA
+"But you do not need your adrenal cortex spouting
+off all the time.",201.42,3.56,204.98,NA
+"The truth is, much of the more basic, and
+more fundamental, business of everyday life",204.99,3.55,208.54000000000002,NA
+is carried about by a different kind of cascade.,208.54,2.31,210.85,NA
+"It’s the hypothalamus-pituitary-thyroid
+axis, or HPT axis. And it’s what sets the",210.85,6.19,217.04,NA
 "thyroid gland into motion, so it can regulate
-just about everything related to your homeostasis. For example, let’s say you’re caught outside
-on a cool day and you’re under-dressed. So let’s say you were on a bus, busily texting
-your bestie, and you got off at a stop while searching for the emoji that most accurately
-depicted your reaction to the new Avengers movie when you realized that you left your
-jacket on the seat.",217.04,19.939999999999998,236.98,NA
+just about everything related to your homeostasis.",217.04,5.0,222.04,NA
+"For example, let’s say you’re caught outside
+on a cool day and you’re under-dressed.",222.04,3.44,225.48,NA
+"So let’s say you were on a bus, busily texting
+your bestie, and you got off at a stop",225.48,4.29,229.76999999999998,NA
+"while searching for the emoji that most accurately
+depicted your reaction to the new Avengers",229.77,3.88,233.65,NA
+"movie when you realized that you left your
+jacket on the seat.",233.65,3.33,236.98000000000002,NA
 "There’s nothing you can do to get your jacket back, but
-your hormones can do something about your coldness. Now, your nervous system of course has its
-own ways of detecting and signaling a change in temperature, but your endocrine system
-gets involved as soon as it senses that the temperature of your blood has changed. Your cooler-than-normal blood flows into your
-brain’s hypothalamus, where it bumps up",236.98,17.91,254.89,NA
+your hormones can do something about your coldness.",236.98,5.0,241.98,NA
+"Now, your nervous system of course has its
+own ways of detecting and signaling a change",241.99,3.53,245.52,fear
+"in temperature, but your endocrine system
+gets involved as soon as it senses that the",245.52,3.77,249.29000000000002,fear
+temperature of your blood has changed.,249.29,1.98,251.26999999999998,fear
+"Your cooler-than-normal blood flows into your
+brain’s hypothalamus, where it bumps up",251.27,3.63,254.9,NA
 "against temperature-sensitive sensory neurons,
-which act like a kind of thermostat. Once they detect that the temperature is
-below target levels, those neurons secrete thyrotropin-releasinghormone, or TRH into the bloodstream. TRH is a tropic hormone, which means that
-it gets the hormone cascade started by triggering the release of other hormones.",254.9,18.09,272.99,NA
+which act like a kind of thermostat.",254.9,4.57,259.47,NA
+"Once they detect that the temperature is
+below target levels, those neurons secrete",259.47,3.76,263.23,NA
+"thyrotropin-releasinghormone, or TRH into the bloodstream.",263.23,3.51,266.74,fear
+"TRH is a tropic hormone, which means that
+it gets the hormone cascade started by triggering",266.74,4.66,271.40000000000003,fear
+the release of other hormones.,271.4,1.59,272.98999999999995,fear
 "The cascade starts off with just a trickle,
-as TRH goes just a few millimeters to the anterior pituitary, where it hits receptors
-on cells there, causing it to release thyroid-stimulating hormone, or TSH, into the bloodstream. That then travels down to the thyroid, finds
-its receptors, and slaps the gland to attention so it releases its own special thyroid hormone
-into the blood, where it can affect virtually",272.99,20.97,293.96000000000004,NA
-"every cell in your body. Like steroids, thyroid hormone is lipid-soluble,
-so it crosses the membrane of its target cell to bind inside the nucleus. There, it can
-make the cell either increase, decrease, or maintain its primary function. In this case, since you’re feeling chilly,
-your body needs to stoke the fire a bit. And",293.97,15.990000000000002,309.96000000000004,NA
-"it does that by burning glucose. In your cells, “burning” glucose really
-means breaking it down so its component parts can be used to produce ATP. Thyroid hormone comes into play when it binds
-to receptors inside the nuclei of your muscle cells, triggering the transcription of DNA that
-makes the enzymes to break down that glucose.",309.96,16.32,326.28,NA
+as TRH goes just a few millimeters to the",272.99,4.48,277.47,fear
+"anterior pituitary, where it hits receptors
+on cells there, causing it to release thyroid-stimulating",277.47,5.38,282.85,fear
+"hormone, or TSH, into the bloodstream.",282.85,2.34,285.19,NA
+"That then travels down to the thyroid, finds
+its receptors, and slaps the gland to attention",285.19,4.49,289.68,NA
+"so it releases its own special thyroid hormone
+into the blood, where it can affect virtually",289.69,4.28,293.96999999999997,neutral
+every cell in your body.,293.97,1.62,295.59000000000003,fear
+"Like steroids, thyroid hormone is lipid-soluble,
+so it crosses the membrane of its target cell",295.59,4.41,300.0,fear
+"to bind inside the nucleus. There, it can
+make the cell either increase, decrease, or",300.0,4.43,304.43,fear
+maintain its primary function.,304.43,1.57,306.0,NA
+"In this case, since you’re feeling chilly,
+your body needs to stoke the fire a bit. And",306.0,3.96,309.96,NA
+it does that by burning glucose.,309.96,1.8,311.76,NA
+"In your cells, “burning” glucose really
+means breaking it down so its component parts",311.76,3.98,315.74,fear
+can be used to produce ATP.,315.74,1.57,317.31,fear
+"Thyroid hormone comes into play when it binds
+to receptors inside the nuclei of your muscle",317.31,4.46,321.77,fear
+"cells, triggering the transcription of DNA that
+makes the enzymes to break down that glucose.",321.77,4.51,326.28,fear
 "With more of these enzymes flowing around,
-more glucose is being broken up, and more ATP is being produced -- which is all a long way
-of describing the process that we call metabolism. But since the thyroid has increased the amount
-of chemical reactions going on, it also increased the amount of waste heat that’s being generated.
-So this process has a calorigenic, or heat producing, effect that helps warm you up.",326.28,20.209,346.489,NA
+more glucose is being broken up, and more",326.28,3.76,330.03999999999996,fear
+"ATP is being produced -- which is all a long way
+of describing the process that we call metabolism.",330.05,5.14,335.19,fear
+"But since the thyroid has increased the amount
+of chemical reactions going on, it also increased",335.19,4.009,339.199,fear
+"the amount of waste heat that’s being generated.
+So this process has a calorigenic, or heat",339.199,5.14,344.339,NA
+"producing, effect that helps warm you up.",344.34,2.16,346.5,NA
 "Now, whether or not you’ve happened to forget
-your jacket on the bus and found yourself shivering on the way to work, your thyroid
-hormone produces all kinds of other effects as well -- like maintaining your blood pressure,
-promoting the growth of tissues, and triggering the secretion of digestive juices to keep food moving
-through your digestive tract, just to name a few. So, thyroid hormone for the win, right? What’s
-not to love?",346.5,20.0,366.5,NA
+your jacket on the bus and found yourself",346.5,3.139,349.639,NA
+"shivering on the way to work, your thyroid
+hormone produces all kinds of other effects",349.639,4.161,353.8,NA
+"as well -- like maintaining your blood pressure,
+promoting the growth of tissues, and triggering",353.8,4.32,358.12,fear
+"the secretion of digestive juices to keep food moving
+through your digestive tract, just to name a few.",358.12,5.12,363.24,fear
+"So, thyroid hormone for the win, right? What’s
+not to love?",363.24,3.26,366.5,fear
 "Well, what’s important about the whole HTP
-axis is not just how it works -- but also how it knows to turn off. Your glands need negative feedback in order
-to know when their job is done, so they can stop secreting certain hormones. That’s where your pituitary and hypothalamus
-come in. Remember: They’re always monitoring",366.5,15.77,382.27,fear
+axis is not just how it works -- but also",366.5,3.8,370.3,fear
+how it knows to turn off.,370.3,2.149,372.449,fear
+"Your glands need negative feedback in order
+to know when their job is done, so they can",372.449,3.551,376.0,fear
+stop secreting certain hormones.,376.0,1.86,377.86,neutral
+"That’s where your pituitary and hypothalamus
+come in. Remember: They’re always monitoring",377.86,4.41,382.27000000000004,fear
 "hormone levels in your blood. If there’s
-too much thyroid hormone, they both decrease their own hormone production, to stop stimulating
-the thyroid. That in turn reduces thyroid hormone levels in the blood, and slows down
-your metabolism again, before you get over-heated. At least, that’s what happens if everything’s
-working the way it should. But there are millions of Maries out there,
-plenty of people -- maybe even including you",382.27,19.108999999999998,401.37899999999996,NA
+too much thyroid hormone, they both decrease",382.27,3.94,386.21,fear
+"their own hormone production, to stop stimulating
+the thyroid. That in turn reduces thyroid",386.21,4.82,391.03,fear
+"hormone levels in the blood, and slows down
+your metabolism again, before you get over-heated.",391.03,3.62,394.65,fear
+"At least, that’s what happens if everything’s
+working the way it should.",394.65,2.31,396.96,NA
+"But there are millions of Maries out there,
+plenty of people -- maybe even including you",396.97,4.419,401.389,fear
 "-- who know full well that hormonal imbalances
--- thyroid-related or otherwise -- happen all the time. Why? Well, thyroid disorders can be caused by
-lots of things, but in the case of our Marie, it’s autoimmune dysfunction. Normally, when you get sick with a virus or
-bacteria or whathaveyou, your immune system responds by sending out antibodies that target
-those invaders.",401.389,18.701,420.09000000000003,fear
+-- thyroid-related or otherwise -- happen all the time.",401.389,5.971,407.36,fear
+"Why? Well, thyroid disorders can be caused by
+lots of things, but in the case of our Marie,",407.36,4.64,412.0,fear
+it’s autoimmune dysfunction.,412.0,1.56,413.56,fear
+"Normally, when you get sick with a virus or
+bacteria or whathaveyou, your immune system",413.56,3.74,417.3,fear
+"responds by sending out antibodies that target
+those invaders.",417.31,2.79,420.1,fear
 "Now, we don’t fully understand why yet,
-but if you have something like Graves’ disease, your body produces abnormal antibodies that
-target the cells of your thyroid gland itself. And instead of marking those cells for destruction
-like antibodies normally do, they do something even more bizarre -- they mimic the hormones
-that the pituitary gland sends out, which bind to the thyroid’s receptors.",420.1,18.819,438.91900000000004,fear
+but if you have something like Graves’ disease,",420.1,3.629,423.72900000000004,neutral
+"your body produces abnormal antibodies that
+target the cells of your thyroid gland itself.",423.729,4.97,428.699,fear
+"And instead of marking those cells for destruction
+like antibodies normally do, they do something",428.699,3.511,432.21000000000004,fear
+"even more bizarre -- they mimic the hormones
+that the pituitary gland sends out, which",432.21,4.97,437.18,fear
+bind to the thyroid’s receptors.,437.18,1.739,438.919,fear
 "So, even though the pituitary dials down its
-hormone production, in an effort to get the thyroid to stop, the thyroid does not get the message,
-because the receptors are still being activated. Basically, the gland never receives any negative
-feedback, so it just won’t quit. And if your thyroid doesn’t stop, it’s
-hard for you to stop. So, that’s why Marie was always hot and
-sweaty. Her hypothalamus was screaming that",438.919,20.810000000000002,459.729,NA
+hormone production, in an effort to get the",438.919,4.011,442.93,fear
+"thyroid to stop, the thyroid does not get the message,
+because the receptors are still being activated.",442.93,5.33,448.26,NA
+"Basically, the gland never receives any negative
+feedback, so it just won’t quit.",448.26,4.48,452.74,fear
+"And if your thyroid doesn’t stop, it’s
+hard for you to stop.",452.74,3.11,455.85,NA
+"So, that’s why Marie was always hot and
+sweaty. Her hypothalamus was screaming that",455.85,3.879,459.72900000000004,neutral
 "she was warm enough, but those antibodies
-were hijacking the hormone cascade. And she was losing weight even though she was eating
-all the time, because the thyroid hormone was no longer regulating her metabolism properly. But what about those big bulging eyes? Remember
-those? That was weird. Well, because they’re part of the immune
-response, those disruptive antibodies often",459.729,16.421,476.15,NA
+were hijacking the hormone cascade. And she",459.729,4.421,464.15,NA
+"was losing weight even though she was eating
+all the time, because the thyroid hormone",464.15,3.5,467.65,NA
+was no longer regulating her metabolism properly.,467.65,2.16,469.81,NA
+"But what about those big bulging eyes? Remember
+those? That was weird.",469.81,3.18,472.99,NA
+"Well, because they’re part of the immune
+response, those disruptive antibodies often",472.99,3.16,476.15000000000003,NA
 "cause inflammation, particularly in the tissues
-around the eyes. In some cases the swelling can be so severe that the eyes are no longer
-able close. Treatment for Graves’ disease involves either
-inhibiting the production of thyroid hormones or blocking their effects -- basically getting
-your body chemistry back in order. The moral of this story is that hormones mean
-business. And by “business” I mean “living.”",476.15,20.39,496.53999999999996,NA
+around the eyes. In some cases the swelling",476.15,4.639,480.789,NA
+"can be so severe that the eyes are no longer
+able close.",480.789,3.72,484.509,NA
+"Treatment for Graves’ disease involves either
+inhibiting the production of thyroid hormones",484.509,3.711,488.22,NA
+"or blocking their effects -- basically getting
+your body chemistry back in order.",488.229,3.92,492.149,NA
+"The moral of this story is that hormones mean
+business. And by “business” I mean “living.”",492.149,4.4,496.549,NA
 "And by “living,” what I really mean is
-- and everybody say it together now - homeostasis. In addition to learning to respect your hormones
-and thanking them for helping you live, hopefully today you learned something today about chemical
-homeostasis, and took away a greater understanding of hormone cascades. Specifically, we looked at the
-hypothalamus-pituitary-thyroid axis, or HPT axis, and all the ways your body can suffer when that
-system, or your hormones in general, get out of whack.",496.549,24.450000000000003,520.999,NA
+- and everybody say it together now - homeostasis.",496.549,5.051,501.59999999999997,NA
+"In addition to learning to respect your hormones
+and thanking them for helping you live, hopefully",501.6,4.64,506.24,NA
+"today you learned something today about chemical
+homeostasis, and took away a greater understanding",506.24,4.03,510.27,NA
+"of hormone cascades. Specifically, we looked at the
+hypothalamus-pituitary-thyroid axis, or HPT axis,",510.27,6.05,516.3199999999999,NA
+"and all the ways your body can suffer when that
+system, or your hormones in general, get out of whack.",516.32,4.679,520.999,NA
 "Thank you to our Headmaster of Learning Thomas
-Frank, and to all of our Patreon patrons who help make Crash Course possible through their monthly
-contributions. If you like Crash Course and want to help us make it available for free for everyone, you can go to
-patreon.com/crashcourse. Crash Course is filmed in the Doctor Cheryl
-C. Kinney Crash Course Studio. This episode was written by Kathleen Yale, edited by Blake
-de Pastino, and our consultant is Dr. Brandon",520.999,22.129,543.128,NA
+Frank, and to all of our Patreon patrons who help make",520.999,4.42,525.419,NA
+"Crash Course possible through their monthly
+contributions. If you like Crash Course and want to help",525.42,4.3,529.7199999999999,NA
+"us make it available for free for everyone, you can go to
+patreon.com/crashcourse.",529.72,5.099,534.8190000000001,NA
+"Crash Course is filmed in the Doctor Cheryl
+C. Kinney Crash Course Studio. This episode",534.819,3.76,538.579,NA
+"was written by Kathleen Yale, edited by Blake
+de Pastino, and our consultant is Dr. Brandon",538.579,4.55,543.1289999999999,NA
 "Jackson. It was directed by Nicholas Jenkins,
-the editor is Nicole Sweeney, our sound designer is Michael Aranda, and the graphics team is
-Thought Café.",543.129,7.180000000000001,550.309,NA
+the editor is Nicole Sweeney, our sound designer",543.129,4.44,547.5690000000001,NA
+"is Michael Aranda, and the graphics team is
+Thought Café.",547.569,2.74,550.309,NA

@@ -1,56 +1,101 @@
 text,start,duration,end,dominant_emotion
 "The major histocompatibility complex (MHC)
-is a set of cell surface proteins essential for the acquired immune system 
-to recognize foreign molecules in vertebrates, which in turn determines histocompatibility. The main function of MHC molecules is 
-to bind to peptide fragments derived from pathogens and display them on the cell surface
-for recognition by the appropriate T-cells.",10.61,52.17999999999999,62.78999999999999,angry
+is a set of cell surface proteins essential",10.61,6.33,16.939999999999998,sad
+"for the acquired immune system 
+to recognize foreign molecules in vertebrates,",16.94,18.36,35.3,surprise
+which in turn determines histocompatibility.,35.3,7.47,42.769999999999996,neutral
+"The main function of MHC molecules is 
+to bind to peptide fragments derived from",42.77,13.11,55.88,sad
+"pathogens and display them on the cell surface
+for recognition by the appropriate T-cells.",55.88,6.91,62.790000000000006,fear
 "MHC molecules mediate interactions of leukocytes,
-also called white blood cells (WBCs), which are immune cells, with other leukocytes or
-with body cells. The MHC determines compatibility of donors
-for organ transplant, as well as one's susceptibility to an autoimmune disease via crossreacting
-immunization. In humans, the MHC is also called 
-the human leukocyte antigen (HLA).",62.79,52.230000000000004,115.02000000000001,angry
+also called white blood cells (WBCs), which",62.79,5.66,68.45,neutral
+"are immune cells, with other leukocytes or
+with body cells.",68.45,8.04,76.49000000000001,sad
+"The MHC determines compatibility of donors
+for organ transplant, as well as one's susceptibility",76.49,11.48,87.97,sad
+"to an autoimmune disease via crossreacting
+immunization.",87.97,1.73,89.7,neutral
+"In humans, the MHC is also called 
+the human leukocyte antigen (HLA).",89.7,25.32,115.02000000000001,sad
 "In a cell, protein molecules of the host's
-own phenotype or of other biologic entities are continually synthesized and degraded. Each MHC molecule on the cell surface displays
-a molecular fraction of a protein, called an epitope.The presented antigen can be eitherself
-or non-self, thus preventing an organism's immune system targeting its own cells.",115.02,39.52,154.54,angry
+own phenotype or of other biologic entities",115.02,8.38,123.39999999999999,sad
+are continually synthesized and degraded.,123.4,6.73,130.13,neutral
+"Each MHC molecule on the cell surface displays
+a molecular fraction of a protein, called",130.13,14.64,144.76999999999998,sad
+"an epitope.The presented antigen can be eitherself
+or non-self, thus preventing an organism's",144.77,5.689,150.459,neutral
+immune system targeting its own cells.,150.459,4.081,154.54,happy
 "In its entirety, the MHC population is like
-a meter indicating the balance of proteins within the cell. The MHC gene family is divided into three
-subgroups: class I, class II, and class III. Class I MHC molecules have �2 subunits so
-can only be recognised by CD8 co-receptors. Class II MHC molecules have no �2 subunits
-so can be recognised by CD4 co-receptors.",154.54,34.76,189.29999999999998,angry
+a meter indicating the balance of proteins",154.54,9.18,163.72,fear
+within the cell.,163.72,4.25,167.97,neutral
+"The MHC gene family is divided into three
+subgroups: class I, class II, and class III.",167.97,5.2,173.17,neutral
+"Class I MHC molecules have �2 subunits so
+can only be recognised by CD8 co-receptors.",173.17,3.72,176.89,surprise
+"Class II MHC molecules have no �2 subunits
+so can be recognised by CD4 co-receptors.",176.89,12.41,189.29999999999998,neutral
 "In this way MHC molecules chaperone which
-type of lymphocytes may bind to the given antigen with high affinity, since different
-lymphocytes express different TCR co-receptors. Diversity of antigen presentation, mediated
-by MHC classes I and II, is attained in at least three ways: an organism's MHC repertoire
-is polygenic (via multiple, interacting genes); MHC expression is codominant (from both sets
-of inherited alleles); MHC gene variants are",189.3,39.95,229.25,angry
+type of lymphocytes may bind to the given",189.3,13.23,202.53,neutral
+"antigen with high affinity, since different
+lymphocytes express different TCR co-receptors.",202.53,6.65,209.18,neutral
+"Diversity of antigen presentation, mediated
+by MHC classes I and II, is attained in at",209.18,7.69,216.87,neutral
+"least three ways: an organism's MHC repertoire
+is polygenic (via multiple, interacting genes);",216.87,6.31,223.18,neutral
+"MHC expression is codominant (from both sets
+of inherited alleles); MHC gene variants are",223.18,6.07,229.25,neutral
 "highly polymorphic (diversely varying from
-organism to organism within a species).[3] Major histocompatibility complex and sexual
-selection has been observed in male mice making mate choices of females with different MHCs
-and thus demonstrating sexual selection. Also, at least for MHC I presentation, there
-has been evidence of antigenic peptide splicing which can combine peptides from different
-proteins, vastly increasing antigen diversity.",229.25,47.72,276.97,angry
+organism to organism within a species).[3]",229.25,3.69,232.94,neutral
+"Major histocompatibility complex and sexual
+selection has been observed in male mice making",232.94,4.85,237.79,NA
+"mate choices of females with different MHCs
+and thus demonstrating sexual selection.",237.79,5.12,242.91,neutral
+"Also, at least for MHC I presentation, there
+has been evidence of antigenic peptide splicing",242.91,17.52,260.43,neutral
+"which can combine peptides from different
+proteins, vastly increasing antigen diversity.",260.43,16.54,276.97,neutral
 "MHC is the tissue-antigen that allows the
-immune system (more specifically T cells) to bind to, recognize, and tolerate itself
-(autorecognition). MHC is  also the chaperone for intracellular peptides
-that are complexed with MHCs and presented to TCRs as potential foreign antigens.",276.97,79.39,356.36,angry
+immune system (more specifically T cells)",276.97,26.14,303.11,neutral
+"to bind to, recognize, and tolerate itself
+(autorecognition).",303.11,10.039,313.149,neutral
+MHC is ,313.149,13.61,326.759,neutral
+"also the chaperone for intracellular peptides
+that are complexed with MHCs and presented",326.759,10.671,337.43,neutral
+to TCRs as potential foreign antigens.,337.43,18.93,356.36,neutral
 "MHC interacts with TCR and its co-receptors
-to optimize binding conditions for the TCR-antigen interaction, in terms of antigen binding affinity
-and specificity, and signal transduction effectiveness. Essentially, the MHC-peptide complex is a
-complex of autoantigen/alloantigen. Upon binding, T cells should in principle
-tolerate the auto-antigen, while activate when exposed to the allo-antigen.",356.36,40.529,396.889,angry
+to optimize binding conditions for the TCR-antigen",356.36,19.609,375.969,neutral
+"interaction, in terms of antigen binding affinity
+and specificity, and signal transduction effectiveness.",375.969,8.16,384.129,neutral
+"Essentially, the MHC-peptide complex is a
+complex of autoantigen/alloantigen.",384.129,5.01,389.139,fear
+"Upon binding, T cells should in principle
+tolerate the auto-antigen, while activate",389.139,5.28,394.419,neutral
+when exposed to the allo-antigen.,394.419,2.47,396.889,NA
 "Disease states occur when this principle is
-disrupted. Antigen presentation: MHC molecules bind to
-both T cell receptor and CD4/CD8 co-receptors on T lymphocytes, and the antigen epitope
-held in the peptide-binding groove of the MHC molecule interacts with the variable Ig-Like
-domain of the TCR to trigger T-cell activation Autoimmune reaction: Having some MHC molecules
-increases the risk ",396.889,79.83,476.719,angry
-"of autoimmune diseases more than having others. HLA-B27 is an example. It is unclear how exactly having the HLA-B27
-tissue type increases the risk of ankylosing spondylitis and other associated inflammatory
-diseases, but mechanisms involving aberrant antigen presentation or T ",476.719,209.93,686.649,angry
-"cell activation have been hypothesized. Tissue allorecognition: MHC molecules in complex
-with  peptide epitopes are essentially ligands for
-TCR. T cells become activated by  binding ",686.649,273.48,960.129,angry
+disrupted.",396.889,5.661,402.55,neutral
+"Antigen presentation: MHC molecules bind to
+both T cell receptor and CD4/CD8 co-receptors",402.55,14.679,417.229,neutral
+"on T lymphocytes, and the antigen epitope
+held in the peptide-binding groove of the",417.229,28.25,445.479,neutral
+"MHC molecule interacts with the variable Ig-Like
+domain of the TCR to trigger T-cell activation",445.479,9.58,455.05899999999997,neutral
+"Autoimmune reaction: Having some MHC molecules
+increases the risk ",455.059,21.66,476.71900000000005,neutral
+of autoimmune diseases more than having others.,476.719,15.74,492.459,neutral
+HLA-B27 is an example.,492.459,9.45,501.909,neutral
+"It is unclear how exactly having the HLA-B27
+tissue type increases the risk of ankylosing",501.909,21.31,523.2189999999999,neutral
+"spondylitis and other associated inflammatory
+diseases, but mechanisms involving aberrant",523.219,145.651,668.8700000000001,neutral
+antigen presentation or T ,668.87,17.779,686.649,neutral
+cell activation have been hypothesized.,686.649,19.62,706.269,neutral
+"Tissue allorecognition: MHC molecules in complex
+with ",706.269,65.25,771.519,neutral
+"peptide epitopes are essentially ligands for
+TCR.",771.519,74.38,845.899,neutral
+T cells become activated by ,845.899,54.461,900.36,neutral
+binding ,900.36,59.769,960.129,neutral
 "to the peptide-binding grooves of any MHC
-molecule that T cells were not entrained  to recognize during thymus positive selection.",960.129,258.741,1218.87,angry
+molecule that T cells were not entrained ",960.129,171.67,1131.799,neutral
+to recognize during thymus positive selection.,1131.799,87.071,1218.87,neutral

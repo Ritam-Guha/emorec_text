@@ -1,81 +1,183 @@
 text,start,duration,end,dominant_emotion
-"Hey, guys. In this video we're going to talk about low
-potassium. Why? Because potassium is probably the number one
-deficiency with most people, but it's the hardest to detect.",1.73,10.899999999999999,12.629999999999999,sad
+"Hey, guys.",1.73,1.0,2.73,happy
+"In this video we're going to talk about low
+potassium.",2.73,2.49,5.220000000000001,surprise
+Why?,5.22,1.32,6.54,surprise
+"Because potassium is probably the number one
+deficiency with most people, but it's the",6.54,5.05,11.59,surprise
+hardest to detect.,11.59,1.04,12.629999999999999,happy
 "Because when you take a blood test, most of
-the potassium, 98% of your potassium is inside the cell, not outside the cell. So when they do a blood test, it's not going
-to show up unless it's really, really, really extreme. The type of testing you would have to do would
-be an intracellular test.",12.63,17.52,30.15,sad
-"It's very sophisticated. People don't really ask for it, doctors probably
-don't even know about it, but there is a test that you can do. But I like to go by symptoms. Here are some of the symptoms of low potassium.",30.15,10.209,40.358999999999995,NA
-"And by the way, this is not Vitamin K. This is a chemical symbol of potassium. It's a K+. When you're low potassium, the blood pressure
-will increase. Why?",40.359,11.29,51.649,sad
-Because potassium is a physiological relaxer. It's a tranquilizer. It calms things down. Muscle cramps. Because potassium is an electrolyte.,51.649,9.921,61.57,sad
-"Sugar cravings. Why? Because potassium helps you store sugar, and
-it will actually help you get rid of sugar cravings, because the storage of glucose needs
-potassium. Constipation.",61.57,15.669999999999998,77.24,NA
-"Yeah. That's another symptom of low potassium. And then, high insulin. There's a relationship between sugar, blood
-sugars, diabetes and potassium. In fact, when you have enough potassium, the
-need for insulin goes down.",77.24,16.509999999999998,93.75,NA
+the potassium, 98% of your potassium is inside",12.63,6.739,19.369,surprise
+"the cell, not outside the cell.",19.369,1.771,21.14,surprise
+"So when they do a blood test, it's not going
+to show up unless it's really, really, really",21.14,4.42,25.560000000000002,sad
+extreme.,25.56,1.27,26.83,surprise
+"The type of testing you would have to do would
+be an intracellular test.",26.83,3.32,30.15,surprise
+It's very sophisticated.,30.15,1.549,31.698999999999998,neutral
+"People don't really ask for it, doctors probably
+don't even know about it, but there is a test",31.699,3.981,35.68,NA
+that you can do.,35.68,1.0,36.68,NA
+But I like to go by symptoms.,36.68,1.44,38.12,NA
+Here are some of the symptoms of low potassium.,38.12,2.239,40.358999999999995,NA
+"And by the way, this is not Vitamin K.",40.359,2.831,43.190000000000005,NA
+This is a chemical symbol of potassium.,43.19,2.58,45.769999999999996,NA
+It's a K+.,45.77,1.289,47.059000000000005,NA
+"When you're low potassium, the blood pressure
+will increase.",47.059,3.59,50.649,NA
+Why?,50.649,1.0,51.649,NA
+Because potassium is a physiological relaxer.,51.649,1.951,53.6,NA
+It's a tranquilizer.,53.6,1.27,54.870000000000005,NA
+It calms things down.,54.87,2.83,57.699999999999996,NA
+Muscle cramps.,57.7,1.39,59.09,NA
+Because potassium is an electrolyte.,59.09,2.48,61.57,NA
+Sugar cravings.,61.57,1.0,62.57,NA
+Why?,62.57,1.0,63.57,fear
+"Because potassium helps you store sugar, and
+it will actually help you get rid of sugar",63.57,5.26,68.83,NA
+"cravings, because the storage of glucose needs
+potassium.",68.83,7.12,75.95,NA
+Constipation.,75.95,1.29,77.24000000000001,NA
+Yeah.,77.24,1.3,78.53999999999999,NA
+That's another symptom of low potassium.,78.54,2.7,81.24000000000001,NA
+"And then, high insulin.",81.24,2.53,83.77,NA
+"There's a relationship between sugar, blood
+sugars, diabetes and potassium.",83.77,5.05,88.82,NA
+"In fact, when you have enough potassium, the
+need for insulin goes down.",88.82,4.93,93.75,NA
 "So I always recommend potassium for diabetic
-clients. This is another one. Muscle weakness. You could have this unexplainable muscle weakness
-and not know why. Why?",93.75,11.2,104.95,sad
+clients.",93.75,5.44,99.19,NA
+This is another one.,99.19,1.0,100.19,NA
+Muscle weakness.,100.19,1.0,101.19,NA
+"You could have this unexplainable muscle weakness
+and not know why.",101.19,2.76,103.95,NA
+Why?,103.95,1.0,104.95,NA
 "Because the electrolytes are needed to help
-the muscles contract. And that's why you have abnormal heartbeat. Because the heart is a muscle. Same thing with this muscle. Same thing with that muscles.",104.95,12.82,117.77000000000001,sad
+the muscles contract.",104.95,4.66,109.61,NA
+And that's why you have abnormal heartbeat.,109.61,2.35,111.96,NA
+Because the heart is a muscle.,111.96,2.28,114.24,NA
+Same thing with this muscle.,114.24,1.3,115.53999999999999,NA
+Same thing with that muscles.,115.54,2.23,117.77000000000001,NA
 "These abnormal heartbeats, for example, like
-atrial fibrillation, arrhythmias, that's a combination of a deficiency of potassium and/or
-magnesium. Anxiety. And sleeping problems, because potassium is
-something to calm you down. If you're doing something that doesn't involve
-a lot of � Like, some diet that doesn't",117.77,24.079,141.849,sad
+atrial fibrillation, arrhythmias, that's a",117.77,7.9,125.67,NA
+"combination of a deficiency of potassium and/or
+magnesium.",125.67,5.229,130.899,NA
+Anxiety.,130.899,1.641,132.54,NA
+"And sleeping problems, because potassium is
+something to calm you down.",132.54,4.699,137.239,NA
+"If you're doing something that doesn't involve
+a lot of � Like, some diet that doesn't",137.239,4.61,141.84900000000002,NA
 "involve enough potassium, you can start manifesting
-a lot of these symptoms. Now, let's just go into what causes low potassium. Well, if you are sick and you vomit or, let's
-say, you're a bulimic, that can cause that. Or maybe you're just not eating enough in
-your diet. Now, you might say, ""Well, I eat bananas.""",141.849,20.2,162.04899999999998,NA
-"Right? Well, bananas only have 300 mg. You need 4,700 mg per day to hit your regular
-amount that you need. You would have to consume 12 bananas, 11 bananas. We don't want all that sugar.",162.049,22.481,184.53,sad
+a lot of these symptoms.",141.849,4.67,146.51899999999998,NA
+"Now, let's just go into what causes low potassium.",146.519,3.991,150.51000000000002,NA
+"Well, if you are sick and you vomit or, let's
+say, you're a bulimic, that can cause that.",150.51,6.52,157.03,NA
+"Or maybe you're just not eating enough in
+your diet.",157.03,2.45,159.48,fear
+"Now, you might say, ""Well, I eat bananas.""",159.48,2.569,162.04899999999998,NA
+Right?,162.049,1.0,163.049,fear
+"Well, bananas only have 300 mg.",163.049,5.39,168.439,NA
+"You need 4,700 mg per day to hit your regular
+amount that you need.",168.439,9.511,177.95,NA
+"You would have to consume 12 bananas, 11 bananas.",177.95,3.759,181.70899999999997,NA
+We don't want all that sugar.,181.709,2.821,184.53,NA
 "So what we want to do is we want to consume
-our potassium from vegetables, from salad. And you're going to need about seven to 10
-cups. If you watch my other videos, I talk about
-that. It's not that hard. You just have a couple big salads.",184.53,13.01,197.54,sad
+our potassium from vegetables, from salad.",184.53,5.769,190.299,NA
+"And you're going to need about seven to 10
+cups.",190.299,2.58,192.87900000000002,surprise
+"If you watch my other videos, I talk about
+that.",192.879,2.351,195.23,NA
+It's not that hard.,195.23,1.099,196.32899999999998,NA
+You just have a couple big salads.,196.329,1.211,197.54000000000002,fear
 "If you don't like salad, take kale, maybe
-a little bit of berry, blend it with water, and drink your salad. That'll get the potassium in there. So we want to start to increase that. And that's how we increase it from the diet.",197.54,12.559000000000001,210.099,sad
-"You're going to feel a lot better, too. Because if you're doing like an Atkins diet,
-high protein, you're going to definitely need potassium. You're going to start feeling weakness, because
-you don't have enough potassium. Ketosis is the state of fat-burning when you're
-eating more fat, no carbs, and you can become",210.099,21.371000000000002,231.47,sad
-"deficient in potassium from that, too. That's why they always modify the ketosis
-diet, and I make sure that we have enough greens and vegetables to help balance that. Also, potassium is necessary for the digestion
-and breakdown and buildup of protein. People that are losing their hair, for example,
-and they're eating just protein thinking that",231.47,26.479999999999997,257.95,sad
+a little bit of berry, blend it with water,",197.54,5.24,202.78,NA
+and drink your salad.,202.78,2.51,205.29,NA
+That'll get the potassium in there.,205.29,1.41,206.7,NA
+So we want to start to increase that.,206.7,1.81,208.51,NA
+And that's how we increase it from the diet.,208.51,1.589,210.099,NA
+"You're going to feel a lot better, too.",210.099,1.791,211.89,NA
+"Because if you're doing like an Atkins diet,
+high protein, you're going to definitely need",211.89,5.019,216.909,NA
+potassium.,216.909,1.0,217.909,NA
+"You're going to start feeling weakness, because
+you don't have enough potassium.",217.909,7.06,224.969,NA
+"Ketosis is the state of fat-burning when you're
+eating more fat, no carbs, and you can become",224.969,6.501,231.47,NA
+"deficient in potassium from that, too.",231.47,2.919,234.389,surprise
+"That's why they always modify the ketosis
+diet, and I make sure that we have enough",234.389,3.85,238.239,surprise
+greens and vegetables to help balance that.,238.239,4.12,242.359,NA
+"Also, potassium is necessary for the digestion
+and breakdown and buildup of protein.",242.359,11.11,253.469,NA
+"People that are losing their hair, for example,
+and they're eating just protein thinking that",253.469,4.481,257.95,NA
 "they're going to get their hair back, without
-potassium, sorry, it doesn't work. So we've got diuretics. Say, you're out of blood pressure medication. Well, you're going to deplete your potassium
-and keep the blood pressure there. Interesting.",257.95,13.209999999999999,271.15999999999997,sad
-"That's the diuretic. That's one of the side effects. So you better make sure that your diuretic
-is not pulling out potassium and you're not putting it back in. High cortisol.",271.16,12.03,283.19,sad
-"That's stress. Stress can also deplete potassium. In fact, I've had people do advanced testing
-on their potassium levels, and they are eating a tremendous amount of potassium, but because
-they're under a tremendous amount of stress, their potassium stays low.",283.19,21.009999999999998,304.2,sad
+potassium, sorry, it doesn't work.",257.95,4.33,262.28,NA
+So we've got diuretics.,262.28,1.09,263.36999999999995,NA
+"Say, you're out of blood pressure medication.",263.37,2.36,265.73,NA
+"Well, you're going to deplete your potassium
+and keep the blood pressure there.",265.73,4.43,270.16,NA
+Interesting.,270.16,1.0,271.16,NA
+That's the diuretic.,271.16,2.82,273.98,NA
+That's one of the side effects.,273.98,1.32,275.3,NA
+"So you better make sure that your diuretic
+is not pulling out potassium and you're not",275.3,5.36,280.66,NA
+putting it back in.,280.66,1.53,282.19,NA
+High cortisol.,282.19,1.0,283.19,NA
+That's stress.,283.19,2.25,285.44,NA
+Stress can also deplete potassium.,285.44,2.4,287.84,NA
+"In fact, I've had people do advanced testing
+on their potassium levels, and they are eating",287.84,8.09,295.92999999999995,NA
+"a tremendous amount of potassium, but because
+they're under a tremendous amount of stress,",295.93,5.3,301.23,NA
+their potassium stays low.,301.23,2.97,304.20000000000005,NA
 "Because with the adrenal, it's almost like
-you have a hole in the bucket and the potassium goes right through. Again, when you're under stress, you need
-even more potassium. Anyway, this potassium is really important. I forgot one.",304.2,14.649999999999999,318.84999999999997,sad
+you have a hole in the bucket and the potassium",304.2,3.35,307.55,NA
+goes right through.,307.55,1.98,309.53000000000003,happy
+"Again, when you're under stress, you need
+even more potassium.",309.53,4.76,314.28999999999996,NA
+"Anyway, this potassium is really important.",314.29,3.03,317.32,NA
+I forgot one.,317.32,1.53,318.84999999999997,NA
 "It's also high insulin will cause a low potassium,
-and that's sugar. So let's just add that to the list. Consuming sugar will deplete your potassium. And you can even feel it in your heartbeat. It starts to go boom, boom, boom, boom, fast.",318.85,16.03,334.88,NA
+and that's sugar.",318.85,6.02,324.87,NA
+So let's just add that to the list.,324.87,2.37,327.24,NA
+Consuming sugar will deplete your potassium.,327.24,2.55,329.79,NA
+And you can even feel it in your heartbeat.,329.79,1.8,331.59000000000003,NA
+"It starts to go boom, boom, boom, boom, fast.",331.59,3.29,334.88,NA
 "A strong heartbeat, you can hear it in your
-inner ear. That is a sign of low potassium because you
-just ate a lot of sugar, and you need to start consuming more salad to put that back. Last one is drinking too much water. This goes against what everyone says, that
-you have to drink when you're � By the time",334.88,19.32,354.2,NA
+inner ear.",334.88,3.51,338.39,NA
+"That is a sign of low potassium because you
+just ate a lot of sugar, and you need to start",338.39,4.35,342.74,NA
+consuming more salad to put that back.,342.74,3.82,346.56,NA
+Last one is drinking too much water.,346.56,3.72,350.28000000000003,NA
+"This goes against what everyone says, that
+you have to drink when you're � By the time",350.28,3.92,354.2,NA
 "you drink, it's too late, because you don't
-know when you're thirsty and � That's just a myth. When you drink too much water, you create
-a condition called hyponatremia, which is a dilution of all your electrolytes, and then
-your heart starts going out of balance and you can have a heart attack by drinking too
-much water.",354.2,17.93,372.13,NA
+know when you're thirsty and � That's just",354.2,3.76,357.96,NA
+a myth.,357.96,1.0,358.96,NA
+"When you drink too much water, you create
+a condition called hyponatremia, which is",358.96,5.54,364.5,NA
+"a dilution of all your electrolytes, and then
+your heart starts going out of balance and",364.5,5.27,369.77,NA
+"you can have a heart attack by drinking too
+much water.",369.77,2.36,372.13,NA
 "So you want to drink when you're thirsty so
-you don't flush out all your electrolytes. Because you're drinking water, but you're
-peeing out electrolytes. You're not putting in electrolytes. I like to hydrate my water with lemon, a little
-bit of apple cider vinegar, maybe a little Stevia if it's carbonated.",372.13,15.27,387.4,NA
+you don't flush out all your electrolytes.",372.13,4.96,377.09,NA
+"Because you're drinking water, but you're
+peeing out electrolytes.",377.09,2.46,379.54999999999995,NA
+You're not putting in electrolytes.,379.55,1.7,381.25,NA
+"I like to hydrate my water with lemon, a little
+bit of apple cider vinegar, maybe a little",381.25,4.85,386.1,NA
+Stevia if it's carbonated.,386.1,1.3,387.40000000000003,NA
 "I drink Pellegrino a lot or I drink filtered
-water. I just want to kind of give you an overall
-on this very common deficiency that people have and the symptoms so you can start thinking
-with it. And if you start having any of these, then
-you know it could be connected with that, and then you know the cause of that.",387.4,19.590000000000003,406.99,NA
-Okay? I hope that helped. I will see you in the next video.,406.99,2.18,409.17,NA
+water.",387.4,4.27,391.66999999999996,NA
+"I just want to kind of give you an overall
+on this very common deficiency that people",391.67,5.16,396.83000000000004,NA
+"have and the symptoms so you can start thinking
+with it.",396.83,3.12,399.95,NA
+"And if you start having any of these, then
+you know it could be connected with that,",399.95,4.33,404.28,NA
+and then you know the cause of that.,404.28,2.71,406.98999999999995,NA
+Okay?,406.99,1.0,407.99,NA
+I hope that helped.,407.99,1.0,408.99,NA
+I will see you in the next video.,408.99,0.18,409.17,NA

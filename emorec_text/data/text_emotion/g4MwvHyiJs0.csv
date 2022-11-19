@@ -1,58 +1,95 @@
 text,start,duration,end,dominant_emotion
 "so today i'm going to talk about the huge problem 
-with the glycemic index it gives you some data   and so if you're only relying on the glycemic 
-index you're going to set yourself up for a lot   of failure because it only tells you a small part 
-of the big picture so the glycemic index covers   a range of foods on a scale that rates a food's 
-ability to raise your blood glucose so on the   glycemic index a food less than 55 would be 
-considered low and so this is based on using 50  ",0.24,33.6,33.84,angry
+with the glycemic index it gives you some data  ",0.24,6.4,6.640000000000001,fear
+"and so if you're only relying on the glycemic 
+index you're going to set yourself up for a lot  ",6.64,5.04,11.68,fear
+"of failure because it only tells you a small part 
+of the big picture so the glycemic index covers  ",11.68,7.92,19.6,sad
+"a range of foods on a scale that rates a food's 
+ability to raise your blood glucose so on the  ",19.6,7.04,26.64,fear
+"glycemic index a food less than 55 would be 
+considered low and so this is based on using 50  ",26.64,7.2,33.84,fear
 "grams of absorbable carbs so you're minusing the 
-fiber even though that's a carb it doesn't have an   effect on insulin a twix candy bar is considered 
-low on the glycemic index pizza hut supreme pie is   considered low on the glycemic index betty 
-crocker chocolate cake is considered low   and a hundred percent stone ground whole wheat 
-bread is considered low so right off the bat   the glycemic index is not based on real world 
-serving size consumption all right the next point  ",33.84,38.160000000000004,72.0,sad
+fiber even though that's a carb it doesn't have an  ",33.84,8.32,42.160000000000004,fear
+"effect on insulin a twix candy bar is considered 
+low on the glycemic index pizza hut supreme pie is  ",42.16,11.04,53.199999999999996,NA
+"considered low on the glycemic index betty 
+crocker chocolate cake is considered low  ",53.2,5.12,58.32,NA
+"and a hundred percent stone ground whole wheat 
+bread is considered low so right off the bat  ",58.88,6.4,65.28,NA
+"the glycemic index is not based on real world 
+serving size consumption all right the next point  ",65.28,7.28,72.56,NA
 "people never eat just one food on the scale for 
-example are you just going to eat a piece of bread   no you're going to put something on 
-it like peanut butter and jelly right   or some meat and cheese number three when you're 
-combining protein or fat with a sugar or something   that turns into sugar pretty quickly you create 
-something called advanced glycated end products   which is a type of protein that ends up not 
-being used in the body but it clogs everything up  ",73.2,33.92,107.12,NA
+example are you just going to eat a piece of bread  ",73.2,8.0,81.2,NA
+"no you're going to put something on 
+it like peanut butter and jelly right  ",81.2,4.24,85.44,fear
+"or some meat and cheese number three when you're 
+combining protein or fat with a sugar or something  ",85.44,8.16,93.6,NA
+"that turns into sugar pretty quickly you create 
+something called advanced glycated end products  ",93.6,7.12,100.72,fear
+"which is a type of protein that ends up not 
+being used in the body but it clogs everything up  ",100.72,6.4,107.12,NA
 "it destroys your vascular system it destroys 
-your vision your circulation your neurons in   your brain so this is just one additional negative 
-effect of glucose when it's combined with protein   or fat all right number four low glycemic 
-fructose is worse than glucose so on the scale   at 100 which is considered high you have glucose 
-and then when we get into the lower part we have   a type of sugar called fructose which is only 
-19 which is very low on the glycemic index and  ",107.12,37.599999999999994,144.72,NA
+your vision your circulation your neurons in  ",107.12,9.28,116.4,NA
+"your brain so this is just one additional negative 
+effect of glucose when it's combined with protein  ",116.4,8.24,124.64,NA
+"or fat all right number four low glycemic 
+fructose is worse than glucose so on the scale  ",125.36,8.24,133.6,NA
+"at 100 which is considered high you have glucose 
+and then when we get into the lower part we have  ",134.72,5.36,140.08,NA
+"a type of sugar called fructose which is only 
+19 which is very low on the glycemic index and  ",140.08,6.48,146.56,NA
 "then if we combine fructose with glucose we get 
-sucrose and that's why it's about right here but   here's the big problem the receptors in your body 
-for glucose are pretty much all over the body the   receptors for fructose are only in your liver so 
-when you consume fructose you're creating a lot   of damage to the liver because you're not able to 
-spread out this sugar evenly throughout the body   it's more concentrated right to the liver 
-and so the liver has to deal with it  ",146.56,35.04,181.6,NA
+sucrose and that's why it's about right here but  ",146.56,7.12,153.68,NA
+"here's the big problem the receptors in your body 
+for glucose are pretty much all over the body the  ",153.68,8.56,162.24,NA
+"receptors for fructose are only in your liver so 
+when you consume fructose you're creating a lot  ",162.24,7.44,169.68,NA
+"of damage to the liver because you're not able to 
+spread out this sugar evenly throughout the body  ",169.68,8.24,177.92000000000002,NA
+"it's more concentrated right to the liver 
+and so the liver has to deal with it  ",178.48,3.68,182.16,NA
 "it gets overloaded and that's when you start 
-creating inflammation additional toxic waste   a lot of free radical damage and you create more 
-insulin resistance which then leads to diabetes   so fructose is actually a lot worse than glucose 
-and quite a few other sugars have a combination   of fructose and glucose like for example agava 
-nectar has a much larger percentage of fructose   than glucose even though fructose is low in the 
-glycemic index it actually is going to create a  ",182.16,34.08,216.24,NA
+creating inflammation additional toxic waste  ",182.16,7.6,189.76,NA
+"a lot of free radical damage and you create more 
+insulin resistance which then leads to diabetes  ",189.76,5.76,195.51999999999998,NA
+"so fructose is actually a lot worse than glucose 
+and quite a few other sugars have a combination  ",196.4,5.44,201.84,NA
+"of fructose and glucose like for example agava 
+nectar has a much larger percentage of fructose  ",201.84,8.88,210.72,NA
+"than glucose even though fructose is low in the 
+glycemic index it actually is going to create a  ",210.72,6.4,217.12,NA
 "lot more damage relating to your blood sugars than 
-if you were to consume glucose and just as a side   note no one consumes straight glucose by itself 
-and it's pretty bizarre if you were to get a   glucose tolerance test and check your blood sugar 
-by going to the doctor they may give you a glucose   drink and then check your blood sugars after you 
-do that to determine how you react to glucose but   in real life you're never consuming straight 
-glucose it's always a combination of things  ",217.12,31.200000000000003,248.32,NA
+if you were to consume glucose and just as a side  ",217.12,6.48,223.6,NA
+"note no one consumes straight glucose by itself 
+and it's pretty bizarre if you were to get a  ",223.6,5.04,228.64,NA
+"glucose tolerance test and check your blood sugar 
+by going to the doctor they may give you a glucose  ",228.64,7.28,235.92,NA
+"drink and then check your blood sugars after you 
+do that to determine how you react to glucose but  ",235.92,6.16,242.07999999999998,NA
+"in real life you're never consuming straight 
+glucose it's always a combination of things  ",242.72,6.24,248.96,NA
 "and number five the glycemic index ignores the 
-glycemic load the glycemic load is a much better   measurement because it's looking at 
-the glycemic index plus the amount of   carbohydrates and so you're going to get a more 
-accurate measurement of what's happening inside   the last thing i want to mention is this thing 
-called the insulin index the insulin index which i   wrote about in my book is all the non-carbohydrate 
-foods that have effect on insulin this  ",248.96,31.6,280.56,NA
+glycemic load the glycemic load is a much better  ",248.96,7.12,256.08,NA
+"measurement because it's looking at 
+the glycemic index plus the amount of  ",256.08,4.88,260.96,NA
+"carbohydrates and so you're going to get a more 
+accurate measurement of what's happening inside  ",260.96,5.36,266.32,NA
+"the last thing i want to mention is this thing 
+called the insulin index the insulin index which i  ",267.6,5.84,273.44,NA
+"wrote about in my book is all the non-carbohydrate 
+foods that have effect on insulin this  ",273.44,8.4,281.84,NA
 "is way better than the glycemic index because it 
-looks at fat and it also looks at protein and just   as an fyi the less fat that's in a protein the 
-higher things are on the insulin index and this   is why whey protein which is virtually free of fat 
-it's very very concentrated protein is one of the   highest things on the glycemic index and so if you 
-knew about that you would always consume protein   with more fat you don't want to cook a burger for 
-example that's lean protein you'd want to have the  ",282.48,35.6,318.08000000000004,NA
+looks at fat and it also looks at protein and just  ",282.48,9.36,291.84000000000003,NA
+"as an fyi the less fat that's in a protein the 
+higher things are on the insulin index and this  ",291.84,7.2,299.03999999999996,NA
+"is why whey protein which is virtually free of fat 
+it's very very concentrated protein is one of the  ",299.04,6.08,305.12,NA
+"highest things on the glycemic index and so if you 
+knew about that you would always consume protein  ",305.12,7.76,312.88,NA
+"with more fat you don't want to cook a burger for 
+example that's lean protein you'd want to have the  ",312.88,5.2,318.08,NA
 "fattiest meat that you could find if you wanted 
-to keep your insulin as low as possible and just   to give you more information about the glycemic 
-load i put the video up right here check it out",318.08,15.2,333.28,NA
+to keep your insulin as low as possible and just  ",318.08,5.12,323.2,NA
+"to give you more information about the glycemic 
+load i put the video up right here check it out",323.2,10.08,333.28,NA

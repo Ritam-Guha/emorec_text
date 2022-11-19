@@ -1,141 +1,279 @@
 text,start,duration,end,dominant_emotion
 "Just incase any of you did not know,
-I do caption all of my videos. All you have to do is press that caption button
-which is just below, it’s the little CC box. They’re all captioned so if you need it,
-it’s there. [Intro Music]",0.26,14.86,15.12,angry
+I do caption all of my videos.",0.26,4.07,4.33,sad
+"All you have to do is press that caption button
+which is just below,",4.33,3.75,8.08,sad
+it’s the little CC box.,8.08,1.59,9.67,sad
+"They’re all captioned so if you need it,
+it’s there.",9.67,3.35,13.02,sad
+[Intro Music],13.02,2.1,15.12,NA
 "Well hello everyone and welcome back to my
-channel, or if you are new,
-hello welcome to my channel, my name is Sophie. Gastroparesis is a *BEEP* lets be honest. And there sadly isn’t ‘safe’ options
-when it comes to food. There are safe-er options but these still
-come with consequences…",15.12,21.198999999999998,36.318999999999996,angry
-"at least for me anyway. I recently saw a nutritionist or dietician,
-is there a difference between the two? I don’t know. But she actually made quite a lot of sense
-in what she said. Now in my many years of Gastroparesis,
-I have certainly been through my fair share",36.319,19.66,55.979,neutral
+channel,",15.12,2.66,17.78,sad
+"or if you are new,
+hello welcome to my channel, my name is Sophie.",17.78,3.88,21.66,sad
+Gastroparesis is a *BEEP* lets be honest.,21.66,3.84,25.5,sad
+"And there sadly isn’t ‘safe’ options
+when it comes to food.",25.5,5.49,30.990000000000002,sad
+"There are safe-er options but these still
+come with consequences…",30.99,5.329,36.318999999999996,sad
+at least for me anyway.,36.319,2.571,38.89,sad
+"I recently saw a nutritionist or dietician,
+is there a difference between the two?",38.89,7.28,46.17,sad
+I don’t know.,46.17,2.399,48.569,sad
+"But she actually made quite a lot of sense
+in what she said.",48.569,3.34,51.909000000000006,sad
+"Now in my many years of Gastroparesis,
+I have certainly been through my fair share",51.909,4.07,55.979,sad
 "of nutritionists and they’ve basically told
-me what foods to avoid, and that i can’t ear anything besides water
-pretty much. This lady actually told me what I CAN eat
-to try and reduce those symptoms. It’s not a cure and it’s still going to
-come with some consequences, but it tries to reduce the symptoms whilst
-giving you a balanced diet",55.979,22.191,78.17,angry
+me what foods to avoid,",55.979,3.82,59.799,sad
+"and that i can’t ear anything besides water
+pretty much.",59.799,3.79,63.589,sad
+"This lady actually told me what I CAN eat
+to try and reduce those symptoms.",63.589,5.401,68.99,sad
+"It’s not a cure and it’s still going to
+come with some consequences,",68.99,3.72,72.71,sad
+"but it tries to reduce the symptoms whilst
+giving you a balanced diet",72.71,5.46,78.16999999999999,sad
 "which is what I have really really struggled
-with over the years. And whilst there are foods that do take longer
-to digest and therefore give more symptoms, it is all about having things in moderation. Another interesting thing that I learnt from
-her was that different foods actually digest differently
-when eaten together than when eaten alone.",78.17,23.57,101.74000000000001,angry
-"Puuuuuffff…. Mind Blown. Let me give you an example;
-Bananas. I do love me a good banana,
-however bananas do have a lot of fibre in. And whilst this is good for your body,
-fibre is harder to break down,",101.74,13.600000000000001,115.34,angry
-"especially with Gastroparesis. So when you eat them alone,
-they take longer to digest and therefore can give more pain,
-more nausea, and even lead to constipation. However,
-if you add some almonds,",115.34,12.26,127.60000000000001,angry
+with over the years.",78.17,3.4,81.57000000000001,sad
+"And whilst there are foods that do take longer
+to digest and therefore give more symptoms,",81.57,5.85,87.41999999999999,sad
+it is all about having things in moderation.,87.42,3.6,91.02,sad
+"Another interesting thing that I learnt from
+her was that different foods actually digest",91.02,4.39,95.41,sad
+"differently
+when eaten together than when eaten alone.",95.41,6.33,101.74,sad
+Puuuuuffff….,101.74,1.06,102.8,sad
+Mind Blown.,102.8,1.0,103.8,sad
+"Let me give you an example;
+Bananas.",103.8,2.49,106.28999999999999,sad
+"I do love me a good banana,
+however bananas do have a lot of fibre in.",106.29,4.74,111.03,sad
+"And whilst this is good for your body,
+fibre is harder to break down,",111.03,4.31,115.34,sad
+especially with Gastroparesis.,115.34,2.05,117.39,sad
+"So when you eat them alone,
+they take longer to digest and therefore can",117.39,3.71,121.1,sad
+"give more pain,
+more nausea,",121.1,2.059,123.15899999999999,sad
+and even lead to constipation.,123.159,2.261,125.42,sad
+"However,
+if you add some almonds,",125.42,2.18,127.60000000000001,sad
 "*pronounces differently* almonds…
-al-monds… almonds…
-into the mix, the two combined digest completely differently
-and are then actually really good for you. Almonds can actually help aid digestion. Bet you didn’t know that one.",127.6,18.32,145.92,angry
+al-monds…",127.6,2.42,130.01999999999998,sad
+"almonds…
+into the mix,",130.02,2.32,132.34,sad
+"the two combined digest completely differently
+and are then actually really good for you.",132.34,7.759,140.099,sad
+Almonds can actually help aid digestion.,140.099,3.441,143.54,sad
+Bet you didn’t know that one.,143.54,2.38,145.92,sad
 "A lot of nutritionist have told me to avoid
-fresh fruits where possible because of the sugars in them,
-and they take longer to digest in terms of breaking down that sugar. And because of our stomach they sit there
-for longer and they can rot and they can even lead to stomach infections.",145.92,16.78,162.7,angry
+fresh fruits where possible",145.92,4.21,150.13,sad
+"because of the sugars in them,
+and they take longer to digest in terms of",150.13,5.02,155.15,sad
+breaking down that sugar.,155.15,2.0,157.15,sad
+"And because of our stomach they sit there
+for longer and they can rot and they can even",157.15,3.819,160.969,sad
+lead to stomach infections.,160.969,1.731,162.7,sad
 "And trust me,
-I’ve been there. It ain’t pleasant. It hurts. And it stinks because it gives you really
-really .. really..
-bad wind.",162.7,10.459,173.159,neutral
+I’ve been there.",162.7,3.299,165.999,sad
+It ain’t pleasant.,165.999,1.311,167.31,sad
+It hurts.,167.31,1.079,168.389,sad
+"And it stinks because it gives you really
+really ..",168.389,2.311,170.70000000000002,sad
+"really..
+bad wind.",170.7,2.459,173.159,sad
 "That it makes people in the car wanna clear
-out because it smells so bad. Sorry mum and dad. But…
-if you add a hard boiled egg with that fresh fruit.. BAMMMM….",173.159,11.16,184.319,angry
-"different story all together. Something to do with the protein in the egg…
-and the fruit…. I’m not a scientist,
-I’m not a nutritionist, I don’t know the in depth reasoning for
-these things. And I know that when you look up online it
-does tell you certain things,",184.319,18.009999999999998,202.32899999999998,neutral
+out because it smells so bad.",173.159,3.86,177.019,sad
+Sorry mum and dad.,177.019,1.461,178.48000000000002,sad
+"But…
+if you add a hard boiled egg with that fresh",178.48,3.239,181.719,sad
+fruit..,181.719,1.3,183.019,NA
+BAMMMM….,183.019,1.3,184.31900000000002,sad
+different story all together.,184.319,1.03,185.349,sad
+"Something to do with the protein in the egg…
+and the fruit….",185.349,4.911,190.26,sad
+"I’m not a scientist,
+I’m not a nutritionist,",190.26,2.209,192.469,surprise
+"I don’t know the in depth reasoning for
+these things.",192.469,4.181,196.65,sad
+"And I know that when you look up online it
+does tell you certain things,",196.65,5.679,202.329,sad
 "some of the things on there will vary for
-people with Gastroparesis because of the rate our body digests at anyway. But,
-it is definitely worth asking your nutritionist. And obviously,
-everybody is different. every person reacts to things differently.",202.329,16.101,218.43,angry
-"I used to have ‘safe’ options not I don’t. Maybe someone still does. BUT…
-even if it helps just a little bit, every little helps. Asda Price (claps twice).",218.43,10.5,228.93,angry
-"Yeah that was sad… And if you don’t live in the UK,
-you probably have no idea what I’m talking about. But who remembers that advert? Or is it still on?",228.93,7.959,236.889,angry
-"I don’t really watch TV anymore. Now there are still things that are better
-to avoid just because they don’t digest very well. I was told to avoid peanuts still and rather
-stick to tree nuts like almonds, cashews, walnuts,
-because they can actually help aid digestion",236.889,17.86,254.74900000000002,angry
-"and that’s obviously a good thing. Cuz that then means less symptoms.. We hope. And things like fresh fruit or raw vegetables. Obviously if you can blend it,
-great.",254.749,10.770999999999999,265.52,angry
+people with Gastroparesis because of the rate",202.329,3.94,206.269,sad
+our body digests at anyway.,206.269,1.95,208.219,sad
+"But,
+it is definitely worth asking your nutritionist.",208.219,4.261,212.48,sad
+"And obviously,
+everybody is different.",212.48,2.569,215.04899999999998,sad
+every person reacts to things differently.,215.049,3.381,218.43,sad
+I used to have ‘safe’ options not I don’t.,218.43,2.52,220.95000000000002,sad
+Maybe someone still does.,220.95,1.42,222.36999999999998,sad
+"BUT…
+even if it helps just a little bit,",222.37,3.739,226.109,sad
+every little helps.,226.109,1.061,227.17000000000002,sad
+Asda Price (claps twice).,227.17,1.76,228.92999999999998,sad
+Yeah that was sad…,228.93,1.759,230.689,neutral
+"And if you don’t live in the UK,
+you probably have no idea what I’m talking",230.689,3.2,233.88899999999998,sad
+about.,233.889,1.0,234.889,neutral
+But who remembers that advert?,234.889,1.0,235.889,sad
+Or is it still on?,235.889,1.0,236.889,sad
+I don’t really watch TV anymore.,236.889,1.43,238.31900000000002,sad
+"Now there are still things that are better
+to avoid just because they don’t digest",238.319,5.89,244.20899999999997,sad
+very well.,244.209,1.0,245.209,sad
+"I was told to avoid peanuts still and rather
+stick to tree nuts like almonds, cashews,",245.209,5.771,250.98,sad
+"walnuts,
+because they can actually help aid digestion",250.98,3.769,254.749,sad
+and that’s obviously a good thing.,254.749,2.791,257.54,sad
+Cuz that then means less symptoms..,257.54,2.19,259.73,sad
+We hope.,259.73,1.0,260.73,sad
+And things like fresh fruit or raw vegetables.,260.73,3.09,263.82,neutral
+"Obviously if you can blend it,
+great.",263.82,1.7,265.52,sad
 "You’ve done half the work for your stomach
-and then your stomach should then have absolutely no excuse,
-however, it still does what it wants anyway. But if you don’t want it blended and you
-want it, cook it.",265.52,10.73,276.25,neutral
-"It’s going to digest quicker. Now the one thing that I have always been
-told by my mum, by my doctors,
-by my Gastroparesis specialist, by like literally everyone,
-is that you should have small meals little and often.",276.25,14.840000000000002,291.09,neutral
-"Everyone is actually supposed to do this. You’re supposed to have 6 smaller meals
-rather than 3 larger meals. But i mean…
-ain’t nobody got time for that so everyone does it the wrong way basically. And there’s two reasons for…
-particularly in Gastroparesis why you should",291.09,15.71,306.79999999999995,neutral
-"do this. The first one is,
-If you give you stomach a huge meal to digest it basically goes..
-ajkhfsajfdfvihs.. What do I do with food..
-i can’t even speak because my body is just like…
-big meal….",306.8,12.17,318.97,angry
-"NOOOO…. Basically it just makes your stomach go into
-complete like.. OMG How do i digest this all. And it just spasms. And the second reason for this is because
-by eating little bits of food regularly,",318.97,14.919999999999998,333.89000000000004,angry
+and then your stomach should then have absolutely",265.52,3.37,268.89,sad
+"no excuse,
+however,",268.89,1.65,270.53999999999996,sad
+it still does what it wants anyway.,270.54,1.79,272.33000000000004,sad
+"But if you don’t want it blended and you
+want it,",272.33,2.92,275.25,sad
+cook it.,275.25,1.0,276.25,sad
+It’s going to digest quicker.,276.25,1.26,277.51,sad
+"Now the one thing that I have always been
+told by my mum,",277.51,3.99,281.5,sad
+"by my doctors,
+by my Gastroparesis specialist,",281.5,3.25,284.75,sad
+"by like literally everyone,
+is that you should have small meals little",284.75,5.12,289.87,sad
+and often.,289.87,1.22,291.09000000000003,sad
+Everyone is actually supposed to do this.,291.09,1.44,292.53,sad
+"You’re supposed to have 6 smaller meals
+rather than 3 larger meals.",292.53,4.02,296.54999999999995,sad
+"But i mean…
+ain’t nobody got time for that so everyone",296.55,3.73,300.28000000000003,sad
+does it the wrong way basically.,300.28,1.39,301.66999999999996,fear
+"And there’s two reasons for…
+particularly in Gastroparesis why you should",301.67,5.13,306.8,sad
+do this.,306.8,1.0,307.8,sad
+"The first one is,
+If you give you stomach a huge meal to digest",307.8,3.68,311.48,sad
+"it basically goes..
+ajkhfsajfdfvihs..",311.48,1.0,312.48,sad
+"What do I do with food..
+i can’t even speak because my body is just",312.48,4.21,316.69,sad
+"like…
+big meal….",316.69,2.28,318.96999999999997,sad
+NOOOO….,318.97,1.0,319.97,sad
+"Basically it just makes your stomach go into
+complete like..",319.97,3.52,323.49,sad
+OMG How do i digest this all.,323.49,2.95,326.44,sad
+And it just spasms.,326.44,1.41,327.85,sad
+"And the second reason for this is because
+by eating little bits of food regularly,",327.85,6.04,333.89000000000004,sad
 "it actually helps to speed up your metabolism
-because it encourages digestion. So,
-little and often is the key for anyone in life but particularly if you have Gastroparesis. And that one,
-you will see a difference. Because the more you eat,
-the more pain you’re going to be in,",333.89,17.37,351.26,angry
-"or the more you’re going to throw up. Or the more likely you are to throw up. Yes,
-Gastroparesis has a mind of its own, and some days it will just do it even at the
-smell of food. But you can try and help encourage it,
-and if you’re encouraging your body maybe",351.26,14.93,366.19,neutral
+because it encourages digestion.",333.89,6.8,340.69,sad
+"So,
+little and often is the key for anyone in",340.69,2.99,343.68,sad
+life but particularly if you have Gastroparesis.,343.68,2.3,345.98,NA
+"And that one,
+you will see a difference.",345.98,3.01,348.99,sad
+"Because the more you eat,
+the more pain you’re going to be in,",348.99,2.27,351.26,sad
+or the more you’re going to throw up.,351.26,1.23,352.49,neutral
+Or the more likely you are to throw up.,352.49,2.43,354.92,NA
+"Yes,
+Gastroparesis has a mind of its own,",354.92,2.641,357.56100000000004,neutral
+"and some days it will just do it even at the
+smell of food.",357.561,3.679,361.23999999999995,sad
+"But you can try and help encourage it,
+and if you’re encouraging your body maybe",361.24,4.95,366.19,sad
 "over time,
-I’m hoping, my body will be like,
-oh, i’m gonna,
-I’m gonna do what that’s telling me to do. And it might actually do the normal human
-thing.",366.19,8.43,374.62,NA
-"I can hope. For me personally,
-I don’t have any Gluten just because that when I do have gluten I do get very bloated. which in turn causes more pain. So i do tend to stick to a gluten free diet.",374.62,13.42,388.04,neutral
-"I also don’t have dairy very much. Like a bit of chocolate or a bit of cheese
-is ok. because i wouldn’t go and have a glass of
-milk, a yoghurt, ice cream, that sort of thing because it just makes me
-feel really sick and unwell. And that is because gluten and dairy are actually
-very hard for the stomach to digest.",388.04,18.15,406.19,neutral
+I’m hoping,",366.19,1.07,367.26,sad
+"my body will be like,
+oh,",367.26,1.44,368.7,sad
+"i’m gonna,
+I’m gonna do what that’s telling me to",368.7,2.51,371.21,sad
+do.,371.21,1.0,372.21,sad
+"And it might actually do the normal human
+thing.",372.21,2.41,374.62,sad
+I can hope.,374.62,1.23,375.85,sad
+"For me personally,
+I don’t have any Gluten just because that",375.85,3.8,379.65000000000003,neutral
+when I do have gluten I do get very bloated.,379.65,2.79,382.44,sad
+which in turn causes more pain.,382.44,2.46,384.9,sad
+So i do tend to stick to a gluten free diet.,384.9,3.14,388.03999999999996,sad
+I also don’t have dairy very much.,388.04,3.03,391.07,sad
+"Like a bit of chocolate or a bit of cheese
+is ok.",391.07,2.21,393.28,sad
+"because i wouldn’t go and have a glass of
+milk, a yoghurt, ice cream,",393.28,2.96,396.23999999999995,sad
+"that sort of thing because it just makes me
+feel really sick and unwell.",396.24,4.9,401.14,sad
+"And that is because gluten and dairy are actually
+very hard for the stomach to digest.",401.14,5.05,406.19,sad
 "In small amounts,
-yes for some people. I am gluten intolerant so for me personally,
-I can tolerate like a little bit in a sauce or something,
-but give me a sandwich or pasta, me and my body ain’t gonna be very happy
-basically. I also find red meats are harder to digest.",406.19,18.880000000000003,425.07,angry
+yes for some people.",406.19,3.13,409.32,sad
+"I am gluten intolerant so for me personally,
+I can tolerate like a little bit in a sauce",409.32,5.71,415.03,sad
+"or something,
+but give me a sandwich or pasta,",415.03,5.3,420.33,sad
+"me and my body ain’t gonna be very happy
+basically.",420.33,1.96,422.28999999999996,sad
+I also find red meats are harder to digest.,422.29,2.78,425.07,sad
 "And that is because they are fattier and they
-do just take longer for the body to digest, so i get more pain,
-so i tend to avoid it for the most part. I tend to stick to chicken, turkey, tuna,
-salmon. They are all very good for your body. They are easy to digest.",425.07,17.049999999999997,442.12,angry
+do just take longer for the body to digest,",425.07,4.46,429.53,sad
+"so i get more pain,
+so i tend to avoid it for the most part.",429.53,4.501,434.03099999999995,sad
+"I tend to stick to chicken, turkey, tuna,
+salmon.",434.031,5.059,439.09000000000003,sad
+They are all very good for your body.,439.09,1.78,440.86999999999995,sad
+They are easy to digest.,440.87,1.25,442.12,sad
 "And they have oils and fats and proteins that
-your body needs which is always really handy. Those for me are the ‘easiest’ on my stomach. Most the time… Sometimes…
-well… occasionally whenever my body feels like being
-nice to me.",442.12,16.740000000000002,458.86,neutral
-"So that is all for this video. I hope you found it helpful. There is no cure for Gastroparesis. There isn’t any particular food that isn’t
-going to cause some sort of symptom. But it is just about controlling it in the
-best way that you can and trying to keep it",458.86,16.51,475.37,angry
-"under control. We all have bad days..
-we all have good days… everyone’s different but this is what helps
-me personally, and so I thought i would share it with you
-guys incase you are really struggling or you are new to Gastroparesis.",475.37,13.009,488.379,angry
+your body needs which is always really handy.",442.12,6.24,448.36,sad
+Those for me are the ‘easiest’ on my stomach.,448.36,4.09,452.45,sad
+Most the time…,452.45,1.75,454.2,sad
+"Sometimes…
+well…",454.2,1.17,455.37,fear
+"occasionally whenever my body feels like being
+nice to me.",455.37,3.49,458.86,sad
+So that is all for this video.,458.86,1.79,460.65000000000003,sad
+I hope you found it helpful.,460.65,1.21,461.85999999999996,sad
+There is no cure for Gastroparesis.,461.86,2.12,463.98,sad
+"There isn’t any particular food that isn’t
+going to cause some sort of symptom.",463.98,4.94,468.92,sad
+"But it is just about controlling it in the
+best way that you can and trying to keep it",468.92,6.45,475.37,sad
+under control.,475.37,1.0,476.37,fear
+"We all have bad days..
+we all have good days…",476.37,2.47,478.84000000000003,sad
+"everyone’s different but this is what helps
+me personally,",478.84,4.12,482.96,sad
+"and so I thought i would share it with you
+guys incase you are really struggling or you",482.96,4.0,486.96,neutral
+are new to Gastroparesis.,486.96,1.419,488.37899999999996,fear
 "So if you did like this video or you found
-it helpful in any way at all, be sure to give it a big thumbs up so that
-I know. And if you’re not already,
-I would love for you to click that subscribe button,
-so that we can learn more together, share experiences,
-raise awareness",488.379,16.351,504.73,angry
-"and just have fun really. I will leave all the links to my social media
-and my last video in the description box below. So go over,
-say hi. Let’s hang out. Have some fun.",504.73,9.39,514.12,happy
+it helpful in any way at all,",488.379,3.961,492.34000000000003,sad
+"be sure to give it a big thumbs up so that
+I know.",492.34,3.78,496.11999999999995,neutral
+"And if you’re not already,
+I would love for you to click that subscribe",496.12,4.71,500.83,sad
+"button,
+so that we can learn more together,",500.83,2.15,502.97999999999996,sad
+"share experiences,
+raise awareness",502.98,1.75,504.73,sad
+and just have fun really.,504.73,1.3,506.03000000000003,sad
+"I will leave all the links to my social media
+and my last video in the description box below.",506.03,4.55,510.58,sad
+"So go over,
+say hi.",510.58,1.54,512.12,fear
+Let’s hang out.,512.12,1.0,513.12,sad
+Have some fun.,513.12,1.0,514.12,sad
 "And until next time
-Keep Watching Stay Strong
-And Stay Safe
-Bye Guys",514.12,3.169,517.289,happy
+Keep Watching",514.12,1.56,515.68,fear
+"Stay Strong
+And",515.68,1.0,516.68,fear
+"Stay Safe
+Bye Guys",516.68,0.609,517.289,fear

@@ -1,19 +1,90 @@
 text,start,duration,end,dominant_emotion
-hello my name is Karen Davies and I work for diabetes nurse specialist I also deliver training for the NHS health check program which is a cardiovascular disease prevention service in this short,4.94,27.488,32.428,angry
-video I'd like to give you some information on the hba1c test and how it can be used in health plans H P stands for hemoglobin hemoglobin is a protein molecule on the red blood cell we know,19.439,43.951,63.39,angry
-that the lifespan of the red blood cell is approximately 120 days we also know that glucose or sugar attaches itself to the red blood cell so the higher the blood glucose level the more glucose,41.37,31.709,73.079,angry
-that attaches itself to the red blood cell the hemoglobin alpha 1 C therefore as a test that averages out the blood sugar level over the last two to three months,57.329,25.27,82.599,angry
-along with the fasting plasma glucose the hba1c can be used as a diagnostic tool of diabetes it's also used to measure ongoing control with somebody who has diabetes one advantage against,73.92,34.3,108.22,angry
-the fasting plasma glucose is that the person doesn't have to fast to have the test we also know from research trials there is an evidence base in terms of reducing the hba1c and to improve,91.21,37.281,128.49099999999999,angry
-outcome some of you may be used to hba1c being expressed as a percentage result however since 2009 the UK are adopting the IFC SI International Federation of clinical chemistry unit of measurement,106.75,41.189,147.939,angry
-the millimoles per month [Music] the normal hba1c result is a reading below 41 millimoles per month a person would be classed as high risk of,130.329,33.28,163.609,angry
-diabetes if their result was between 42 and 47 millimoles per low this is classed as pre-diabetes or non-diabetic hyperglycemia a current nice guidance so adults with type 1 and,146.829,38.58,185.409,angry
-type 2 diabetes Advisors that we target a hba1c of 48 millimoles per mole however it's really important to individualize targets for the person in front of you especially if they're at,165.67,32.04,197.70999999999998,sad
-risk of hypoglycemic episodes on low blood sugars and they have no hypo wins [Music] the hba1c if it's not in target range might be tested three to six monthly,182.29,28.399,210.689,sad
-otherwise it might be at six monthly two-year interval [Music] there have been two large-scale clinical trials the DCCT and the UKPDS,200.15,31.148,231.298,angry
-but both have proven that by reducing your hba1c by eleven millimoles per mole you can reduce the risk of micro vascular complications by 25% a person can reduce the hba1c by making positive,216.86,46.559999999999995,263.42,sad
-lifestyle changes these might be maintaining a healthy weight or increasing up physical activity a high body weight or large waist measurement can increase your risk of developing,240.26,27.839000000000002,268.099,NA
-type 2 diabetes to maintain a healthy weight refer to the will guide this encourages you to eat at least 5 portions of fruits and vegetables every day with a higher,253.519,29.790999999999997,283.31,NA
-focus on vegetable increasing fiber and whole grain foods while reducing saturated fats can also help you to maintain a healthy weight current physical activity guidance advises 150,268.22,32.09,300.31000000000006,NA
-"minutes of moderate ly intense activity this is when your breathing rate and body temperature increases we are all advised to fit less and to move more ideally achieving 10,000 steps in a day",285.38,30.549,315.929,NA
-any patient with results greater than 40 to millimoles per mole should be referred on to their GP for further information visit diabetes or Guk,299.9,25.781,325.681,NA
+hello my name is Karen Davies and I work,4.94,6.819,11.759,neutral
+for diabetes nurse specialist I also,8.46,5.099,13.559000000000001,neutral
+deliver training for the NHS health,11.759,4.201,15.96,neutral
+check program which is a cardiovascular,13.559,5.88,19.439,neutral
+disease prevention service in this short,15.96,5.489,21.449,neutral
+video I'd like to give you some,19.439,5.67,25.109,neutral
+information on the hba1c test and how it,21.449,12.691,34.14,neutral
+can be used in health plans H P stands,25.109,12.36,37.469,sad
+for hemoglobin hemoglobin is a protein,34.14,7.23,41.370000000000005,neutral
+molecule on the red blood cell we know,37.469,6.0,43.469,neutral
+that the lifespan of the red blood cell,41.37,6.66,48.03,sad
+is approximately 120 days we also know,43.469,7.951,51.42,sad
+that glucose or sugar attaches itself to,48.03,6.509,54.539,sad
+the red blood cell so the higher the,51.42,5.909,57.329,sad
+blood glucose level the more glucose,54.539,4.68,59.219,sad
+that attaches itself to the red blood,57.329,5.761,63.09,neutral
+cell the hemoglobin alpha 1 C therefore,59.219,6.51,65.729,neutral
+as a test that averages out the blood,63.09,5.459,68.549,surprise
+sugar level over the last two to three,65.729,5.18,70.90899999999999,sad
+months,68.549,2.36,70.909,sad
+along with the fasting plasma glucose,73.92,6.22,80.14,neutral
+the hba1c can be used as a diagnostic,76.719,8.07,84.78899999999999,neutral
+tool of diabetes it's also used to,80.14,7.589,87.729,sad
+measure ongoing control with somebody,84.789,6.421,91.21000000000001,neutral
+who has diabetes one advantage against,87.729,6.0,93.729,neutral
+the fasting plasma glucose is that the,91.21,4.979,96.189,neutral
+person doesn't have to fast to have the,93.729,6.631,100.36,neutral
+test we also know from research trials,96.189,7.47,103.65899999999999,neutral
+there is an evidence base in terms of,100.36,6.39,106.75,sad
+reducing the hba1c and to improve,103.659,11.811,115.47,neutral
+outcome some of you may be used to hba1c,106.75,11.789,118.539,neutral
+being expressed as a percentage result,115.47,8.56,124.03,neutral
+however since 2009 the UK are adopting,118.539,8.94,127.479,neutral
+the IFC SI International Federation of,124.03,6.299,130.329,neutral
+clinical chemistry unit of measurement,127.479,5.601,133.08,neutral
+the millimoles per month,130.329,6.181,136.51000000000002,fear
+[Music],133.08,7.87,140.95000000000002,fear
+the normal hba1c result is a reading,136.51,8.58,145.09,sad
+below 41 millimoles per month a person,140.95,5.879,146.82899999999998,sad
+would be classed as high risk of,145.09,4.77,149.86,fear
+diabetes if their result was between 42,146.829,6.83,153.65900000000002,fear
+and 47 millimoles per low,149.86,7.43,157.29000000000002,fear
+this is classed as pre-diabetes or,153.659,8.381,162.04,sad
+non-diabetic hyperglycemia a current,157.29,8.38,165.67,neutral
+nice guidance so adults with type 1 and,162.04,7.559,169.599,neutral
+type 2 diabetes Advisors that we target,165.67,8.42,174.08999999999997,sad
+a hba1c of 48 millimoles per mole,169.599,7.5,177.099,sad
+however it's really important to,174.09,5.979,180.06900000000002,neutral
+individualize targets for the person in,177.099,5.191,182.29,neutral
+front of you especially if they're at,180.069,4.95,185.01899999999998,fear
+risk of hypoglycemic episodes on low,182.29,7.669,189.959,sad
+blood sugars and they have no hypo wins,185.019,4.94,189.959,sad
+[Music],190.18,3.079,193.25900000000001,NA
+the hba1c if it's not in target range,193.26,6.89,200.14999999999998,neutral
+might be tested three to six monthly,197.099,5.821,202.92,neutral
+otherwise it might be at six monthly,200.15,5.89,206.04,neutral
+two-year interval,202.92,6.779,209.69899999999998,neutral
+[Music],206.04,3.659,209.69899999999998,NA
+there have been two large-scale clinical,209.84,7.02,216.86,sad
+trials the DCCT and the UKPDS,212.33,7.8,220.13000000000002,sad
+but both have proven that by reducing,216.86,6.93,223.79000000000002,neutral
+your hba1c by eleven millimoles per mole,220.13,6.51,226.64,neutral
+you can reduce the risk of micro,223.79,13.14,236.93,neutral
+vascular complications by 25% a person,226.64,13.62,240.26,neutral
+can reduce the hba1c by making positive,236.93,6.36,243.29000000000002,neutral
+lifestyle changes these might be,240.26,5.039,245.29899999999998,fear
+maintaining a healthy weight or,243.29,5.97,249.26,fear
+increasing up physical activity a high,245.299,6.481,251.78,fear
+body weight or large waist measurement,249.26,4.259,253.519,NA
+can increase your risk of developing,251.78,6.09,257.87,NA
+type 2 diabetes to maintain a healthy,253.519,4.981,258.5,NA
+weight,257.87,4.92,262.79,NA
+refer to the will guide this encourages,258.5,7.11,265.61,NA
+you to eat at least 5 portions of fruits,262.79,5.43,268.22,NA
+and vegetables every day with a higher,265.61,7.35,272.96000000000004,NA
+focus on vegetable increasing fiber and,268.22,7.55,275.77000000000004,NA
+whole grain foods while reducing,272.96,5.85,278.81,NA
+saturated fats can also help you to,275.77,6.37,282.14,NA
+maintain a healthy weight current,278.81,6.57,285.38,NA
+physical activity guidance advises 150,282.14,5.75,287.89,NA
+minutes of moderate ly intense activity,285.38,5.13,290.51,NA
+this is when your breathing rate and,287.89,5.98,293.87,NA
+body temperature increases we are all,290.51,6.11,296.62,NA
+advised to fit less and to move more,293.87,6.03,299.9,NA
+"ideally achieving 10,000 steps in a day",296.62,7.299,303.919,NA
+any patient with results greater than 40,299.9,5.97,305.87,NA
+to millimoles per mole should be,303.919,4.921,308.84,NA
+referred on to their GP for further,305.87,8.93,314.8,NA
+information visit diabetes or Guk,308.84,5.96,314.79999999999995,NA

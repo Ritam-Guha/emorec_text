@@ -1,6 +1,7 @@
 import torch.nn
 
 from emorec_text.code.trainers.base_trainer import Trainer
+from emorec_text.code.models.loss import cross_entropy_loss_function
 
 
 class LSTMTrainer(Trainer):
@@ -39,6 +40,11 @@ class LSTMTrainer(Trainer):
                 loss = torch.nn.MSELoss()(emotion, pred_emotion).to(self.device)
             else:
                 loss += torch.nn.MSELoss()(emotion, pred_emotion).to(self.device)
+
+            # if i == 0:
+            #     loss = cross_entropy_loss_function(emotion, pred_emotion).to(self.device)
+            # else:
+            #     loss += cross_entropy_loss_function(emotion, pred_emotion).to(self.device)
             i += 1
 
         if type_process == "train":

@@ -1,18 +1,30 @@
 text,start,duration,end,dominant_emotion
 "You have diabetes. Maybe you've recently
-been diagnosed or you've been living with diabetes for a while
-and need to get better control of your blood sugar. You're probably feeling
-overwhelmed. Can you live a normal life with diabetes? The answer is yes and
-we're here to help. First, what is type-2 diabetes?
-It's a condition in which your body does",0.0,24.990000000000002,24.990000000000002,NA
+been diagnosed or you've been living",0.0,5.94,5.94,fear
+"with diabetes for a while
+and need to get better control of your",5.94,3.3,9.24,fear
+"blood sugar. You're probably feeling
+overwhelmed. Can you live a normal life",9.24,5.49,14.73,surprise
+"with diabetes? The answer is yes and
+we're here to help. First, what is type-2",14.73,6.809,21.539,surprise
+"diabetes?
+It's a condition in which your body does",21.539,3.451,24.990000000000002,surprise
 "not make enough insulin or doesn't use
-insulin effectively. Your fasting blood sugar or glucose is 126 or higher or your hemoglobin A1C test is 6.5 or higher.
-What is insulin? It's a natural hormone that helps smooth blood sugar made from
-the food you eat into your cells. Without enough insulin, blood sugar builds up in
-the blood and your body doesn't get the",24.99,27.54,52.53,NA
+insulin effectively. Your fasting blood",24.99,4.949,29.939,surprise
+sugar or glucose is 126 or higher or your hemoglobin,29.939,5.491,35.43,surprise
+"A1C test is 6.5 or higher.
+What is insulin? It's a natural hormone",35.43,6.629,42.059,surprise
+"that helps smooth blood sugar made from
+the food you eat into your cells. Without",42.059,5.881,47.94,fear
+"enough insulin, blood sugar builds up in
+the blood and your body doesn't get the",47.94,4.59,52.53,NA
 "energy it needs. The extra sugar also
-damages your heart and blood vessels, kidneys, eyes, and nerves. The good news is
-that diabetes can be controlled working with your care team, eating healthy,
-exercising, and taking medications as prescribed are all things you can do to
-live well with diabetes. We have online tools, articles, videos and photo stories
-to help you.",52.53,30.830000000000002,83.36,NA
+damages your heart and blood vessels,",52.53,5.09,57.620000000000005,NA
+"kidneys, eyes, and nerves. The good news is
+that diabetes can be controlled working",57.62,8.14,65.75999999999999,surprise
+"with your care team, eating healthy,
+exercising, and taking medications as",65.76,6.719,72.479,surprise
+"prescribed are all things you can do to
+live well with diabetes. We have online",72.479,5.221,77.7,surprise
+"tools, articles, videos and photo stories
+to help you.",77.7,5.66,83.36,surprise

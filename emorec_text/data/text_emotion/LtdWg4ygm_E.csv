@@ -1,76 +1,139 @@
 text,start,duration,end,dominant_emotion
 "Diabetic nephropathy refers to the kidney
-damage caused by both type I and type II diabetes. Because of the growing number of people affected
-by diabetes, diabetic nephropathy is currently the leading cause of end-stage renal disease
-in most developed countries around the world. Each kidney has millions of nephrons, each
-of which is served by a tiny capillary bed called a glomerulus.",4.0,23.26,27.26,NA
+damage caused by both type I and type II diabetes.",4.0,6.59,10.59,NA
+"Because of the growing number of people affected
+by diabetes, diabetic nephropathy is currently",10.59,4.44,15.030000000000001,NA
+"the leading cause of end-stage renal disease
+in most developed countries around the world.",15.03,7.1,22.13,NA
+"Each kidney has millions of nephrons, each
+of which is served by a tiny capillary bed",22.13,4.13,26.259999999999998,NA
+called a glomerulus.,26.26,1.0,27.26,NA
 "The tiny arteriole that approaches the glomerulus
-is called the afferent arteriole - a for approaching, and the arteriole that exits the glomerulus
-is called the efferent arteriole - e for exits. The glomeruli are a tiny cluster of capillaries
-that are physically supported by mesangial cells. So when blood is filtered it moves through
-the endothelium lining the capillary, then",27.26,22.630000000000003,49.89,NA
+is called the afferent arteriole - a for approaching,",27.26,7.03,34.29,NA
+"and the arteriole that exits the glomerulus
+is called the efferent arteriole - e for exits.",34.29,5.62,39.91,NA
+"The glomeruli are a tiny cluster of capillaries
+that are physically supported by mesangial",39.91,4.71,44.62,NA
+cells.,44.62,1.17,45.79,NA
+"So when blood is filtered it moves through
+the endothelium lining the capillary, then",45.79,4.1,49.89,NA
 "through the basement membrane, and then through
-the epithelium lining the nephron, and finally into the nephron itself - at which point its
-called filtrate. The endothelium has pores that keep cells
-from entering the filtrate, and the basement membrane is negatively charged
-and repels other negatively charged molecules and proteins, like the protein albumin.",49.89,22.72,72.61,NA
+the epithelium lining the nephron, and finally",49.89,4.77,54.66,NA
+"into the nephron itself - at which point its
+called filtrate.",54.66,4.829,59.489,NA
+"The endothelium has pores that keep cells
+from entering the filtrate,",59.489,4.081,63.57,NA
+"and the basement membrane is negatively charged
+and repels other negatively charged molecules",63.57,4.26,67.83,NA
+"and proteins, like the protein albumin.",67.83,4.78,72.61,NA
 "The epithelium has of special cell type called
-a podocyte which looks like an octopus because it has foot processes that wrap around the
-basement membrane, leaving tiny gaps between its octopus-like projections called filtration
-slits. In diabetes mellitus, there’s an excess
-of glucose in the blood, because it can’t get into cells, and when blood gets filtered
-through the kidneys, some of that excess glucose",72.61,24.84,97.45,NA
-"starts to spill into the urine, called glycosuria. In addition, when there’s a lot of glucose
-in the blood, it also starts sticking to proteins in the blood — a process called non-enzymatic
-glycation because no enzymes are involved. Because glucose can get through the endothelium,
-this process of glycation can also involve the basement membrane of small blood vessels
-making it thicken.",97.45,28.749999999999996,126.2,NA
+a podocyte which looks like an octopus because",72.61,4.6,77.21,NA
+"it has foot processes that wrap around the
+basement membrane, leaving tiny gaps between",77.21,4.57,81.78,NA
+"its octopus-like projections called filtration
+slits.",81.78,6.629,88.409,NA
+"In diabetes mellitus, there’s an excess
+of glucose in the blood, because it can’t",88.409,4.46,92.869,NA
+"get into cells, and when blood gets filtered
+through the kidneys, some of that excess glucose",92.869,4.581,97.45,NA
+"starts to spill into the urine, called glycosuria.",97.45,5.07,102.52000000000001,NA
+"In addition, when there’s a lot of glucose
+in the blood, it also starts sticking to proteins",102.52,3.61,106.13,NA
+"in the blood — a process called non-enzymatic
+glycation because no enzymes are involved.",106.13,10.15,116.28,NA
+"Because glucose can get through the endothelium,
+this process of glycation can also involve",116.28,4.47,120.75,NA
+"the basement membrane of small blood vessels
+making it thicken.",120.75,5.45,126.2,NA
 "The process particularly affects the efferent
-arteriole causing it to get stiff and more narrow - a process called hyaline arteriosclerosis. This creates an obstruction that makes it
-difficult for blood to leave the glomerulus, increasing pressure within the glomerulus. At the same time, the afferent arteriole dilates,
-allowing more blood flow into the glomerulus",126.2,23.83,150.03,NA
-"and increasing pressure further. High pressure in the glomerulus leads to an
-increase in the glomerular filtration rate--which is simply the amount of blood filtered through
-per minute. This is the first stage of diabetic nephropathy,
-called hyperfiltration. In response to this high-pressure state, the
-supportive mesangial cells secrete more and",150.03,22.179000000000002,172.209,NA
+arteriole causing it to get stiff and more",126.2,4.69,130.89000000000001,NA
+narrow - a process called hyaline arteriosclerosis.,130.89,5.9,136.79,NA
+"This creates an obstruction that makes it
+difficult for blood to leave the glomerulus,",136.79,3.94,140.73,NA
+increasing pressure within the glomerulus.,140.73,3.78,144.51,NA
+"At the same time, the afferent arteriole dilates,
+allowing more blood flow into the glomerulus",144.51,5.52,150.03,NA
+and increasing pressure further.,150.03,1.97,152.0,NA
+"High pressure in the glomerulus leads to an
+increase in the glomerular filtration rate--which",152.0,5.73,157.73,NA
+"is simply the amount of blood filtered through
+per minute.",157.73,3.03,160.76,NA
+"This is the first stage of diabetic nephropathy,
+called hyperfiltration.",160.76,5.58,166.34,NA
+"In response to this high-pressure state, the
+supportive mesangial cells secrete more and",166.34,5.869,172.209,NA
 "more structural matrix expanding the size
-of the glomerulus. This matrix deposition and mesangial expansion
-happen uniformly, or it can result in little nodules within the mesangium called Kimmelstiel-Wilson
-nodules - which are tiny little balls of protein. The thickening of the basement membrane counterintuitively
-makes it more permeable—allowing proteins like albumin through that otherwise would
-have been filtered out.",172.209,27.871000000000002,200.08,NA
+of the glomerulus.",172.209,4.051,176.26,NA
+"This matrix deposition and mesangial expansion
+happen uniformly, or it can result in little",176.26,5.5,181.76,NA
+"nodules within the mesangium called Kimmelstiel-Wilson
+nodules - which are tiny little balls of protein.",181.76,9.5,191.26,NA
+"The thickening of the basement membrane counterintuitively
+makes it more permeable—allowing proteins",191.26,5.32,196.57999999999998,NA
+"like albumin through that otherwise would
+have been filtered out.",196.58,3.5,200.08,NA
 "It makes sense if you think about our octopus
-friend once more - as the glomerulus expands, the legs of the octopus naturally have larger
-gaps between them, in other words the filtration slits widen, making it easier for substances
-to slip through. So in the end, the key abnormalities in diabetic
-nephropathy are a thickened glomerular basement membrane, mesangial expansion, Kimmelstiel-Wilson
-nodules, and disruption of the podocytes.",200.08,27.98,228.06,NA
+friend once more - as the glomerulus expands,",200.08,5.07,205.15,NA
+"the legs of the octopus naturally have larger
+gaps between them, in other words the filtration",205.15,5.52,210.67000000000002,NA
+"slits widen, making it easier for substances
+to slip through.",210.67,4.149,214.819,NA
+"So in the end, the key abnormalities in diabetic
+nephropathy are a thickened glomerular basement",214.819,5.871,220.69,NA
+"membrane, mesangial expansion, Kimmelstiel-Wilson
+nodules, and disruption of the podocytes.",220.69,7.37,228.06,NA
 "Eventually, these changes damage the glomerulus
-so much that it's unable to filter blood normally, and the glomerular filtration rate decreases. Typically, diabetic nephropathy starts quietly
-with no symptoms during the hyperfiltration phase, but over time as more and more of the
-nephrons are affected, the kidney becomes less and less effective and filtering the
-blood into the urine, and the glomerular filtration",228.06,26.259000000000004,254.31900000000002,NA
+so much that it's unable to filter blood normally,",228.06,6.009,234.06900000000002,NA
+and the glomerular filtration rate decreases.,234.069,3.771,237.83999999999997,NA
+"Typically, diabetic nephropathy starts quietly
+with no symptoms during the hyperfiltration",237.84,6.41,244.25,NA
+"phase, but over time as more and more of the
+nephrons are affected, the kidney becomes",244.25,4.769,249.019,NA
+"less and less effective and filtering the
+blood into the urine, and the glomerular filtration",249.019,5.3,254.31900000000002,NA
 "rate decreases dramatically . Once the kidneys
-no longer can do their job of filtering the blood, end stage renal disease results. Because there are no overt symptoms of diabetic
-nephropathy, regularly screening the urine of individuals with diabetes is super important. Microalbuminuria, which means excreting 30
-to 300 mg of albumin in a day, is a reliable",254.319,27.651,281.96999999999997,NA
+no longer can do their job of filtering the",254.319,5.771,260.09,NA
+"blood, end stage renal disease results.",260.09,6.71,266.79999999999995,NA
+"Because there are no overt symptoms of diabetic
+nephropathy, regularly screening the urine",266.8,4.66,271.46000000000004,NA
+of individuals with diabetes is super important.,271.46,3.85,275.31,NA
+"Microalbuminuria, which means excreting 30
+to 300 mg of albumin in a day, is a reliable",275.31,6.66,281.97,NA
 "signal that diabetic nephropathy has started
-to set in. Excreting above 300 mg per day is considered
-macroalbuminuria, and is a sure sign of a problem. Unfortunately, diabetic nephropathy is a progressive
-complication that can be significantly slowed down but not completely stopped.",281.97,21.64,303.61,NA
+to set in.",281.97,4.33,286.3,NA
+"Excreting above 300 mg per day is considered
+macroalbuminuria, and is a sure sign of a",286.3,5.35,291.65000000000003,NA
+problem.,291.65,1.91,293.56,NA
+"Unfortunately, diabetic nephropathy is a progressive
+complication that can be significantly slowed",293.56,6.19,299.75,NA
+down but not completely stopped.,299.75,3.86,303.61,NA
 "Keeping tight control on hypertension and
-hyperglycemia is critical. Specifically, angiotensin-converting enzymes
-(ACE) inhibitors or angiotensin receptor blockers can be particularly useful. These not only lower blood pressure as a whole,
-but they also specifically reduce constriction of the efferent arteriole.",303.61,19.778999999999996,323.389,NA
+hyperglycemia is critical.",303.61,4.74,308.35,NA
+"Specifically, angiotensin-converting enzymes
+(ACE) inhibitors or angiotensin receptor blockers",308.35,6.21,314.56,NA
+can be particularly useful.,314.56,2.54,317.1,NA
+"These not only lower blood pressure as a whole,
+but they also specifically reduce constriction",317.1,4.36,321.46000000000004,NA
+of the efferent arteriole.,321.46,1.929,323.38899999999995,NA
 "By reducing this constriction, the pressure
-within the glomerulus and the damage that comes from it. Alright, as a quick recap, diabetic nephropathy
-is kidney damage that is caused by diabetes, resulting in glomerular basement membrane
-thickening, mesangial expansion, and sclerosis. An initial phase of increased glomerular filtration
-rate is followed by progressive albuminuria,",323.389,23.869999999999997,347.259,NA
+within the glomerulus and the damage that",323.389,4.931,328.32,NA
+comes from it.,328.32,1.73,330.05,NA
+"Alright, as a quick recap, diabetic nephropathy
+is kidney damage that is caused by diabetes,",330.05,6.649,336.699,NA
+"resulting in glomerular basement membrane
+thickening, mesangial expansion, and sclerosis.",336.699,6.661,343.36,NA
+"An initial phase of increased glomerular filtration
+rate is followed by progressive albuminuria,",343.36,3.899,347.259,NA
 "then a gradual decline in glomerular filtration
-rate, and finally renal failure. This progression can be slowed by tight control
-of blood sugar and blood pressure and the use of ACE-inhibitors or angiotensin receptor
-blockers to decrease pressure specifically within the glomerulus. Thanks for watching, you can help support
-us by donating on patreon, or subscribing",347.259,33.959999999999994,381.219,NA
-"to our channel, or telling your  friends about  us  on social media.",381.219,62.73,443.949,NA
+rate, and finally renal failure.",347.259,7.121,354.38,NA
+"This progression can be slowed by tight control
+of blood sugar and blood pressure and the",354.38,4.42,358.8,NA
+"use of ACE-inhibitors or angiotensin receptor
+blockers to decrease pressure specifically",358.8,4.47,363.27000000000004,NA
+within the glomerulus.,363.27,1.86,365.13,NA
+"Thanks for watching, you can help support
+us by donating on patreon, or subscribing",365.13,16.089,381.219,NA
+"to our channel, or telling your ",381.219,16.331,397.55,NA
+friends about ,397.55,12.28,409.83,NA
+us ,409.83,12.78,422.60999999999996,NA
+on social media.,422.61,21.339,443.949,NA

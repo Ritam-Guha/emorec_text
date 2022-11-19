@@ -1,20 +1,37 @@
 text,start,duration,end,dominant_emotion
 "True, the 15-year-old kid
-I once was didn't think about
-what would happen to you when you get older, with the
-effects of smoking and diabetes. I was a young kid, was healthy. You know, you don't think
-about that kind of stuff",10.267,11.033,21.299999999999997,NA
-"when you're that young. When you get older is when you
-find out the real deal. It was the one stupid thing
-I wish I could take back. [Sighs] Didn't quit
-till after I was almost 40. And that was after I lost my leg.",21.3,13.833000000000002,35.133,NA
+I once was",10.267,2.966,13.233,NA
+"didn't think about
+what would happen to you",13.233,1.4,14.633000000000001,NA
+"when you get older, with the
+effects of smoking and diabetes.",14.633,3.6,18.233,fear
+"I was a young kid, was healthy.",18.233,1.234,19.467,fear
+"You know, you don't think
+about that kind of stuff",19.467,1.833,21.299999999999997,fear
+when you're that young.,21.3,1.4,22.7,fear
+"When you get older is when you
+find out the real deal.",22.7,2.233,24.933,fear
+"It was the one stupid thing
+I wish I could take back.",27.833,3.567,31.4,fear
+"[Sighs] Didn't quit
+till after I was almost 40.",31.4,4.333,35.733,fear
+And that was after I lost my leg.,35.733,2.3,38.032999999999994,neutral
 "[Sighs] Lost a lot of time
-because of that stupid stuff. And being diabetic. I mean, after everything
-went wrong with my body and my health, I mean, it's the hard lesson
-to learn, but I'm glad I quit",38.033,12.967,51.0,NA
+because of that stupid stuff.",38.033,4.034,42.067,fear
+And being diabetic.,42.067,1.533,43.6,fear
+"I mean, after everything
+went wrong",45.267,2.5,47.767,NA
+"with my body and my health,",47.767,1.8,49.567,NA
+"I mean, it's the hard lesson
+to learn, but I'm glad I quit",49.567,3.1,52.667,fear
 "and I've still got something
-to show for it. I didn't lose everything,
-thank God. I lost plenty -- put my wife,
-my family, my kids through a whole bunch. I know I did.",52.667,11.433,64.1,fear
+to show for it.",52.667,2.466,55.133,fear
+"I didn't lose everything,
+thank God.",55.133,2.267,57.400000000000006,fear
+"I lost plenty -- put my wife,
+my family, my kids",57.4,2.767,60.167,fear
+through a whole bunch.,60.167,1.3,61.467,sad
+I know I did.,61.467,2.633,64.1,sad
 "I'm Bill Busse,
-and I did quit smoking. I know you can quit, too.",67.833,5.367,73.2,NA
+and I did quit smoking.",67.833,2.867,70.7,NA
+"I know you can quit, too.",70.7,2.5,73.2,fear

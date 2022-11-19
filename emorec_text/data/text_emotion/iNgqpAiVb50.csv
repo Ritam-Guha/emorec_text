@@ -1,17 +1,77 @@
 text,start,duration,end,dominant_emotion
-so acromegaly as you know is a disease that's caused by a growth hormone secreting pituitary tumor and it usually occurs in patients in the middle of life like around their 30s or,2.399,23.761,26.16,NA
-40s but it can be diagnosed younger which case people get to be giants if they've get it before their bones close at puberty,14.4,15.44,29.84,neutral
-or it can be very late in life and we have some patients that are elderly with acromegaly and diagnosed even in the eighth decade so it can be in men,22.24,20.4,42.64,neutral
-it can be in women but the feature that they all have is they all do have excess growth hormone and the signs and symptoms associated with that can be growth,32.32,20.16,52.480000000000004,neutral
-of the hands of the feet of the head they can get facial changes with thickening of their lips and their tongue and their nose so even after a person stops growing because,41.52,19.439,60.959,neutral
-they've gone through puberty and they won't get taller they can still get growth of cartilage and changes in their facial features their hands and,52.559,15.6,68.15899999999999,neutral
-their feet a lot of patients won't know they have this the changes are so slow over a long period of time they may be suffering from joint pain diabetes,60.239,17.841,78.08,neutral
-hypertension sleep apnea which are all comorbidities of acromegaly they don't know that they have the disease until someone recognizes their,69.36,18.159,87.519,neutral
-features or they end up going to a doctor who knows enough to put pieces together and say ah let's test you for acromegaly,78.4,16.641000000000002,95.04100000000001,neutral
-most common um ways to present with acromegaly are growth of the hands and feet so actual changes headaches or incidental meaning they're,86.24,20.72,106.96,neutral
-meeting up with someone from a medical professional team unrelated to their acromegaly but someone identifies their features so those are the most fascinating cases and,96.64,17.997999999999998,114.638,neutral
-we have some great examples for example of one of my colleagues who had as a child live next door to a patient who went on to get acromegaly but when he,105.439,22.241,127.67999999999999,neutral
-was running for office 30 years later she saw his picture in the newspaper and said she was an endocrinologist and said oh my god i grew up with this guy he looks so different i know he has,116.64,18.72,135.36,neutral
-afromedley she tested him he had it he was cured so that was a case where he didn't present with any symptom at all but some endocrinologist recognized his,126.079,17.121000000000002,143.2,neutral
-features and knew to test for it we get examples like that where physicians are in an audience of an opera singer and they recognize the facial features and it's always a trick of what to say and,134.64,25.84,160.48,neutral
-when to say it,145.44,6.24,151.68,neutral
+so acromegaly as you know,2.399,4.4,6.799,sad
+is a disease that's caused by a growth,4.64,4.879,9.518999999999998,sad
+hormone secreting pituitary tumor,6.799,5.281,12.08,sad
+and it usually occurs in patients in the,9.519,4.881,14.4,sad
+middle of life like around their 30s or,12.08,4.32,16.4,sad
+40s but it can be diagnosed younger,14.4,4.16,18.560000000000002,sad
+which case people get to be giants if,16.4,2.799,19.198999999999998,sad
+they've,18.56,2.719,21.279,fear
+get it before their bones close at,19.199,3.041,22.240000000000002,fear
+puberty,21.279,2.721,24.0,sad
+or it can be very late in life and we,22.24,3.199,25.439,sad
+have some patients that are,24.0,3.599,27.599,sad
+elderly with acromegaly and diagnosed,25.439,3.041,28.48,sad
+even in,27.599,4.721,32.32,sad
+the eighth decade so it can be in men,28.48,5.84,34.32,sad
+it can be in women but the feature that,32.32,3.919,36.239,sad
+they all have is they all do have,34.32,4.8,39.12,sad
+excess growth hormone and the signs and,36.239,4.801,41.04,sad
+symptoms associated with that can be,39.12,2.4,41.519999999999996,sad
+growth,41.04,4.24,45.28,sad
+of the hands of the feet of the head,41.52,5.44,46.96,sad
+they can get facial changes with,45.28,3.04,48.32,sad
+thickening of their lips,46.96,3.759,50.719,sad
+and their tongue and their nose so even,48.32,4.239,52.559,sad
+after a person stops growing because,50.719,2.961,53.68,sad
+they've gone through puberty and they,52.559,2.32,54.879,fear
+won't get taller,53.68,3.6,57.28,fear
+they can still get growth of cartilage,54.879,3.441,58.32,sad
+and changes,57.28,2.959,60.239000000000004,sad
+in their facial features their hands and,58.32,3.28,61.6,sad
+their feet,60.239,2.8,63.038999999999994,sad
+a lot of patients won't know they have,61.6,3.36,64.96000000000001,neutral
+this the changes are so slow,63.039,4.161,67.2,sad
+over a long period of time they may be,64.96,4.4,69.36,sad
+suffering from joint pain diabetes,67.2,3.12,70.32000000000001,sad
+hypertension,69.36,3.92,73.28,sad
+sleep apnea which are all comorbidities,70.32,4.24,74.55999999999999,sad
+of acromegaly,73.28,2.64,75.92,sad
+they don't know that they have the,74.56,3.84,78.4,sad
+disease until someone recognizes their,75.92,3.519,79.43900000000001,sad
+features,78.4,3.2,81.60000000000001,sad
+or they end up going to a doctor who,79.439,3.601,83.03999999999999,sad
+knows enough to put,81.6,3.36,84.96,sad
+pieces together and say ah let's test,83.04,3.2,86.24000000000001,sad
+you for acromegaly,84.96,3.28,88.24,sad
+most common um ways to present with,86.24,3.28,89.52,sad
+acromegaly,88.24,3.519,91.759,sad
+are growth of the hands and feet so,89.52,3.599,93.119,sad
+actual changes,91.759,4.881,96.64,sad
+headaches or incidental meaning they're,93.119,5.441,98.56,sad
+meeting up with someone from a medical,96.64,4.0,100.64,sad
+professional team,98.56,3.68,102.24000000000001,sad
+unrelated to their acromegaly but,100.64,3.2,103.84,fear
+someone identifies their features so,102.24,3.199,105.439,sad
+those are the most fascinating cases and,103.84,3.919,107.759,sad
+we have some great examples for example,105.439,5.68,111.119,sad
+of one of my colleagues who had,107.759,6.561,114.32,sad
+as a child live next door to a patient,111.119,3.521,114.64,sad
+who,114.32,2.32,116.63999999999999,sad
+went on to get acromegaly but when he,114.64,4.159,118.799,sad
+was running for office 30 years later,116.64,4.56,121.2,sad
+she saw his picture in the newspaper,118.799,4.481,123.28,sad
+and said she was an endocrinologist and,121.2,3.68,124.88000000000001,sad
+said oh my god i grew up with this guy,123.28,2.799,126.07900000000001,sad
+he looks so different i know he has,124.88,3.2,128.07999999999998,sad
+afromedley she tested him he had it he,126.079,2.8,128.879,sad
+was cured,128.08,2.64,130.72,neutral
+so that was a case where he didn't,128.879,3.761,132.64,sad
+present with any symptom at all,130.72,3.92,134.64,sad
+but some endocrinologist recognized his,132.64,4.0,136.64,sad
+features and knew to test for it we get,134.64,4.48,139.11999999999998,sad
+examples like that where physicians are,136.64,4.4,141.04,sad
+in an audience of an opera singer and,139.12,4.479,143.59900000000002,sad
+they recognize the facial features and,141.04,4.4,145.44,sad
+it's always a trick of what to say and,143.599,8.081,151.67999999999998,sad
+when to say it,145.44,6.24,151.68,sad

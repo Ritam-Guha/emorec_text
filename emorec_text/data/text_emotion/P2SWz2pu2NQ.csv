@@ -1,13 +1,61 @@
 text,start,duration,end,dominant_emotion
-[Music] a lot of the time diabetes is discovered incidentally you might come to see your doctor for another medical condition,0.17,22.799,22.969,angry
-and discover you have diabetes through a blood test the condition before you get full-blown diabetes is known as pre-diabetes if you have it your blood,15.04,22.081,37.120999999999995,NA
-glucose levels are higher than normal but not high enough for you to be considered diabetic if you are diagnosed with pre-diabetes your doctor will recommend steps that,26.48,20.48,46.96,angry
-you can take to stop you from developing full-blown diabetes pre-diabetes symptoms are the same as diabetes,36.88,22.319,59.199,angry
-excessive thirst feeling the need to pee unusually often sudden weight loss and blurry vision you're at a higher risk of having pre-diabetes if you live an unhealthy lifestyle,46.879,30.48,77.359,angry
-or have a family history of diabetes the blood tests for pre-diabetes are the same as the ones used to test for diabetes you're considered to be pre-diabetic if you,62.239,20.32,82.559,angry
-meet any of the conditions below your hba1c levels are between 5.7 to 6.5 percent that's 39 to 48 millimoles per liter anything higher than that is considered,73.68,28.480999999999998,102.161,angry
-full-blown diabetes your fasting glucose levels are between 100 and 125 milligrams per deciliter that's 5.6 to 6.9 millimoles per liter in this case you're considered to have,87.28,25.999000000000002,113.279,angry
-impaired fasting glucose your two hour 75 gram oral glucose tolerance test levels are between 140 and 199 milligrams per deciliter,99.92,25.119999999999997,125.03999999999999,NA
-that's 7.8 to 11.0 millimoles per liter in this case you're considered to have impaired glucose tolerance also known as igt if these seem like random numbers to you don't worry your,111.68,23.759,135.43900000000002,angry
-doctor will be able to interpret these blood tests and inform you of your results if you're diagnosed with pre-diabetes there are lifestyle changes you can make,124.719,19.921999999999997,144.641,angry
-now to help stop your condition from worsening into full-blown diabetes such as exercising regularly cutting down on sugary foods and quitting smoking,134.48,38.16,172.64,angry
+[Music],0.17,6.719,6.889,NA
+a lot of the time,7.44,4.4,11.84,NA
+diabetes is discovered incidentally,8.639,4.801,13.44,neutral
+you might come to see your doctor for,11.84,3.2,15.04,neutral
+another medical condition,13.44,3.679,17.119,NA
+and discover you have diabetes through a,15.04,4.079,19.119,NA
+blood test,17.119,4.0,21.119,NA
+the condition before you get full-blown,19.119,3.92,23.039,NA
+diabetes is known as,21.119,5.361,26.48,NA
+pre-diabetes if you have it your blood,23.039,4.721,27.76,NA
+glucose levels,26.48,3.36,29.84,surprise
+are higher than normal but not high,27.76,5.04,32.800000000000004,surprise
+enough for you to be considered diabetic,29.84,5.2,35.04,surprise
+if you are diagnosed with pre-diabetes,32.8,4.08,36.879999999999995,surprise
+your doctor will recommend steps that,35.04,2.8,37.839999999999996,surprise
+you can take,36.88,3.28,40.160000000000004,surprise
+to stop you from developing full-blown,37.84,4.64,42.480000000000004,surprise
+diabetes,40.16,4.96,45.12,fear
+pre-diabetes symptoms are the same as,42.48,4.399,46.879,fear
+diabetes,45.12,5.04,50.16,NA
+excessive thirst feeling the need to pee,46.879,7.52,54.399,NA
+unusually often sudden weight loss,50.16,7.36,57.519999999999996,NA
+and blurry vision you're,54.399,5.601,60.0,NA
+at a higher risk of having pre-diabetes,57.52,4.719,62.239000000000004,fear
+if you live an unhealthy lifestyle,60.0,5.28,65.28,neutral
+or have a family history of diabetes,62.239,5.521,67.75999999999999,surprise
+the blood tests for pre-diabetes are the,65.28,3.6,68.88,surprise
+same as the ones,67.76,3.92,71.68,surprise
+used to test for diabetes you're,68.88,4.8,73.67999999999999,surprise
+considered to be pre-diabetic if you,71.68,2.479,74.159,surprise
+meet,73.68,4.96,78.64,surprise
+any of the conditions below your hba1c,74.159,8.081,82.24000000000001,surprise
+levels are between 5.7 to 6.5 percent,78.64,6.56,85.2,NA
+that's 39 to 48 millimoles per liter,82.24,5.04,87.28,surprise
+anything higher than that is considered,85.2,3.84,89.04,surprise
+full-blown diabetes,87.28,3.839,91.119,surprise
+your fasting glucose levels are between,89.04,5.6,94.64,NA
+100 and 125 milligrams per deciliter,91.119,7.121,98.24,NA
+that's 5.6 to 6.9 millimoles per liter,94.64,5.28,99.92,NA
+in this case you're considered to have,98.24,4.159,102.399,NA
+impaired fasting glucose,99.92,5.44,105.36,surprise
+your two hour 75 gram oral glucose,102.399,4.72,107.119,surprise
+tolerance test levels,105.36,5.36,110.72,NA
+are between 140 and 199 milligrams per,107.119,4.561,111.68,NA
+deciliter,110.72,5.039,115.759,NA
+that's 7.8 to 11.0 millimoles per liter,111.68,5.84,117.52000000000001,NA
+in this case you're considered to have,115.759,3.841,119.6,NA
+impaired glucose tolerance,117.52,5.52,123.03999999999999,NA
+also known as igt if these seem like,119.6,5.119,124.719,NA
+random numbers to you don't worry your,123.04,3.439,126.47900000000001,surprise
+doctor will be able to interpret these,124.719,2.641,127.36,surprise
+blood tests,126.479,4.241,130.72,NA
+and inform you of your results if you're,127.36,5.28,132.64,NA
+diagnosed with pre-diabetes,130.72,3.76,134.48,fear
+there are lifestyle changes you can make,132.64,4.0,136.64,surprise
+now to help stop your condition from,134.48,4.72,139.2,surprise
+worsening into full-blown diabetes,136.64,5.28,141.92,NA
+such as exercising regularly cutting,139.2,4.32,143.51999999999998,NA
+down on sugary foods,141.92,12.72,154.64,NA
+and quitting smoking,143.52,11.12,154.64000000000001,NA

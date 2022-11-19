@@ -1,19 +1,88 @@
 text,start,duration,end,dominant_emotion
-[Music] screening for gestational diabetes is recommended in all pregnancies at 24 to 28 weeks this is because while there are some risk factors that can be identified,0.1,25.579,25.679000000000002,sad
-many women who have gestational diabetes have no respecter whatsoever if you do have risk factors such as a personal history of diabetes and a prior pregnancy family history of diabetes if,17.39,24.180999999999997,41.571,sad
-you are overweight or advanced maternal age your provider may recommend screening as early as your first prenatal visit [Music],29.54,21.618,51.158,sad
-to screen for gestational diabetes we will be giving you a pre-determined sugar load drink in the office and then drawing your blood work based on this we will be able to determine whether or not,39.699,25.131,64.83,angry
-you have gestational diabetes [Music] if you are diagnosed legislation all diabetes you will be referred to a diabetes educator who will help you with,52.219,22.609,74.828,sad
-a diet plan help you know what blood sugar control you need to have in order to help to maintain a safe pregnancy and as well a high-risk obstetrician may be involved in your care in addition to,63.949,22.311,86.25999999999999,sad
-your general OB provider [Music] women who are diagnosed with gestational diabetes do have a higher risk of certain complications for both,74.659,18.021,92.68,sad
-themselves and their newborns complications that can be associate with gestational diabetes for mothers include an increased risk for preeclampsia which is a high blood pressure disorder of,85.99,19.57,105.56,sad
-pregnancy a higher risk of caesarean delivery and approximately two-thirds of women diagnosed with gestational diabetes will go on to be diagnosed with type two diabetes later in life for,95.56,21.658,117.218,sad
-newborns there is a higher risk of being born with a low blood sugar which may require an admission to the neonatal intensive care unit a higher risk of a high birth weight as well as a link to,106.689,22.831000000000003,129.51999999999998,sad
-childhood obesity it's important to remember that all of these risks can be reduced by having good blood sugar control throughout the pregnancy [Music],117.819,21.220999999999997,139.04,sad
-gestational diabetes in pregnancy is associated with several outcomes for mothers and babies that we will be monitoring you for in Mother's there is an increased risk for preeclampsia which,130.24,25.06,155.3,sad
-is a high blood pressure disorder of pregnancy there's an increased risk for cesarean delivery and a higher risk for type 2 diabetes later in life for babies there is an increased risk of being born,142.76,28.26,171.01999999999998,sad
-with low blood sugar which can increase the admission rate to the neonatal intensive care unit there is an increased risk for a high birth weight and also a link with childhood obesity,157.13,20.07,177.2,sad
-it's important to understand that with good blood sugar control all of these risks can be reduced in pregnancy to reduce your risk of developing gestational diabetes it is recommended,166.88,28.5,195.38,sad
-that you participate in a moderate intensity aerobic activity more days of the week than not not only is exercise recommended in pregnancy but it is also safe and encouraged if you have any,181.55,24.72,206.27,sad
-questions about whether or not you are exercise of choice is seek you can ask your provider it is also recommended to avoid a diet that is high in any added sugar foods or beverages,193.85,23.409999999999997,217.26,sad
-[Music] you,206.73,8.859,215.589,NA
+[Music],0.1,7.9,8.0,NA
+screening for gestational diabetes is,8.35,4.81,13.16,fear
+recommended in all pregnancies at 24 to,10.64,4.98,15.620000000000001,fear
+28 weeks this is because while there are,13.16,4.23,17.39,fear
+some risk factors that can be identified,15.62,3.659,19.279,fear
+many women who have gestational diabetes,17.39,5.04,22.43,fear
+have no respecter whatsoever if you do,19.279,5.82,25.099,fear
+have risk factors such as a personal,22.43,4.23,26.66,sad
+history of diabetes and a prior,25.099,4.441,29.54,sad
+pregnancy family history of diabetes if,26.66,4.65,31.310000000000002,sad
+you are overweight or advanced maternal,29.54,3.78,33.32,fear
+age your provider may recommend,31.31,3.48,34.79,fear
+screening as early as your first,33.32,3.58,36.9,sad
+prenatal visit,34.79,4.909,39.699,sad
+[Music],36.9,5.869,42.769,NA
+to screen for gestational diabetes we,39.699,6.04,45.739,NA
+will be giving you a pre-determined,42.769,5.97,48.739,neutral
+sugar load drink in the office and then,45.739,5.011,50.75,fear
+drawing your blood work based on this we,48.739,3.48,52.218999999999994,fear
+will be able to determine whether or not,50.75,4.63,55.38,fear
+you have gestational diabetes,52.219,5.151,57.370000000000005,NA
+[Music],55.38,4.429,59.809000000000005,NA
+if you are diagnosed legislation all,57.37,4.45,61.82,fear
+diabetes you will be referred to a,59.809,4.14,63.949,fear
+diabetes educator who will help you with,61.82,4.439,66.259,fear
+a diet plan help you know what blood,63.949,4.201,68.14999999999999,fear
+sugar control you need to have in order,66.259,3.991,70.25,fear
+to help to maintain a safe pregnancy and,68.15,4.71,72.86,sad
+as well a high-risk obstetrician may be,70.25,4.409,74.659,sad
+involved in your care in addition to,72.86,5.0,77.86,sad
+your general OB provider,74.659,3.201,77.86,sad
+[Music],78.88,3.419,82.29899999999999,sad
+women who are diagnosed with gestational,80.31,4.299,84.60900000000001,sad
+diabetes do have a higher risk of,82.299,3.691,85.99000000000001,neutral
+certain complications for both,84.609,3.411,88.02,neutral
+themselves and their newborns,85.99,3.96,89.94999999999999,neutral
+complications that can be associate with,88.02,3.939,91.959,happy
+gestational diabetes for mothers include,89.95,4.14,94.09,sad
+an increased risk for preeclampsia which,91.959,3.601,95.56,fear
+is a high blood pressure disorder of,94.09,3.93,98.02000000000001,fear
+pregnancy a higher risk of caesarean,95.56,5.009,100.569,fear
+delivery and approximately two-thirds of,98.02,3.48,101.5,sad
+women diagnosed with gestational,100.569,3.39,103.959,sad
+diabetes will go on to be diagnosed with,101.5,5.189,106.689,sad
+type two diabetes later in life for,103.959,4.59,108.549,sad
+newborns there is a higher risk of being,106.689,3.811,110.5,fear
+born with a low blood sugar which may,108.549,3.66,112.209,fear
+require an admission to the neonatal,110.5,5.129,115.629,sad
+intensive care unit a higher risk of a,112.209,5.61,117.819,sad
+high birth weight as well as a link to,115.629,4.621,120.25,sad
+childhood obesity it's important to,117.819,4.41,122.229,sad
+remember that all of these risks can be,120.25,3.959,124.209,neutral
+reduced by having good blood sugar,122.229,4.911,127.14,neutral
+control throughout the pregnancy,124.209,2.931,127.14,NA
+[Music],127.61,5.01,132.62,fear
+gestational diabetes in pregnancy is,130.24,5.56,135.8,fear
+associated with several outcomes for,132.62,5.25,137.87,sad
+mothers and babies that we will be,135.8,4.83,140.63000000000002,sad
+monitoring you for in Mother's there is,137.87,4.89,142.76,sad
+an increased risk for preeclampsia which,140.63,4.53,145.16,sad
+is a high blood pressure disorder of,142.76,4.62,147.38,sad
+pregnancy there's an increased risk for,145.16,6.27,151.43,sad
+cesarean delivery and a higher risk for,147.38,7.23,154.60999999999999,sad
+type 2 diabetes later in life for babies,151.43,5.7,157.13,sad
+there is an increased risk of being born,154.61,4.44,159.05,sad
+with low blood sugar which can increase,157.13,3.84,160.97,neutral
+the admission rate to the neonatal,159.05,4.17,163.22,sad
+intensive care unit there is an,160.97,3.989,164.959,sad
+increased risk for a high birth weight,163.22,3.66,166.88,sad
+and also a link with childhood obesity,164.959,4.411,169.37,sad
+it's important to understand that with,166.88,4.41,171.29,sad
+good blood sugar control all of these,169.37,8.94,178.31,sad
+risks can be reduced in pregnancy to,171.29,8.16,179.45,sad
+reduce your risk of developing,178.31,3.24,181.55,happy
+gestational diabetes it is recommended,179.45,3.75,183.2,happy
+that you participate in a moderate,181.55,4.59,186.14000000000001,sad
+intensity aerobic activity more days of,183.2,6.24,189.44,sad
+the week than not not only is exercise,186.14,5.37,191.51,happy
+recommended in pregnancy but it is also,189.44,4.41,193.85,neutral
+safe and encouraged if you have any,191.51,4.11,195.62,neutral
+questions about whether or not you are,193.85,3.84,197.69,sad
+exercise of choice is seek you can ask,195.62,4.589,200.209,sad
+your provider it is also recommended to,197.69,5.46,203.15,sad
+avoid a diet that is high in any added,200.209,6.231,206.44,sad
+sugar foods or beverages,203.15,3.29,206.44,sad
+[Music],206.73,6.799,213.529,NA
+you,214.069,2.06,216.129,NA

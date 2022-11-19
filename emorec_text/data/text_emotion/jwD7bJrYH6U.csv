@@ -1,63 +1,116 @@
 text,start,duration,end,dominant_emotion
 "If you’ve had a urinary tract infection
-(UTI) before, you know they’re annoying! You have to start running to the bathroom
-more, it hurts to pee, and somehow you have to get antibiotics. UTIs are usually caused by bacteria, therefore,
-antibiotics typically solve the problem. If your UTI symptoms do not go away with antibiotics,
-you may actually have something called painful",3.03,20.330000000000002,23.360000000000003,fear
+(UTI) before, you know they’re annoying!",3.03,3.07,6.1,neutral
+"You have to start running to the bathroom
+more, it hurts to pee, and somehow you have",6.1,5.16,11.26,neutral
+to get antibiotics.,11.26,2.129,13.389,fear
+"UTIs are usually caused by bacteria, therefore,
+antibiotics typically solve the problem.",13.389,5.171,18.56,fear
+"If your UTI symptoms do not go away with antibiotics,
+you may actually have something called painful",18.56,4.8,23.36,fear
 "bladder syndrome and it’s worth while to
-see your urologist to clarify this. UTIs are most common in women because women
-have a short urethra, which is the tube you pee through. It’s only about 2-3 centimeters in length. Therefore, it’s not hard for bacteria to
-travel across your urethra and set up shop",23.36,18.038999999999998,41.399,fear
-"in your bladder. Common risk factors for a UTI include: 1) Having diabetes.
-2) Having kidney stones. 3) Being postmenopausal.
-4) Some of you will  have the great fortune of having multiple
-UTIs in a year and this can really impact",41.399,21.671,63.07,fear
-"your quality of life. My question for these patients tends to be,
-do you notice a pattern of when you get UTIs? Flights, long car rides and dehydration tend
-to be very common things that lead to UTIs because they reduce the number of times you’re
-going to the bathroom. However, the most common cause is related
-to sex.",63.07,16.659,79.729,fear
-"Why? We have a lot of bacteria between our legs,
-there’s bacteria around the anus and it’s just not that hard for the mechanics of sex
-to push bacteria into the vagina and urethra. What’s really important for a women is to
-make sure that you urinate within 5 to 10 minutes after having sex.",79.729,17.0,96.729,fear
-"Why? This washes any bacteria out from where it
-shouldn’t be! Unfortunately, there are all sorts of magazines
-out there that support all sorts of rituals – there’s really no data to support one
-ritual over another. Really, all you need to do is urinate after
-sex.",96.729,12.701,109.43,fear
+see your urologist to clarify this.",23.36,5.06,28.419999999999998,fear
+"UTIs are most common in women because women
+have a short urethra, which is the tube you",28.42,4.631,33.051,fear
+pee through.,33.051,1.0,34.051,fear
+It’s only about 2-3 centimeters in length.,34.051,3.209,37.260000000000005,fear
+"Therefore, it’s not hard for bacteria to
+travel across your urethra and set up shop",37.26,4.139,41.399,fear
+in your bladder.,41.399,1.0,42.399,sad
+Common risk factors for a UTI include:,42.399,1.171,43.57,neutral
+"1) Having diabetes.
+2) Having kidney stones.",43.57,2.73,46.3,fear
+"3) Being postmenopausal.
+4) Some of you will ",46.3,12.189,58.489,fear
+"have the great fortune of having multiple
+UTIs in a year and this can really impact",58.489,4.581,63.07,fear
+your quality of life.,63.07,1.68,64.75,fear
+"My question for these patients tends to be,
+do you notice a pattern of when you get UTIs?",64.75,5.31,70.06,fear
+"Flights, long car rides and dehydration tend
+to be very common things that lead to UTIs",70.06,3.73,73.79,fear
+"because they reduce the number of times you’re
+going to the bathroom.",73.79,2.6,76.39,fear
+"However, the most common cause is related
+to sex.",76.39,3.339,79.729,fear
+Why?,79.729,1.651,81.38,fear
+"We have a lot of bacteria between our legs,
+there’s bacteria around the anus and it’s",81.38,3.8,85.17999999999999,fear
+"just not that hard for the mechanics of sex
+to push bacteria into the vagina and urethra.",85.18,5.52,90.7,fear
+"What’s really important for a women is to
+make sure that you urinate within 5 to 10",90.7,5.029,95.729,fear
+minutes after having sex.,95.729,1.0,96.729,fear
+Why?,96.729,1.0,97.729,fear
+"This washes any bacteria out from where it
+shouldn’t be!",97.729,1.331,99.06,fear
+"Unfortunately, there are all sorts of magazines
+out there that support all sorts of rituals",99.06,3.06,102.12,fear
+"– there’s really no data to support one
+ritual over another.",102.12,1.0,103.12,fear
+"Really, all you need to do is urinate after
+sex.",103.12,6.31,109.43,fear
 "Sex can also cause small tears in the vagina
-and urethra. This can reduce some of your natural defenses
-to fight off infection. This may be from certain positions or lubrication. Regardless, if you’re running into this
-problem, you’ll know it quickly since it’ll burn to urinate right after you have sex.",109.43,20.910000000000004,130.34,fear
-"General prevention strategies for a UTI include: 1) Staying well hydrated so that you urinate
-every 2-3 hours. 2) When you urinate, make sure you wipe from
-the vagina back to the anus. 3) Urinate after sex to wash out any unwanted
-bacteria. 4) Consider more breathable, cotton underwear.",130.34,22.819000000000003,153.159,fear
+and urethra.",109.43,3.75,113.18,fear
+"This can reduce some of your natural defenses
+to fight off infection.",113.18,4.179,117.35900000000001,fear
+This may be from certain positions or lubrication.,117.359,4.101,121.46,fear
+"Regardless, if you’re running into this
+problem, you’ll know it quickly since it’ll",121.46,3.14,124.6,fear
+burn to urinate right after you have sex.,124.6,5.74,130.34,fear
+General prevention strategies for a UTI include:,130.34,3.87,134.21,fear
+"1) Staying well hydrated so that you urinate
+every 2-3 hours.",134.21,3.9,138.11,fear
+"2) When you urinate, make sure you wipe from
+the vagina back to the anus.",138.11,3.31,141.42000000000002,fear
+"3) Urinate after sex to wash out any unwanted
+bacteria.",141.42,6.66,148.07999999999998,fear
+"4) Consider more breathable, cotton underwear.",148.08,5.079,153.15900000000002,fear
 "Something I’ve found anecdotally helpful
-for my patients, however, there’s no research to really support this. Now, you might be doing all of these things
-and STILL be getting UTIs. In scenarios like this, cranberry can come
-into play! Cranberry has an active ingredient that reduces
-the ability of bacteria to stick to your bladder",153.159,18.601,171.76,fear
-"wall. There are mixed studies on how effective cranberry
-is. However, the studies that showed support used
-10-12 ounces a day of ocean spray cranberry juice cocktail. There are a lot of cranberry pills or supplements
-on the market, of which I don’t tend to",171.76,17.67,189.43,fear
+for my patients, however, there’s no research",153.159,5.591,158.75,fear
+to really support this.,158.75,1.64,160.39,neutral
+"Now, you might be doing all of these things
+and STILL be getting UTIs.",160.39,3.98,164.36999999999998,fear
+"In scenarios like this, cranberry can come
+into play!",164.37,3.32,167.69,fear
+"Cranberry has an active ingredient that reduces
+the ability of bacteria to stick to your bladder",167.69,4.07,171.76,fear
+wall.,171.76,2.059,173.819,fear
+"There are mixed studies on how effective cranberry
+is.",173.819,2.481,176.29999999999998,NA
+"However, the studies that showed support used
+10-12 ounces a day of ocean spray cranberry",176.3,3.52,179.82000000000002,NA
+juice cocktail.,179.82,2.99,182.81,NA
+"There are a lot of cranberry pills or supplements
+on the market, of which I don’t tend to",182.81,6.62,189.43,fear
 "recommend since it’s hard to check on the
-purity of their ingredients. Also, because it’s an unregulated market,
-many of these pills and supplements are very expensive! If you don’t want to use cranberry, consider
-using D-Mannose. It works in the same way by reducing the ability
-for bacteria to stick to your bladder wall.",189.43,21.33,210.76,fear
+purity of their ingredients.",189.43,4.46,193.89000000000001,fear
+"Also, because it’s an unregulated market,
+many of these pills and supplements are very",193.89,4.33,198.22,fear
+expensive!,198.22,1.0,199.22,fear
+"If you don’t want to use cranberry, consider
+using D-Mannose.",199.22,4.31,203.53,fear
+"It works in the same way by reducing the ability
+for bacteria to stick to your bladder wall.",203.53,7.23,210.76,fear
 "Studies that were successful with D-Mannose
-showed that using 2 grams in 200 ml (i.e. ~ 8 ounces) of water daily. If neither cranberry or D-Mannose end up working,
-talk with your doctor about using an antibiotic. See if they recommend using a low dose antibiotic
-daily or taking an antibiotic before “high risk” UTI scenarios (i.e. before sex, a
-long car ride or flight).",210.76,21.020000000000003,231.78,fear
+showed that using 2 grams in 200 ml (i.e.",210.76,4.929,215.689,fear
+~ 8 ounces) of water daily.,215.689,1.341,217.03,fear
+"If neither cranberry or D-Mannose end up working,
+talk with your doctor about using an antibiotic.",217.03,5.83,222.86,fear
+"See if they recommend using a low dose antibiotic
+daily or taking an antibiotic before “high",222.86,5.16,228.02,fear
+"risk” UTI scenarios (i.e. before sex, a
+long car ride or flight).",228.02,3.76,231.78,fear
 "Both of these options can reduce your risk
-for infections as well. For women who are postmenopausal, the loss
-of estrogen reduces the strength of some of your vaginal and urethra tissue. However, a vagina estrogen cream can be really
-helpful in giving you some of this tissue balk back for better natural defenses against
-an infection.",231.78,22.86,254.64,fear
+for infections as well.",231.78,3.51,235.29,fear
+"For women who are postmenopausal, the loss
+of estrogen reduces the strength of some of",235.29,4.97,240.26,fear
+your vaginal and urethra tissue.,240.26,2.679,242.939,fear
+"However, a vagina estrogen cream can be really
+helpful in giving you some of this tissue",242.939,6.64,249.57899999999998,fear
+"balk back for better natural defenses against
+an infection.",249.579,5.061,254.64000000000001,fear
 "These are an handful of options to prevent
-or get ride of UTIs. Please, see your doctor to talk about what
-will be the best options for you moving forward!",254.64,7.92,262.56,fear
+or get ride of UTIs.",254.64,1.879,256.519,fear
+"Please, see your doctor to talk about what
+will be the best options for you moving forward!",256.519,6.041,262.56,fear

@@ -1,61 +1,122 @@
 text,start,duration,end,dominant_emotion
-"Hey guys! I'm here in Mexico at the beach, and I thought
-I would make a video about having an insulin pump at the beach because I found this week
-to be very challenging having a pump on me. I thought I would give a little video to show
-you what I'm doing to make things a bit easier. I think having an insulin pump on the beach
-really sucks, and this is why...",13.12,21.79,34.91,NA
+Hey guys!,13.12,1.62,14.739999999999998,sad
+"I'm here in Mexico at the beach, and I thought
+I would make a video about having an insulin",14.74,5.92,20.66,fear
+"pump at the beach because I found this week
+to be very challenging having a pump on me.",20.66,4.5,25.16,fear
+"I thought I would give a little video to show
+you what I'm doing to make things a bit easier.",25.16,4.83,29.990000000000002,fear
+"I think having an insulin pump on the beach
+really sucks, and this is why...",29.99,4.92,34.91,fear
 "So the first thing I find challenging is that
-it's really hard to clip it to your bathing suit. Especially if you're a girl because there's
-not much there to clip it to usually. You walk around with your pump site out, and
-your pump showing, you get a lot of stares, you get a lot of people looking at you thinking
-""oh, what's wrong with her? What kind of medical condition does she have?"".",34.91,19.71,54.62,NA
+it's really hard to clip it to your bathing suit.",34.91,4.04,38.949999999999996,fear
+"Especially if you're a girl because there's
+not much there to clip it to usually.",38.95,3.73,42.68,sad
+"You walk around with your pump site out, and
+your pump showing, you get a lot of stares,",42.82,4.44,47.26,fear
+"you get a lot of people looking at you thinking
+""oh, what's wrong with her?",47.26,4.69,51.949999999999996,fear
+"What kind of medical condition does she have?"".",51.95,2.81,54.760000000000005,NA
 "Another thing is that if your pump isn't waterproof,
-it's really hard if your going in and out of the water. Not to mention you have to protect it from
-the sand. Lastly, it's really hot here. So, you have to protect your pump from the
-heat because if your pump gets too hot, the",54.76,14.030000000000001,68.78999999999999,NA
+it's really hard if your going in and out",54.76,5.54,60.3,fear
+of the water.,60.3,1.0,61.3,NA
+"Not to mention you have to protect it from
+the sand.",61.3,2.48,63.779999999999994,NA
+"Lastly, it's really hot here.",63.78,1.31,65.09,fear
+"So, you have to protect your pump from the
+heat because if your pump gets too hot, the",65.09,3.7,68.79,fear
 "insulin will get too hot and it will stop
-working. I'm going to go through how I deal with these
-challenges of having an insulin pump on the beach. The first problem is with where to clip your
-pump. I find when I buy my bathing suit, I like
-to pick one that has a pretty sturdy strap at the bottom.",68.79,17.6,86.39000000000001,NA
+working.",68.79,3.24,72.03,fear
+"I'm going to go through how I deal with these
+challenges of having an insulin pump on the beach.",72.03,5.86,77.89,fear
+"The first problem is with where to clip your
+pump.",78.06,2.46,80.52,fear
+"I find when I buy my bathing suit, I like
+to pick one that has a pretty sturdy strap",80.7,5.04,85.74000000000001,fear
+at the bottom.,85.75,1.0,86.75,sad
 "Nothing too stringy, or you'll clip your pump
-to your bathing suit and your bathing suit will fall down! So I try to pick the bathing suit that I can
-clip my pump to, and I know it will stay on without pulling the bottoms down. So another thing I find really annoying is
-when your walking around with your pump here,",86.75,17.22,103.97,NA
+to your bathing suit and your bathing suit",86.75,4.02,90.77,fear
+will fall down!,90.77,1.0,91.77,sad
+"So I try to pick the bathing suit that I can
+clip my pump to, and I know it will stay on",91.77,4.48,96.25,sad
+without pulling the bottoms down.,96.25,1.7,97.95,fear
+"So another thing I find really annoying is
+when your walking around with your pump here,",102.1,6.02,108.11999999999999,fear
 "and you get a lot of stares, inquisitive looks,
-like ""what is that? a heart monitor?"". Nobody really knows what it is. My advice is just don't care! I know it's easier said than done.",108.13,10.79,118.91999999999999,NA
+like ""what is that?",108.13,4.22,112.35,fear
+"a heart monitor?"".",112.35,1.0,113.35,fear
+Nobody really knows what it is.,113.35,1.25,114.6,fear
+My advice is just don't care!,114.6,2.41,117.00999999999999,fear
+I know it's easier said than done.,117.01,1.91,118.92,NA
 "I've learned over the years to really embrace
-the fact that I have type 1 diabetes and to not be shy about it. It's nobody's business really and just wear
-it and flaunt it and don't be ashamed of it! What I do with my pump on the beach really
-depends on what kind of activity I'm doing. If I'm just going for a walk down the beach,
-I'll have my pump clipped to my bathing suit.",118.92,22.889,141.809,NA
+the fact that I have type 1 diabetes and to",118.92,6.16,125.08,fear
+not be shy about it.,125.08,1.86,126.94,sad
+"It's nobody's business really and just wear
+it and flaunt it and don't be ashamed of it!",126.94,5.299,132.239,fear
+"What I do with my pump on the beach really
+depends on what kind of activity I'm doing.",132.76,4.38,137.14,fear
+"If I'm just going for a walk down the beach,
+I'll have my pump clipped to my bathing suit.",137.15,5.19,142.34,fear
 "If I'm just sitting in my chair like this
-on the beach, I'll put my pump in a protective case and then put it under my towel. If I'm going to go swimming, I disconnect
-my pump, put it in this case, which is slightly insulated. It protects the pump from heating up a lot.",142.34,16.81,159.15,NA
+on the beach, I'll put my pump in a protective",142.34,5.819,148.159,fear
+case and then put it under my towel.,148.159,3.05,151.209,NA
+"If I'm going to go swimming, I disconnect
+my pump, put it in this case, which is slightly",151.209,5.601,156.81,sad
+insulated.,156.81,1.0,157.81,NA
+It protects the pump from heating up a lot.,157.81,1.34,159.15,fear
 "I will put it in my beach bag, and I make
-sure to put my beach bag in the shade so that it doesn't get hot either. If I want to take a break from my pump, and
-say take it off for about an hour, I'll check my blood sugar, make sure that my blood sugar
-is a good number. Then I will give myself a bolus of what I
-would normally receive from within an hour",159.15,20.679,179.829,NA
+sure to put my beach bag in the shade so that",159.15,6.119,165.269,fear
+it doesn't get hot either.,165.269,1.7,166.969,NA
+"If I want to take a break from my pump, and
+say take it off for about an hour, I'll check",167.81,4.17,171.98,fear
+"my blood sugar, make sure that my blood sugar
+is a good number.",171.98,3.63,175.60999999999999,fear
+"Then I will give myself a bolus of what I
+would normally receive from within an hour",175.61,5.06,180.67000000000002,fear
 "from my basal rate, and then after an hour
-of having my pump off, I check again to make sure that my blood sugar is still fine. And I'll either reconnect or stay disconnected. But it's all about keeping an eye on your
-blood sugar while your pump is off to make sure it doesn't rise and giving yourself the
-appropriate amount of insulin.",180.67,20.68,201.35,NA
+of having my pump off, I check again to make",180.67,6.38,187.04999999999998,fear
+sure that my blood sugar is still fine.,187.05,1.66,188.71,fear
+And I'll either reconnect or stay disconnected.,188.71,4.18,192.89000000000001,sad
+"But it's all about keeping an eye on your
+blood sugar while your pump is off to make",192.9,4.099,196.999,fear
+"sure it doesn't rise and giving yourself the
+appropriate amount of insulin.",196.999,4.361,201.35999999999999,fear
 "Okay, so the last thing I need to address
-is keeping your pump cool because it's really hot here. I've been using this case. It's what I got with my pump. It's kind of insulating.",206.26,11.079999999999998,217.33999999999997,NA
+is keeping your pump cool because it's really",206.26,5.6,211.85999999999999,fear
+hot here.,211.86,1.0,212.86,fear
+I've been using this case.,212.86,1.0,213.86,fear
+It's what I got with my pump.,214.08,2.36,216.44000000000003,sad
+It's kind of insulating.,216.52,1.12,217.64000000000001,neutral
 "It makes it so that my pump doesn't get too
-warm, but it definitely doesn't keep it cool. So I would suggest getting a FRIO case. You can get them online. I know a lot of people have these. It keeps your pump cool when you're at the
-beach or in any hot climate.",217.66,15.405,233.065,happy
+warm, but it definitely doesn't keep it cool.",217.66,5.3,222.96,sad
+So I would suggest getting a FRIO case.,223.04,2.865,225.905,fear
+You can get them online.,226.0,1.0,227.0,fear
+I know a lot of people have these.,227.04,1.82,228.85999999999999,fear
+"It keeps your pump cool when you're at the
+beach or in any hot climate.",228.86,4.42,233.28,fear
 "I know I'll be purchasing one when I get home
-because I think my pump has gotten too warm on the beach here in Mexico. One thing I haven't quite figured out yet
-is how to do water sports with an insulin pump. Because my pump is not waterproof, so I can't
-take it with me.",233.3,14.3,247.60000000000002,NA
+because I think my pump has gotten too warm",233.3,4.7,238.0,sad
+on the beach here in Mexico.,238.04,1.62,239.66,sad
+"One thing I haven't quite figured out yet
+is how to do water sports with an insulin",240.04,4.18,244.22,sad
+pump.,244.24,1.0,245.24,NA
+"Because my pump is not waterproof, so I can't
+take it with me.",245.24,2.8,248.04000000000002,fear
 "If any of you have ever done any sort of snorkelling
-or kayaking, any sort of water sports, please let me know in the comments down below how
-you have done that with an insulin pump. I would greatly appreciate it. So for my next insulin pump I'm definitely
-going to get a waterproof one, just so it's easier to do any sort of water sport.",248.04,18.969,267.009,NA
+or kayaking, any sort of water sports, please",248.04,6.5,254.54,fear
+"let me know in the comments down below how
+you have done that with an insulin pump.",254.54,4.25,258.78999999999996,fear
+I would greatly appreciate it.,258.79,1.379,260.16900000000004,fear
+"So for my next insulin pump I'm definitely
+going to get a waterproof one, just so it's",260.169,4.54,264.709,fear
+easier to do any sort of water sport.,264.709,2.3,267.009,fear
 "I feel like you also have to be less careful
-with the waterproof insulin pump than with the one I have now. You're still able to have a good beach vacation
-with type 1 diabetes. So if any of you are going on vacation soon,
-I hope you find this helpful and you are able to enjoy your time at the beach!",267.06,15.852,282.912,NA
-Thanks again for watching. Bye!,288.12,1.5,289.62,neutral
+with the waterproof insulin pump than with",267.06,4.692,271.752,fear
+the one I have now.,271.76,1.0,272.76,NA
+"You're still able to have a good beach vacation
+with type 1 diabetes.",277.9,3.26,281.15999999999997,sad
+"So if any of you are going on vacation soon,
+I hope you find this helpful and you are able",281.22,4.7,285.92,fear
+to enjoy your time at the beach!,285.92,2.2,288.12,fear
+Thanks again for watching.,288.12,1.0,289.12,neutral
+Bye!,289.12,0.5,289.62,neutral

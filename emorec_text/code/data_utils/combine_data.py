@@ -16,7 +16,9 @@ def combine_transcripts(df_transcription,
     num_rows = int(np.ceil(df_transcription.shape[0]/n_comb))
     for i in range(num_rows):
         start = df_transcription.iloc[i*n_comb]["start"]
-        duration = df_transcription.iloc[i*n_comb:(i+1)*n_comb]["duration"].sum()
+        end_idx = (i+1)*n_comb-1 if (i+1)*n_comb < df_emotion.shape[0] else df_emotion.shape[0] - 1
+        end = df_transcription.iloc[end_idx]["start"] + df_transcription.iloc[end_idx]["duration"]
+        duration = end-start
         text = " ".join(list(df_transcription.iloc[i*n_comb:(i+1)*n_comb]["text"]))
         df_emotion = df_emotion.append({"start": start, "duration": duration, "text": text}, ignore_index=True)
 
@@ -30,6 +32,7 @@ def combine_data():
     list_common_videos = list(set(list_transcriptions).intersection(set(list_video_emotions)))
 
     for video_id in list_common_videos:
+        # read the emotion files and transcriptions
         df_video_emotions = pd.read_csv(f"{config.BASE_PATH}/data/video_emotions/{video_id}")
         df_transcription = pd.read_csv(f"{config.BASE_PATH}/data/transcription_storage/{video_id}")
         df_video_emotions.fillna("NA", inplace=True)
@@ -40,8 +43,8 @@ def combine_data():
         df_video_emotions = df_video_emotions.sort_values(by="frame")
 
         # majority voting in emotions
-        df_emotion = combine_transcripts(df_transcription)
-        # df_emotion = copy.deepcopy(df_transcription)
+        # df_emotion = combine_transcripts(df_transcription)
+        df_emotion = copy.deepcopy(df_transcription)
         df_emotion["end"] = df_emotion["start"] + df_emotion["duration"]
 
         start_time = list(df_emotion["start"])
@@ -49,6 +52,7 @@ def combine_data():
         list_dominant_emotions = []
 
         for (start, end) in zip(start_time, end_time):
+            # collect the dominant emotion from start_time to end_time
             cur_start_time = int(start)
             cur_end_time = int(end)
             list_cur_dominant_emotions = list(df_video_emotions[df_video_emotions["frame"].between(cur_start_time,

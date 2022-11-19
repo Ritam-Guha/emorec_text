@@ -1,88 +1,216 @@
 text,start,duration,end,dominant_emotion
-"(gun shoots) (gun shoots) (boards smashing)
-- This is Tomasz Biernacki, and this is the quick video
-on diabetic foot ulcers. What causes them? How
-to take care of them?",0.759,9.051000000000002,9.810000000000002,angry
-What your podiatrist can do for you? Is it worth going to see a podiatrist? Spoiler alert. Yes! And we're starting right now. (upbeat music),9.81,9.015,18.825000000000003,angry
+(gun shoots),0.759,1.459,2.218,NA
+(gun shoots),2.218,1.172,3.3899999999999997,NA
+"(boards smashing)
+- This is Tomasz Biernacki,",3.39,1.61,5.0,NA
+"and this is the quick video
+on diabetic foot ulcers.",5.0,2.6,7.6,neutral
+"What causes them? How
+to take care of them?",7.6,2.21,9.809999999999999,neutral
+What your podiatrist can do for you?,9.81,1.71,11.52,neutral
+Is it worth going to see a podiatrist?,11.52,1.689,13.209,neutral
+Spoiler alert. Yes!,13.209,1.861,15.07,NA
+And we're starting right now.,15.07,1.172,16.242,NA
+(upbeat music),16.242,2.583,18.825000000000003,NA
 "Guys, thank you so much
-for watching this video. We appreciate your likes,
-your subscribes, your comment. We really love hearing
-if this stuff helps. It really makes a big difference for us. So thank you.
-(mouse clicks)",20.653,10.187000000000001,30.84,angry
-"What causes diabetic foot ulcers? Number one is diabetes for a long time that's not controlled. This leads to lack of sensation
-on the bottom of your foot. So what happens is",30.84,11.06,41.9,fear
+for watching this video.",20.653,2.417,23.07,neutral
+"We appreciate your likes,
+your subscribes, your comment.",23.07,2.81,25.88,neutral
+"We really love hearing
+if this stuff helps.",25.88,2.16,28.04,neutral
+It really makes a big difference for us.,28.04,1.71,29.75,neutral
+"So thank you.
+(mouse clicks)",29.75,1.09,30.84,neutral
+What causes diabetic foot ulcers?,30.84,2.13,32.97,neutral
+Number one is diabetes for a long time,32.97,3.1,36.07,neutral
+that's not controlled.,36.07,1.172,37.242,neutral
+"This leads to lack of sensation
+on the bottom of your foot.",37.242,3.128,40.37,neutral
+So what happens is,40.37,1.53,41.9,neutral
 "you're putting so much
-pressure on your toes. Your shoes can be squeezing
-the front of your foot. It can be causing rubbing, blisters, and you're not feeling it. The problem is you think you feel it,",41.9,11.450000000000001,53.35,NA
-"but you don't feel it as a diabetic. Problem number two is blood flow. As a diabetic, as you have diabetes for a long time, your blood vessels narrow.",53.35,9.69,63.04,NA
-"You're not getting as much blood flow as when you were a teenager. You're not healing as quickly. When little kids get a cut, they heal it like that.
-(fingers snap)",63.04,7.489999999999999,70.53,neutral
+pressure on your toes.",41.9,2.56,44.46,neutral
+"Your shoes can be squeezing
+the front of your foot.",44.46,2.83,47.29,neutral
+"It can be causing rubbing, blisters,",47.29,2.48,49.769999999999996,neutral
+and you're not feeling it.,49.77,1.41,51.18,neutral
+"The problem is you think you feel it,",51.18,2.17,53.35,neutral
+but you don't feel it as a diabetic.,53.35,2.67,56.02,neutral
+Problem number two is blood flow.,56.02,1.91,57.93,neutral
+"As a diabetic,",57.93,0.97,58.9,neutral
+"as you have diabetes for a long time,",58.9,2.07,60.97,neutral
+your blood vessels narrow.,60.97,2.07,63.04,neutral
+You're not getting as much blood flow,63.04,1.8,64.84,surprise
+as when you were a teenager.,64.84,1.13,65.97,surprise
+You're not healing as quickly.,65.97,1.69,67.66,neutral
+"When little kids get a cut,",67.66,1.41,69.07,neutral
+"they heal it like that.
+(fingers snap)",69.07,1.46,70.52999999999999,neutral
 "When adults get a cut, it
-takes months and months. I have some people that it
-can take them six months to heal a wound that a
-little kid would heal in maybe a week or less. Maybe that's an exaggeration,
-but it feels like that.",70.53,12.34,82.87,angry
-"Number three is pressure. Listen, when you're a teenager
-who doesn't have diabetes, you're usually pretty light. People who are diabetics
-and have foot wounds are usually pretty heavy.",82.87,10.1,92.97,neutral
-"They usually don't wear the best shoes. They usually don't like wearing shoes, and they usually don't
-have normal-shaped feet. They don't have flexibility. That causes a lot of pressure
-every time they step,",92.97,10.82,103.78999999999999,neutral
-"bruising, pounding. Their toes are rubbing. That's the third part of the
-triangle, is lack of sensation, poor blood flow, and high pressure. And number four is an injury.",103.79,11.88,115.67,neutral
-"Sometimes something hits you. Sometimes a car runs you over, but that's not the most common cause. But sometimes, that's what
-makes people come into the ER, and that's what they blame.",115.67,9.49,125.16,neutral
-"But it's usually those first three that cause the problem to start. So what's the problem with an ulcer? If you have an ulcer for long enough, it's gonna give you an infection.",125.16,8.45,133.60999999999999,neutral
-"You're gonna end up in the hospital, and eventually, it ends up in your bone, and eventually, you could lose your toe, the front of your foot, or your leg. Don't wait.",133.61,8.593,142.203,neutral
+takes months and months.",70.53,3.48,74.01,neutral
+"I have some people that it
+can take them six months",74.01,2.69,76.7,neutral
+"to heal a wound that a
+little kid would heal",76.7,2.52,79.22,neutral
+in maybe a week or less.,79.22,1.34,80.56,neutral
+"Maybe that's an exaggeration,
+but it feels like that.",80.56,2.31,82.87,neutral
+Number three is pressure.,82.87,1.46,84.33,neutral
+"Listen, when you're a teenager
+who doesn't have diabetes,",84.33,3.08,87.41,neutral
+you're usually pretty light.,87.41,1.37,88.78,neutral
+"People who are diabetics
+and have foot wounds",88.78,2.13,90.91,neutral
+are usually pretty heavy.,90.91,2.06,92.97,neutral
+They usually don't wear the best shoes.,92.97,1.93,94.9,neutral
+"They usually don't like wearing shoes,",94.9,1.36,96.26,neutral
+"and they usually don't
+have normal-shaped feet.",96.26,3.19,99.45,neutral
+They don't have flexibility.,99.45,1.38,100.83,neutral
+"That causes a lot of pressure
+every time they step,",100.83,2.96,103.78999999999999,neutral
+"bruising, pounding.",103.79,1.429,105.21900000000001,neutral
+Their toes are rubbing.,105.219,1.921,107.14,neutral
+"That's the third part of the
+triangle, is lack of sensation,",107.14,4.78,111.92,neutral
+"poor blood flow, and high pressure.",111.92,2.03,113.95,neutral
+And number four is an injury.,113.95,1.72,115.67,neutral
+Sometimes something hits you.,115.67,1.23,116.9,neutral
+"Sometimes a car runs you over,",116.9,1.368,118.268,surprise
+but that's not the most common cause.,118.268,2.452,120.72,neutral
+"But sometimes, that's what
+makes people come into the ER,",120.72,3.41,124.13,neutral
+and that's what they blame.,124.13,1.03,125.16,neutral
+But it's usually those first three,125.16,1.57,126.72999999999999,neutral
+that cause the problem to start.,126.73,1.677,128.407,neutral
+So what's the problem with an ulcer?,128.407,2.053,130.46,neutral
+"If you have an ulcer for long enough,",130.46,1.48,131.94,neutral
+it's gonna give you an infection.,131.94,1.67,133.60999999999999,neutral
+"You're gonna end up in the hospital,",133.61,1.56,135.17000000000002,neutral
+"and eventually, it ends up in your bone,",135.17,1.69,136.85999999999999,neutral
+"and eventually, you could lose your toe,",136.86,2.23,139.09,neutral
+"the front of your foot, or your leg.",139.09,2.28,141.37,neutral
+Don't wait.,141.37,0.833,142.203,neutral
 "Come see your podiatrist
-and check the forms below if you're in Southern Michigan. When do you come see a podiatrist? What we would do is take your blood work. How's your blood sugar?",142.203,9.1,151.303,neutral
-"What are your health conditions like? What can we fix easily? What does your x-ray look
-like? Are you wearing shoes? Do you have diabetic shoes?
-Do you need a CT scan? Do you need an MRI?",151.303,10.107,161.41,neutral
+and check the forms below",142.203,2.807,145.01,neutral
+if you're in Southern Michigan.,145.01,1.75,146.76,happy
+When do you come see a podiatrist?,146.76,2.13,148.89,neutral
+What we would do is take your blood work.,148.89,1.58,150.47,neutral
+How's your blood sugar?,150.47,0.833,151.303,neutral
+What are your health conditions like?,151.303,1.787,153.09,neutral
+What can we fix easily?,153.09,2.07,155.16,neutral
+"What does your x-ray look
+like? Are you wearing shoes?",155.16,2.25,157.41,neutral
+"Do you have diabetic shoes?
+Do you need a CT scan?",157.41,2.85,160.26,neutral
+Do you need an MRI?,160.26,1.15,161.41,surprise
 "Can we get you an
-ultrasound in the office? It's all about that workup and history. There's usually very correctable things, and we need to address the risk factors. And we also work in our office
-with a vascular specialist",161.41,12.74,174.15,neutral
+ultrasound in the office?",161.41,2.24,163.65,neutral
+It's all about that workup and history.,163.65,2.31,165.96,neutral
+"There's usually very correctable things,",165.96,2.15,168.11,neutral
+and we need to address the risk factors.,168.11,2.52,170.63000000000002,neutral
+"And we also work in our office
+with a vascular specialist",170.63,3.52,174.15,neutral
 "who can schedule you for an
-evaluation of the blood vessels and potentially correct those. So you get better blood flow. You get pressure off there. You're already getting healthier.",174.15,9.190000000000001,183.34,neutral
-"You're losing weight. That's the trick. That's how you get rid of your foot ulcer with your podiatrist. So another thing we do is offloading. If you have a wound, you
-have to clean up the wound.",183.34,10.989999999999998,194.33,neutral
-"You have to put a nice addressing on it. You have to evaluate it, and measure it, and make sure the risk
-factors are taken care of. But a boot like this, look it. It holds your ankle.",194.33,8.09,202.42000000000002,neutral
-"It takes pressure off your heel. It takes pressure off
-the front of your foot. It has a rocker bottom
-so that you can walk. Sometimes you need a scooter.
-Sometimes you need a walker; sometimes you need to be in the hospital",202.42,11.57,213.98999999999998,neutral
-"and a nursing home for a little bit if you can't move, if
-you have back problems, hip problems. For a lot of people, if they can't fit in the
-boot, I will make a cast.",213.99,7.596,221.586,neutral
+evaluation of the blood vessels",174.15,3.81,177.96,neutral
+and potentially correct those.,177.96,1.39,179.35,neutral
+So you get better blood flow.,179.35,1.39,180.73999999999998,neutral
+You get pressure off there.,180.74,1.23,181.97,neutral
+You're already getting healthier.,181.97,1.37,183.34,neutral
+You're losing weight. That's the trick.,183.34,2.4,185.74,happy
+That's how you get rid of your foot ulcer,185.74,1.59,187.33,fear
+with your podiatrist.,187.33,1.09,188.42000000000002,happy
+So another thing we do is offloading.,188.42,2.28,190.7,neutral
+"If you have a wound, you
+have to clean up the wound.",190.7,3.63,194.32999999999998,neutral
+You have to put a nice addressing on it.,194.33,1.64,195.97,neutral
+"You have to evaluate it, and measure it,",195.97,1.72,197.69,neutral
+"and make sure the risk
+factors are taken care of.",197.69,2.04,199.73,neutral
+"But a boot like this, look it.",199.73,1.68,201.41,neutral
+It holds your ankle.,201.41,1.01,202.42,neutral
+It takes pressure off your heel.,202.42,1.18,203.6,neutral
+"It takes pressure off
+the front of your foot.",203.6,1.83,205.43,neutral
+"It has a rocker bottom
+so that you can walk.",205.43,2.97,208.4,neutral
+"Sometimes you need a scooter.
+Sometimes you need a walker;",208.4,3.79,212.19,neutral
+sometimes you need to be in the hospital,212.19,1.8,213.99,fear
+and a nursing home for a little bit,213.99,1.13,215.12,neutral
+"if you can't move, if
+you have back problems,",215.12,1.67,216.79,neutral
+hip problems.,216.79,0.86,217.65,neutral
+"For a lot of people,",217.65,1.06,218.71,neutral
+"if they can't fit in the
+boot, I will make a cast.",218.71,2.876,221.586,neutral
 "And what happens is it's
-a total contact cast. If you have pressure, so a wound, I will make a donut around it,
-then put padding everywhere except for that wound. So that lets people walk
-in this total contact cast",221.586,12.693999999999999,234.28,neutral
-"with very little pressure on that wound so that the wound can heal. They can move around. The tough part is it's
-hard taking a shower. It's hard changing your extra tight pants,",234.28,8.61,242.89,neutral
+a total contact cast.",221.586,3.094,224.68,neutral
+"If you have pressure, so a wound,",224.68,1.85,226.53,neutral
+"I will make a donut around it,
+then put padding everywhere",226.53,3.27,229.8,neutral
+except for that wound.,229.8,1.44,231.24,neutral
+"So that lets people walk
+in this total contact cast",231.24,3.04,234.28,neutral
+with very little pressure on that wound,234.28,2.61,236.89000000000001,neutral
+so that the wound can heal.,236.89,1.46,238.35,neutral
+They can move around.,238.35,0.833,239.183,neutral
+"The tough part is it's
+hard taking a shower.",239.183,1.507,240.69,neutral
+"It's hard changing your extra tight pants,",240.69,2.2,242.89,neutral
 "like your skinny jeans,
-but it can save your leg. Seek care if you're red, hot, painful. If you have pus coming
-out of there, if it's red, if your leg looks like a balloon, if you feel like you're
-gonna vomit, go to the ER.",242.89,13.23,256.12,neutral
-"And when you go to the ER, usually they call a podiatrist
-like myself at my hospital, at the very least, where we evaluate it, we can clean it out. We make sure it's not in the bone.",256.12,9.440000000000001,265.56,neutral
-"If it is in the bone, we can take a sample of the
-bone or clean up the bone and save the rest of the foot. And that's what needs to
-be done in some cases. The longer you wait, the worse
-the treatment usually is.",265.56,13.420000000000002,278.98,neutral
-"So come in early, call your podiatrist early. If you're in Michigan, let us come see you. We have a lot of options.",278.98,7.22,286.20000000000005,NA
+but it can save your leg.",242.89,3.474,246.36399999999998,neutral
+"Seek care if you're red, hot, painful.",246.364,3.216,249.58,neutral
+"If you have pus coming
+out of there, if it's red,",249.58,1.94,251.52,neutral
+"if your leg looks like a balloon,",251.52,1.57,253.09,neutral
+"if you feel like you're
+gonna vomit, go to the ER.",253.09,3.03,256.12,neutral
+"And when you go to the ER,",256.12,1.32,257.44,surprise
+"usually they call a podiatrist
+like myself at my hospital,",257.44,3.43,260.87,neutral
+"at the very least, where we evaluate it,",260.87,2.23,263.1,neutral
+we can clean it out.,263.1,1.05,264.15000000000003,neutral
+We make sure it's not in the bone.,264.15,1.41,265.56,happy
+"If it is in the bone,",265.56,1.29,266.85,neutral
+"we can take a sample of the
+bone or clean up the bone",266.85,3.36,270.21000000000004,neutral
+and save the rest of the foot.,270.21,2.35,272.56,NA
+"And that's what needs to
+be done in some cases.",272.56,2.14,274.7,NA
+"The longer you wait, the worse
+the treatment usually is.",274.7,4.28,278.97999999999996,NA
+"So come in early,",278.98,1.07,280.05,NA
+call your podiatrist early.,280.05,1.79,281.84000000000003,NA
+"If you're in Michigan,",281.84,1.21,283.04999999999995,NA
+let us come see you.,283.05,1.64,284.69,NA
+We have a lot of options.,284.69,1.51,286.2,NA
 "There's a lot of great
-podiatrists everywhere. willing to help people with
-their diabetic foot wounds. So the longer you wait,
-the more risk you take. Stuff to do at home, you gotta be careful, but always
-check your feet every day.",286.2,10.7,296.9,NA
-"Wear good shoes, good fitting shoes. Use a mirror if you can't
-see the bottom of your foot. Check between your toes,
-anything open, anything red. anything painful, is terrible for you. Even fungal toenails.",296.9,12.79,309.69,NA
+podiatrists everywhere.",286.2,2.04,288.24,NA
+"willing to help people with
+their diabetic foot wounds.",288.24,2.11,290.35,NA
+"So the longer you wait,
+the more risk you take.",290.35,2.43,292.78000000000003,NA
+"Stuff to do at home,",292.78,1.05,293.83,NA
+"you gotta be careful, but always
+check your feet every day.",293.83,3.07,296.9,NA
+"Wear good shoes, good fitting shoes.",296.9,2.59,299.48999999999995,NA
+"Use a mirror if you can't
+see the bottom of your foot.",299.49,2.13,301.62,NA
+"Check between your toes,
+anything open, anything red.",301.62,4.01,305.63,NA
+"anything painful, is terrible for you.",305.63,2.77,308.4,NA
+Even fungal toenails.,308.4,1.29,309.69,NA
 "They're not normal. That
-could lead to problems. Go check with your podiatrist. And if your feet are numb, and you wanna do something
-about the numbness, we have a great video up here that goes on",309.69,11.600000000000001,321.29,NA
-"about diabetic peripheral neuropathy. Hit the subscribe for
-amazing foot content. (indistinct) Everything for the foot and ankle, do it safely and cost effectively.",321.29,10.120000000000001,331.41,NA
+could lead to problems.",309.69,2.85,312.54,NA
+Go check with your podiatrist.,312.54,1.78,314.32,NA
+"And if your feet are numb,",314.32,1.52,315.84,NA
+"and you wanna do something
+about the numbness,",315.84,2.16,318.0,NA
+we have a great video up here that goes on,318.0,3.29,321.29,NA
+about diabetic peripheral neuropathy.,321.29,2.06,323.35,NA
+"Hit the subscribe for
+amazing foot content.",323.35,2.374,325.72400000000005,NA
+(indistinct),325.724,1.316,327.03999999999996,NA
+"Everything for the foot and ankle,",327.04,1.71,328.75,NA
+do it safely and cost effectively.,328.75,2.66,331.41,NA
 "We've got you covered, so subscribe.",331.41,1.8,333.21000000000004,NA

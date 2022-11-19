@@ -1,19 +1,91 @@
 text,start,duration,end,dominant_emotion
-what is the glycemic load and why does it matter more than the glycemic index let's science it [Music] hey welcome to nourishment i'm dr lara,0.24,21.68,21.919999999999998,sad
-you may be familiar with the glycemic index or gi because it's frequently recommended to eat low gi foods for health the glycemic index is a method used to categorize foods based on how,11.28,23.759,35.039,sad
-they impact your blood glucose the way this works is the blood glucose response to a test food say this whole wheat bread is measured over two hours and it's compared to the blood glucose,22.96,21.281,44.241,sad
-response for a reference food like a sugar drink based on these comparisons foods can be categorized as low gi meaning that they don't raise your blood glucose much,33.68,21.12,54.8,sad
-medium gi or high gi meaning that they raise your blood glucose a lot so it follows that if you want to avoid high spikes in blood glucose that you should avoid high gi foods right,43.76,21.52,65.28,sad
-well it's a bit more complicated than that because here's the thing the method for determining the glycemic index requires eating 50 grams of digestible carbohydrate so that's 50 grams of,55.12,22.88,78.0,sad
-sucrose in the sugar drink or 50 grams of carbs minus the fiber in the whole wheat bread and depending on the test food sometimes 50 grams of carbs is a way bigger serving size than you'd ever,66.08,23.119,89.199,sad
-reasonably eat in a sitting when i did my gi experiment with dave's killer seed bread not an ad just a fan i had to eat three full slices to get 50 grams of digestible carbs that's more than i'd,77.92,24.561,102.481,sad
-usually eat this conundrum is even more striking with watermelon i'd need to eat four and a half cups of watermelon to get 50 grams of digestible carbs that's nearly an entire watermelon,90.24,21.839,112.079,sad
-previous studies have calculated the glycemic index of watermelon to be 76 which categorizes it as a high gi food but if we want a tool to help predict glycemic responses in the real world we,101.439,24.88,126.31899999999999,sad
-need to take typical serving sizes into consideration and that's where glycemic load comes in the glycemic load or gl is a ranking system that corrects the glycemic index,113.6,22.64,136.24,NA
-for the number of carbohydrates in a typical serving size to calculate the gl you simply multiply the number of digestible carbs in a serving by the gi and divide by 100 we,125.119,24.641,149.76,NA
-know that watermelon has a high gi of 76 but it's mostly water a typical 100 gram serving of watermelon has 7 grams of digestible carbs to calculate the gl we take that 7 gram,136.72,25.919999999999998,162.64,sad
-serving of carbs multiplied by the gi of 76 and divide by 100 to give us a gl of five foods are categorized into low medium or high gl where a lower gl means a serving,150.0,27.598999999999997,177.599,sad
-of food raises your blood glucose less this categorizes watermelon as a low glycemic load food so a typical serving size won't cause a huge spike in blood glucose overall the glycemic load is a,163.599,25.679,189.278,fear
-better reflection of expected blood glucose responses to foods based on how much we usually eat in a serving that makes it more useful than the glycemic index there are still some more,176.959,20.402,197.361,NA
-complications with the applicability of the glycemic load in the real world and i dig into them in my glycemic responses video series linked here that's what science tastes like thanks for tuning in,187.04,21.438,208.47799999999998,NA
-to nourishable check out all my references in the video description and be sure to subscribe to stay up to date on all things nutrition [Music],198.159,21.562,219.721,NA
+what is the glycemic load and why does,0.24,4.72,4.96,neutral
+it matter more than the glycemic index,2.48,3.44,5.92,neutral
+let's science it,4.96,4.0,8.96,sad
+[Music],5.92,5.36,11.280000000000001,sad
+hey welcome to nourishment i'm dr lara,8.96,4.16,13.120000000000001,sad
+you may be familiar with the glycemic,11.28,4.479,15.759,neutral
+index or gi because it's frequently,13.12,5.2,18.32,neutral
+recommended to eat low gi foods for,15.759,5.121,20.880000000000003,neutral
+health the glycemic index is a method,18.32,4.64,22.96,neutral
+used to categorize foods based on how,20.88,4.319,25.198999999999998,neutral
+they impact your blood glucose the way,22.96,4.319,27.279,neutral
+this works is the blood glucose response,25.199,4.16,29.359,sad
+to a test food say this whole wheat,27.279,4.96,32.239,sad
+bread is measured over two hours and,29.359,4.321,33.68,sad
+it's compared to the blood glucose,32.239,3.521,35.76,NA
+response for a reference food like a,33.68,4.64,38.32,NA
+sugar drink based on these comparisons,35.76,5.2,40.96,neutral
+foods can be categorized as low gi,38.32,4.16,42.480000000000004,neutral
+meaning that they don't raise your blood,40.96,2.8,43.76,neutral
+glucose much,42.48,4.32,46.8,sad
+medium gi or high gi meaning that they,43.76,5.2,48.96,neutral
+raise your blood glucose a lot so it,46.8,3.919,50.718999999999994,neutral
+follows that if you want to avoid high,48.96,3.599,52.559,neutral
+spikes in blood glucose that you should,50.719,4.401,55.120000000000005,neutral
+avoid high gi foods right,52.559,4.401,56.959999999999994,NA
+well it's a bit more complicated than,55.12,4.0,59.12,NA
+that because here's the thing the method,56.96,4.16,61.120000000000005,NA
+for determining the glycemic index,59.12,4.56,63.68,happy
+requires eating 50 grams of digestible,61.12,4.96,66.08,sad
+carbohydrate so that's 50 grams of,63.68,5.2,68.88,sad
+sucrose in the sugar drink or 50 grams,66.08,5.2,71.28,neutral
+of carbs minus the fiber in the whole,68.88,4.72,73.6,neutral
+wheat bread and depending on the test,71.28,4.64,75.92,neutral
+food sometimes 50 grams of carbs is a,73.6,4.32,77.91999999999999,NA
+way bigger serving size than you'd ever,75.92,4.239,80.159,NA
+reasonably eat in a sitting when i did,77.92,4.559,82.479,sad
+my gi experiment with dave's killer seed,80.159,5.201,85.36,sad
+bread not an ad just a fan i had to eat,82.479,5.521,88.0,neutral
+three full slices to get 50 grams of,85.36,4.88,90.24,neutral
+digestible carbs that's more than i'd,88.0,4.4,92.4,neutral
+usually eat this conundrum is even more,90.24,4.64,94.88,neutral
+striking with watermelon i'd need to eat,92.4,4.24,96.64,neutral
+four and a half cups of watermelon to,94.88,4.48,99.36,neutral
+get 50 grams of digestible carbs that's,96.64,4.799,101.43900000000001,neutral
+nearly an entire watermelon,99.36,3.68,103.04,neutral
+previous studies have calculated the,101.439,4.801,106.24,neutral
+glycemic index of watermelon to be 76,103.04,6.64,109.68,NA
+which categorizes it as a high gi food,106.24,5.28,111.52,sad
+but if we want a tool to help predict,109.68,3.92,113.60000000000001,sad
+glycemic responses in the real world we,111.52,4.239,115.759,NA
+need to take typical serving sizes into,113.6,3.6,117.19999999999999,NA
+consideration,115.759,4.0,119.759,NA
+and that's where glycemic load comes in,117.2,5.76,122.96000000000001,NA
+the glycemic load or gl is a ranking,119.759,5.36,125.119,NA
+system that corrects the glycemic index,122.96,3.92,126.88,NA
+for the number of carbohydrates in a,125.119,3.601,128.72,NA
+typical serving size,126.88,4.48,131.35999999999999,NA
+to calculate the gl you simply multiply,128.72,4.48,133.2,NA
+the number of digestible carbs in a,131.36,5.36,136.72000000000003,NA
+serving by the gi and divide by 100 we,133.2,6.72,139.92,NA
+know that watermelon has a high gi of 76,136.72,6.239,142.959,neutral
+but it's mostly water a typical 100 gram,139.92,5.679,145.599,neutral
+serving of watermelon has 7 grams of,142.959,4.321,147.28,neutral
+digestible carbs,145.599,4.401,150.0,neutral
+to calculate the gl we take that 7 gram,147.28,5.28,152.56,neutral
+serving of carbs multiplied by the gi of,150.0,6.319,156.319,neutral
+76 and divide by 100 to give us a gl of,152.56,4.8,157.36,sad
+five,156.319,3.92,160.23899999999998,neutral
+foods are categorized into low medium or,157.36,6.239,163.59900000000002,neutral
+high gl where a lower gl means a serving,160.239,6.321,166.56,NA
+of food raises your blood glucose less,163.599,5.36,168.959,fear
+this categorizes watermelon as a low,166.56,5.44,172.0,NA
+glycemic load food so a typical serving,168.959,5.441,174.4,NA
+size won't cause a huge spike in blood,172.0,4.959,176.959,NA
+glucose overall the glycemic load is a,174.4,4.479,178.87900000000002,NA
+better reflection of expected blood,176.959,4.0,180.959,NA
+glucose responses to foods based on how,178.879,4.561,183.44,NA
+much we usually eat in a serving that,180.959,4.321,185.28,NA
+makes it more useful than the glycemic,183.44,3.6,187.04,NA
+index there are still some more,185.28,3.92,189.2,NA
+complications with the applicability of,187.04,4.64,191.67999999999998,NA
+the glycemic load in the real world and,189.2,4.72,193.92,NA
+i dig into them in my glycemic responses,191.68,4.639,196.31900000000002,NA
+video series linked here that's what,193.92,4.239,198.159,NA
+science tastes like thanks for tuning in,196.319,3.2,199.51899999999998,NA
+to nourishable check out all my,198.159,3.281,201.44,NA
+references in the video description and,199.519,3.761,203.28,NA
+be sure to subscribe to stay up to date,201.44,3.56,205.0,NA
+on all things nutrition,203.28,6.34,209.62,NA
+[Music],205.0,4.62,209.62,NA

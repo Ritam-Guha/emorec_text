@@ -1,284 +1,492 @@
 text,start,duration,end,dominant_emotion
 "Cerebral Edema in Diabetic Ketoacidosis, by
-Dr. Michael Agus. Hi, and welcome. I'll be speaking today about
-diabetic ketoacidosis or DKA. My name is Michael Agus. I am a pediatric intensive care doctor
-and a Pediatric Endocrinologist at Boston Children's Hospital. I'm the Director of the
-Medicine Critical Care program here at Children's and an Assistant Professor at Harvard Medical
-School.",23.18,29.79,52.97,angry
+Dr. Michael Agus.",23.18,5.54,28.72,NA
+"Hi, and welcome. I'll be speaking today about
+diabetic ketoacidosis or DKA. My name is Michael",28.72,8.83,37.55,NA
+"Agus. I am a pediatric intensive care doctor
+and a Pediatric Endocrinologist at Boston",37.55,5.97,43.519999999999996,NA
+"Children's Hospital. I'm the Director of the
+Medicine Critical Care program here at Children's",43.52,5.02,48.540000000000006,NA
+"and an Assistant Professor at Harvard Medical
+School.",48.54,4.43,52.97,sad
 "Now, what does a patient succumb from? What
-do they die of? In general, cerebral edema. Literature Review. There have been three major studies in the
-literature over the past several years, fairly large studies, but retrospective, totaling
-about 11,000 patients. And together, they seem to demonstrate that there's about a 1%
-incidence of significant cerebral edema among",52.97,26.979999999999997,79.94999999999999,angry
+do they die of? In general, cerebral edema.",52.97,10.03,63.0,NA
+Literature Review.,63.0,1.18,64.18,NA
+"There have been three major studies in the
+literature over the past several years, fairly",64.18,5.579,69.759,NA
+"large studies, but retrospective, totaling
+about 11,000 patients. And together, they",69.759,5.431,75.19,NA
+"seem to demonstrate that there's about a 1%
+incidence of significant cerebral edema among",75.19,4.76,79.95,NA
 "patients who present with DKA. Among those
-who get significant cerebral edema, about 40% will die or have a severe neurologic outcome. If you do the math, that's a net population
-mortality of about 0.4%. A more recent study by a colleague of mine here at Children's,
-Dr. DeCourcey, looked at a PHIS database review. PHIS is an administrative database we have
-access to in the US. Was able to look at a",79.95,29.33,109.28,NA
+who get significant cerebral edema, about",79.95,5.72,85.67,NA
+40% will die or have a severe neurologic outcome.,85.67,2.949,88.619,NA
+"If you do the math, that's a net population
+mortality of about 0.4%. A more recent study",88.619,8.911,97.53,NA
+"by a colleague of mine here at Children's,
+Dr. DeCourcey, looked at a PHIS database review.",97.53,6.089,103.619,NA
+"PHIS is an administrative database we have
+access to in the US. Was able to look at a",103.619,5.661,109.28,NA
 "total of just over 37,000 DKA patients in
-a single study. And to our surprise, we found a significant
-increased incidence of significant cerebral edema defined as edema that prompted therapy
-of either Mannitol or hypertonic saline by a practicing clinician. Fourfold increase
-in the incidence, but a 10% mortality. So a significantly reduced mortality. And on
-the face, that looks like good news. We're",109.28,32.12,141.4,NA
+a single study.",109.28,5.1,114.38,NA
+"And to our surprise, we found a significant
+increased incidence of significant cerebral",114.38,5.02,119.39999999999999,NA
+"edema defined as edema that prompted therapy
+of either Mannitol or hypertonic saline by",119.4,8.469,127.869,NA
+"a practicing clinician. Fourfold increase
+in the incidence, but a 10% mortality. So",127.869,9.611,137.48,NA
+"a significantly reduced mortality. And on
+the face, that looks like good news. We're",137.48,3.92,141.39999999999998,NA
 "treating more patients and they're doing better.
-But again, when one does the math, basically we haven't changed the ultimate mortality
-at all. We're treating four times as many patients.
-They're one quarter as likely to have a bad outcome, and ultimately 0.4% population mortality.
-So despite our advances over the decades, it's not clear that we've made a major impact
-in overall mortality. But these numbers are",141.4,28.089,169.489,NA
+But again, when one does the math, basically",141.4,4.66,146.06,NA
+"we haven't changed the ultimate mortality
+at all.",146.06,2.66,148.72,NA
+"We're treating four times as many patients.
+They're one quarter as likely to have a bad",148.72,6.28,155.0,NA
+"outcome, and ultimately 0.4% population mortality.
+So despite our advances over the decades,",155.0,7.22,162.22,NA
+"it's not clear that we've made a major impact
+in overall mortality. But these numbers are",162.22,7.269,169.489,NA
 "low, and it's easy to have had even a 30%
-or 40% effect on mortality and have that really be difficult to detect with these studies. Risk Factors for Cerebral Edema. Now, what are the known risk factors for cerebral
-edema? Well, again back to Dr. Glaser's paper, from 2001. Now, she identified four major
-risk factors in children with significant",169.489,25.041,194.53,NA
+or 40% effect on mortality and have that really",169.489,6.81,176.299,NA
+be difficult to detect with these studies.,176.299,3.66,179.959,NA
+Risk Factors for Cerebral Edema.,179.959,2.201,182.16,NA
+"Now, what are the known risk factors for cerebral
+edema? Well, again back to Dr. Glaser's paper,",182.16,6.82,188.98,NA
+"from 2001. Now, she identified four major
+risk factors in children with significant",188.98,5.55,194.53,NA
 "cerebral edema. Three of them are shown here.
-A high BUN, a low PaCO2, and treatment with bicarbonate. Now we know that a high BUN is
-associated with someone who's dehydrated. How about a low PaCO2? That's someone who
-has a very low pH. And they're hyperventilating and dropping their PaCO2 so that they can
-blow off some of that additional acid. And who gets treated with bicarbonate? Those who
-the lowest pH.",194.53,31.78,226.31,NA
+A high BUN, a low PaCO2, and treatment with",194.53,8.769,203.299,NA
+"bicarbonate. Now we know that a high BUN is
+associated with someone who's dehydrated.",203.299,7.601,210.9,NA
+"How about a low PaCO2? That's someone who
+has a very low pH. And they're hyperventilating",210.9,5.489,216.389,NA
+"and dropping their PaCO2 so that they can
+blow off some of that additional acid. And",216.389,5.241,221.63,NA
+"who gets treated with bicarbonate? Those who
+the lowest pH.",221.63,4.68,226.31,NA
 "So although these were independent risk factors,
-the reality is that all three of them correlate, really quite directly, with severity of illness.
-And while they may be independent risk factors, as clinicians, we look at patients and are
-message is the more dehydrated, the more acidotic they are, the more at risk they are. The fourth
-risk factor was the one that really kind of threw us for a loop. Fourth risk factor, if
-you notice, demonstrates a lower relative",226.31,31.239000000000004,257.549,NA
+the reality is that all three of them correlate,",226.31,5.95,232.26,NA
+"really quite directly, with severity of illness.
+And while they may be independent risk factors,",232.26,6.009,238.269,NA
+"as clinicians, we look at patients and are
+message is the more dehydrated, the more acidotic",238.269,6.701,244.97,NA
+"they are, the more at risk they are. The fourth
+risk factor was the one that really kind of",244.97,5.65,250.62,NA
+"threw us for a loop. Fourth risk factor, if
+you notice, demonstrates a lower relative",250.62,6.929,257.549,NA
 "risk when the serum sodium rises by more than
-5.8 per hour. The prior three risk factors I showed you, if they were true, the relative
-risk is increased. In this case, when it's true the relative
-risk decreases. What that suggests is that a serum sodium rise of 5.8 per hour is a good
-thing. Now, we measure serum sodium every two hours. And that would mean that we would
-have a change of 12, almost 12 millimoles",257.549,36.501,294.04999999999995,NA
+5.8 per hour. The prior three risk factors",257.549,10.061,267.60999999999996,NA
+"I showed you, if they were true, the relative
+risk is increased.",267.61,4.13,271.74,NA
+"In this case, when it's true the relative
+risk decreases. What that suggests is that",271.74,4.489,276.229,NA
+"a serum sodium rise of 5.8 per hour is a good
+thing. Now, we measure serum sodium every",276.229,8.141,284.37,NA
+"two hours. And that would mean that we would
+have a change of 12, almost 12 millimoles",284.37,9.68,294.05,NA
 "per liter, over a two hour period. And that means
-patient comes in with serum sodium 125, you check it again a couple hours later, it's
-137. That is an extraordinary change. And as a clinician, I would posit that this is
-not, in my experience, a degree of change in serum sodium that we see very commonly
-at all. So what do we with this risk factor? Does it only apply when the serum sodium rises
-so dramatically to an extent that we almost",294.05,29.889,323.939,NA
-"never see? Instead, we can look at it from a little bit
-of a different point of view. If you come over here and look at this graph I'll show
-you what I mean. So if we look at the evolution of sodium and glucose concentrations over
-time, in the setting of DKA, we can think about it from a point of view of being above
-and below normal. So if we consider this to",323.939,26.621,350.56,NA
+patient comes in with serum sodium 125, you",294.05,5.649,299.699,NA
+"check it again a couple hours later, it's
+137. That is an extraordinary change. And",299.699,5.97,305.66900000000004,NA
+"as a clinician, I would posit that this is
+not, in my experience, a degree of change",305.669,6.87,312.539,NA
+"in serum sodium that we see very commonly
+at all. So what do we with this risk factor?",312.539,4.831,317.37,NA
+"Does it only apply when the serum sodium rises
+so dramatically to an extent that we almost",317.37,6.569,323.939,NA
+never see?,323.939,1.051,324.99,neutral
+"Instead, we can look at it from a little bit
+of a different point of view. If you come",324.99,5.35,330.34000000000003,NA
+"over here and look at this graph I'll show
+you what I mean. So if we look at the evolution",330.34,8.289,338.62899999999996,NA
+"of sodium and glucose concentrations over
+time, in the setting of DKA, we can think",338.629,5.0,343.629,NA
+"about it from a point of view of being above
+and below normal. So if we consider this to",343.629,6.931,350.56,NA
 "be a normal range, and we start with a glucose
-concentration that is quite high, we know from our discussion that the serum sodium
-will be relatively low. And the idea in resolution of DKA is that
-as the glucose comes down into the normal range, the serum sodium ought to rise. The
-reason the serum sodium is low to begin with, you will recall, is that glucose is an osmotic
-agent that pulls water into the bloodstream,",350.56,45.278999999999996,395.839,NA
+concentration that is quite high, we know",350.56,14.12,364.68,NA
+"from our discussion that the serum sodium
+will be relatively low.",364.7,6.2,370.9,NA
+"And the idea in resolution of DKA is that
+as the glucose comes down into the normal",372.42,10.78,383.2,NA
+"range, the serum sodium ought to rise. The
+reason the serum sodium is low to begin with,",383.21,7.9,391.10999999999996,NA
+"you will recall, is that glucose is an osmotic
+agent that pulls water into the bloodstream,",391.11,6.279,397.389,NA
 "deluding everything that's in the bloodstream.
-So it's going to dilute sodium. It's going to dilute potassium and chloride as well.
-But sodium is the most obvious, the most prominent. And as glucose comes out of the extremely
-high range, into the normal range, the exact same thing ought to happen with sodium. The risk factor that we were discussing earlier,
-is when glucose begins to come down but sodium",397.389,29.352000000000004,426.741,NA
+So it's going to dilute sodium. It's going",397.389,4.101,401.49,NA
+"to dilute potassium and chloride as well.
+But sodium is the most obvious, the most prominent.",401.49,6.79,408.28000000000003,NA
+"And as glucose comes out of the extremely
+high range, into the normal range, the exact",408.28,6.59,414.86999999999995,NA
+same thing ought to happen with sodium.,414.87,2.82,417.69,NA
+"The risk factor that we were discussing earlier,
+is when glucose begins to come down but sodium",424.689,9.051,433.74,NA
 "does not come up at the same rate. If sodium
-comes up a little bit and kind of flattens out that is considered invocation of the risk
-factor that sodium has not risen fast enough. And this is considered a risk factor for developing
-significant cerebral edema. One way to follow the relationship between the hyperglycemia
-and the hyponatremia, over time, is to look at the corrected serum sodium.",433.74,41.539,475.279,NA
+comes up a little bit and kind of flattens",433.74,8.109,441.849,NA
+"out that is considered invocation of the risk
+factor that sodium has not risen fast enough.",441.849,9.551,451.4,NA
+"And this is considered a risk factor for developing
+significant cerebral edema. One way to follow",451.4,12.049,463.44899999999996,NA
+"the relationship between the hyperglycemia
+and the hyponatremia, over time, is to look",463.449,5.761,469.21000000000004,NA
+at the corrected serum sodium.,469.22,6.069,475.28900000000004,NA
 "One way to think about the sodium changes
-that we talked about are to look at a value that we refer to as the corrected sodium.
-Corrected sodium answers the question, what would the serum sodium be if glucose was normal?
-We use a formula to calculate this. And we say, we take the serum sodium, and look at
-the serum glucose, and we say, see how many 100s over 100 is the serum glucose. And multiply
-that times 2 and add it to the serum sodium.",475.3,31.25,506.55,NA
+that we talked about are to look at a value",475.3,5.679,480.979,NA
+"that we refer to as the corrected sodium.
+Corrected sodium answers the question, what",480.979,5.321,486.3,NA
+"would the serum sodium be if glucose was normal?
+We use a formula to calculate this. And we",486.3,8.049,494.349,NA
+"say, we take the serum sodium, and look at
+the serum glucose, and we say, see how many",494.349,6.22,500.569,NA
+"100s over 100 is the serum glucose. And multiply
+that times 2 and add it to the serum sodium.",500.569,5.981,506.55,NA
 "And we get our corrected sodium. For example,
-serum sodium is 125 and the blood sugar is 900. Well, that's 800 over 100. So 8 times
-2 is 16. We add 16 to the 125, we get 141. So the corrected sodium in this example is
-141, while the measured sodium is 125. A question that's often asked in the situation
-is, which is a real? Which is the real serum sodium? The answer is, very definitively,
-that the serum sodium is 125. The sodium that",506.55,37.17,543.72,NA
+serum sodium is 125 and the blood sugar is",506.55,5.96,512.51,NA
+"900. Well, that's 800 over 100. So 8 times
+2 is 16. We add 16 to the 125, we get 141.",512.51,11.279,523.789,NA
+"So the corrected sodium in this example is
+141, while the measured sodium is 125.",523.789,7.281,531.0699999999999,NA
+"A question that's often asked in the situation
+is, which is a real? Which is the real serum",531.07,5.31,536.38,NA
+"sodium? The answer is, very definitively,
+that the serum sodium is 125. The sodium that",536.38,7.34,543.72,NA
 "the brain is seeing, it's 125. What would
-the sodium be if the glucose was normal? 141. But the glucose isn't normal. The glucose
-is 900. And so, right now, the serum sodium is quite low. The way we use the measured,
-the way we use the corrected sodium to think about this risk factor is to say, the corrected
-sodium should be normal and stay normal. If, as we saw on the graph, the glucose comes
-down and the serum sodium does not rise adequately,",543.72,38.57,582.2900000000001,NA
+the sodium be if the glucose was normal? 141.",543.72,7.52,551.24,NA
+"But the glucose isn't normal. The glucose
+is 900. And so, right now, the serum sodium",551.24,5.89,557.13,NA
+"is quite low. The way we use the measured,
+the way we use the corrected sodium to think",557.13,7.98,565.11,NA
+"about this risk factor is to say, the corrected
+sodium should be normal and stay normal.",565.11,7.37,572.48,NA
+"If, as we saw on the graph, the glucose comes
+down and the serum sodium does not rise adequately,",572.48,9.81,582.29,NA
 "that should be reflected in a corrected sodium
-that is low. So if there were corrected sodium drops below 137, 138, we really need to get
-ourselves to the bedside, do a thorough neurological exam, and determine whether or not this patient
-has symptoms of significant cerebral edema. And think about treating at that point. But
-this risk factor is really only present when this the sodium does not rise sufficiently.",582.29,29.09,611.38,NA
+that is low. So if there were corrected sodium",582.29,4.78,587.0699999999999,NA
+"drops below 137, 138, we really need to get
+ourselves to the bedside, do a thorough neurological",587.07,8.15,595.22,NA
+"exam, and determine whether or not this patient
+has symptoms of significant cerebral edema.",595.22,5.95,601.1700000000001,NA
+"And think about treating at that point. But
+this risk factor is really only present when",601.17,7.69,608.86,NA
+this the sodium does not rise sufficiently.,608.86,2.52,611.38,sad
 "Now you may ask, why would I not just give
-sodium? Well, there's nothing, I don't have any data to suggest that one should not treat
-this scenario with sodium. But I will tell you that every study that has ever looked
-at rate of sodium administration has not found it to be a predictor of significant cerebral
-edema. We are physicians, and when something is low, and it's a bad sign, then our inclination
-is to treat it, to bring it up. The best example,",611.38,38.730000000000004,650.11,NA
+sodium? Well, there's nothing, I don't have",611.38,9.269,620.649,NA
+"any data to suggest that one should not treat
+this scenario with sodium. But I will tell",620.649,6.721,627.37,NA
+"you that every study that has ever looked
+at rate of sodium administration has not found",627.37,4.49,631.86,NA
+"it to be a predictor of significant cerebral
+edema. We are physicians, and when something",631.86,8.43,640.29,NA
+"is low, and it's a bad sign, then our inclination
+is to treat it, to bring it up. The best example,",640.29,9.82,650.11,NA
 "the best analogy I could think of is a patient
-with meningitis. Let's just say that an eight-year-old has
-meningitis and has a CSF white count to 10,000. Now, you know that a high CSF white count
-is a very poor prognosticator and significant risk factor. I will give you the choice. You
-can either treat this patient with ceftriaxone or you can plasmapharese the CSF. Which are
-you going to choose? You're going to choose",650.11,29.44,679.5500000000001,NA
+with meningitis.",650.11,4.229,654.339,NA
+"Let's just say that an eight-year-old has
+meningitis and has a CSF white count to 10,000.",654.339,6.42,660.759,NA
+"Now, you know that a high CSF white count
+is a very poor prognosticator and significant",660.759,7.311,668.07,NA
+"risk factor. I will give you the choice. You
+can either treat this patient with ceftriaxone",668.07,4.37,672.44,NA
+"or you can plasmapharese the CSF. Which are
+you going to choose? You're going to choose",672.44,7.11,679.5500000000001,NA
 "the ceftriaxone because you understand that
-the problem here is that there are bacteria that are eating part of the brain, and causing
-a massive amount of inflammation that is putting the patient at risk for a severe outcome.
-The white cells are only a symptom of the underlying pathology. I would posit to you that is really the exact
-same thing that's going on here. When the",679.55,22.229,701.779,NA
+the problem here is that there are bacteria",679.55,5.399,684.949,NA
+"that are eating part of the brain, and causing
+a massive amount of inflammation that is putting",684.949,5.0,689.949,NA
+"the patient at risk for a severe outcome.
+The white cells are only a symptom of the",689.949,5.541,695.49,NA
+underlying pathology.,695.49,1.67,697.16,NA
+"I would posit to you that is really the exact
+same thing that's going on here. When the",697.16,4.619,701.779,NA
 "sodium fails to rise normally it is not the
-problem. It is a symptom of the problem. And it is very likely connected to inappropriate
-ADH secretion that is triggered by an injured brain. And a brain that is becoming more and
-more, either ischemic or significant swelling with a significant pressure building up, triggering
-release of ADH, an inability to allow the kidney to clear adequate free water. That
-doesn't get any closer to a treatment approach,",701.779,38.521,740.3,NA
+problem. It is a symptom of the problem. And",701.779,6.131,707.91,NA
+"it is very likely connected to inappropriate
+ADH secretion that is triggered by an injured",707.91,9.25,717.16,NA
+"brain. And a brain that is becoming more and
+more, either ischemic or significant swelling",717.16,8.239,725.399,NA
+"with a significant pressure building up, triggering
+release of ADH, an inability to allow the",725.399,7.831,733.23,NA
+"kidney to clear adequate free water. That
+doesn't get any closer to a treatment approach,",733.23,7.07,740.3000000000001,NA
 "but it does point out that the failure of
-sodium to rise has not been shown to be a component of the pathology, rather a symptom
-or a sign of the pathology. Having said all that, when we see serum sodium fail to rise
-or a corrected sodium that begins to drop, the right approach, because we don't have
-any better data, is to increase the concentration of sodium chloride in the fluids that we're
-delivering. And we'll talk about that more",740.3,31.539,771.8389999999999,NA
-"in a minute. The other findings of this study were interesting
-in that there was a whole slew of the risk factors that were not identified as being
-significant. You see those on the screen. And importantly, they include initial glucose.
-It's very helpful for clinicians, over the years, to understand that a glucose of 1,200
-is no more risky than a glucose of 600. What",771.839,25.200000000000003,797.0390000000001,NA
+sodium to rise has not been shown to be a",740.3,6.81,747.1099999999999,NA
+"component of the pathology, rather a symptom
+or a sign of the pathology. Having said all",747.11,7.649,754.759,NA
+"that, when we see serum sodium fail to rise
+or a corrected sodium that begins to drop,",754.759,7.211,761.97,NA
+"the right approach, because we don't have
+any better data, is to increase the concentration",761.97,5.19,767.1600000000001,NA
+"of sodium chloride in the fluids that we're
+delivering. And we'll talk about that more",767.16,4.679,771.8389999999999,NA
+in a minute.,771.839,0.56,772.399,NA
+"The other findings of this study were interesting
+in that there was a whole slew of the risk",774.6,5.929,780.529,NA
+"factors that were not identified as being
+significant. You see those on the screen.",780.529,6.331,786.86,NA
+"And importantly, they include initial glucose.
+It's very helpful for clinicians, over the",786.86,6.39,793.25,NA
+"years, to understand that a glucose of 1,200
+is no more risky than a glucose of 600. What",793.25,5.99,799.24,NA
 "matters is the degree of acidosis, degree
-of dehydration, the factors that we talked about before. As of this study, deciding on giving
-an insulin bolus didn't attribute increased risk. The rate of insulin infusion didn't
-seem to matter. Rate of IV fluid, even the rate of sodium administration, as I mentioned. One important caveat to a retrospective study,
-however, is that one can only measure within",799.24,25.48,824.72,NA
+of dehydration, the factors that we talked",799.24,4.74,803.98,NA
+"about before. As of this study, deciding on giving
+an insulin bolus didn't attribute increased",803.98,7.539,811.519,NA
+"risk. The rate of insulin infusion didn't
+seem to matter. Rate of IV fluid, even the",811.519,4.101,815.62,NA
+"rate of sodium administration, as I mentioned.",815.62,3.649,819.269,NA
+"One important caveat to a retrospective study,
+however, is that one can only measure within",819.269,5.451,824.72,neutral
 "the range that was done. Now rate of IV fluid,
-for example, was not shown to be a significant risk factor. But in animal models, we know
-that if we give a massive amount of fluid to patients with DKA we will engender a lot
-of significant cerebral edema. And so why did that not happened here? Why was that not
-noticed here? And I think the answer is that patients in this study didn't give a massive
-amount, didn't receive a massive amount of",824.72,26.459999999999994,851.1800000000001,NA
-"IV fluid. And as result, in a retrospective study when
-one is practicing within reason, you may not pick up a lot of unreasonable practices. There's
-a similar study done by Dr. Julie Edge, in Europe. She found similar risk factors, but
-two slightly different ones that are worth mentioning. One, is she noted a trend towards
-higher risk in younger patients. And that's",851.18,31.968999999999998,883.149,NA
+for example, was not shown to be a significant",824.72,5.669,830.389,NA
+"risk factor. But in animal models, we know
+that if we give a massive amount of fluid",830.389,4.661,835.05,NA
+"to patients with DKA we will engender a lot
+of significant cerebral edema. And so why",835.05,7.11,842.16,NA
+"did that not happened here? Why was that not
+noticed here? And I think the answer is that",842.16,4.51,846.67,NA
+"patients in this study didn't give a massive
+amount, didn't receive a massive amount of",846.67,4.51,851.18,NA
+IV fluid.,851.18,1.98,853.16,NA
+"And as result, in a retrospective study when
+one is practicing within reason, you may not",853.16,9.95,863.11,NA
+"pick up a lot of unreasonable practices. There's
+a similar study done by Dr. Julie Edge, in",863.11,9.36,872.47,NA
+"Europe. She found similar risk factors, but
+two slightly different ones that are worth",872.47,5.47,877.94,NA
+"mentioning. One, is she noted a trend towards
+higher risk in younger patients. And that's",877.94,5.209,883.149,NA
 "something that intuitively we believed. That
-a younger patient with a full diaper and good urine output is not considered to be sick
-patient. We see that all the time. And also, that new onset diabetics are at higher risk
-for developing significant cerebral edema. Again, presumably due to delayed presentation
-because the families are not skilled in noticing the symptoms of evolving DKA.",883.149,24.519999999999996,907.669,NA
-"Diagnosis of DKA. Now, a patient is admitted. They're in your
-unit. What signs are you really looking for to diagnose cerebral edema at the time, and
-to consider therapy? Well, Dr. Muir reviewed a bunch of really severe cases, and came up
-with a set of diagnostic criteria. Now, I don't advocate for the strict use of this
-particular protocol and particular formula,",908.7,30.389,939.089,NA
+a younger patient with a full diaper and good",883.149,4.291,887.44,NA
+"urine output is not considered to be sick
+patient. We see that all the time. And also,",887.44,6.319,893.759,NA
+"that new onset diabetics are at higher risk
+for developing significant cerebral edema.",893.759,4.971,898.73,NA
+"Again, presumably due to delayed presentation
+because the families are not skilled in noticing",898.73,4.859,903.589,NA
+the symptoms of evolving DKA.,903.589,4.08,907.6690000000001,NA
+Diagnosis of DKA.,908.7,1.22,909.9200000000001,NA
+"Now, a patient is admitted. They're in your
+unit. What signs are you really looking for",909.92,5.339,915.259,NA
+"to diagnose cerebral edema at the time, and
+to consider therapy? Well, Dr. Muir reviewed",915.259,7.02,922.279,NA
+"a bunch of really severe cases, and came up
+with a set of diagnostic criteria. Now, I",922.279,7.461,929.74,NA
+"don't advocate for the strict use of this
+particular protocol and particular formula,",929.74,9.349,939.089,NA
 "but the lists are quite helpful and quite
-informative. On the diagnostic column, we have some symptoms
-that I think all of us would jump in and treat pretty instantaneously. If patient's unresponsive
-to pain, if patient has decorticate or decerebrate posturing, if a patient has a new cranial
-nerve palsy. And finally, if they have a neurogenic respiratory pattern, which is really something
-close to agonal respiratory pattern. And of",939.089,26.29,965.379,NA
+informative.",939.089,3.29,942.379,NA
+"On the diagnostic column, we have some symptoms
+that I think all of us would jump in and treat",942.379,6.561,948.94,NA
+"pretty instantaneously. If patient's unresponsive
+to pain, if patient has decorticate or decerebrate",948.94,5.639,954.5790000000001,NA
+"posturing, if a patient has a new cranial
+nerve palsy. And finally, if they have a neurogenic",954.579,6.61,961.189,NA
+"respiratory pattern, which is really something
+close to agonal respiratory pattern. And of",961.189,4.19,965.379,NA
 "course, that is the third component of Cushing's
-triad. The second component being bradycardia, and
-Dr. Meir actually quantifies this is a change of greater than 20 beats per minute from baseline.
-And then the first component Cushing's triad, which is actually extremely common, is hypertension,
-quantified by him as a diastolic blood pressure greater than 90. Despite patient presenting
-with hypovolemia and dehydration, they curiously",965.379,30.759999999999998,996.139,NA
+triad.",965.379,3.801,969.1800000000001,NA
+"The second component being bradycardia, and
+Dr. Meir actually quantifies this is a change",969.18,6.49,975.67,NA
+"of greater than 20 beats per minute from baseline.
+And then the first component Cushing's triad,",975.67,5.109,980.779,NA
+"which is actually extremely common, is hypertension,
+quantified by him as a diastolic blood pressure",980.779,6.591,987.37,NA
+"greater than 90. Despite patient presenting
+with hypovolemia and dehydration, they curiously",987.37,8.769,996.139,NA
 "have increased systemic vascular resistance,
-increased tone, and have relative hypertension. The other major risk factors are interesting.
-Significantly altered mentation, mental status, and then age dependent incontinence. This
-one struck me when I first read the paper, because patients will often come in in the
-evening and at night, and you take a 5-year-old who's been toilet trained and give them the
-worst night of their life, you keep them up",996.139,32.231,1028.3700000000001,NA
+increased tone, and have relative hypertension.",996.139,7.911,1004.05,NA
+"The other major risk factors are interesting.
+Significantly altered mentation, mental status,",1004.05,7.92,1011.9699999999999,NA
+"and then age dependent incontinence. This
+one struck me when I first read the paper,",1011.97,5.2,1017.1700000000001,NA
+"because patients will often come in in the
+evening and at night, and you take a 5-year-old",1017.17,6.469,1023.639,NA
+"who's been toilet trained and give them the
+worst night of their life, you keep them up",1023.639,4.731,1028.3700000000001,NA
 "all night, you give them a huge amount of
-fluids, they have a pH of 7.1, and they wet the bed, is that really meaningful? And it
-turns out from this data that it is. And so that's become one additional item that we
-focus on in our hospital, and that nurses and house staff are really quite attuned to. The minor criteria are pretty common. Vomiting,
-headache, lethargy, not being easily aroused.",1028.37,29.83,1058.1999999999998,NA
+fluids, they have a pH of 7.1, and they wet",1028.37,4.41,1032.78,NA
+"the bed, is that really meaningful? And it
+turns out from this data that it is. And so",1032.78,5.11,1037.8899999999999,NA
+"that's become one additional item that we
+focus on in our hospital, and that nurses",1037.89,6.01,1043.9,NA
+and house staff are really quite attuned to.,1043.9,5.06,1048.96,NA
+"The minor criteria are pretty common. Vomiting,
+headache, lethargy, not being easily aroused.",1048.96,9.24,1058.2,NA
 "In my own estimation when I do a neurologic
-exam for a patient, I will stimulate the patient to whatever extent they need. But if even
-after a significant simulation, they are then able to answer questions appropriately, meaning
-birthday, where they are, what they're doing here, name, that sort of thing, then I tend
-to allow their mental status to be characterized as acceptable. He also noticed that children
-at a young age were at increase risk, as we've",1058.2,34.410000000000004,1092.6100000000001,NA
-"seen before. Development of DKA. When does one get this significant event,
-the cerebral edema? Well in Dr. Glazers paper she noticed that several had it when they
-walked into the ED. Meaning, it can't be true that all significant cerebral edema is related
-to therapy. And it leads to the idea that",1092.61,25.33,1117.9399999999998,NA
+exam for a patient, I will stimulate the patient",1058.2,6.63,1064.8300000000002,NA
+"to whatever extent they need. But if even
+after a significant simulation, they are then",1064.83,4.7,1069.53,NA
+"able to answer questions appropriately, meaning
+birthday, where they are, what they're doing",1069.53,6.98,1076.51,NA
+"here, name, that sort of thing, then I tend
+to allow their mental status to be characterized",1076.51,7.62,1084.1299999999999,NA
+"as acceptable. He also noticed that children
+at a young age were at increase risk, as we've",1084.13,8.48,1092.6100000000001,NA
+seen before.,1092.61,2.04,1094.6499999999999,NA
+Development of DKA.,1094.84,2.22,1097.06,NA
+"When does one get this significant event,
+the cerebral edema? Well in Dr. Glazers paper",1097.8,7.55,1105.35,NA
+"she noticed that several had it when they
+walked into the ED. Meaning, it can't be true",1105.39,6.18,1111.5700000000002,NA
+"that all significant cerebral edema is related
+to therapy. And it leads to the idea that",1111.57,7.34,1118.9099999999999,NA
 "there's something about the patient, something
-about-- we've mentioned before, the size of the skull, the amount of extra axial space. And it may have more to do with the severity
-of the acidosis. And how long they've been ill. All these factors, we haven't been able
-to identify, but what we can tell you is that some patients will get significant edema without
-any therapy.",1118.91,26.64,1145.5500000000002,NA
+about-- we've mentioned before, the size of",1118.91,4.97,1123.88,NA
+"the skull, the amount of extra axial space.",1123.88,2.93,1126.8100000000002,NA
+"And it may have more to do with the severity
+of the acidosis. And how long they've been",1126.81,7.49,1134.3,NA
+"ill. All these factors, we haven't been able
+to identify, but what we can tell you is that",1134.3,5.82,1140.12,NA
+"some patients will get significant edema without
+any therapy.",1140.12,5.43,1145.55,NA
 "The bulk of events, meaning development of
-significant edema, occur within the first six hours. By hour 12, 13, you're really largely
-out of the woods. But there are some stragglers. And those tend to be patients who just aren't
-quite responding fully. Their course ends up being a little bit longer than you might
-expect. But those are few and far between. Therapies for DKA",1145.55,30.560000000000002,1176.11,NA
+significant edema, occur within the first",1145.55,5.15,1150.7,NA
+"six hours. By hour 12, 13, you're really largely
+out of the woods. But there are some stragglers.",1150.7,8.22,1158.92,NA
+"And those tend to be patients who just aren't
+quite responding fully. Their course ends",1158.92,7.43,1166.3500000000001,NA
+"up being a little bit longer than you might
+expect. But those are few and far between.",1166.35,6.84,1173.1899999999998,NA
+Therapies for DKA,1173.2,2.92,1176.1200000000001,NA
 "Now what happens if we believe we have a patient
-with significant cerebral edema? We have a blown pupil, we have decorticate posturing,
-we have a patient who's unresponsive. Well, then we need to call for our appropriate supports,
-local supports, hospital supports, so that if we do need to take an airway, we're able
-to do that. But we also call for the appropriate therapy.",1177.0,23.3,1200.3,NA
+with significant cerebral edema? We have a",1177.0,4.7,1181.7,NA
+"blown pupil, we have decorticate posturing,
+we have a patient who's unresponsive. Well,",1181.7,5.12,1186.82,NA
+"then we need to call for our appropriate supports,
+local supports, hospital supports, so that",1186.82,5.59,1192.4099999999999,NA
+"if we do need to take an airway, we're able
+to do that. But we also call for the appropriate",1192.41,7.59,1200.0,NA
+therapy.,1200.0,0.3,1200.3,NA
 "Now, what is the appropriate first line therapy?
-There are two competing therapies out there right now, one is mannitol and one is 3% hypertonic
-saline. While 3% hypertonic saline has some reasonable data that has been reported with
-it in traumatic brain injury, there are hardly any data reported with its use in diabetic
-ketoacidosis. As a result and also as a result of some data I'll show you in a minute, I
-use first line therapy as mannitol. We use",1200.3,34.06,1234.36,NA
-"1 gram per kilo and we infuse it over 15 minutes. Please remember that mannitol sitting on a
-shelf for a long period time can form some crystals, and so when one draws it from the
-vile, one needs to use a needle with a filter. And it is very well tolerated. It does result
-in increased urine output during the hours that follow, and so one has to keep track
-of that hypovolemia that may follow my mannitol",1234.36,26.15,1260.51,NA
-"administration. Second line therapy if mannitol does not work
-is 3% saline. There is some debate on what the actual recommended dose of 3% saline is.
-An equimolar dose to the mannitol does that we've use over the years is 5 mL per kilo.
-Now, again, we infuse it over 15 minutes. However, in this particular case, if a patient's
-mental status improves, I would halt the infusion",1260.52,26.979999999999997,1287.5,NA
+There are two competing therapies out there",1200.3,4.64,1204.94,NA
+"right now, one is mannitol and one is 3% hypertonic
+saline. While 3% hypertonic saline has some",1204.94,10.09,1215.03,NA
+"reasonable data that has been reported with
+it in traumatic brain injury, there are hardly",1215.03,5.08,1220.11,NA
+"any data reported with its use in diabetic
+ketoacidosis. As a result and also as a result",1220.11,7.69,1227.8,NA
+"of some data I'll show you in a minute, I
+use first line therapy as mannitol. We use",1227.8,6.56,1234.36,NA
+1 gram per kilo and we infuse it over 15 minutes.,1234.36,4.1,1238.4599999999998,NA
+"Please remember that mannitol sitting on a
+shelf for a long period time can form some",1238.46,3.94,1242.4,NA
+"crystals, and so when one draws it from the
+vile, one needs to use a needle with a filter.",1242.4,7.77,1250.17,NA
+"And it is very well tolerated. It does result
+in increased urine output during the hours",1250.17,5.52,1255.69,NA
+"that follow, and so one has to keep track
+of that hypovolemia that may follow my mannitol",1255.69,4.82,1260.51,NA
+administration.,1260.52,1.12,1261.6399999999999,NA
+"Second line therapy if mannitol does not work
+is 3% saline. There is some debate on what",1261.9,5.86,1267.76,NA
+"the actual recommended dose of 3% saline is.
+An equimolar dose to the mannitol does that",1267.76,6.09,1273.85,NA
+"we've use over the years is 5 mL per kilo.
+Now, again, we infuse it over 15 minutes.",1273.85,7.4,1281.25,NA
+"However, in this particular case, if a patient's
+mental status improves, I would halt the infusion",1281.25,6.51,1287.76,NA
 "immediately. One does not want to run the
-risk of central pontine myelinolysis by acutely raising the serum sodium any further than
-needed to restore a reasonable mental status. If the patient does not respond and they lose
-their airway reflexes, intubation may be warranted and one wants to use an agent that takes into
-account the increased intracranial pressure, for example, thiopental with or without the
-use of lidocaine. After intubation, I would",1287.76,34.92,1322.68,NA
+risk of central pontine myelinolysis by acutely",1287.76,7.27,1295.03,NA
+"raising the serum sodium any further than
+needed to restore a reasonable mental status.",1295.03,9.63,1304.66,NA
+"If the patient does not respond and they lose
+their airway reflexes, intubation may be warranted",1304.66,7.91,1312.5700000000002,NA
+"and one wants to use an agent that takes into
+account the increased intracranial pressure,",1312.57,4.98,1317.55,NA
+"for example, thiopental with or without the
+use of lidocaine. After intubation, I would",1317.55,5.13,1322.68,NA
 "hyperventilate down to the end-tidal CO2 that
-the patient had prior to losing their mental status. Hyperventilation, while not a standard
-therapy for increased intracranial pressure in cerebral edema is exactly what this patient
-has been doing for many hours prior to losing their mental status, and so while one doesn't
-want to go beyond what they were doing, one wants to go back to what they were doing and
-then slowly raise it over time, as they would",1322.68,30.869999999999997,1353.55,NA
-"do if they were conscious. Finally, head CT is really not necessarily
-part of the algorithm. The decision to treat ought to be made based on clinical symptoms.
-The head CT can show significant cerebral edema on virtually any patient with DKA, and
-so the presence or absence on CT is not going to guide therapy. If patient has edema but
-is alert and awake, you're not going to treat,",1353.55,28.34,1381.8899999999999,NA
+the patient had prior to losing their mental",1322.68,7.51,1330.19,NA
+"status. Hyperventilation, while not a standard
+therapy for increased intracranial pressure",1330.19,6.13,1336.3200000000002,NA
+"in cerebral edema is exactly what this patient
+has been doing for many hours prior to losing",1336.32,5.25,1341.57,NA
+"their mental status, and so while one doesn't
+want to go beyond what they were doing, one",1341.57,5.47,1347.04,NA
+"wants to go back to what they were doing and
+then slowly raise it over time, as they would",1347.04,6.51,1353.55,NA
+do if they were conscious.,1353.55,2.5,1356.05,neutral
+"Finally, head CT is really not necessarily
+part of the algorithm. The decision to treat",1356.05,8.86,1364.9099999999999,NA
+"ought to be made based on clinical symptoms.
+The head CT can show significant cerebral",1364.91,6.55,1371.46,NA
+"edema on virtually any patient with DKA, and
+so the presence or absence on CT is not going",1371.46,5.71,1377.17,NA
+"to guide therapy. If patient has edema but
+is alert and awake, you're not going to treat,",1377.17,4.72,1381.89,NA
 "and if a patient is obtunded and non-responsive
-and the CT is negative, you are going to treat. And so again, treat based on clinical symptomatology. The debate between mannitol and 3% saline
-really is an active one, and in looking at some retrospective data over the last decade,
-it looks like in the United States the use of 3% saline has gone up quite dramatically,
-especially in the last few years. However,",1381.89,26.61,1408.5,NA
+and the CT is negative, you are going to treat.",1381.89,5.37,1387.26,NA
+"And so again, treat based on clinical symptomatology.",1387.26,4.79,1392.05,NA
+"The debate between mannitol and 3% saline
+really is an active one, and in looking at",1392.05,4.62,1396.6699999999998,NA
+"some retrospective data over the last decade,
+it looks like in the United States the use",1396.67,5.26,1401.93,NA
+"of 3% saline has gone up quite dramatically,
+especially in the last few years. However,",1401.93,6.57,1408.5,NA
 "in looking at the survival or the odds ratio
-for survival when using one therapy over the other, there is a hint in this admittedly
-retrospective database study that there is an increased mortality with the use of hypertonic
-saline as first line therapy. That has contributed to our decision here to use mannitol exclusively
-as first line therapy. Therapies for DKA: Update.",1408.5,31.38,1439.88,NA
+for survival when using one therapy over the",1408.5,6.34,1414.84,NA
+"other, there is a hint in this admittedly
+retrospective database study that there is",1414.84,6.97,1421.81,NA
+"an increased mortality with the use of hypertonic
+saline as first line therapy. That has contributed",1421.81,9.31,1431.12,NA
+"to our decision here to use mannitol exclusively
+as first line therapy.",1431.12,5.62,1436.7399999999998,NA
+Therapies for DKA: Update.,1438.0,3.14,1441.14,NA
 "At the end of 2013, we published a retrospective
-analysis of mortality in DKA which revealed some new data which is worth considering when
-choosing a therapy for cerebral edema in DKA. The study looked at a total of 43,000 patients
-with DKA in an administrative database. Patients were identified as having cerebral edema as
-a complication of DKA based on the codes that physicians and hospitals billed at the end
-of the admission. We were able to identify",1441.66,37.379999999999995,1479.04,NA
+analysis of mortality in DKA which revealed",1441.66,7.47,1449.13,NA
+"some new data which is worth considering when
+choosing a therapy for cerebral edema in DKA.",1449.13,7.28,1456.41,NA
+"The study looked at a total of 43,000 patients
+with DKA in an administrative database. Patients",1458.16,9.58,1467.74,NA
+"were identified as having cerebral edema as
+a complication of DKA based on the codes that",1467.74,7.62,1475.36,NA
+"physicians and hospitals billed at the end
+of the admission. We were able to identify",1475.36,5.43,1480.79,NA
 "patients who had a CT scan, as well as those
-mechanically ventilated or admitted to an ICU. Over the course of a decade, it became clear
-that the use of 3% hypertonic saline has gone up dramatically over the last few years. While
-starting close to 0% in 1999, it had gone up to roughly 50% of cases by the year 2008,
-2009. Concomitantly, the use of mannitol as",1480.79,40.4,1521.19,NA
+mechanically ventilated or admitted to an",1480.79,5.79,1486.58,NA
+ICU.,1486.58,0.52,1487.1,NA
+"Over the course of a decade, it became clear
+that the use of 3% hypertonic saline has gone",1487.91,10.16,1498.0700000000002,NA
+"up dramatically over the last few years. While
+starting close to 0% in 1999, it had gone",1498.07,12.26,1510.33,NA
+"up to roughly 50% of cases by the year 2008,
+2009. Concomitantly, the use of mannitol as",1510.33,11.67,1522.0,NA
 "a solo therapy has gone down. The use of the
-two together remains relatively infrequent. Over that same time period, mortality in patients
-with DKA has also gone down quite significantly, from 0.47% in 2000, to a low of 0.8% in 2009.
-This is a logistic regression, taking account the effective discharge year, adjusted for
-hospital clustering, and is statistically significant. The odds ratio of mortality in
-patients treated for DKA, when looked at,",1522.0,40.81,1562.81,NA
+two together remains relatively infrequent.",1522.0,6.87,1528.87,NA
+"Over that same time period, mortality in patients
+with DKA has also gone down quite significantly,",1530.0,6.36,1536.36,NA
+"from 0.47% in 2000, to a low of 0.8% in 2009.
+This is a logistic regression, taking account",1536.37,11.27,1547.6399999999999,NA
+"the effective discharge year, adjusted for
+hospital clustering, and is statistically",1547.64,6.23,1553.8700000000001,NA
+"significant. The odds ratio of mortality in
+patients treated for DKA, when looked at,",1553.87,10.08,1563.9499999999998,NA
 "mannitol versus hypertonic saline, is, in
-fact, increased slightly with the use of hypertonic saline alone to an adjusted odds ratio of
-2.7, which is statistically significant even after taking into account other significant
-factors, such as male gender, use of mechanical ventilation, and CT scanning. This has allowed us to create some additional
-thoughts that should be considered when treating",1563.95,37.660000000000004,1601.6100000000001,NA
+fact, increased slightly with the use of hypertonic",1563.95,8.1,1572.05,NA
+"saline alone to an adjusted odds ratio of
+2.7, which is statistically significant even",1572.05,8.64,1580.69,NA
+"after taking into account other significant
+factors, such as male gender, use of mechanical",1580.69,6.57,1587.26,NA
+"ventilation, and CT scanning.",1587.26,4.34,1591.6,NA
+"This has allowed us to create some additional
+thoughts that should be considered when treating",1591.6,10.01,1601.61,NA
 "someone for DKA. It's noted that this is the
-largest retrospective study that's ever been conducted in DKA, and that, over the decade
-it was studied, the rate of treatment for cerebral edema has increased four-fold, while
-the overall mortality in DKA has decreased by 80%. However, this decrease was not associated
-with the marked rise in use of 3% saline as therapy. In fact, there is a slight increase
-in mortality among those who receive 3% saline",1601.61,32.72,1634.33,NA
-"after conducting an adjusted analysis. These data ought to be considered when choosing
-a rescue therapy for a cerebral edema in DKA. I thank you very much for listening, and look
-forward to interacting with you online with any questions that develop. Thank you. Please help us improve the content by providing
-us with some feedback.",1634.33,23.330000000000002,1657.6599999999999,NA
+largest retrospective study that's ever been",1601.61,5.23,1606.84,NA
+"conducted in DKA, and that, over the decade
+it was studied, the rate of treatment for",1606.84,6.58,1613.4199999999998,NA
+"cerebral edema has increased four-fold, while
+the overall mortality in DKA has decreased",1613.42,4.88,1618.3000000000002,NA
+"by 80%. However, this decrease was not associated
+with the marked rise in use of 3% saline as",1618.3,8.82,1627.12,NA
+"therapy. In fact, there is a slight increase
+in mortality among those who receive 3% saline",1627.12,7.21,1634.33,NA
+after conducting an adjusted analysis.,1634.33,3.49,1637.82,NA
+"These data ought to be considered when choosing
+a rescue therapy for a cerebral edema in DKA.",1637.82,5.2,1643.02,NA
+"I thank you very much for listening, and look
+forward to interacting with you online with",1643.02,7.0,1650.02,NA
+any questions that develop. Thank you.,1650.02,3.35,1653.37,NA
+"Please help us improve the content by providing
+us with some feedback.",1654.1,4.29,1658.3899999999999,NA

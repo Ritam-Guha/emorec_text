@@ -1,25 +1,118 @@
 text,start,duration,end,dominant_emotion
-hi i'm cherylin from Duke Clinical Research Institute and shanghaiing hospital I would like to tell you our study about the use of beta blocker statin and diuretic increase the risk of,0.0,30.799,30.799,sad
-new-onset diabetes in patient with itt it's a real analysis of data from navigator trial the study question is what is the risk of new-onset diabetes when using beta blocker diuretic and,14.429,33.011,47.440000000000005,sad
-Staten impatient with igt and any other cardiovascular risk factors the summer answer is a mount patient with itt and cardiovascular risk factors by using cereals glucose measurement the use of,31.08,32.64,63.72,NA
-diuretic and Staten are associated with increased risk of diabetes where is the effect a beta blocker is nonsignificant many recent study have showed that long-term use of diuretic beta blocker,48.39,27.45,75.84,NA
-and Staten increase the fasting glucose level and those concerns have led us fda to initiate a statin label change in 2012 however limited study has examined Association among patient with igt and,61.68,33.12,94.8,sad
-cardiovascular risk factors therefore we initiate our study by using data from navigator troll navigator trial is a multinational randomness trowel examining the efficacy and safety of net,78.09,25.589,103.679,sad
-"tekla night and vasat on to prevent diabetes and caddy best for outcomes a total more than 9,500 patients enrolled into this travel from january 2002 and 2004 patron road have a duty and space",91.229,34.559,125.788,sad
-line and those patient who have diabetes are excluded therefore we examine the initiation of treatment among patients who are treatment-naive at pace line for the following four subgroups beta,108.659,28.651,137.31,NA
-blocker theoretic statin and calcium channel blocker which serves as a negative control the medium follow up his five years and point of ours are defined as new onset diabetes,122.399,31.101000000000003,153.5,sad
-specifically as falling defined the frequency of measurement is every six months for the first two three years then annually afterward we examine the initiation of treatment a progression to,138.29,28.0,166.29,sad
-diabetes along the whole full of time we use marginal structure model which enable us to take into account time dependent variables and those time changing variables depend on which to,151.95,28.619,180.569,sad
-initiate stop and subsequent changes of medications marginal structure model simply put is a cox proportional model adjusting for time changing variables along the study population sixteen,166.44,25.070999999999998,191.511,sad
-percent a beta-blocker and live patient initiate beta blocker treatment during follow-up twenty percent of the erratic naive patient initiates diuretic during follow-up 22 for statin and eighteen,179.52,30.46,209.98000000000002,NA
-percent for calcium channel blocker from the baseline we can see that patient who initiate treatment has the same fasting glucose level and hba1c level compared with loss patient who never initiate any,194.37,29.55,223.92000000000002,NA
-treatment during follow-up the result our study show that the use of diuretic instead and increase the risk of diabetes with the hazard ratio of one point two three four diuretic and has,209.58,29.52,239.10000000000002,NA
-ritual of 1.32 for statin where is the effect of beta blocker is now significant we have robust data for our study and there are some limitations first is a post-hoc study from navigator,223.17,29.009999999999998,252.17999999999998,happy
-trial which is not powered to examine such association at the first place second we did not examine the dose response for those medication and progression to diabetes third we have,238.89,29.07,267.96,sad
-limited population in beta blocker group which is underpowered to examine such association among those populations and family we did not examine the cardiovascular outcomes,253.2,26.28,279.48,sad
-using those medication among i gt patient the strength of our study is that first it's a largest study of this kind to date and we use a standard method to diagnose diabetes by using,266.25,28.83,295.08,sad
-serious glucose measurement the marginal structure model enable or pursued Oh randomization study design in treatment-naive patient the generalization of our study result are,280.47,27.86,308.33000000000004,NA
-specifically to patient with itt and cardiovascular risk factors to conclude in high-risk patient with itt their use of diuretic and Staten are associated with the increased risk of diabetes,294.08,31.4,325.47999999999996,NA
-where is the effect of beta blocker is non-significant from a clinical perspective among patient with itt and cardiovascular risk factor a baseline civilians of glucose level should be,309.98,29.779,339.759,sad
-considered further study are orientated to examining the cardiovascular outcomes of using those medication among itt patient we gratefully appreciate this point from navigator trial and shanlin,325.169,27.571,352.74,sad
-from Duke Clinical Research Institute and shanghaiing hospital,339.12,10.57,349.69,NA
+hi i'm cherylin from Duke Clinical,0.0,5.04,5.04,neutral
+Research Institute and shanghaiing,2.61,5.249,7.859,neutral
+hospital I would like to tell you our,5.04,5.269,10.309000000000001,neutral
+study about the use of beta blocker,7.859,6.57,14.429,neutral
+statin and diuretic increase the risk of,10.309,8.671,18.979999999999997,surprise
+new-onset diabetes in patient with itt,14.429,7.381,21.810000000000002,surprise
+it's a real analysis of data from,18.98,5.41,24.39,neutral
+navigator trial the study question is,21.81,5.69,27.5,neutral
+what is the risk of new-onset diabetes,24.39,6.69,31.080000000000002,neutral
+when using beta blocker diuretic and,27.5,7.84,35.34,neutral
+Staten impatient with igt and any other,31.08,6.69,37.769999999999996,neutral
+cardiovascular risk factors the summer,35.34,6.39,41.730000000000004,neutral
+answer is a mount patient with itt and,37.77,7.26,45.03,neutral
+cardiovascular risk factors by using,41.73,6.66,48.39,NA
+cereals glucose measurement the use of,45.03,5.64,50.67,NA
+diuretic and Staten are associated with,48.39,5.28,53.67,NA
+increased risk of diabetes where is the,50.67,5.659,56.329,NA
+effect a beta blocker is nonsignificant,53.67,5.43,59.1,neutral
+many recent study have showed that,56.329,5.351,61.68,neutral
+long-term use of diuretic beta blocker,59.1,5.73,64.83,neutral
+and Staten increase the fasting glucose,61.68,6.06,67.74,neutral
+level and those concerns have led us fda,64.83,5.93,70.75999999999999,neutral
+to initiate a statin label change in,67.74,7.199,74.939,neutral
+2012 however limited study has examined,70.76,7.33,78.09,neutral
+Association among patient with igt and,74.939,6.601,81.53999999999999,neutral
+cardiovascular risk factors therefore we,78.09,5.91,84.0,neutral
+initiate our study by using data from,81.54,4.829,86.369,neutral
+navigator troll navigator trial is a,84.0,4.2,88.2,neutral
+multinational randomness trowel,86.369,4.86,91.229,neutral
+examining the efficacy and safety of net,88.2,5.79,93.99000000000001,neutral
+tekla night and vasat on to prevent,91.229,6.051,97.28,surprise
+diabetes and caddy best for outcomes a,93.99,6.96,100.94999999999999,neutral
+"total more than 9,500 patients enrolled",97.28,6.96,104.24,neutral
+into this travel from january 2002 and,100.95,7.709,108.659,neutral
+2004 patron road have a duty and space,104.24,6.879,111.119,neutral
+line and those patient who have diabetes,108.659,5.581,114.24000000000001,neutral
+are excluded therefore we examine the,111.119,5.161,116.28,neutral
+initiation of treatment among patients,114.24,5.85,120.08999999999999,NA
+who are treatment-naive at pace line for,116.28,6.119,122.399,NA
+the following four subgroups beta,120.09,5.94,126.03,NA
+blocker theoretic statin and calcium,122.399,5.521,127.92,NA
+channel blocker which serves as a,126.03,5.16,131.19,NA
+negative control the medium follow up,127.92,5.94,133.86,neutral
+his five years and point of ours,131.19,7.1,138.29,neutral
+are defined as new onset diabetes,133.86,7.38,141.24,neutral
+specifically as falling defined the,138.29,5.41,143.7,NA
+frequency of measurement is every six,141.24,4.02,145.26000000000002,NA
+months for the first two three years,143.7,4.98,148.67999999999998,NA
+then annually afterward we examine the,145.26,6.69,151.95,neutral
+initiation of treatment a progression to,148.68,6.9,155.58,neutral
+diabetes along the whole full of time we,151.95,6.18,158.13,neutral
+use marginal structure model which,155.58,5.52,161.10000000000002,NA
+enable us to take into account time,158.13,5.37,163.5,NA
+dependent variables and those time,161.1,5.34,166.44,NA
+changing variables depend on which to,163.5,6.209,169.709,NA
+initiate stop and subsequent changes of,166.44,5.64,172.07999999999998,neutral
+medications marginal structure model,169.709,5.041,174.75,neutral
+simply put is a cox proportional model,172.08,5.01,177.09,neutral
+adjusting for time changing variables,174.75,4.77,179.52,neutral
+along the study population sixteen,177.09,4.61,181.70000000000002,neutral
+percent a beta-blocker and live patient,179.52,4.469,183.989,NA
+initiate beta blocker treatment during,181.7,5.02,186.72,NA
+follow-up twenty percent of the erratic,183.989,6.061,190.05,NA
+naive patient initiates diuretic during,186.72,7.65,194.37,NA
+follow-up 22 for statin and eighteen,190.05,7.26,197.31,NA
+percent for calcium channel blocker from,194.37,6.089,200.459,NA
+the baseline we can see that patient who,197.31,5.82,203.13,NA
+initiate treatment has the same fasting,200.459,6.421,206.88,NA
+glucose level and hba1c level compared,203.13,6.45,209.57999999999998,NA
+with loss patient who never initiate any,206.88,4.77,211.65,NA
+treatment during follow-up the result,209.58,5.82,215.4,NA
+our study show that the use of diuretic,211.65,5.73,217.38,NA
+instead and increase the risk of,215.4,4.77,220.17000000000002,happy
+diabetes with the hazard ratio of one,217.38,5.79,223.17,neutral
+point two three four diuretic and has,220.17,7.41,227.57999999999998,neutral
+ritual of 1.32 for statin where is the,223.17,6.36,229.53,neutral
+effect of beta blocker is now,227.58,5.1,232.68,neutral
+significant we have robust data for our,229.53,6.019,235.549,neutral
+study and there are some limitations,232.68,6.21,238.89000000000001,neutral
+first is a post-hoc study from navigator,235.549,5.321,240.87,neutral
+trial which is not powered to examine,238.89,5.03,243.92,neutral
+such association at the first place,240.87,6.36,247.23000000000002,neutral
+second we did not examine the dose,243.92,5.319,249.23899999999998,happy
+response for those medication and,247.23,5.97,253.2,neutral
+progression to diabetes third we have,249.239,6.391,255.63,neutral
+limited population in beta blocker group,253.2,5.31,258.51,neutral
+which is underpowered to examine such,255.63,5.75,261.38,neutral
+association among those populations and,258.51,5.73,264.24,neutral
+family we did not examine the,261.38,4.87,266.25,neutral
+cardiovascular outcomes,264.24,4.62,268.86,neutral
+using those medication among i gt,266.25,5.49,271.74,neutral
+patient the strength of our study is,268.86,6.09,274.95,neutral
+that first it's a largest study of this,271.74,6.0,277.74,surprise
+kind to date and we use a standard,274.95,5.52,280.46999999999997,neutral
+method to diagnose diabetes by using,277.74,5.73,283.47,neutral
+serious glucose measurement the marginal,280.47,5.45,285.92,neutral
+structure model enable or pursued Oh,283.47,4.83,288.3,neutral
+randomization study design in,285.92,4.99,290.91,neutral
+treatment-naive patient the,288.3,5.78,294.08,NA
+generalization of our study result are,290.91,6.81,297.72,NA
+specifically to patient with itt and,294.08,6.85,300.93,neutral
+cardiovascular risk factors to conclude,297.72,7.44,305.16,neutral
+in high-risk patient with itt their use,300.93,6.54,307.47,neutral
+of diuretic and Staten are associated,305.16,4.82,309.98,neutral
+with the increased risk of diabetes,307.47,5.75,313.22,neutral
+where is the effect of beta blocker is,309.98,5.89,315.87,neutral
+non-significant from a clinical,313.22,6.88,320.1,neutral
+perspective among patient with itt and,315.87,7.01,322.88,neutral
+cardiovascular risk factor a baseline,320.1,5.069,325.16900000000004,neutral
+civilians of glucose level should be,322.88,4.93,327.81,neutral
+considered further study are orientated,325.169,4.981,330.15,neutral
+to examining the cardiovascular outcomes,327.81,5.73,333.54,neutral
+of using those medication among itt,330.15,6.15,336.29999999999995,neutral
+patient we gratefully appreciate this,333.54,5.58,339.12,neutral
+point from navigator trial and shanlin,336.3,5.13,341.43,neutral
+from Duke Clinical Research Institute,339.12,6.44,345.56,neutral
+and shanghaiing hospital,341.43,4.13,345.56,neutral

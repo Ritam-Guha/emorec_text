@@ -1,12 +1,21 @@
 text,start,duration,end,dominant_emotion
-"Osteoporosis fractures and diabetes… what’s the connection? Next
-Research Suggests TZDs And Sulfonylureas Both Increase Risk For Fractures Compared With
-Metformin. Miriam writing in Medscape reported that research
-suggests that “the oral diabetes drug classes",0.74,33.72,34.46,sad
+Osteoporosis fractures and diabetes…,0.74,3.25,3.99,fear
+what’s the connection?,3.99,2.22,6.210000000000001,fear
+"Next
+Research Suggests TZDs And Sulfonylureas Both",6.21,12.79,19.0,neutral
+"Increase Risk For Fractures Compared With
+Metformin.",19.0,7.61,26.61,neutral
+"Miriam writing in Medscape reported that research
+suggests that “the oral diabetes drug classes",26.61,7.85,34.46,neutral
 "of thiazolidinediones (TZDs) and sulfonylureas
-both boost the risk for fractures compared with metformin.” This research “confirms previous findings
-of increased fracture risk with TZDs but is the first to compare multiple classes of glucose-lowering
-agents and the first to suggest a possible increased fracture risk for sulfonylureas,
-Sandhya Mehta, PhD...told the American Diabetes",34.46,30.4,64.86,sad
-"Association (ADA) 2014 Scientific Sessions.” Comment: Makes you almost afraid to take any
-medicine, huh",64.86,14.869,79.729,NA
+both boost the risk for fractures compared",34.46,6.11,40.57,neutral
+with metformin.”,40.57,1.55,42.12,neutral
+"This research “confirms previous findings
+of increased fracture risk with TZDs but is",42.12,6.75,48.87,sad
+"the first to compare multiple classes of glucose-lowering
+agents and the first to suggest a possible",48.87,8.14,57.01,NA
+"increased fracture risk for sulfonylureas,
+Sandhya Mehta, PhD...told the American Diabetes",57.01,7.85,64.86,NA
+Association (ADA) 2014 Scientific Sessions.”,64.86,5.09,69.95,NA
+"Comment: Makes you almost afraid to take any
+medicine, huh",69.95,9.779,79.729,NA

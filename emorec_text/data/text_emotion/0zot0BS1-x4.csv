@@ -1,13 +1,61 @@
 text,start,duration,end,dominant_emotion
-well i think in most cases we first want to assess the tumor and and see if this is amenable to surgical resection smaller tumors like microadenomas that,2.48,20.400000000000002,22.880000000000003,angry
-are less than a centimeter uh there's more likelihood of a cure unfortunately about two-thirds of these patients have very large tumors,12.16,17.12,29.28,angry
-more than a centimeter and some of them can be very invasive and so surgical cure cannot always be attained but certainly in many cases we do try to,20.72,18.079,38.799,angry
-debulk the tumor and provide some amount of growth hormone control and then after that we have to consider if that patient would be,30.0,19.840999999999998,49.840999999999994,angry
-a candidate for radiotherapy or if we should try medical therapy you know radiotherapy has its own problems in the sense that it takes uh years for that to take effect,39.2,24.24,63.44,angry
-so even if you see that a patient would benefit from that we still have to control the disease in the meantime and also radiotherapy can lead to some issues with,51.28,22.519,73.799,angry
-[Music] hypopituitarism where now the rest of the pituitary can also be damaged and so oftentimes we will move on to a medical therapy to control this disease,63.36,26.121000000000002,89.481,angry
-we really have two uh approved medications to treat acromegaly the first are somatostatin receptor ligands,75.36,18.958,94.318,angry
-which bind to a receptor on the surface of the tumor and that turns down growth hormone secretion it can also cause shrinkage of the tumor,85.439,19.602,105.041,angry
-so it can lead to better tumor control and it does that by leading to apoptosis of some of those cells we have a second therapy which is a growth hormone receptor antagonist,94.96,26.879,121.839,angry
-that requires daily injections and that decreases the igf-1 production from the liver the major problem with these symptoms and signs,108.399,17.841,126.24000000000001,angry
-however it doesn't lead to tumor control because it's not targeted at the tumor level it's targeted at the growth hormone receptor level in the tissues,117.52,22.48,140.0,angry
+well i think,2.48,3.279,5.759,sad
+in most cases we first want to assess,3.12,4.239,7.359,sad
+the tumor and and see if this is,5.759,4.241,10.0,sad
+amenable to surgical resection,7.359,4.801,12.16,sad
+smaller tumors like microadenomas that,10.0,3.84,13.84,sad
+are less than a centimeter,12.16,3.84,16.0,surprise
+uh there's more likelihood of a cure,13.84,3.199,17.039,surprise
+unfortunately,16.0,3.199,19.198999999999998,surprise
+about two-thirds of these patients have,17.039,3.681,20.720000000000002,sad
+very large tumors,19.199,3.201,22.400000000000002,sad
+more than a centimeter and some of them,20.72,3.6,24.32,sad
+can be very invasive,22.4,4.16,26.56,surprise
+and so surgical cure cannot always be,24.32,3.6,27.92,surprise
+attained but,26.56,3.44,30.0,surprise
+certainly in many cases we do try to,27.92,3.279,31.199,surprise
+debulk the tumor,30.0,4.32,34.32,surprise
+and provide some amount of growth,31.199,4.321,35.52,surprise
+hormone control,34.32,2.96,37.28,surprise
+and then after that we have to consider,35.52,3.68,39.2,surprise
+if that patient would be,37.28,4.56,41.84,surprise
+a candidate for radiotherapy or if we,39.2,5.6,44.800000000000004,sad
+should try medical therapy,41.84,4.64,46.480000000000004,fear
+you know radiotherapy has its own,44.8,3.36,48.16,neutral
+problems in the sense that it,46.48,4.8,51.279999999999994,surprise
+takes uh years for that to take effect,48.16,5.84,54.0,surprise
+so even if you see that a patient would,51.28,5.279,56.559,surprise
+benefit from that we still have to,54.0,5.52,59.519999999999996,surprise
+control the disease in the meantime and,56.559,4.881,61.44,surprise
+also radiotherapy can lead to some,59.52,3.84,63.36,surprise
+issues with,61.44,2.999,64.439,surprise
+[Music],63.36,3.68,67.04,sad
+hypopituitarism where now the rest of,64.439,5.481,69.91999999999999,sad
+the pituitary can also be damaged and so,67.04,5.36,72.4,neutral
+oftentimes we will move on to a medical,69.92,5.44,75.36,neutral
+therapy to control this disease,72.4,6.16,78.56,sad
+we really have two,75.36,5.84,81.2,sad
+uh approved medications to treat,78.56,3.52,82.08,surprise
+acromegaly,81.2,3.04,84.24000000000001,surprise
+the first are somatostatin receptor,82.08,3.359,85.439,surprise
+ligands,84.24,3.199,87.439,surprise
+which bind to a receptor on the surface,85.439,3.281,88.72,surprise
+of the tumor,87.439,4.401,91.83999999999999,sad
+and that turns down growth hormone,88.72,4.24,92.96,sad
+secretion,91.84,3.12,94.96000000000001,surprise
+it can also cause shrinkage of the tumor,92.96,4.56,97.52,surprise
+so it can lead to better tumor control,94.96,6.32,101.28,neutral
+and it does that by leading to apoptosis,97.52,5.76,103.28,neutral
+of some of those cells,101.28,4.72,106.0,surprise
+we have a second therapy which is a,103.28,5.119,108.399,surprise
+growth hormone receptor antagonist,106.0,4.96,110.96,surprise
+that requires daily injections and that,108.399,4.961,113.36,neutral
+decreases the igf-1 production from the,110.96,3.439,114.399,neutral
+liver,113.36,2.96,116.32,neutral
+the major problem with these symptoms,114.399,3.121,117.52,neutral
+and signs,116.32,3.36,119.67999999999999,neutral
+however it doesn't lead to tumor control,117.52,3.84,121.36,neutral
+because it's not targeted at the tumor,119.68,2.079,121.759,neutral
+level,121.36,1.92,123.28,neutral
+it's targeted at the growth hormone,121.759,8.081,129.84,surprise
+receptor level in the tissues,123.28,6.56,129.84,surprise

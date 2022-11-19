@@ -1,22 +1,36 @@
 text,start,duration,end,dominant_emotion
 "Diabulimia is not an official eating disorder
-diagnostic category. But none the less, it should be recognized
-because of its potential to be extremely dangerous. Diabulimia is kind of a combination of the
-word Diabetes and Bulimia. It refers to patients with Type One Diabetes
-who are supposed to be giving themselves insulin injections in order to manage blood sugar
-levels where the patient starts omitting some",4.49,27.08,31.57,angry
+diagnostic category.",4.49,6.13,10.620000000000001,happy
+"But none the less, it should be recognized
+because of its potential to be extremely dangerous.",10.62,5.24,15.86,happy
+"Diabulimia is kind of a combination of the
+word Diabetes and Bulimia.",15.86,4.77,20.63,fear
+"It refers to patients with Type One Diabetes
+who are supposed to be giving themselves insulin",20.63,4.88,25.509999999999998,fear
+"injections in order to manage blood sugar
+levels where the patient starts omitting some",25.51,6.06,31.57,fear
 "of their insulin injections with the purpose
-of weight loss. As you might imagine, somebody with Type One
-Diabetes is giving themselves insulin for good reason, in order to regulate blood sugar
-levels over the course of the day. And when blood sugar levels go high because
-there's not enough insulin on board, there are potentially life threatening risks that
-can be associated with that.",31.57,20.36,51.93,sad
+of weight loss.",31.57,4.35,35.92,fear
+"As you might imagine, somebody with Type One
+Diabetes is giving themselves insulin for",35.92,4.239,40.159,fear
+"good reason, in order to regulate blood sugar
+levels over the course of the day.",40.159,3.871,44.03,fear
+"And when blood sugar levels go high because
+there's not enough insulin on board, there",44.03,4.16,48.19,fear
+"are potentially life threatening risks that
+can be associated with that.",48.19,3.74,51.93,fear
 "Including, things like diabetic ketoacidosis,
-where the person can even go into a coma because blood sugar levels get so high. So, I implore any patient that has been dabbling
-with that strategy, or thinking about using it, absolutely dangerous, and please don't
-engage in that behavior. If weight is a struggle, and you have Type
-One Diabetes, work with a nutritionist or",51.93,25.329,77.259,angry
+where the person can even go into a coma because",51.93,6.28,58.21,fear
+blood sugar levels get so high.,58.21,2.32,60.53,fear
+"So, I implore any patient that has been dabbling
+with that strategy, or thinking about using",60.53,6.03,66.56,fear
+"it, absolutely dangerous, and please don't
+engage in that behavior.",66.56,4.86,71.42,happy
+"If weight is a struggle, and you have Type
+One Diabetes, work with a nutritionist or",71.42,5.839,77.259,fear
 "someone that can help you try to manage your
-eating and weight from a more stable perspective. There are ways to engage in weight management
-strategies even with a problem coexisting like Type One Diabetes, and the proper professionals
-can help you find that path.",77.259,16.97,94.229,NA
+eating and weight from a more stable perspective.",77.259,6.301,83.56,NA
+"There are ways to engage in weight management
+strategies even with a problem coexisting",83.56,5.909,89.46900000000001,NA
+"like Type One Diabetes, and the proper professionals
+can help you find that path.",89.469,4.76,94.229,NA

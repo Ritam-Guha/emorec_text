@@ -34,10 +34,11 @@ class GRUModel(torch.nn.Module):
                                         nn.Linear(self.hidden_size, self.num_outputs))
 
     def forward(self, x):
-        # initialize the hidden states and cell states
+        # initialize the hidden states
         h_0 = torch.zeros(self.num_layers, x.size(0), self.hidden_size, dtype=torch.double).to(self.device).to(
             self.device)
 
+        # map the hidden representations to the emotions
         hidden, h_ = self.gru(x, h_0)
 
         emotions = self.classifier(hidden)
@@ -46,6 +47,7 @@ class GRUModel(torch.nn.Module):
 
     def load_weights(self,
                      model_path):
+        # load the saved weights for the model
         print(f"loading model from epoch: {torch.load(model_path, map_location=self.device)['epoch']}")
         self.load_state_dict(torch.load(model_path, map_location=self.device)["model_state_dict"])
         self.double()

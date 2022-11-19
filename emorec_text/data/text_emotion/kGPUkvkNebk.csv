@@ -1,21 +1,33 @@
 text,start,duration,end,dominant_emotion
 "Your doctor has told you that you need
-to take diabetes medication, but how exactly do different medications work to
-control your blood sugar? A medication like metformin works on your liver, this
-pill keeps your liver from releasing too much glucose. Other medications like
-glipizide, which you also take as a pill, help your pancreas make more insulin,
-which lowers blood sugar. Type 2 diabetes",0.0,25.619,25.619,angry
+to take diabetes medication, but how",0.0,5.31,5.31,neutral
+"exactly do different medications work to
+control your blood sugar? A medication",5.31,4.619,9.928999999999998,neutral
+"like metformin works on your liver, this
+pill keeps your liver from releasing too",9.929,4.62,14.549,neutral
+"much glucose. Other medications like
+glipizide, which you also take as a pill,",14.549,5.4,19.948999999999998,neutral
+"help your pancreas make more insulin,
+which lowers blood sugar. Type 2 diabetes",19.949,5.67,25.619,neutral
 "is a disease that progresses over time,
-that means even if you're doing everything right, exercising, eating
-healthy food, taking your medication, most people are still going to need insulin
-at some point; that's because your body stops making insulin. Insulin is a
-natural hormone and it's safe, effective, and easy to use. Insulin must be injected
-to work. This natural hormone helps move",25.619,24.931,50.55,sad
+that means even if you're doing",25.619,3.871,29.49,neutral
+"everything right, exercising, eating
+healthy food, taking your medication, most",29.49,5.76,35.25,neutral
+"people are still going to need insulin
+at some point; that's because your body",35.25,4.32,39.57,neutral
+"stops making insulin. Insulin is a
+natural hormone and it's safe, effective,",39.57,4.95,44.52,neutral
+"and easy to use. Insulin must be injected
+to work. This natural hormone helps move",44.52,6.03,50.550000000000004,neutral
 "sugar from the bloodstream into cells
-where it's needed for energy. To help manage your blood sugar, you need to
-always take your medications as prescribed. Don't forget to refill your
-prescriptions at least a week before you run out, you don't want to miss a dose.
-Talk to your doctor or care team if you have questions. You can live well when
-you take control of your diabetes. We",50.55,21.66,72.21,NA
+where it's needed for energy. To help",50.55,4.56,55.11,neutral
+"manage your blood sugar, you need to
+always take your medications as",55.11,3.15,58.26,neutral
+"prescribed. Don't forget to refill your
+prescriptions at least a week before you",58.26,4.229,62.489,neutral
+"run out, you don't want to miss a dose.
+Talk to your doctor or care team if you",62.489,5.191,67.67999999999999,neutral
+"have questions. You can live well when
+you take control of your diabetes. We",67.68,4.53,72.21000000000001,neutral
 "have online tools, articles, videos, and
-photo stories to help you.",72.21,5.57,77.78,NA
+photo stories to help you.",72.21,5.57,77.78,neutral

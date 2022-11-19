@@ -1,155 +1,289 @@
 text,start,duration,end,dominant_emotion
 "Is type 2 diabetes
-a reversible disease? We are told that this is a chronic
-and progressive disorder. That means that once you develop
-type 2 diabetes, you're going to have it for life
-and there's nothing you can do about it. You're going to be on medications,
-you're going to be on insulin",0.317,19.052,19.369,angry
+a reversible disease?",0.317,3.772,4.0889999999999995,fear
+"We are told that this is a chronic
+and progressive disorder.",8.64,3.92,12.56,sad
+"That means that once you develop
+type 2 diabetes,",12.56,3.44,16.0,sad
+"you're going to have it for life
+and there's nothing you can do about it.",16.0,4.64,20.64,sad
+"You're going to be on medications,
+you're going to be on insulin",20.64,3.28,23.92,NA
 "and then you're going to develop
-the complications. Blindness, nerve damage,
-amputations, heart attack, strokes, kidney damage, dialysis... The whole works... it's inevitable. But is it really?",23.92,14.559999999999999,38.480000000000004,angry
+the complications.",23.92,2.36,26.28,fear
+"Blindness, nerve damage,
+amputations, heart attack,",26.28,4.6,30.880000000000003,fear
+"strokes, kidney damage, dialysis...",30.88,3.08,33.96,neutral
+The whole works... it's inevitable.,33.96,2.48,36.44,sad
+But is it really?,36.44,2.04,38.48,neutral
 "Imagine a world where type 2 diabetes
-is a simple reversible disorder where a simple dietary maneuver can reverse
-your diabetes in a matter of weeks. The American Diabetes Association
-of course disagrees. They say right on their website
-that it's a fact that for most people type 2 diabetes 
-is a progressive disease.",38.48,25.160000000000004,63.64,angry
-"So you might as well forget about it. Don't even try to get better, 
-it's hopeless. They're telling you there's no hope. But we can look
-at certain examples and we can see that this 
-is actually not true at all.",63.64,15.719999999999999,79.36,angry
+is a simple reversible disorder",38.48,7.04,45.519999999999996,sad
+"where a simple dietary maneuver can reverse
+your diabetes in a matter of weeks.",45.52,5.44,50.96,neutral
+"The American Diabetes Association
+of course disagrees.",50.96,3.76,54.72,neutral
+"They say right on their website
+that it's a fact",54.72,3.6,58.32,neutral
+"that for most people type 2 diabetes 
+is a progressive disease.",58.32,5.32,63.64,sad
+So you might as well forget about it.,63.64,2.64,66.28,sad
+"Don't even try to get better, 
+it's hopeless.",66.28,3.12,69.4,sad
+They're telling you there's no hope.,69.4,2.96,72.36,NA
+"But we can look
+at certain examples",72.36,2.84,75.2,sad
+"and we can see that this 
+is actually not true at all.",75.2,4.16,79.36,neutral
 "Let me give you some of these examples - 
-bariatric surgery. Bariatric surgery is also called
-weight loss surgery or stomach stapling. What they do is they take your stomach
-and they cut it to the size of a walnut, so you really just can't eat. Because you're not eating,
-you're going to lose a lot of weight.",79.36,18.479999999999997,97.84,angry
+bariatric surgery.",79.36,4.12,83.48,sad
+"Bariatric surgery is also called
+weight loss surgery or stomach stapling.",83.48,4.72,88.2,neutral
+"What they do is they take your stomach
+and they cut it to the size of a walnut,",88.2,4.2,92.4,neutral
+so you really just can't eat.,92.4,1.88,94.28,neutral
+"Because you're not eating,
+you're going to lose a lot of weight.",94.28,3.56,97.84,neutral
 "But what happens
-to the diabetes? Well let's look at this study here. In this study they randomized
-two groups of people. One group of people stayed
-on their medications and got the best medical therapy
-available.",97.84,15.36,113.2,angry
+to the diabetes?",97.84,2.64,100.48,NA
+Well let's look at this study here.,100.48,2.8,103.28,NA
+"In this study they randomized
+two groups of people.",103.28,3.6,106.88,NA
+"One group of people stayed
+on their medications",106.88,3.16,110.03999999999999,NA
+"and got the best medical therapy
+available.",110.04,3.16,113.2,neutral
 "The other group got
-weight loss surgery. On the horizontal axis
-is time over 12 months. On the vertical axis is the number 
-of medications that these people were taking. You can see that the number
-of medications that people took while doing the best medical therapy
-available, really didn't change.",113.2,18.88,132.08,angry
+weight loss surgery.",113.2,2.96,116.16,neutral
+"On the horizontal axis
+is time over 12 months.",116.16,3.52,119.67999999999999,NA
+"On the vertical axis is the number 
+of medications that these people were taking.",119.68,4.36,124.04,NA
+"You can see that the number
+of medications that people took",124.04,3.32,127.36,NA
+"while doing the best medical therapy
+available, really didn't change.",127.36,4.72,132.08,NA
 "They kept taking the same number
-of medications, they're really no better 
-than they were when they started. Than they were at the end. But look at the weight loss
-surgery group. Very quickly within a matter of months",132.08,13.84,145.92000000000002,angry
+of medications,",132.08,2.6,134.68,neutral
+"they're really no better 
+than they were when they started.",134.68,3.28,137.96,neutral
+Than they were at the end.,137.96,2.16,140.12,neutral
+"But look at the weight loss
+surgery group.",140.12,2.84,142.96,neutral
+Very quickly within a matter of months,142.96,2.96,145.92000000000002,neutral
 "they're coming off all their medications
-and it keeps going. By 12 months many of these people
-are off of all their medications and their blood sugars
-are completely normal. That's amazing! Wasn't this a chronic
-and progressive disorder?",145.92,16.56,162.48,angry
+and it keeps going.",145.92,4.0,149.92,neutral
+"By 12 months many of these people
+are off of all their medications",149.92,4.16,154.07999999999998,neutral
+"and their blood sugars
+are completely normal.",154.08,3.56,157.64000000000001,neutral
+That's amazing!,157.64,2.12,159.76,neutral
+"Wasn't this a chronic
+and progressive disorder?",159.76,2.72,162.48,neutral
 "Wasn't this a disorder
-where there's no treatment and there's nothing you can do,
-it'll get worse? Well not really,
-not according to this study. It looks like diabetes
-is a disease that's reversible. But better than that,
-it's quickly reversible.",162.48,16.28,178.76,angry
+where there's no treatment",162.48,3.12,165.6,NA
+"and there's nothing you can do,
+it'll get worse?",165.6,2.4,168.0,NA
+"Well not really,
+not according to this study.",168.0,3.64,171.64,neutral
+"It looks like diabetes
+is a disease that's reversible.",171.64,3.6,175.23999999999998,neutral
+"But better than that,
+it's quickly reversible.",175.24,3.52,178.76000000000002,neutral
 "And even other types of weight loss surgery,
-such as gastric banding, have the same benefits. Gastric banding is a procedure
-where they put a belt inside your stomach and tighten it so you can't eat. And again what you see here",178.76,15.319999999999999,194.07999999999998,angry
+such as gastric banding,",178.76,4.16,182.92,neutral
+have the same benefits.,182.92,1.96,184.88,neutral
+"Gastric banding is a procedure
+where they put a belt inside your stomach",184.88,4.04,188.92,NA
+and tighten it so you can't eat.,188.92,2.88,191.79999999999998,neutral
+And again what you see here,191.8,2.28,194.08,neutral
 "is that the diabetes very quickly reverses
-and it stays gone. So this is not a chronic and progressive
-disorder, this is a reversible disorder. I'm not saying that gastric banding or weight
-loss surgery is the answer for everybody, but it simply points to the fact
-that the situation is different and this is a reversible disease.",194.08,21.84,215.92000000000002,angry
-"Let's look at another example. We can look at fasting. Fasting is a dietary maneuver where you don't eat anything
-for a certain period of time. I had this patient here, Richard, 
-who came to me for treatment of his diabetes.",215.92,15.239999999999998,231.16,angry
+and it stays gone.",194.08,4.4,198.48000000000002,NA
+"So this is not a chronic and progressive
+disorder, this is a reversible disorder.",198.48,4.96,203.44,neutral
+"I'm not saying that gastric banding or weight
+loss surgery is the answer for everybody,",203.44,5.36,208.8,NA
+"but it simply points to the fact
+that the situation is different",208.8,4.48,213.28,neutral
+and this is a reversible disease.,213.28,2.64,215.92,neutral
+Let's look at another example.,215.92,2.12,218.04,NA
+We can look at fasting.,218.04,2.24,220.28,NA
+Fasting is a dietary maneuver,220.28,2.48,222.76,NA
+"where you don't eat anything
+for a certain period of time.",222.76,3.36,226.12,neutral
+"I had this patient here, Richard, 
+who came to me for treatment of his diabetes.",226.12,5.04,231.16,neutral
 "He had been diabetic for 10 years, 
-he was taking about 70 units of insulin and he was developing complications. He was getting eye disease,
-he was getting kidney disease. So we changed his diet, 
-we put him on a low carbohydrate diet and we gave him some simple tips",231.16,17.28,248.44,angry
+he was taking about 70 units of insulin",231.16,4.84,236.0,neutral
+and he was developing complications.,236.0,2.64,238.64,neutral
+"He was getting eye disease,
+he was getting kidney disease.",238.64,3.68,242.32,neutral
+"So we changed his diet, 
+we put him on a low carbohydrate diet",242.32,4.0,246.32,neutral
+and we gave him some simple tips,246.32,2.12,248.44,neutral
 "and we included some intermittent fasting
-in his regimen. Over a period of months
-he lost about 50 pounds. And his diabetes got incredibly better. We took him off all of his insulin,
-we took him off all of his medications and his blood sugars are normal.",248.44,18.64,267.08,angry
+in his regimen.",248.44,3.48,251.92,NA
+"Over a period of months
+he lost about 50 pounds.",251.92,4.52,256.44,NA
+And his diabetes got incredibly better.,256.44,3.6,260.04,NA
+"We took him off all of his insulin,
+we took him off all of his medications",260.04,4.28,264.32,NA
+and his blood sugars are normal.,264.32,2.76,267.08,neutral
 "Even two years out now
-he is still on no medications and his blood sugars
-are doing amazing. So in fact this is
-a reversible disease. Fasting seems to lead
-to a reversal of his diabetes. And this is not a new finding.",267.08,18.48,285.56,angry
-"In fact, if we go back almost 100 years, Dr. Elliott Joslin, perhaps the most famous
-diabetes specialists in history, wrote this in the Canadian
-medical journal... ""That temporary periods of under-nutrition
-are helpful in the treatment of diabetes ""will probably be acknowledged by all",285.56,21.715,307.275,angry
+he is still on no medications",267.08,3.4,270.47999999999996,neutral
+"and his blood sugars
+are doing amazing.",270.48,2.68,273.16,neutral
+"So in fact this is
+a reversible disease.",273.16,4.52,277.68,neutral
+"Fasting seems to lead
+to a reversal of his diabetes.",277.68,5.24,282.92,neutral
+And this is not a new finding.,282.92,2.64,285.56,neutral
+"In fact, if we go back almost 100 years,",285.56,4.08,289.64,neutral
+"Dr. Elliott Joslin, perhaps the most famous
+diabetes specialists in history,",289.64,6.36,296.0,neutral
+"wrote this in the Canadian
+medical journal...",296.0,3.4,299.4,NA
+"""That temporary periods of under-nutrition
+are helpful in the treatment of diabetes",299.4,4.571,303.971,NA
+"""will probably be acknowledged by all",303.983,3.304,307.287,neutral
 "after these two years 
-of experience with fasting."" So what happened was that 
-he had been using fasting for two years and he thought it was
-so amazingly great that it's going to be obvious,
-everybody is going to know this. There were a few problems
-of course.",307.287,16.266000000000002,323.553,angry
+of experience with fasting.""",307.287,3.5,310.787,neutral
+"So what happened was that 
+he had been using fasting for two years",310.794,3.966,314.76,neutral
+"and he thought it was
+so amazingly great",314.76,3.16,317.92,neutral
+"that it's going to be obvious,
+everybody is going to know this.",317.92,3.24,321.16,neutral
+"There were a few problems
+of course.",321.16,2.4,323.56,neutral
 "At the time he didn't differentiate
-between type 1 and type 2 diabetes. Well, it's very beneficial for type 2 diabetes,
-it really doesn't impact type 1 very much. And with the discovery
-of insulin a few years later all focus shifted to insulin and everybody forgot 
-about these dietary therapies.",323.56,18.12,341.68,NA
-"Recently in the United Kingdom Dr. Taylor performed a study
-called ""The counterpoint study"" and there he put people
-on very low calorie diets. Well, it's not fasting,
-it's very close. And look at these results.",341.68,15.0,356.68,angry
+between type 1 and type 2 diabetes.",323.56,4.32,327.88,neutral
+"Well, it's very beneficial for type 2 diabetes,
+it really doesn't impact type 1 very much.",327.88,4.92,332.8,NA
+"And with the discovery
+of insulin a few years later",332.8,3.16,335.96000000000004,NA
+all focus shifted to insulin,335.96,2.36,338.32,NA
+"and everybody forgot 
+about these dietary therapies.",338.32,3.36,341.68,NA
+Recently in the United Kingdom,341.68,3.04,344.72,NA
+"Dr. Taylor performed a study
+called ""The counterpoint study""",344.72,3.6,348.32000000000005,neutral
+"and there he put people
+on very low calorie diets.",348.32,3.36,351.68,NA
+"Well, it's not fasting,
+it's very close.",351.68,2.8,354.48,NA
+And look at these results.,354.48,2.2,356.68,neutral
 "In this group the blood sugars
-went from 9.6 to 5.9 in seven days. Seven days! His sugars have gone back to normal. What happens with this idea 
-that it's chronic, it's progressive, you'll always be on medication?",356.68,18.904,375.584,angry
-"It's simply not true. There's another example we can give. We can look at the example
+went from 9.6 to 5.9 in seven days.",356.68,6.748,363.428,NA
+Seven days!,364.16,1.836,365.99600000000004,NA
+His sugars have gone back to normal.,366.48,4.24,370.72,NA
+"What happens with this idea 
+that it's chronic, it's progressive,",370.72,3.36,374.08000000000004,neutral
+you'll always be on medication?,374.08,2.72,376.8,NA
+It's simply not true.,376.8,2.32,379.12,neutral
+There's another example we can give.,379.12,2.68,381.8,neutral
+"We can look at the example
 of very low carbohydrate
-diets, or so-called ketogenic diets. Let me give you a case -",376.8,12.84,389.64,angry
+diets,",381.8,3.4,385.2,neutral
+or so-called ketogenic diets.,385.2,2.44,387.64,neutral
+Let me give you a case -,387.64,2.0,389.64,neutral
 "I had a 27-year-old graduate student,
-she was actually studying physiology and she was recently diagnosed
-with type 2 diabetes. Her hemoglobin A1c was 10.4%. This is a three-month average
-of her blood sugars. The diagnosis of diabetes happens at 6.5%, 
-so 10.4% is very high.",389.64,21.159999999999997,410.79999999999995,angry
+she was actually studying physiology",389.64,4.64,394.28,neutral
+"and she was recently diagnosed
+with type 2 diabetes.",394.28,3.32,397.59999999999997,neutral
+Her hemoglobin A1c was 10.4%.,397.6,3.24,400.84000000000003,sad
+"This is a three-month average
+of her blood sugars.",400.84,3.2,404.03999999999996,neutral
+"The diagnosis of diabetes happens at 6.5%, 
+so 10.4% is very high.",404.04,6.76,410.8,neutral
 "Her doctors were very concerned
-of course and started her on three medications 
-right away. Being only 27 she didn't want to stay 
-on medications for the rest of her life. So she looked on the Internet and decided
-that she would follow a ketogenic diet. Well, she very quickly lost 
-about 20 pounds",410.8,18.240000000000002,429.04,angry
+of course",410.8,2.4,413.2,neutral
+"and started her on three medications 
+right away.",413.2,2.6,415.8,neutral
+"Being only 27 she didn't want to stay 
+on medications for the rest of her life.",415.8,4.64,420.44,neutral
+"So she looked on the Internet and decided
+that she would follow a ketogenic diet.",420.44,5.44,425.88,neutral
+"Well, she very quickly lost 
+about 20 pounds",425.88,3.16,429.04,neutral
 "and at her three-month checkup,
-her hemoglobin A1c was 5.5%. Well within the normal range
-and clearly not diabetic. Better she had taken herself off 
-of all the medications as soon as she started. So in this case it looked like 
-her type 2 diabetes was essentially cured. Wow!",429.04,22.956,451.99600000000004,angry
+her hemoglobin A1c was 5.5%.",429.04,5.28,434.32,neutral
+"Well within the normal range
+and clearly not diabetic.",434.32,4.96,439.28,neutral
+"Better she had taken herself off 
+of all the medications as soon as she started.",439.28,4.92,444.2,neutral
+"So in this case it looked like 
+her type 2 diabetes was essentially cured.",444.2,6.223,450.423,sad
+Wow!,451.28,1.573,452.85299999999995,neutral
 "That's not what we are told.
-Right? But we all know this is true. We all know that the type 2 diabetes 
-is completely reversible. For example if somebody comes up to you 
-and says, ""You know what? I lost 50 pounds 
-and my diabetes went away.""",453.96,17.945,471.905,angry
+Right?",453.96,2.444,456.404,neutral
+But we all know this is true.,456.41,2.28,458.69,disgust
+"We all know that the type 2 diabetes 
+is completely reversible.",458.699,5.741,464.44,NA
+"For example if somebody comes up to you 
+and says, ""You know what?",464.44,4.2,468.64,neutral
+"I lost 50 pounds 
+and my diabetes went away.""",468.64,3.28,471.91999999999996,neutral
 "You'd say, ""Wow, that's great!
-Terrific, good for you!"" You wouldn't say to them,
-""No, you're lying to me. ""The American Diabetes Association
-says it's chronic and progressive. Get back on your medications!"" No, of course not.",471.92,16.32,488.24,NA
+Terrific, good for you!""",471.92,3.56,475.48,NA
+"You wouldn't say to them,
+""No, you're lying to me.",475.48,4.68,480.16,NA
+"""The American Diabetes Association
+says it's chronic and progressive.",480.16,4.0,484.16,NA
+"Get back on your medications!""",484.16,2.32,486.48,NA
+"No, of course not.",486.48,1.76,488.24,NA
 "So, it's immediately obvious
-that this is just a lie. Type 2 diabetes is not chronic
-and it's not progressive. It's reversible. But what about all the cases
-about people on medications? Do you ever hear people say,",488.24,19.44,507.68,NA
+that this is just a lie.",488.24,3.68,491.92,neutral
+"Type 2 diabetes is not chronic
+and it's not progressive.",491.92,4.88,496.8,neutral
+It's reversible.,496.8,2.4,499.2,NA
+"But what about all the cases
+about people on medications?",499.2,5.36,504.56,neutral
+"Do you ever hear people say,",504.56,3.12,507.68,neutral
 """I started my insulin
-or I started my medications and now I'm so much better,
-I took myself off""? No, not really. If you take medications, 
-you're generally on it for life. Right? But what about the standard
-low-fat diet?",507.68,15.760000000000002,523.44,angry
-"Nobody ever comes up to me and says, ""You know, I went to my dietitian,
-I started a low-fat diet and now I'm so much better,
-I'm off all my medications."" I've seen thousands of patients
-and that doesn't happen. So in those cases the diabetes
-is not cured.",523.44,17.494,540.9340000000001,NA
+or I started my medications",507.68,3.92,511.6,neutral
+"and now I'm so much better,
+I took myself off""?",511.6,3.88,515.48,NA
+"No, not really.",515.48,1.84,517.32,angry
+"If you take medications, 
+you're generally on it for life. Right?",517.32,3.24,520.5600000000001,angry
+"But what about the standard
+low-fat diet?",520.56,2.88,523.4399999999999,NA
+"Nobody ever comes up to me and says,",523.44,2.284,525.724,NA
+"""You know, I went to my dietitian,
+I started a low-fat diet",525.737,3.966,529.703,NA
+"and now I'm so much better,
+I'm off all my medications.""",529.703,2.842,532.545,NA
+"I've seen thousands of patients
+and that doesn't happen.",532.56,4.303,536.8629999999999,NA
+"So in those cases the diabetes
+is not cured.",538.326,4.099,542.4250000000001,NA
 "So actually there are treatments
-that lead to a cure and there are treatments
-that do not lead to a cure. So those that lead to a cure - bariatric surgery, fasting 
-and very low-carb diets And these treatments 
-do not lead to a cure -",543.64,19.84,563.48,NA
+that lead to a cure",543.64,5.32,548.96,NA
+"and there are treatments
+that do not lead to a cure.",548.96,3.64,552.6,NA
+So those that lead to a cure -,552.6,2.28,554.88,NA
+"bariatric surgery, fasting 
+and very low-carb diets",554.88,4.6,559.48,NA
+"And these treatments 
+do not lead to a cure -",559.48,4.0,563.48,NA
 "insulin, other drugs,
-a low-fat diet. You'll never guess of course
-which direction all our current treatment protocols
-and research are heading to. They're all heading 
-towards the path of no cure. And that's why, they tell you -
-it's a chronic and progressive disease.",563.48,22.36,585.84,NA
-"But it's not. This is amazing news. This is amazing because type 2 diabetes is in fact
-a curable and reversible disease. The fact that treatments exist,
-means that there is hope for all of us.",585.84,18.757,604.597,NA
+a low-fat diet.",563.48,5.08,568.5600000000001,NA
+"You'll never guess of course
+which direction",568.56,3.56,572.1199999999999,NA
+"all our current treatment protocols
+and research are heading to.",572.12,4.52,576.64,NA
+"They're all heading 
+towards the path of no cure.",576.64,4.0,580.64,NA
+"And that's why, they tell you -
+it's a chronic and progressive disease.",580.64,5.2,585.84,NA
+But it's not.,585.84,1.92,587.76,NA
+This is amazing news.,587.76,2.64,590.4,NA
+This is amazing,590.4,1.943,592.343,NA
+"because type 2 diabetes is in fact
+a curable and reversible disease.",592.343,6.246,598.5889999999999,NA
+"The fact that treatments exist,
+means that there is hope for all of us.",598.6,6.008,604.6080000000001,NA
 "Drugs however cannot cure 
-a dietary disease. The cure must be a diet. The right diet.",605.6,9.633,615.2330000000001,NA
+a dietary disease.",605.6,4.92,610.52,NA
+The cure must be a diet.,610.52,2.88,613.4,NA
+The right diet.,613.4,1.833,615.233,NA

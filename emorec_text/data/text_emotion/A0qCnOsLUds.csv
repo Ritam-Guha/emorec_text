@@ -1,16 +1,72 @@
 text,start,duration,end,dominant_emotion
-so the goals of our study were to find out if it's a good idea to give high dose B vitamins to patients who have diabetic kidney damage it's called diabetic nephropathy what we,9.3,27.479999999999997,36.78,sad
-found out was that high-dose vitamins made the kidney function decline faster than the non active placebo tablets and patients who were randomized to high-dose vitamin had a higher risk of,22.86,29.250000000000004,52.11,sad
-strokes and heart attacks over the 3-year follow-up so we were shocked actually by the results when the when I first saw the results I thought maybe we had the randomization code reversed but,38.16,31.228,69.388,sad
-we checked and sure enough patients on the active high-dose vitamins had lower levels of a blood clotting factor called homocysteine which is why we were giving them the vitamin so that their Animas,53.549,24.96,78.509,sad
-ation code was correct so diabetic nephropathy is kidney damage from the diabetes it's thought to be largely due to damage to the small artery branches in the kidneys called arterioles and,65.939,30.32,96.25899999999999,sad
-it's known that homocysteine aggravates the function of those arterioles and that's why we thought lowering homocysteine levels should make the kidney function better so that's why,80.509,26.349999999999998,106.859,sad
-we're so surprised that it didn't people with diabetic nephropathy and significant kidney impairment impairment of kidney function should probably stop taking high-dose B vitamins it doesn't,94.259,29.400000000000002,123.659,sad
-mean they can't take low doses and the reasons we think for our results are that these B vitamins are normally excreted in the kidney for from the via the kidney and so we're concerned that,108.509,29.990000000000002,138.499,sad
-because the kidney function was impaired these patients may have not been able to get rid of the high dose vitamin C the normal way and they may have built up toxic doses there have been a number of,123.439,24.072,147.511,sad
-fairly large randomized control trials showing no harm of vitamins in people with nor kidney function this is the first study that I know of that's clearly showing,135.84,21.64,157.48000000000002,sad
-harm of high-dose vitamin C and people with impaired kidney function one of the consequences of this study is that it means we're going to have to look at other ways of lowering homocysteine,146.45,23.55,170.0,sad
-levels in patients with kidney failure and that's something we've been working on with medications called thiols that that bind homocysteine and get rid of it through the kidneys or through a,158.12,24.060000000000002,182.18,sad
-dialysis machine there are quite a few people presently taking high-dose vitamin C to lower homocysteine and what this means is that if they have kidney failure they shouldn't be doing that the,170.51,27.358999999999998,197.869,sad
-study will be published in JAMA the Journal of the American Medical Association that was conducted not just at Western and at Robarts but at academic medical centers in Toronto,184.519,26.811,211.33,sad
+so the goals of our study were to find,9.3,5.549,14.849,sad
+out if it's a good idea to give high,11.91,5.93,17.84,sad
+dose B vitamins to patients who have,14.849,5.07,19.919,sad
+diabetic kidney damage,17.84,5.02,22.86,sad
+it's called diabetic nephropathy what we,19.919,5.911,25.83,sad
+found out was that high-dose vitamins,22.86,6.23,29.09,sad
+made the kidney function decline faster,25.83,7.369,33.199,sad
+than the non active placebo tablets and,29.09,6.219,35.309,sad
+patients who were randomized to,33.199,4.961,38.16,sad
+high-dose vitamin had a higher risk of,35.309,4.471,39.78,sad
+strokes and heart attacks over the,38.16,5.19,43.349999999999994,sad
+3-year follow-up so we were shocked,39.78,6.989,46.769,sad
+actually by the results when the when I,43.35,6.54,49.89,sad
+first saw the results I thought maybe we,46.769,6.78,53.549,NA
+had the randomization code reversed but,49.89,5.729,55.619,NA
+we checked and sure enough patients on,53.549,4.921,58.47,NA
+the active high-dose vitamins had lower,55.619,5.851,61.47,NA
+levels of a blood clotting factor called,58.47,5.04,63.51,NA
+homocysteine which is why we were giving,61.47,4.469,65.939,NA
+them the vitamin so that their Animas,63.51,4.679,68.189,NA
+ation code was correct so diabetic,65.939,4.801,70.74,NA
+nephropathy is kidney damage from the,68.189,5.941,74.13,NA
+diabetes it's thought to be largely due,70.74,6.15,76.89,sad
+to damage to the small artery branches,74.13,6.379,80.509,sad
+in the kidneys called arterioles and,76.89,7.049,83.93900000000001,sad
+it's known that homocysteine aggravates,80.509,5.71,86.219,sad
+the function of those arterioles and,83.939,4.381,88.32,sad
+that's why we thought lowering,86.219,3.69,89.90899999999999,sad
+homocysteine levels should make the,88.32,5.939,94.25899999999999,sad
+kidney function better so that's why,89.909,6.63,96.539,sad
+we're so surprised that it didn't people,94.259,5.18,99.439,sad
+with diabetic nephropathy and,96.539,6.78,103.319,sad
+significant kidney impairment impairment,99.439,6.43,105.869,sad
+of kidney function should probably stop,103.319,5.19,108.509,sad
+taking high-dose B vitamins it doesn't,105.869,5.82,111.689,sad
+mean they can't take low doses and the,108.509,7.74,116.249,sad
+reasons we think for our results are,111.689,6.42,118.109,sad
+that these B vitamins are normally,116.249,4.26,120.509,sad
+excreted in the kidney for from the via,118.109,5.33,123.439,sad
+the kidney and so we're concerned that,120.509,6.24,126.749,sad
+because the kidney function was impaired,123.439,6.371,129.81,sad
+these patients may have not been able to,126.749,4.861,131.60999999999999,sad
+get rid of the high dose vitamin C the,129.81,3.27,133.08,sad
+normal way and they may have built up,131.61,4.23,135.84,sad
+toxic doses there have been a number of,133.08,5.34,138.42000000000002,sad
+fairly large randomized control trials,135.84,5.37,141.21,NA
+showing no harm of vitamins in people,138.42,3.47,141.89,NA
+with nor,141.21,3.35,144.56,sad
+kidney function this is the first study,141.89,4.56,146.45,sad
+that I know of that's clearly showing,144.56,4.89,149.45,sad
+harm of high-dose vitamin C and people,146.45,6.5,152.95,sad
+with impaired kidney function one of the,149.45,6.03,155.48,NA
+consequences of this study is that it,152.95,3.82,156.76999999999998,NA
+means we're going to have to look at,155.48,2.64,158.11999999999998,NA
+other ways of lowering homocysteine,156.77,4.56,161.33,NA
+levels in patients with kidney failure,158.12,4.65,162.77,NA
+and that's something we've been working,161.33,5.22,166.55,NA
+on with medications called thiols that,162.77,6.54,169.31,NA
+that bind homocysteine and get rid of it,166.55,3.96,170.51000000000002,NA
+through the kidneys or through a,169.31,3.69,173.0,sad
+dialysis machine there are quite a few,170.51,4.68,175.19,sad
+people presently taking high-dose,173.0,7.56,180.56,sad
+vitamin C to lower homocysteine and what,175.19,7.11,182.3,sad
+this means is that if they have kidney,180.56,3.959,184.519,sad
+failure they shouldn't be doing that the,182.3,4.05,186.35000000000002,sad
+study will be published in JAMA the,184.519,3.181,187.70000000000002,NA
+Journal of the American Medical,186.35,4.109,190.459,NA
+Association that was conducted not just,187.7,5.45,193.14999999999998,NA
+at Western and at Robarts but at,190.459,5.071,195.53,NA
+academic medical centers in Toronto,193.15,9.0,202.15,sad
 McMaster and in Winnipeg,195.53,6.62,202.15,sad

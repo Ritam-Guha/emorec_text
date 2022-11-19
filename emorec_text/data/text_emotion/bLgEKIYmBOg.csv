@@ -1,33 +1,61 @@
 text,start,duration,end,dominant_emotion
 "- Physical activity is
-critically important for heart health, and the bottom line with physical activity is, move
-more, move harder, sit less. Now the good news is,
-physical activity is not only good for your heart,
-it's good for your brain,",0.35,16.561,16.911,angry
-"it's good for the quality of sleep, and it's good for your general
-overall quality of life. How much you do, critically important. But doing something is more
-important than doing nothing. So throughout the day, doing
-things that move your body",17.25,15.676000000000002,32.926,angry
+critically important",0.35,2.53,2.88,fear
+"for heart health, and the bottom line",2.88,2.24,5.12,sad
+"with physical activity is, move
+more, move harder, sit less.",5.12,5.0,10.120000000000001,sad
+"Now the good news is,
+physical activity is not only",10.459,3.941,14.399999999999999,sad
+"good for your heart,
+it's good for your brain,",14.4,2.85,17.25,sad
+"it's good for the quality of sleep,",17.25,1.97,19.22,sad
+"and it's good for your general
+overall quality of life.",19.22,3.163,22.383,sad
+"How much you do, critically important.",24.09,2.783,26.873,sad
+"But doing something is more
+important than doing nothing.",28.51,3.56,32.07,sad
+"So throughout the day, doing
+things that move your body",32.07,4.2,36.27,sad
 "a little bit harder, whether
-that's brushing your teeth while you're taking a
-call, climbing the stairs, getting from the parking lot to wherever you're going and back. Every minute of physical activity counts",36.27,14.350000000000001,50.620000000000005,neutral
+that's brushing your teeth",36.27,2.666,38.936,sad
+"while you're taking a
+call, climbing the stairs,",38.936,4.504,43.44,sad
+getting from the parking lot to wherever,43.44,1.66,45.099999999999994,neutral
+you're going and back.,45.1,1.63,46.730000000000004,fear
+Every minute of physical activity counts,46.73,3.89,50.62,sad
 "and improves all those
-elements of your health. Now to achieve the maximum
-benefit from physical activity, the American Heart Association
-and others recommend certain levels and amounts
-of physical activity. So for full heart health and brain health,",50.62,16.426000000000002,67.04599999999999,angry
+elements of your health.",50.62,3.69,54.309999999999995,fear
+"Now to achieve the maximum
+benefit from physical activity,",54.31,3.93,58.24,sad
+"the American Heart Association
+and others recommend",58.24,2.618,60.858000000000004,fear
+"certain levels and amounts
+of physical activity.",60.858,3.742,64.6,fear
+"So for full heart health and brain health,",64.6,2.446,67.04599999999999,fear
 "the recommendation is
-150 minutes of moderate to vigorous physical
-activity and two days a week where you're doing
-strengthening exercises, whether that's light
-weight-lifting or calisthenics, jumping jacks and push-ups, for example.",67.046,18.224,85.27000000000001,angry
+150 minutes of moderate",67.046,4.964,72.01,sad
+"to vigorous physical
+activity and two days a week",72.01,3.8,75.81,sad
+"where you're doing
+strengthening exercises,",75.81,2.71,78.52,sad
+"whether that's light
+weight-lifting or calisthenics,",78.52,3.77,82.28999999999999,sad
+"jumping jacks and push-ups, for example.",82.29,2.98,85.27000000000001,sad
 "Moderate physical activity is
-the activity that you can do, feels hard, but you can
-have a conversation, brisk walking, doing yoga,
-gardening, riding a bike at a leisurely pace. Vigorous physical activity
-is physical activity",85.27,16.809,102.079,angry
+the activity that you can do,",85.27,3.81,89.08,sad
+"feels hard, but you can
+have a conversation,",89.08,2.849,91.929,sad
+"brisk walking, doing yoga,
+gardening, riding a bike",91.929,5.0,96.929,sad
+at a leisurely pace.,97.49,2.13,99.61999999999999,neutral
+"Vigorous physical activity
+is physical activity",99.62,3.02,102.64,sad
 "that not only feels kind of
-hard, but you can't really talk while you're doing it. That would include
-running, jogging, swimming and riding your bike at a
-higher pace than just leisurely. So the bottom line is, move
-more, move harder, sit less.",102.64,18.143,120.783,angry
+hard, but you can't really talk",102.64,3.53,106.17,fear
+while you're doing it.,106.17,1.07,107.24,fear
+"That would include
+running, jogging, swimming",107.24,4.73,111.97,sad
+"and riding your bike at a
+higher pace than just leisurely.",112.84,3.813,116.653,sad
+"So the bottom line is, move
+more, move harder, sit less.",117.9,5.0,122.9,sad

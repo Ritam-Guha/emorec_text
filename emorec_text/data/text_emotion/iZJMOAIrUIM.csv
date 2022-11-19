@@ -1,29 +1,55 @@
 text,start,duration,end,dominant_emotion
-"Hi, my name is Dr. Dana Baras. I'm an Ob/Gyn with Signature Ob/Gyn. We deliver babies at Howard County General
-Hospital and provide Gyn care there as well. Diabetes is a disease of abnormal blood sugar. It is mostly caused by insulin resistance
-in the body, but it can be due a complete",5.299,21.07,26.369,angry
-"lack of production of insulin. Gestational diabetes is diabetes that is first
-diagnosed in pregnancy. It is usually due to interference between
-the insulin hormone and the pregnancy hormones leading to an abnormal glucose level in the
-blood. Gestational diabetes can increase a woman's
-risk of developing pre-eclampsia, of needing",26.369,21.21,47.579,angry
+"Hi, my name is Dr. Dana Baras.",5.299,1.821,7.12,fear
+I'm an Ob/Gyn with Signature Ob/Gyn.,7.12,3.05,10.17,sad
+"We deliver babies at Howard County General
+Hospital and provide Gyn care there as well.",10.17,6.98,17.15,sad
+Diabetes is a disease of abnormal blood sugar.,17.15,2.879,20.029,sad
+"It is mostly caused by insulin resistance
+in the body, but it can be due a complete",20.029,6.34,26.369,sad
+lack of production of insulin.,26.369,3.08,29.448999999999998,sad
+"Gestational diabetes is diabetes that is first
+diagnosed in pregnancy.",29.449,3.401,32.85,fear
+"It is usually due to interference between
+the insulin hormone and the pregnancy hormones",32.85,6.979,39.829,sad
+"leading to an abnormal glucose level in the
+blood.",39.829,4.091,43.92,sad
+"Gestational diabetes can increase a woman's
+risk of developing pre-eclampsia, of needing",43.92,3.659,47.579,neutral
 "a cesarean section, or even having a still
-birth. Women are at increased risk of developing larger
-than normal babies, that's increasing their risk of NICU admission and of shoulder dystocia,
-which are the shoulders getting stuck as the baby is delivering vaginally or by C-section. Babies also have an increased risk of developing
-neonatal jaundice. They can develop neonatal",47.579,28.401,75.98,angry
-"hypoglycemia which is low blood sugar. In order to make sure that you and your baby
-are healthy during pregnancy, it is important to maintain a healthy weight during pregnancy. This includes a healthy diet and regular exercise. Some women can control gestational diabetes
-with diet alone, but many women will need",75.98,20.27,96.25,angry
-"to take insulin instead. Oral hypoglycemics, that is oral medication,
-is no longer recommended in pregnancy due to risk of low blood sugar in the infants. We also recommend antenatal testing which
-is regular office visits with additional testing with heart tracings and ultrasounds to decrease
-your risk of complications during a pregnancy",96.25,23.7,119.95,angry
-"complicated by gestational diabetes. In a healthy woman, with a healthy BMI at
-the start of pregnancy, the recommendation is to gain between 25 and 35 pounds in pregnancy. In a woman whose BMI is above normal, you'll
-be recommended to gain less than that amount. Women who have gestational diabetes are certainly
-at increased risk of developing diabetes postpartum.",119.95,24.83,144.78,angry
+birth.",47.579,6.131,53.71,sad
+"Women are at increased risk of developing larger
+than normal babies, that's increasing their",53.71,6.739,60.449,sad
+"risk of NICU admission and of shoulder dystocia,
+which are the shoulders getting stuck as the",60.449,6.621,67.07,sad
+baby is delivering vaginally or by C-section.,67.07,3.93,71.0,sad
+"Babies also have an increased risk of developing
+neonatal jaundice. They can develop neonatal",71.0,4.98,75.98,neutral
+hypoglycemia which is low blood sugar.,75.98,3.71,79.69,neutral
+"In order to make sure that you and your baby
+are healthy during pregnancy, it is important",79.69,4.95,84.64,sad
+to maintain a healthy weight during pregnancy.,84.64,3.2,87.84,sad
+This includes a healthy diet and regular exercise.,87.84,3.72,91.56,sad
+"Some women can control gestational diabetes
+with diet alone, but many women will need",91.56,4.69,96.25,sad
+to take insulin instead.,96.25,2.08,98.33,neutral
+"Oral hypoglycemics, that is oral medication,
+is no longer recommended in pregnancy due",98.33,6.56,104.89,sad
+to risk of low blood sugar in the infants.,104.89,3.57,108.46,sad
+"We also recommend antenatal testing which
+is regular office visits with additional testing",108.46,6.45,114.91,sad
+"with heart tracings and ultrasounds to decrease
+your risk of complications during a pregnancy",114.91,5.04,119.95,sad
+complicated by gestational diabetes.,119.95,3.69,123.64,sad
+"In a healthy woman, with a healthy BMI at
+the start of pregnancy, the recommendation",123.64,4.52,128.16,sad
+is to gain between 25 and 35 pounds in pregnancy.,128.16,3.34,131.5,neutral
+"In a woman whose BMI is above normal, you'll
+be recommended to gain less than that amount.",131.5,8.27,139.77,sad
+"Women who have gestational diabetes are certainly
+at increased risk of developing diabetes postpartum.",139.77,5.01,144.78,sad
 "We recommend a two hour glucose tolerance
-test six weeks post partum to determine if the woman still has diabetes and then she
-should follow up with her primary care doctor yearly to ensure she has not developed diabetes
-at that point.",145.78,13.25,159.03,angry
+test six weeks post partum to determine if",145.78,5.23,151.01,sad
+"the woman still has diabetes and then she
+should follow up with her primary care doctor",151.01,4.43,155.44,sad
+"yearly to ensure she has not developed diabetes
+at that point.",155.44,3.59,159.03,sad

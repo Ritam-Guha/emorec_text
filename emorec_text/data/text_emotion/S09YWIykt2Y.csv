@@ -1,63 +1,103 @@
 text,start,duration,end,dominant_emotion
 "Hi, I'm Steve Hodges, Associate Professor
-of Pediatric Urology at Wake Forest University School of Medicine. I want to talk to you
-about urinary tract infections in children- primarily little girls, because that's who
-gets most of them. Many of you may not be familiar with the urinary
-tract. Blood goes through your kidneys- you have two of them which produce urine- which
-flows down to the tubes called the ureters",4.089,19.511,23.6,happy
+of Pediatric Urology at Wake Forest University",4.089,4.671,8.760000000000002,fear
+"School of Medicine. I want to talk to you
+about urinary tract infections in children-",8.76,3.66,12.42,neutral
+"primarily little girls, because that's who
+gets most of them.",12.42,3.529,15.949,neutral
+"Many of you may not be familiar with the urinary
+tract. Blood goes through your kidneys- you",15.949,3.74,19.689,neutral
+"have two of them which produce urine- which
+flows down to the tubes called the ureters",19.689,3.911,23.6,neutral
 "into your bladder, where you store the urine
-and then evacuate it when you need to. Every urinary tract infection in a little
-girl happens when bacteria from the colon comes out of the colon, travels up into the
-urethra and bladder and sets up shop. And that's what causes urinary tract infections.
-They can present with varying symptoms- typically urgency and peeing very quickly- dysuria or
-pain while urinating. Sometimes it can even",23.6,23.639,47.239000000000004,angry
+and then evacuate it when you need to.",23.6,5.23,28.830000000000002,neutral
+"Every urinary tract infection in a little
+girl happens when bacteria from the colon",28.83,4.7,33.53,neutral
+"comes out of the colon, travels up into the
+urethra and bladder and sets up shop. And",33.53,4.23,37.760000000000005,neutral
+"that's what causes urinary tract infections.
+They can present with varying symptoms- typically",37.76,4.22,41.98,neutral
+"urgency and peeing very quickly- dysuria or
+pain while urinating. Sometimes it can even",41.98,5.259,47.239,neutral
 "progress to urinary frequency and sometime
-fever, chills, nausea, vomiting. And those there are actual kidney infections- which
-we won't talk about right now- we're going to focus primarily on the bladder infections.
-I want to talk about how urinary tract infections happen and some of the myths about them. So
-we discussed that every infection happens when bacteria travel into the bladder from
-the colon.",47.239,20.320999999999998,67.56,angry
+fever, chills, nausea, vomiting. And those",47.239,6.0,53.239,neutral
+"there are actual kidney infections- which
+we won't talk about right now- we're going",53.239,2.691,55.93,neutral
+"to focus primarily on the bladder infections.
+I want to talk about how urinary tract infections",55.93,4.77,60.7,neutral
+"happen and some of the myths about them. So
+we discussed that every infection happens",60.7,3.699,64.399,neutral
+"when bacteria travel into the bladder from
+the colon.",64.399,3.161,67.56,angry
 "So there's only three risk factors that girls
-can have that cause infections: the primary one is constipation, if you don't let all
-of the stool out of the colon, that can lead to infections; second, is vulvitis or inflammation
-of the skin between the rectum and the urethra, that allows bacteria that cause infections
-to live on the skin more easily and make its way into the bladder; and the third is incomplete
-or irregular emptying of the bladder, kids",67.56,23.25,90.81,angry
+can have that cause infections: the primary",67.56,4.03,71.59,neutral
+"one is constipation, if you don't let all
+of the stool out of the colon, that can lead",71.59,4.559,76.149,neutral
+"to infections; second, is vulvitis or inflammation
+of the skin between the rectum and the urethra,",76.149,5.64,81.789,angry
+"that allows bacteria that cause infections
+to live on the skin more easily and make its",81.789,3.801,85.59,angry
+"way into the bladder; and the third is incomplete
+or irregular emptying of the bladder, kids",85.59,5.22,90.81,neutral
 "hold their urine too long and that is a definite
-way to lead to infection. A good reminder about that is that I very
-rarely see urinary tract infections in children prior to toilet training. That's because they
-have less instance of constipation, their moms usually take really good care of their
-bottoms, and they never hold their urine because they don't have a reason to.
-Some common myths for infection include the",90.81,19.699,110.509,angry
+way to lead to infection.",90.81,3.359,94.169,neutral
+"A good reminder about that is that I very
+rarely see urinary tract infections in children",94.169,4.86,99.029,neutral
+"prior to toilet training. That's because they
+have less instance of constipation, their",99.029,4.55,103.579,neutral
+"moms usually take really good care of their
+bottoms, and they never hold their urine because",103.579,3.06,106.639,neutral
+"they don't have a reason to.
+Some common myths for infection include the",106.639,3.87,110.509,neutral
 "way you wipe. In fact it's never been proven
-that wiping front-to-back or back-to-front has any effect on the incidence of infections.
-Also, a lot of physicians will tell kids not to take baths and to take showers instead
-and that really has no bearing on infections- depending on what kind of bath you take. If
-you're in irritating soaps or bubble baths sometimes it can cause inflammation which,
-as we mentioned, vulvitis, is a factor in",110.509,24.021,134.53,angry
+that wiping front-to-back or back-to-front",110.509,4.1,114.609,neutral
+"has any effect on the incidence of infections.
+Also, a lot of physicians will tell kids not",114.609,5.5,120.109,neutral
+"to take baths and to take showers instead
+and that really has no bearing on infections-",120.109,5.25,125.359,neutral
+"depending on what kind of bath you take. If
+you're in irritating soaps or bubble baths",125.359,4.32,129.679,angry
+"sometimes it can cause inflammation which,
+as we mentioned, vulvitis, is a factor in",129.679,4.851,134.53,angry
 "infections.
-But sitting in tubs can be beneficial sometimes especially if you use non-irritating soaps.
-And sometimes if you have irritation on your bottom, just using baking soda or oatmeal
-or a cup of apple cider vinegar can actually soothe the irritation.
-People often use cranberry juice to help treat infections. Cranberry juice- there's rare
-data that may help prevent infections, but",134.53,20.569000000000003,155.099,angry
+But sitting in tubs can be beneficial sometimes",134.53,2.789,137.319,angry
+"especially if you use non-irritating soaps.
+And sometimes if you have irritation on your",137.319,4.941,142.26,neutral
+"bottom, just using baking soda or oatmeal
+or a cup of apple cider vinegar can actually",142.26,4.49,146.75,angry
+"soothe the irritation.
+People often use cranberry juice to help treat",146.75,4.56,151.31,angry
+"infections. Cranberry juice- there's rare
+data that may help prevent infections, but",151.31,3.789,155.099,neutral
 "it's not very strong and it definitely cannot
-treat infections. So the main thing for little girls to do to
-help prevent infections is number one: treat the constipation; number two: make sure the
-bottom is clean and dry; and number three is urinate on time. If you do those three
-things, it's impossible to get an infection. If you think your daughter has an infection
-because she's peeing frequently, peeing very",155.099,18.191,173.29,angry
+treat infections.",155.099,2.98,158.07899999999998,neutral
+"So the main thing for little girls to do to
+help prevent infections is number one: treat",158.079,3.451,161.53,neutral
+"the constipation; number two: make sure the
+bottom is clean and dry; and number three",161.53,3.62,165.15,neutral
+"is urinate on time. If you do those three
+things, it's impossible to get an infection.",165.15,4.25,169.4,neutral
+"If you think your daughter has an infection
+because she's peeing frequently, peeing very",169.4,3.89,173.29,neutral
 "urgently, or having new onset incontinence,
-or pain with urinating, then you should take her to the physician where they will check
-a urine study- it's called a urinalysis. The child voids into a cup and they look at
-it under a microscope and there are certain findings on that analysis that will tell them
-there's an infection. If the infection has no fever- just those
-bladder symptoms we discussed- then it's very",173.29,19.35,192.64,angry
+or pain with urinating, then you should take",173.29,4.96,178.25,neutral
+"her to the physician where they will check
+a urine study- it's called a urinalysis.",178.25,2.78,181.03,neutral
+"The child voids into a cup and they look at
+it under a microscope and there are certain",181.03,4.679,185.709,neutral
+"findings on that analysis that will tell them
+there's an infection.",185.709,3.681,189.39000000000001,neutral
+"If the infection has no fever- just those
+bladder symptoms we discussed- then it's very",189.39,3.25,192.64,neutral
 "simple to treat: you just take some antibiotics
-and it gets better. If the child has fever and nausea/vomiting
-and flank pain, then that could mean a kidney infection which is much more severe and you
-may need some imaging studies such as a renal ultrasound or a voiding cystourethrogram to
-evaluate the child's anatomy to see why they are at risk for these worse infections.
-It's important though, if you have these new",192.64,19.62,212.26,angry
+and it gets better.",192.64,3.019,195.659,neutral
+"If the child has fever and nausea/vomiting
+and flank pain, then that could mean a kidney",195.659,4.571,200.23,neutral
+"infection which is much more severe and you
+may need some imaging studies such as a renal",200.23,3.989,204.219,angry
+"ultrasound or a voiding cystourethrogram to
+evaluate the child's anatomy to see why they",204.219,4.181,208.4,neutral
+"are at risk for these worse infections.
+It's important though, if you have these new",208.4,3.86,212.26000000000002,neutral
 "bladder symptoms, to see your pediatrician
 to get this evaluated quickly.",212.26,2.809,215.069,angry

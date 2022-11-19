@@ -1,50 +1,82 @@
 text,start,duration,end,dominant_emotion
 "A fourth group of medication is one that we call 
-Thiazolidinediones  we just use the word TZD for short in order to 
-pronounce it easier.  There are two agents made in this fashion they 
-are called Avandia or Rosiglitazone  and Actos or pioglitazone.  These agents are a little bit different than 
+Thiazolidinediones ",6.0,6.0,12.0,sad
+"we just use the word TZD for short in order to 
+pronounce it easier. ",12.0,8.066,20.066000000000003,fear
+"There are two agents made in this fashion they 
+are called Avandia or Rosiglitazone ",20.066,6.967,27.032999999999998,sad
+and Actos or pioglitazone. ,27.033,4.033,31.066000000000003,sad
+"These agents are a little bit different than 
 anything else in that they work in the body to 
-reduce ",6.0,31.000000000000004,37.0,angry
+reduce ",31.066,5.934,37.0,fear
 "reduce insulin resistance they work on the 
-muscle cells in the fat cells of your body and enable them to use insulin better  and therefore reduce your blood sugar very 
-effectively Avandia comes as a 2,4 or 8 mg tablet  and is taken once a day or sometimes twice a 
-day. Actos comes as a 15, 30 or 45 mg tablet and is 
-also taken once a day.",37.0,34.033,71.033,angry
+muscle cells in the fat cells of your body",37.0,6.066,43.066,sad
+and enable them to use insulin better,43.066,2.967,46.033,fear
+" and therefore reduce your blood sugar very 
+effectively Avandia comes as a 2,4 or 8 mg tablet ",46.033,9.033,55.066,sad
+"and is taken once a day or sometimes twice a 
+day.",55.066,5.0,60.066,sad
+"Actos comes as a 15, 30 or 45 mg tablet and is 
+also taken once a day.",60.066,10.967,71.033,sad
 "The big thing about these two agents is that they 
-don't cause and excessively low blood sugar  and therefore we don't really need to test their 
+don't cause and excessively low blood sugar ",71.033,7.033,78.066,neutral
+"and therefore we don't really need to test their 
 blood sugars often when we take that medicine 
-in order to identify hypoglycemia because it won't happen  however these agents do have some adverse 
+in order to identify hypoglycemia",78.066,8.967,87.033,sad
+because it won't happen ,87.033,2.967,90.0,neutral
+"however these agents do have some adverse 
 effects because some fluid retention and 
-therefore if you have heart failure  you should not take these medications ",71.033,31.967,103.0,angry
+therefore if you have heart failure ",90.0,10.0,100.0,sad
+you should not take these medications ,100.0,3.0,103.0,fear
 "there was a question whether there was an 
-increased incidence of heart attack actually  with Avandia but in recent studies that is not been 
+increased incidence of heart attack actually ",103.0,5.0,108.0,sad
+"with Avandia but in recent studies that is not been 
 shown to be the case even though there was an 
-increased  incidences of heart attack in patients who had 
-fluid retention and heart failure. There is one other side effect of these drugs 
+increased ",108.0,7.033,115.033,sad
+"incidences of heart attack in patients who had 
+fluid retention and heart failure.",115.033,7.033,122.066,sad
+"There is one other side effect of these drugs 
 which is out of some importance of his recently 
-been shown that   they cause a weakening of the bones or 
-osteoporosis ",103.0,28.066000000000003,131.066,angry
+been shown that ",122.066,4.934,127.0,sad
+" they cause a weakening of the bones or 
+osteoporosis ",127.0,4.066,131.066,sad
 "they lead to fractures but it's unusual fracture site 
 it's the bones of the feet, the hands, and the 
-lower arms  not the spine and the hips the usual source of 
+lower arms ",131.066,10.0,141.066,sad
+"not the spine and the hips the usual source of 
 most osteoporosis fractures so if you had a 
-person who has osteoporosis they probably shouldn't take these agents  Finally I should mention these agents come 
-combined with metformin and with a sulfonylurea called 
-Amarillo and therefore",131.066,35.0,166.066,NA
-"Avandia is available as an Avandamet  and Avandamet is a drug combining 500 mg of 
-metformin with 2 4 or 8 mg of Avandia  the amount of metformin in those ages could be 
+person who has osteoporosis",141.066,9.967,151.03300000000002,sad
+they probably shouldn't take these agents ,151.033,4.033,155.06599999999997,sad
+"Finally I should mention these agents come 
+combined",155.066,4.0,159.066,sad
+"with metformin and with a sulfonylurea called 
+Amarillo and therefore",159.066,7.0,166.066,sad
+Avandia is available as an Avandamet ,166.066,4.967,171.03300000000002,sad
+"and Avandamet is a drug combining 500 mg of 
+metformin with 2",171.033,10.0,181.033,sad
+4 or 8 mg of Avandia ,181.033,6.0,187.033,sad
+"the amount of metformin in those ages could be 
 there are 500 or 1000 mg pill so you can end up 
-taking  one pill twice a day and have a very significant 
-blood sugar lowering",166.066,35.0,201.066,angry
+taking ",187.033,7.0,194.033,sad
+"one pill twice a day and have a very significant 
+blood sugar lowering",194.033,7.033,201.06599999999997,sad
 "and is used a great deal in patients who have a 
-high A1c  that is high blood sugars and you need more 
-than one drug to get them down to their goal levels that's when you would 
+high A1c ",201.066,4.967,206.03300000000002,sad
+"that is high blood sugars and you need more 
+than one drug to get them down",206.033,3.967,210.0,sad
+"to their goal levels that's when you would 
 consider a combined agent.
-0:03:37.066,0:03:37.033 Another combination is a combination of Avandia 
-and a sulfonylurea Amaryl or glimepiride ",201.066,28.0,229.066,angry
-"Avandaryl comes as a 4 mg of Avandia  with 1 to 2 mg of Amaryl, or 4 mg of Avandia with 4 mg of Amaryl. This combined agent taken twice a day very 
+0:03:37.066,0:03:37.033",210.0,7.066,217.066,sad
+"Another combination is a combination of Avandia 
+and a sulfonylurea",217.066,7.0,224.066,fear
+Amaryl or glimepiride ,224.066,5.0,229.066,sad
+Avandaryl comes as a 4 mg of Avandia ,229.066,5.934,235.0,sad
+"with 1 to 2 mg of Amaryl, or",235.0,5.066,240.066,neutral
+4 mg of Avandia with 4 mg of Amaryl.,240.066,6.0,246.066,sad
+"This combined agent taken twice a day very 
 effectively reduces blood sugar but in this case 
-can cause hypoglycemia because the sulfonylurea Amaryl does produce 
-hypoglycemia ",229.066,35.0,264.06600000000003,angry
+can cause hypoglycemia",246.066,10.0,256.06600000000003,sad
+"because the sulfonylurea Amaryl does produce 
+hypoglycemia ",256.066,8.0,264.066,sad
 "they also can cause fluid retention and lead to 
-some fractures in women as well.",264.066,7.967,272.03299999999996,NA
+some fractures in women as well.",264.066,7.967,272.03299999999996,sad

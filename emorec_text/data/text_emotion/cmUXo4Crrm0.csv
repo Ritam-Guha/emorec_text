@@ -1,42 +1,77 @@
 text,start,duration,end,dominant_emotion
 "Many of my patients are hesitant to begin
-injecting insulin, but once they actually try it, it becomes like any other routine.
-Here’s how I teach them. You’ll need: • Your bottle of insulin
-• Syringe • And a sharps container",1.329,16.270999999999997,17.599999999999998,angry
+injecting insulin, but once they actually",1.329,5.18,6.5089999999999995,fear
+"try it, it becomes like any other routine.
+Here’s how I teach them.",6.509,4.721,11.23,sad
+You’ll need:,11.23,1.35,12.58,NA
+"• Your bottle of insulin
+• Syringe",12.58,2.639,15.219,NA
+• And a sharps container,15.219,2.381,17.599999999999998,NA
 "Always wash your hands with soap and water
-before you begin. Typically, there are 3 syringe sizes:
-• 1 cc holds 100 units of insulin • a ½ cc holds 50 units
-• and 1/3 cc holds 30 units Talk to your care team about how much insulin
-you need and which syringe size you should use.",17.6,22.91,40.510000000000005,NA
+before you begin.",17.6,4.65,22.25,NA
+"Typically, there are 3 syringe sizes:
+• 1 cc holds 100 units of insulin",22.25,6.4,28.65,NA
+"• a ½ cc holds 50 units
+• and 1/3 cc holds 30 units",28.65,5.009,33.659,NA
+"Talk to your care team about how much insulin
+you need and which syringe size you should",33.659,5.0,38.659,NA
+use.,38.659,1.851,40.51,fear
 "Insulin needles have gotten much smaller over
-the years. So they are much less painful than you might expect. When you first get your insulin, keep it refrigerated.
-After the first time you use it, you can keep it in room temperature for 28 to 42 days.
-It will more comfortable to inject. If you have cloudy insulin, it needs to be
-mixed. Gently roll the bottle in your hands.",40.51,24.990000000000002,65.5,NA
+the years. So they are much less painful than",40.51,4.81,45.32,fear
+you might expect.,45.32,2.23,47.55,fear
+"When you first get your insulin, keep it refrigerated.
+After the first time you use it, you can keep",47.55,6.02,53.56999999999999,NA
+"it in room temperature for 28 to 42 days.
+It will more comfortable to inject.",53.57,6.19,59.76,NA
+"If you have cloudy insulin, it needs to be
+mixed. Gently roll the bottle in your hands.",59.76,5.74,65.5,NA
 "Then rotate it from top to bottom, without
-shaking. • When you’re ready to inject, pull the
-plunger back to the number of units needed, drawing air into the syringe.
-• Insert the needle into the bottle of the insulin through the rubber cap.
-• Inject the air from the syringe into the bottle.
-• Turn the bottle upside down with the needle",65.5,21.849999999999998,87.35,NA
+shaking.",65.5,4.909,70.409,NA
+"• When you’re ready to inject, pull the
+plunger back to the number of units needed,",70.409,4.891,75.30000000000001,NA
+"drawing air into the syringe.
+• Insert the needle into the bottle of the",75.3,4.06,79.36,NA
+"insulin through the rubber cap.
+• Inject the air from the syringe into the",79.36,4.54,83.9,NA
+"bottle.
+• Turn the bottle upside down with the needle",83.9,3.45,87.35000000000001,NA
 "in it.
-• Make sure the tip of the needle is fully submerged in the insulin as you pull the plunger
-back to the correct number of insulin units. This helps prevent air bubbles. Air bubbles aren’t harmful, but can take
-up room and prevent you from getting the right dose.",87.35,18.43,105.78,NA
+• Make sure the tip of the needle is fully",87.35,3.03,90.38,NA
+"submerged in the insulin as you pull the plunger
+back to the correct number of insulin units.",90.38,6.29,96.67,NA
+This helps prevent air bubbles.,96.67,2.75,99.42,NA
+"Air bubbles aren’t harmful, but can take
+up room and prevent you from getting the right",99.42,5.14,104.56,NA
+dose.,104.56,1.22,105.78,happy
 "If you have bubbles, simply inject the contents
-back into the bottle and repeat the procedure. Next, inject at a 90-degree angle. Hold for 5 seconds. Then pull the needle out. Drop the syringe into the sharps container,
-which you can buy at any local pharmacy.",105.78,22.229,128.00900000000001,NA
+back into the bottle and repeat the procedure.",105.78,6.52,112.3,fear
+"Next, inject at a 90-degree angle.",112.3,4.98,117.28,NA
+Hold for 5 seconds.,117.28,1.52,118.8,NA
+Then pull the needle out.,118.8,2.9,121.7,NA
+"Drop the syringe into the sharps container,
+which you can buy at any local pharmacy.",121.7,6.309,128.00900000000001,NA
 "Ask your diabetes care manager where to safely
-dispose of your sharps container when it’s full. Make sure not to re-use insulin needles, as
-it’s not safe and can cause more pain with injection. It’s important to switch injection sites
-to prevent bruising and pain.",128.009,18.211,146.21999999999997,NA
+dispose of your sharps container when it’s",128.009,5.781,133.79,NA
+full.,133.79,1.0,134.79,fear
+"Make sure not to re-use insulin needles, as
+it’s not safe and can cause more pain with",134.79,5.279,140.069,fear
+injection.,140.069,1.0,141.069,fear
+"It’s important to switch injection sites
+to prevent bruising and pain.",141.069,5.151,146.22,fear
 "Each time you inject, choose a new site this
-way: • Rotate injection sites in a imaginary
-circle. • Always leave 2 fingers width in between
-injection sites. • And, keep the same distance from your
-belly button. Your care team prescribes insulin because
-it’s safe and effective. We’re confident",146.22,22.439999999999998,168.66,NA
+way:",146.22,5.21,151.43,NA
+"• Rotate injection sites in a imaginary
+circle.",151.43,4.279,155.709,NA
+"• Always leave 2 fingers width in between
+injection sites.",155.709,3.651,159.36,NA
+"• And, keep the same distance from your
+belly button.",159.36,4.56,163.92000000000002,NA
+"Your care team prescribes insulin because
+it’s safe and effective. We’re confident",163.92,4.74,168.66,NA
 "you will be able to use it successfully. If
-you have any questions about how to inject insulin, or how much to take, ask your care
-manager. Adjusting to a new habit can be challenging
-at first, but the benefits to your health are worth it.",168.66,15.838999999999999,184.499,NA
+you have any questions about how to inject",168.66,6.18,174.84,NA
+"insulin, or how much to take, ask your care
+manager.",174.84,4.229,179.06900000000002,NA
+"Adjusting to a new habit can be challenging
+at first, but the benefits to your health",179.069,4.941,184.01,NA
+are worth it.,184.01,0.489,184.499,NA

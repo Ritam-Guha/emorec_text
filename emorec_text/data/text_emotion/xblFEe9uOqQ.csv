@@ -1,62 +1,114 @@
 text,start,duration,end,dominant_emotion
 "Apparently, no calories does NOT equal no
-consequences, and artificial sweeteners, like the kind you may find in diet drinks, may
-be just as bad for you as sugar, with your brain and your gut responding in surprising
-ways to that delicious, synthetic sweetness. The FDA has approved six artificial sweeteners
-as a low-calorie or no-calorie options to help us curb things like obesity.",0.16,20.02,20.18,sad
+consequences, and artificial sweeteners, like",0.16,4.509,4.6690000000000005,sad
+"the kind you may find in diet drinks, may
+be just as bad for you as sugar, with your",4.669,4.351,9.02,sad
+"brain and your gut responding in surprising
+ways to that delicious, synthetic sweetness.",9.02,4.829,13.849,sad
+"The FDA has approved six artificial sweeteners
+as a low-calorie or no-calorie options to",13.849,4.791,18.64,fear
+help us curb things like obesity.,18.64,1.54,20.18,neutral
 "So, they’re not sugar but studies have shown
-that your body may still be reacting to them negatively. How is it processing these seemingly magical
-compounds? The main theories come down to your brain
-and your gut. Multiple studies have shown that sustained
-artificial sweetener use can induce insulin",20.18,14.59,34.769999999999996,sad
+that your body may still be reacting to them",20.18,4.839,25.019,sad
+negatively.,25.019,1.0,26.019,sad
+"How is it processing these seemingly magical
+compounds?",26.019,2.371,28.389999999999997,sad
+"The main theories come down to your brain
+and your gut.",28.39,2.549,30.939,sad
+"Multiple studies have shown that sustained
+artificial sweetener use can induce insulin",30.939,3.831,34.77,neutral
 "resistance, and this probably involves your
-brain. It could be when your tongue tastes something
-sweet, your brain is expecting the physical presence of sugar, and tells your pancreas
-to start producing insulin, which lets your body absorb the sugar. Only when there’s no sugar to absorb, you
-still have the insulin in your body.",34.77,15.969,50.739000000000004,sad
+brain.",34.77,2.629,37.399,sad
+"It could be when your tongue tastes something
+sweet, your brain is expecting the physical",37.399,4.211,41.61,sad
+"presence of sugar, and tells your pancreas
+to start producing insulin, which lets your",41.61,3.92,45.53,NA
+body absorb the sugar.,45.53,1.599,47.129,NA
+"Only when there’s no sugar to absorb, you
+still have the insulin in your body.",47.129,3.61,50.739,sad
 "Repeating this process every time you drink
-a diet soda leads to insulin build-up with no place for it to go, and then, systemic
-insulin resistance, the precursor to diabetes. Turns out, we can’t turn our brains off. It’s just trying to do its job, guys. Artificial sweeteners are anywhere between
-200 to 20,000 times sweeter than table sugar,",50.739,18.371,69.11,sad
+a diet soda leads to insulin build-up with",50.739,4.181,54.919999999999995,sad
+"no place for it to go, and then, systemic
+insulin resistance, the precursor to diabetes.",54.92,4.53,59.45,sad
+"Turns out, we can’t turn our brains off.",59.45,2.64,62.09,sad
+"It’s just trying to do its job, guys.",62.09,2.239,64.32900000000001,neutral
+"Artificial sweeteners are anywhere between
+200 to 20,000 times sweeter than table sugar,",64.329,4.781,69.11,neutral
 "and aside from the insulin issue, we’re
-still unsure how our taste receptors process these substitutes. Science does suggest, however, that your brain
-can distinguish between the two. It knows when you’re eating real sugar,
-and even though it still releases insulin in response to artificial sweeteners, they
-light up a different neural reward pathway",69.11,17.45,86.56,sad
-"than real sugar. So at the same time that we’re exposing
-our taste receptors to extremely, intensely sweet-tasting foods, These factors lead some
-experts to say that we’re training our palate to crave sweeter and sweeter things while
-our brain still isn’t receiving ‘true’ sugar satisfaction, so we’re just exacerbating
-a sugar craving, not treating it.",86.56,20.340000000000003,106.9,sad
+still unsure how our taste receptors process",69.11,4.21,73.32,sad
+these substitutes.,73.32,1.51,74.83,sad
+"Science does suggest, however, that your brain
+can distinguish between the two.",74.83,3.81,78.64,sad
+"It knows when you’re eating real sugar,
+and even though it still releases insulin",78.64,3.78,82.42,neutral
+"in response to artificial sweeteners, they
+light up a different neural reward pathway",82.42,4.14,86.56,NA
+than real sugar.,86.56,1.15,87.71000000000001,NA
+"So at the same time that we’re exposing
+our taste receptors to extremely, intensely",87.71,3.99,91.69999999999999,neutral
+"sweet-tasting foods, These factors lead some
+experts to say that we’re training our palate",91.7,6.19,97.89,sad
+"to crave sweeter and sweeter things while
+our brain still isn’t receiving ‘true’",97.89,4.6,102.49,sad
+"sugar satisfaction, so we’re just exacerbating
+a sugar craving, not treating it.",102.49,4.41,106.89999999999999,neutral
 "But it’s not just our brains, it could be
-our guts too. Because, microbes!! Or at least a little bit. These faux sugars aren’t digestible, hence...no
-calories. You literally just poop them out.",106.9,11.3,118.2,sad
+our guts too.",106.9,3.32,110.22,sad
+"Because, microbes!!",110.22,1.5,111.72,happy
+Or at least a little bit.,111.72,1.86,113.58,happy
+"These faux sugars aren’t digestible, hence...no
+calories.",113.58,3.13,116.71,neutral
+You literally just poop them out.,116.71,1.49,118.19999999999999,sad
 "But that means that those molecules just hang
-out in your intestines, with certain microbes that can digest them. Those microbes can then trigger a ‘glucose
-response’ leading to, you guessed it, insulin resistance. A changed gut microbiome in response to artificial
-sweetener use could also produce hormonal",118.2,16.41,134.61,sad
+out in your intestines, with certain microbes",118.2,4.9,123.10000000000001,sad
+that can digest them.,123.1,2.01,125.11,sad
+"Those microbes can then trigger a ‘glucose
+response’ leading to, you guessed it, insulin",125.11,4.23,129.34,sad
+resistance.,129.34,1.0,130.34,sad
+"A changed gut microbiome in response to artificial
+sweetener use could also produce hormonal",130.34,4.27,134.61,sad
 "changes in your body, quite possibly a hormone
-that influences your appetite...and not in a good way. The researchers are careful to say, though,
-that everyone’s microbiome is different, so the severity of these effects definitely
-vary from person to person, and experts advocate a personalized approach to nutritional and
-medicinal recommendations in this st area.",134.61,18.060000000000002,152.67000000000002,sad
+that influences your appetite...and not in",134.61,5.14,139.75,sad
+a good way.,139.75,1.0,140.75,sad
+"The researchers are careful to say, though,
+that everyone’s microbiome is different,",140.75,3.0,143.75,sad
+"so the severity of these effects definitely
+vary from person to person, and experts advocate",143.75,4.66,148.41,sad
+"a personalized approach to nutritional and
+medicinal recommendations in this st area.",148.41,4.26,152.67,sad
 "And on top of all this, those who regularly
-use artificial sweeteners may start to find healthy foods, even naturally sweet ones like
-fruit, unpalatable because they’re so used to a more intense taste. Faux-sugar may help some diet-cola lovers
-justify consuming extra calories that they wouldn’t otherwise, because they just drank
-something with zero calories.",152.67,19.65,172.32,sad
+use artificial sweeteners may start to find",152.67,4.64,157.30999999999997,sad
+"healthy foods, even naturally sweet ones like
+fruit, unpalatable because they’re so used",157.31,4.95,162.26,sad
+to a more intense taste.,162.26,1.63,163.89,neutral
+"Faux-sugar may help some diet-cola lovers
+justify consuming extra calories that they",163.89,4.4,168.29,sad
+"wouldn’t otherwise, because they just drank
+something with zero calories.",168.29,4.03,172.32,neutral
 "And artificial sweeteners may prevent us from
-associating a sweet taste with weight gain, training our brain to think we can eat whatever
-we want with no repercussions. This is only the beginning of the ways that
-artificial sweeteners may actually be contributing to the very epidemic they were supposed to
-help fight: obesity, diabetes, and other weight-related diseases.",172.32,19.619999999999997,191.94,sad
-"So, that’s kinda nuts. We’re trying to bypass our body’s natural
-mechanisms so we can eat super sweet stuff with nothing bad happening but it looks like
-nature is not letting us get away with that. That information is a little tough to swallow,
-but rest assured that we here at Seeker will always keep your science craving satisfied,
-so subscribe so you can always decide what",191.94,17.35,209.29,sad
+associating a sweet taste with weight gain,",172.32,4.53,176.85,neutral
+"training our brain to think we can eat whatever
+we want with no repercussions.",176.85,3.74,180.59,sad
+"This is only the beginning of the ways that
+artificial sweeteners may actually be contributing",180.59,4.92,185.51,sad
+"to the very epidemic they were supposed to
+help fight: obesity, diabetes, and other weight-related",185.51,5.43,190.94,neutral
+diseases.,190.94,1.0,191.94,happy
+"So, that’s kinda nuts.",191.94,1.379,193.319,sad
+"We’re trying to bypass our body’s natural
+mechanisms so we can eat super sweet stuff",193.319,4.301,197.61999999999998,sad
+"with nothing bad happening but it looks like
+nature is not letting us get away with that.",197.62,4.21,201.83,sad
+"That information is a little tough to swallow,
+but rest assured that we here at Seeker will",201.83,3.63,205.46,neutral
+"always keep your science craving satisfied,
+so subscribe so you can always decide what",205.46,3.83,209.29000000000002,neutral
 "not to drink, and check out my other video
-on how your gut controls you brain. Fun Fact: The first artificial sweetener was
-discovered in a lab accident. The scientist spilled a food preservative
-on his hand and forgot to wash his hands before lunch. Spoiler: it was sweet I’m Maren.",209.29,14.61,223.89999999999998,sad
+on how your gut controls you brain.",209.29,4.49,213.78,neutral
+"Fun Fact: The first artificial sweetener was
+discovered in a lab accident.",213.78,3.65,217.43,neutral
+"The scientist spilled a food preservative
+on his hand and forgot to wash his hands before",217.43,4.47,221.9,sad
+lunch.,221.9,1.0,222.9,neutral
+Spoiler: it was sweet I’m Maren.,222.9,1.0,223.9,sad
 Thanks for watching!,223.9,0.78,224.68,sad

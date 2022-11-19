@@ -1,18 +1,86 @@
 text,start,duration,end,dominant_emotion
-there's a few um key points that i think will be useful in terms of identifying patients earlier in medical practice one is look at patients hands,2.48,20.078,22.558,NA
-hands that the rings can't get off or a patient that's had to resize their ring over several times in the course of a decade ask for changes in size of feet that,11.679,21.92,33.599000000000004,fear
-will be a signal because usually feet don't really grow in adulthood new spaces between the teeth because of jawed growth is very unusual during adulthood so,23.199,20.082,43.281000000000006,fear
-those are all signs that someone should be tested hand growth foot growth new spaces between teeth and adulthood on top of that i think the biggest thing,33.28,16.24,49.519999999999996,fear
-for primary care doctors or general physicians to remember is that when you start to get a clustering of symptoms that are fairly common but,41.52,16.48,58.0,fear
-they are all in one patient so you have somebody with maybe earlier onset hypertension diabetes that's getting worse sleep apnea that's a fairly common,48.96,24.0,72.96000000000001,fear
-constellation in patients but when you get all of those things and any of these changes that go with acromegaly you have to think about it not everyone will have the classic look,61.68,17.679,79.359,fear
-with a large chin and a large nose and the larger brow it can be very subtle facial changes so if you have comorbidities that congregate together,70.479,18.401,88.88,fear
-early hypertension worsening diabetes sleep apnea you have to think about acromegaly a little bit sooner colonic polyps are also,79.36,16.318,95.678,fear
-sometimes in the in the list of comorbidities there and i've seen a lot of patients that have all of those and they're coming to me like 10 years later with like,87.759,18.161,105.92,fear
-very late stage acromegaly and each one of those comorbidities was treated just as its own problem not related to a single source which is the growth hormone,96.56,19.121000000000002,115.68100000000001,fear
-excess and the final point in terms of remembering to think about this disease is in women that may look like they have a more common disease which is called,105.92,17.6,123.52000000000001,fear
-polycystic ovarian syndrome where their periods are irregular and they get hair growth and acne maybe they have trouble getting pregnant some of these women with acromegaly have,115.04,20.64,135.68,fear
-seen fertility doctors been treated with fertility drugs sometimes successfully and the reason for their infertility is actually growth hormone,125.68,20.959,146.639,fear
-excess which can be a cause of a pcos or polycystic ovarian syndrome like picture so that's that can kind of fake you out and be missed easily the other um,135.12,25.119000000000003,160.239,fear
-the other piece of history that we sometimes get get a chance to see you know retrospectively is that a woman has presented with fertility treatment then went on to,148.879,19.202,168.081,fear
-get pregnant and had gestational diabetes and that is also common in someone who has growth hormone excess that's uncontrolled,158.48,17.48,175.95999999999998,fear
+there's a few um,2.48,3.12,5.6,neutral
+key points that i think will be useful,3.84,3.919,7.759,neutral
+in terms of identifying patients earlier,5.6,4.32,9.92,neutral
+in medical practice one is look at,7.759,3.92,11.679,neutral
+patients hands,9.92,4.799,14.719000000000001,neutral
+hands that the rings can't get off or a,11.679,4.0,15.679,neutral
+patient that's,14.719,3.601,18.32,neutral
+had to resize their ring over several,15.679,5.36,21.039,neutral
+times in the course of a decade,18.32,4.879,23.198999999999998,neutral
+ask for changes in size of feet that,21.039,4.08,25.119,neutral
+will be a signal because usually feet,23.199,3.92,27.119,neutral
+don't really grow in adulthood,25.119,4.08,29.198999999999998,neutral
+new spaces between the teeth because of,27.119,3.601,30.72,neutral
+jawed growth,29.199,4.081,33.28,neutral
+is very unusual during adulthood so,30.72,4.4,35.12,neutral
+those are all signs that someone should,33.28,2.56,35.84,neutral
+be tested,35.12,3.04,38.16,neutral
+hand growth foot growth new spaces,35.84,3.92,39.760000000000005,neutral
+between teeth and adulthood,38.16,3.36,41.519999999999996,neutral
+on top of that i think the biggest thing,39.76,3.36,43.12,neutral
+for primary care doctors or general,41.52,2.64,44.160000000000004,neutral
+physicians to remember,43.12,2.0,45.12,neutral
+is that when you start to get a,44.16,3.6,47.76,neutral
+clustering of symptoms that are fairly,45.12,3.84,48.959999999999994,neutral
+common but,47.76,4.4,52.16,neutral
+they are all in one patient so you have,48.96,4.16,53.120000000000005,fear
+somebody with maybe,52.16,4.399,56.559,fear
+earlier onset hypertension diabetes,53.12,4.32,57.44,neutral
+that's getting,56.559,5.121,61.68,neutral
+worse sleep apnea that's a fairly common,57.44,6.0,63.44,neutral
+constellation in patients but when you,61.68,3.439,65.119,neutral
+get all of those things and,63.44,3.039,66.479,sad
+any of these changes that go with,65.119,3.521,68.64,neutral
+acromegaly you have to think about it,66.479,4.0,70.479,neutral
+not everyone will have the classic look,68.64,3.68,72.32000000000001,neutral
+with a large chin and a large nose and,70.479,3.521,74.0,neutral
+the larger brow it can be very subtle,72.32,2.72,75.03999999999999,neutral
+facial changes,74.0,3.52,77.52,neutral
+so if you have comorbidities that,75.04,4.32,79.36000000000001,neutral
+congregate together,77.52,4.32,81.84,neutral
+early hypertension worsening diabetes,79.36,3.6,82.96,fear
+sleep apnea,81.84,3.04,84.88000000000001,fear
+you have to think about acromegaly a,82.96,4.0,86.96,neutral
+little bit sooner colonic polyps are,84.88,2.879,87.759,neutral
+also,86.96,2.799,89.759,neutral
+sometimes in the in the list of,87.759,3.36,91.119,neutral
+comorbidities there,89.759,3.201,92.96,neutral
+and i've seen a lot of patients that,91.119,3.521,94.64,neutral
+have all of those and they're coming to,92.96,3.6,96.55999999999999,neutral
+me like 10 years later with like,94.64,4.479,99.119,neutral
+very late stage acromegaly and each one,96.56,4.4,100.96000000000001,neutral
+of those comorbidities was treated just,99.119,2.801,101.92,neutral
+as its own,100.96,3.519,104.479,neutral
+problem not related to a single source,101.92,4.0,105.92,neutral
+which is the growth hormone,104.479,4.401,108.88,neutral
+excess and the final point in terms of,105.92,4.64,110.56,neutral
+remembering to think about this disease,108.88,2.72,111.6,neutral
+is in women,110.56,2.8,113.36,fear
+that may look like they have a more,111.6,3.44,115.03999999999999,neutral
+common disease which is called,113.36,4.0,117.36,neutral
+polycystic ovarian syndrome where their,115.04,4.0,119.04,neutral
+periods are irregular,117.36,4.0,121.36,neutral
+and they get hair growth and acne maybe,119.04,4.56,123.60000000000001,neutral
+they have trouble getting pregnant,121.36,4.32,125.68,neutral
+some of these women with acromegaly have,123.6,3.76,127.36,neutral
+seen fertility doctors,125.68,4.079,129.75900000000001,neutral
+been treated with fertility drugs,127.36,4.08,131.44,neutral
+sometimes successfully,129.759,3.84,133.599,neutral
+and the reason for their infertility is,131.44,3.68,135.12,neutral
+actually growth hormone,133.599,5.28,138.879,neutral
+excess which can be a cause of a pcos or,135.12,5.92,141.04,neutral
+polycystic ovarian syndrome,138.879,5.281,144.16,fear
+like picture so that's that can kind of,141.04,4.64,145.67999999999998,neutral
+fake you out and be,144.16,4.719,148.879,neutral
+missed easily the other um,145.68,4.559,150.239,neutral
+the other piece of history that we,148.879,3.761,152.64,neutral
+sometimes get get a chance to see,150.239,4.961,155.20000000000002,neutral
+you know retrospectively is that a woman,152.64,3.92,156.55999999999997,neutral
+has presented,155.2,3.28,158.48,neutral
+with fertility treatment then went on to,156.56,3.28,159.84,neutral
+get pregnant and had gestational,158.48,2.56,161.04,neutral
+diabetes,159.84,3.2,163.04,neutral
+and that is also common in someone who,161.04,5.36,166.4,neutral
+has growth hormone excess that's,163.04,3.36,166.4,neutral
+uncontrolled,167.72,3.0,170.72,NA

@@ -1,32 +1,53 @@
 text,start,duration,end,dominant_emotion
 "Louie became unwell, he was three and a
-half. I'd taken him to the doctors because he'd started off with a temperature and
-just generally not right, but there was other little signs as well. I did mention
-to the GP that it was the end of May and he was drinking excessive, beakers of
-water and we thought, oh it's a bit hot so maybe it's the weather that he's, you
-know, going back and forth drinking all the time.",0.03,33.85,33.88,angry
+half. I'd taken him to the doctors because",0.03,6.69,6.720000000000001,angry
+"he'd started off with a temperature and
+just generally not right, but there was",6.72,9.389,16.108999999999998,angry
+"other little signs as well. I did mention
+to the GP that it was the end of May and",16.109,6.66,22.769000000000002,fear
+"he was drinking excessive, beakers of
+water and we thought, oh it's a bit hot so",22.769,6.211,28.979999999999997,fear
+"maybe it's the weather that he's, you
+know, going back and forth drinking all the time.",28.98,4.9,33.88,fear
 "And didn't think much of it and then
-one night I got up and heard him in the bath, and now, you know he is a child who goes
-to bed and you don't hear him till morning, using the bathroom, drinking from
-the tap, drinking water from the sink and he didn't generally like plain water it would have to be squash normally. So took him to the GP and took a urine sample and they
-said, oh more likely a water infection",34.44,28.02,62.459999999999994,sad
+one night I got up and heard him in the bath,",34.44,6.34,40.78,fear
+"and now, you know he is a child who goes
+to bed and you don't hear him till morning,",40.78,3.54,44.32,fear
+"using the bathroom, drinking from
+the tap, drinking water from the sink",44.32,5.62,49.94,fear
+and he didn't generally like plain water it would have to be squash normally. So took him to,49.94,6.07,56.01,sad
+"the GP and took a urine sample and they
+said, oh more likely a water infection",56.01,6.45,62.46,fear
 "we'll put him on antibiotics, so they took
-the sample. A week later he's just going downhill rapidly, he was lying on the settee
-and he was just so lethargic. The week before I'd put him in a new outfit and his
-little shorts fell down even with the adjustable waistband in it, and that's
-when I realised he'd lost weight as well. But even know all these little things it
-didn't, because the doctor had said to me",62.46,30.771,93.231,angry
+the sample. A week later he's just going",62.46,6.81,69.27,fear
+"downhill rapidly, he was lying on the settee
+and he was just so lethargic. The week before",69.27,9.83,79.1,fear
+"I'd put him in a new outfit and his
+little shorts fell down even with the",79.1,5.62,84.72,fear
+"adjustable waistband in it, and that's
+when I realised he'd lost weight as well.",84.72,3.5,88.22,fear
+"But even know all these little things it
+didn't, because the doctor had said to me",88.229,5.011,93.24,fear
 "oh it's a water infection, you don't
-add them up. So my husband took him the surgery and they blood finger prick
-tested him and tested his urine and his blood sugars were over thirty and he
-had ketones, and they he said we're gonna have to admit him to hospital
-now. Because we did catch it early and if when we took him into the hospital the
-consultant actually said that most",93.24,26.0,119.24,sad
+add them up. So my husband took him",93.24,5.78,99.02,fear
+"the surgery and they blood finger prick
+tested him and tested his urine and",99.02,6.33,105.35,fear
+"his blood sugars were over thirty and he
+had ketones, and they he said we're gonna",105.35,5.28,110.63,fear
+"have to admit him to hospital
+now. Because we did catch it early and if",110.63,5.25,115.88,fear
+"when we took him into the hospital the
+consultant actually said that most",115.88,3.36,119.24,fear
 "children of his age are brought in
-unconscious and in DKA because their blood sugars are high, so they said that we
-were lucky that we caught him early before he got so unwell he had to go
-into intensive care. My advice is to trust your instincts and if you're in doubt, please go
-and ask your GP and ask",119.24,22.538999999999998,141.779,sad
+unconscious and in DKA because their blood",119.24,7.11,126.35,sad
+"sugars are high, so they said that we
+were lucky that we caught him early",126.35,4.169,130.519,sad
+"before he got so unwell he had to go
+into intensive care.",130.52,4.08,134.60000000000002,NA
+My advice is to trust your instincts,135.0,2.96,137.96,NA
+"and if you're in doubt, please go
+and ask your GP and ask",137.96,4.22,142.18,NA
 "them, tell them if they have any of the
-symptoms of the four T's tell you your GP and ask can they be tested because it's a
-simple test that could save your child's life.",142.18,9.4,151.58,NA
+symptoms of the four T's tell you your GP",142.18,4.66,146.84,NA
+"and ask can they be tested because it's a
+simple test that could save your child's life.",146.84,4.74,151.58,NA

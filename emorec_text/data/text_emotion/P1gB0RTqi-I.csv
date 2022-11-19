@@ -1,75 +1,124 @@
 text,start,duration,end,dominant_emotion
 "I have a very very interesting article I
-want to post down below and it has to do with metabolic syndrome metabolic
-syndrome another name for that would be syndrome X where your lipids like
-cholesterol is too high you have insulin resistance you have high blood sugar
-high blood pressure central obesity now in this article they're talking about
-why metabolic syndrome should really be",0.03,24.180000000000003,24.210000000000004,sad
+want to post down below and it has to do",0.03,4.65,4.680000000000001,fear
+"with metabolic syndrome metabolic
+syndrome another name for that would be",4.68,3.99,8.67,fear
+"syndrome X where your lipids like
+cholesterol is too high you have insulin",8.67,5.46,14.129999999999999,fear
+"resistance you have high blood sugar
+high blood pressure central obesity now",14.13,6.39,20.52,sad
+"in this article they're talking about
+why metabolic syndrome should really be",20.52,3.69,24.21,sad
 "called hyperinsulinemia syndrome now the
-traditional conventional viewpoint on this is that insulin resistance leads to
-increased insulin okay but is that actually true is it the insulin
-resistance that causes high insulin or is it the high insulin that causes
-insulin resistance now to figure this out all we have to do is observe what
-happens after gastric bypass where",24.21,30.419,54.629000000000005,sad
+traditional conventional viewpoint on",24.21,6.149,30.359,fear
+"this is that insulin resistance leads to
+increased insulin okay but is that",30.359,8.341,38.7,NA
+"actually true is it the insulin
+resistance that causes high insulin or",38.7,4.26,42.96,NA
+"is it the high insulin that causes
+insulin resistance now to figure this",42.96,6.509,49.469,fear
+"out all we have to do is observe what
+happens after gastric bypass where",49.469,5.16,54.629000000000005,fear
 "they're bypassing part of the small
-intestine which is one part of the body that affects insulin the other part is
-the pancreas but there's something in the small intestine that activates
-insulin so when you do gastric bypass you correct part of the high insulin
-problem so you reduce insulin and they find after this procedure that it
-reverses type-2 diabetes by 83 percent",54.629,27.211,81.84,NA
+intestine which is one part of the body",54.629,3.541,58.169999999999995,NA
+"that affects insulin the other part is
+the pancreas but there's something in",58.17,4.529,62.699,NA
+"the small intestine that activates
+insulin so when you do gastric bypass",62.699,4.011,66.71,NA
+"you correct part of the high insulin
+problem so you reduce insulin and they",66.71,7.57,74.28,NA
+"find after this procedure that it
+reverses type-2 diabetes by 83 percent",74.28,7.56,81.84,NA
 "it also reverses high blood pressure by
-63 percent as well as reversing high cholesterol by 61 percent now let's take
-a look at this diabetes type 2 that's high blood sugar hypertension and
-cholesterol isn't that syndrome X right here but it also does several other
-things that improve sleep apnea polycystic ovarian syndrome it improves
-a fatty liver GERD which is a like an",81.84,29.819,111.659,NA
+63 percent as well as reversing high",81.84,7.08,88.92,NA
+"cholesterol by 61 percent now let's take
+a look at this diabetes type 2 that's",88.92,6.96,95.88,NA
+"high blood sugar hypertension and
+cholesterol isn't that syndrome X right",95.88,5.91,101.78999999999999,NA
+"here but it also does several other
+things that improve sleep apnea",101.79,3.96,105.75,NA
+"polycystic ovarian syndrome it improves
+a fatty liver GERD which is a like an",105.75,5.909,111.659,NA
 "acid reflux and even joint pain now this
-study that I'm basing this on is this very interesting because they looked at
-423 other studies but focused on 58 of the ones that actually measured insulin
-so the direct finding was if you reduce insulin you produced
-changes across the board with so many different conditions and metabolic
-syndrome is just kind of a collection of",111.659,27.151,138.81,NA
+study that I'm basing this on is this",111.659,6.271,117.93,NA
+"very interesting because they looked at
+423 other studies but focused on 58 of",117.93,7.11,125.04,NA
+"the ones that actually measured insulin
+so the direct finding was if you reduce",125.04,6.15,131.19,NA
+"insulin you produced
+changes across the board with so many",131.19,4.32,135.51,NA
+"different conditions and metabolic
+syndrome is just kind of a collection of",135.51,3.3,138.81,NA
 "several diseases or shall we say
-symptoms of this high insulin now think about it when you have high insulin over
-a period of time the body is going to start to resist it the insulin receptors
-are going to start to resist at high level so it's really high insulin that
-causes the insulin resistance and of course once you have insulin resistance
-in the bio feedback loops they're gonna",138.81,25.979999999999997,164.79,NA
+symptoms of this high insulin now think",138.81,8.37,147.18,NA
+"about it when you have high insulin over
+a period of time the body is going to",147.18,3.57,150.75,NA
+"start to resist it the insulin receptors
+are going to start to resist at high",150.75,3.87,154.62,NA
+"level so it's really high insulin that
+causes the insulin resistance and of",154.62,4.86,159.48000000000002,NA
+"course once you have insulin resistance
+in the bio feedback loops they're gonna",159.48,5.31,164.79,NA
 "come back and actually raise more
-insulin but really only if you keep consuming the things that trigger
-insulin carbohydrates frequent eating now in type 2 diabetes you have insulin
-resistance and you also have high insulin for a period of time until the
-cells that make insulin get weaker and weaker and weaker and that goes lower
-lower lower and your blood Sugar's go",164.79,23.4,188.19,NA
+insulin but really only if you keep",164.79,5.34,170.13,NA
+"consuming the things that trigger
+insulin carbohydrates frequent eating",170.13,5.67,175.79999999999998,NA
+"now in type 2 diabetes you have insulin
+resistance and you also have high",175.8,4.439,180.239,NA
+"insulin for a period of time until the
+cells that make insulin get weaker and",180.239,5.281,185.52,NA
+"weaker and weaker and that goes lower
+lower lower and your blood Sugar's go",185.52,2.67,188.19,NA
 "higher and higher and higher
-so you initially have high insulin and it kind of goes lower and in obesity you
-have high insulin as well but you could also have diabetes type 2 and not be
-overweight you can be skinny and still have insulin why is this so important
-well if it is true that high insulin leads to insulin resistance that leads
-to pre-diabetes and then diabetes then",188.19,28.108999999999998,216.299,NA
+so you initially have high insulin and",188.19,3.0,191.19,NA
+"it kind of goes lower and in obesity you
+have high insulin as well but you could",191.19,4.86,196.05,NA
+"also have diabetes type 2 and not be
+overweight you can be skinny and still",196.05,5.34,201.39000000000001,NA
+"have insulin why is this so important
+well if it is true that high insulin",201.39,8.18,209.57,NA
+"leads to insulin resistance that leads
+to pre-diabetes and then diabetes then",209.57,6.729,216.299,NA
 "it would be very very important to
-actually measure insulin early on and not only focus on blood sugars
-identifying through a blood test what your insulin is doing would be the best
-indicator to predict and even prevent insulin resistance as well as
-pre-diabetes and diabetes but unfortunately there are certain doctors
-that just don't connect the dots they're",216.299,27.391,243.69,NA
+actually measure insulin early on and",216.299,6.03,222.329,NA
+"not only focus on blood sugars
+identifying through a blood test what",222.329,4.38,226.709,NA
+"your insulin is doing would be the best
+indicator to predict and even prevent",226.709,6.53,233.239,NA
+"insulin resistance as well as
+pre-diabetes and diabetes but",233.239,5.411,238.65,NA
+"unfortunately there are certain doctors
+that just don't connect the dots they're",238.65,5.04,243.69,NA
 "focused primarily on the blood sugars
-and the bigger problem of that not understanding this concept is to
-eventually start prescribing insulin to a diabetic type 2 I mean think about
-this if you have hyperthyroidism we have too much thyroid hormones would you ever
-give that patient more thyroid hormones or let's say you have a hyper cortisol
-problem it's called",243.69,23.4,267.09,NA
+and the bigger problem of that not",243.69,3.389,247.079,NA
+"understanding this concept is to
+eventually start prescribing insulin to",247.079,6.451,253.53,NA
+"a diabetic type 2 I mean think about
+this if you have hyperthyroidism we have",253.53,4.29,257.82,NA
+"too much thyroid hormones would you ever
+give that patient more thyroid hormones",257.82,5.79,263.61,NA
+"or let's say you have a hyper cortisol
+problem it's called",263.61,3.48,267.09000000000003,NA
 "Cushing's would you give that patient
-high cortisol of course not but you would only know if they had high
-cortisol or high thyroid hormone or high insulin if you tested it unfortunately
-that's rarely tested in summary it's a high insulin that occurs way before the
-pre-diabetes and diabetes a person will not have high blood sugars for many
-years but they may have a lot of other",267.09,24.75,291.84,NA
+high cortisol of course not but you",267.09,5.34,272.42999999999995,NA
+"would only know if they had high
+cortisol or high thyroid hormone or high",272.43,3.57,276.0,NA
+"insulin if you tested it unfortunately
+that's rarely tested in summary it's a",276.0,5.37,281.37,NA
+"high insulin that occurs way before the
+pre-diabetes and diabetes a person will",281.37,4.829,286.199,NA
+"not have high blood sugars for many
+years but they may have a lot of other",286.199,5.641,291.84000000000003,NA
 "problems that will then be treated
-separately like they do with the lipids and high blood pressure and a lot of
-these other things and lastly and more importantly if you're new to my channel
-the the things that trigger insulin are primarily the overconsumption of
-carbohydrates and the frequent eating and the snacking that people are
-involved with to prevent their blood",291.84,22.92,314.76,NA
+separately like they do with the lipids",291.84,3.87,295.71,NA
+"and high blood pressure and a lot of
+these other things and lastly and more",295.71,4.44,300.15,NA
+"importantly if you're new to my channel
+the the things that trigger insulin are",300.15,5.16,305.31,NA
+"primarily the overconsumption of
+carbohydrates and the frequent eating",305.31,5.4,310.71,NA
+"and the snacking that people are
+involved with to prevent their blood",310.71,4.05,314.76,NA
 "sugars from dropping if you want more
-information on how to deal with that watch this video right here",314.76,7.49,322.25,NA
+information on how to deal with that",314.76,3.75,318.51,NA
+watch this video right here,318.51,3.74,322.25,NA

@@ -1,121 +1,218 @@
 text,start,duration,end,dominant_emotion
-"[MUSIC] I'm Niraj Desai, I'm a transplant surgeon
-here at Johns Hopkins, in the department of surgery, and I'm the
-director of the kidney and pancreas transplant
-program. [MUSIC]",0.778,21.703000000000003,22.481,NA
+[MUSIC],0.778,10.0,10.778,NA
+"I'm Niraj Desai, I'm a transplant surgeon
+here at Johns Hopkins, in the",12.441,3.339,15.780000000000001,fear
+"department of surgery, and I'm the
+director",15.78,2.067,17.847,fear
+"of the kidney and pancreas transplant
+program.",17.847,2.232,20.079,NA
+[MUSIC],20.079,4.065,24.144000000000002,sad
 "The pancreas transplant operation is done
-through an abdominal mid-line incision. And that is an up and down incision on the
-abdomen. We connect the artery and the vein that
-both supply the blood to the pancreas and return the blood
-back to the body. And then once we allow the blood flow into
-the",24.144,20.756,44.9,neutral
+through an abdominal mid-line incision.",24.144,6.334,30.477999999999998,fear
+"And that is an up and down incision on the
+abdomen.",30.478,3.892,34.370000000000005,sad
+"We connect the artery and the vein that
+both supply the",34.37,4.03,38.4,sad
+"blood to the pancreas and return the blood
+back to the body.",38.4,3.9,42.3,fear
+"And then once we allow the blood flow into
+the",42.3,2.6,44.9,surprise
 "pancreas, we have to connect a small piece
-of intestine that comes with the pancreas organ to the
-patient's intestine to allow drainage of the excrement
-material into the patients body. Previously, people would connect that to
-the bladder, but we really don't do that procedure anymore, because the patients
-tolerate it",44.9,23.53,68.43,NA
+of intestine",44.9,3.78,48.68,neutral
+"that comes with the pancreas organ to the
+patient's intestine",48.68,5.31,53.99,neutral
+"to allow drainage of the excrement
+material into the patients body.",53.99,6.59,60.58,neutral
+"Previously, people would connect that to
+the bladder, but we really don't do that",60.58,5.03,65.61,neutral
+"procedure anymore, because the patients
+tolerate it",65.61,2.82,68.42999999999999,fear
 "being connected to the intestines much
-better. It, it's not associated with long-term complications like connecting it to the
-bladders. [MUSIC] The combined kidney and pancreas
-transplant operation",68.43,16.224,84.65400000000001,neutral
+better.",68.43,2.88,71.31,neutral
+"It, it's not associated with long-term",71.31,2.628,73.938,neutral
+"complications like connecting it to the
+bladders.",73.938,3.227,77.165,neutral
+[MUSIC],77.165,3.817,80.982,neutral
+"The combined kidney and pancreas
+transplant operation",80.982,3.672,84.654,neutral
 "is done through an abdominal mid line
-incision and we, and that is an incision that runs
-up and down on the abdomen. And we place the kidney and the pancreas in, almost like two different operations
-in the abdomen. Typically, we'll put the kidney in first,
-allow the blood",84.654,16.786,101.44,neutral
+incision",84.654,2.808,87.46199999999999,neutral
+"and we, and that is an incision that runs
+up and down on the abdomen.",87.462,4.138,91.60000000000001,neutral
+And we place the kidney and the pancreas,91.6,2.244,93.844,neutral
+"in, almost like two different operations
+in the abdomen.",93.844,4.106,97.94999999999999,neutral
+"Typically, we'll put the kidney in first,
+allow the blood",97.95,3.49,101.44,neutral
 "flow back into the kidney and let it start
-working. And then in a separate location, but through the same incision put the pancreas
-in. So the patient wakes up having had two
-operations done on the inside, but through one incision and",101.44,14.95,116.39,neutral
+working.",101.44,3.37,104.81,neutral
+"And then in a separate location, but",104.81,2.73,107.54,NA
+"through the same incision put the pancreas
+in.",107.54,2.93,110.47000000000001,neutral
+"So the patient wakes up having had two
+operations done on the",110.47,3.81,114.28,neutral
+"inside, but through one incision and",114.28,2.11,116.39,neutral
 "both organs are hopefully functioning
-immediately. They're making urine. The creatinine is coming down, reflecting
-kidney function and the pancreas is making insulin and the
-glucoses become normal. [MUSIC]",116.39,16.955,133.345,neutral
+immediately.",116.39,3.61,120.0,NA
+They're making urine.,120.0,1.26,121.26,neutral
+"The creatinine is coming down, reflecting
+kidney function and",121.26,3.564,124.82400000000001,neutral
+"the pancreas is making insulin and the
+glucoses become normal.",124.824,3.61,128.434,neutral
+[MUSIC],128.434,4.911,133.345,neutral
 "Pancreas after kidney, transplant
-operations, would be two separate operations, done through
-two different incisions, two different
-hospital stays and, of course, two, independent recoveries as
-well. [MUSIC]",133.345,16.384,149.72899999999998,neutral
+operations, would",133.345,3.2,136.545,neutral
+"be two separate operations, done through
+two",136.545,2.496,139.041,neutral
+"different incisions, two different
+hospital stays and,",139.041,3.2,142.24099999999999,neutral
+"of course, two, independent recoveries as
+well.",142.241,2.919,145.16000000000003,neutral
+[MUSIC],145.16,4.569,149.72899999999998,neutral
 "With the pancreas transplant alone, the
-quality of life is primarily focused upon normalizing
-someone's glucose control. Patients who are typically undergoing a
-pancreas-alone transplant have a very difficult quality of life from extreme difficulties in controlling their blood
-sugars.",149.729,19.070999999999998,168.8,neutral
+quality of",149.729,3.388,153.11700000000002,neutral
+"life is primarily focused upon normalizing
+someone's glucose control.",153.117,4.876,157.993,neutral
+"Patients who are typically undergoing a
+pancreas-alone transplant have a very",157.993,5.032,163.025,neutral
+difficult quality of life from extreme,163.025,2.442,165.467,neutral
+"difficulties in controlling their blood
+sugars.",165.467,3.333,168.8,neutral
 "So they'll run from being very low and
-having hypoglycemia, which can lead to, passing out, or seizures, having to call
-for emergency help, problems like that. And then, alternatively, swings toward the
-high end, where they end up with very high glucoses, and have to end up being hospitalized for control of their
-diabetes.",168.8,22.33,191.13,neutral
+having hypoglycemia, which can lead to,",168.8,7.31,176.11,neutral
+"passing out, or seizures, having to call
+for emergency help, problems like that.",176.11,6.48,182.59,neutral
+"And then, alternatively, swings toward the
+high end, where they end up with very",182.59,4.39,186.98,neutral
+"high glucoses, and have to end up",186.98,1.81,188.79,neutral
+"being hospitalized for control of their
+diabetes.",188.79,2.34,191.13,neutral
 "When the pancreas is successful, all of
-their glucoses should become normal, and they avoid both the lows and the highs and
-have excellent glucose control. Long term the advantage of that is that
-complications from diabetes, what we refer to as secondary complications are
-either reversed or minimized. [MUSIC]",192.17,25.406,217.576,neutral
+their glucoses should become normal, and",192.17,5.12,197.29,neutral
+"they avoid both the lows and the highs and
+have excellent glucose control.",197.29,4.9,202.19,neutral
+"Long term the advantage of that is that
+complications from diabetes, what",203.46,5.544,209.00400000000002,neutral
+"we refer to as secondary complications are
+either reversed or minimized.",209.004,5.611,214.61499999999998,neutral
+[MUSIC],214.615,4.231,218.846,neutral
 "Quality of life after the combined
-procedure is fantastic. These individuals come in with two
-problems, kidney failure or most of the time on dialysis
-and a very long period of time of having been diabetic, taking insulin, having",218.846,15.574,234.42000000000002,neutral
+procedure is fantastic.",218.846,4.198,223.044,neutral
+"These individuals come in with two
+problems, kidney",223.044,3.555,226.59900000000002,neutral
+"failure or most of the time on dialysis
+and",226.599,2.765,229.36399999999998,NA
+a very long period of time of having been,229.364,2.607,231.971,neutral
+"diabetic, taking insulin, having",231.971,2.449,234.42000000000002,neutral
 "difficulties with controlling their
-glucoses. And after the single operation, both of those problems are fixed, so they feel
-fantastic. They're no longer on dialysis or impending
-about to go on. They no longer have to take insulin and
-having",234.42,15.24,249.66,neutral
+glucoses.",234.42,3.39,237.80999999999997,neutral
+"And after the single operation, both of",237.81,2.38,240.19,neutral
+"those problems are fixed, so they feel
+fantastic.",240.19,3.4,243.59,neutral
+"They're no longer on dialysis or impending
+about to go on.",243.59,3.85,247.44,neutral
+"They no longer have to take insulin and
+having",247.44,2.22,249.66,neutral
 "swings in their blood sugars and having
-normal control. So we fix the kidney problem, we fix their
-diabetes, and when this works well it is an outstanding
-result for the individual. [MUSIC] So individuals that receive a pancreas
-transplant can expect the",249.66,18.533,268.193,neutral
+normal control.",249.66,3.03,252.69,neutral
+"So we fix the kidney problem, we fix their
+diabetes, and",252.69,2.976,255.666,neutral
+"when this works well it is an outstanding
+result for the individual.",255.666,3.607,259.273,neutral
+[MUSIC],259.273,5.125,264.398,fear
+"So individuals that receive a pancreas
+transplant can expect the",264.398,3.795,268.19300000000004,NA
 "organ to often last for 10 years or more,
-on average. It is a very durable therapy. It is able to function for many, many
-years when the patient is compliant and especially when
-early rejection episodes are avoided. [MUSIC]",268.193,19.358,287.551,neutral
+on average.",268.193,3.317,271.51,neutral
+It is a very durable therapy.,271.51,2.967,274.477,neutral
+"It is able to function for many, many
+years when the",274.477,3.29,277.767,neutral
+"patient is compliant and especially when
+early rejection episodes are avoided.",277.767,4.942,282.709,neutral
+[MUSIC],282.709,4.842,287.551,neutral
 "Even from a deceased donor, the combined
-operation it is probably mostly a function of us being able to monitor the kidney, to
-pick up on problems related to rejection. It's hard to track rejection of the
-pancreas, whereas it's easier to track rejection of
-the kidney. So if you have both organs in, you can
-follow the kidney quite easily and know",287.551,23.021000000000004,310.572,neutral
+operation it is probably mostly a function",287.551,7.125,294.676,neutral
+"of us being able to monitor the kidney, to
+pick up on problems related to rejection.",294.676,6.777,301.453,neutral
+"It's hard to track rejection of the
+pancreas,",301.453,2.24,303.693,neutral
+"whereas it's easier to track rejection of
+the kidney.",303.693,3.167,306.85999999999996,neutral
+"So if you have both organs in, you can
+follow the kidney quite easily and know",306.86,3.712,310.572,NA
 "that there's a trouble and increase the
-immunosuppression if there's rejection, and treat both, in
-both organs. It tends to correlate, so if you're having
-rejection in the kidney, you're typically having rejection in the pancreas, and
-that's at least an 80% correlation for those two.",310.572,14.516,325.088,neutral
-"[MUSIC] So initially after the operation is done,
-patients spend at least a week in the hospital and often a couple of
-weeks in the hospital. Once someone goes home, they are getting
-labs drawn twice a week usually close to home and
-coming",325.088,19.491000000000003,344.579,neutral
+immunosuppression",310.572,2.958,313.53000000000003,neutral
+"if there's rejection, and treat both, in
+both organs.",313.53,2.973,316.503,neutral
+"It tends to correlate, so if you're having
+rejection in the kidney, you're typically",316.503,4.125,320.628,neutral
+"having rejection in the pancreas, and
+that's",320.628,2.2,322.828,neutral
+at least an 80% correlation for those two.,322.828,2.26,325.08799999999997,neutral
+[MUSIC],325.088,4.894,329.982,neutral
+"So initially after the operation is done,
+patients spend at least a",329.982,3.705,333.687,neutral
+"week in the hospital and often a couple of
+weeks in the hospital.",333.687,3.521,337.208,neutral
+"Once someone goes home, they are getting
+labs drawn",337.208,4.004,341.21200000000005,neutral
+"twice a week usually close to home and
+coming",341.212,3.367,344.579,neutral
 "back for outpatient visits on a weekly
-basis and then every other week and then once a
-month. And for the first couple of months,
-they're back here for out patient visits fairly
-frequently. But once times goes on, they're able to
-just follow up every three months, but",344.579,18.639,363.218,neutral
-"still getting labs twice a week, then once a week, every other week, and then
-monthly. [MUSIC] So long term follow up which I would say
-is after the first year, patients are seen once every three months in a doctor's",363.218,16.637,379.855,neutral
+basis and",344.579,3.64,348.219,neutral
+"then every other week and then once a
+month.",348.219,3.448,351.667,neutral
+"And for the first couple of months,
+they're",351.667,2.812,354.479,neutral
+"back here for out patient visits fairly
+frequently.",354.479,3.343,357.822,neutral
+"But once times goes on, they're able to
+just follow up every three months, but",357.822,5.396,363.218,neutral
+"still getting labs twice a week, then once",363.218,2.736,365.954,neutral
+"a week, every other week, and then
+monthly.",365.954,3.03,368.984,neutral
+[MUSIC],368.984,3.371,372.35499999999996,NA
+"So long term follow up which I would say
+is after the first year, patients are",372.355,4.8,377.15500000000003,NA
+seen once every three months in a doctor's,377.155,2.7,379.85499999999996,NA
 "office appointment and get labs drawn once
-a month. [MUSIC] Patients come to Hopkins to look into a
-pancreas transplant for several reasons. One, there's a big team of people here that are dedicated to taking care of
-transplant patients.",379.855,20.345,400.20000000000005,NA
+a month.",379.855,3.394,383.249,NA
+[MUSIC],383.249,6.169,389.418,NA
+"Patients come to Hopkins to look into a
+pancreas transplant for several reasons.",389.418,5.201,394.619,NA
+"One, there's a big team of people here",394.619,1.98,396.59900000000005,NA
+"that are dedicated to taking care of
+transplant patients.",396.599,3.601,400.2,NA
 "The expertise that these individuals bring
-is fantastic for this patient population, and this includes
-surgeons, medical physicians, nurse coordinators, nurse practitioners,
-everyone together has had a lot of experience taking care of pancreas
-transplant patients. And as a result that collective experience
-is great for",400.2,19.988999999999997,420.18899999999996,NA
+is fantastic for",400.2,3.621,403.82099999999997,NA
+"this patient population, and this includes
+surgeons, medical physicians,",403.821,5.041,408.862,NA
+"nurse coordinators, nurse practitioners,
+everyone together has had a",408.862,4.402,413.264,NA
+"lot of experience taking care of pancreas
+transplant patients.",413.264,3.935,417.199,NA
+"And as a result that collective experience
+is great for",417.199,2.99,420.189,NA
 "helping someone through the operative
-procedure, and the post-operative recover. The second reason that patients come to
-Hopkins, to look into a pancreas transplant is the experience that we have
-with taking care of sensitized patients. These are individuals that have antibody
-in their bloodstream, or often difficult to
-transplant, and the",420.189,20.433,440.622,NA
+procedure, and the post-operative recover.",420.189,4.857,425.04600000000005,NA
+"The second reason that patients come to
+Hopkins, to look into a pancreas",425.046,4.27,429.316,NA
+"transplant is the experience that we have
+with taking care of sensitized patients.",429.316,5.3,434.616,NA
+"These are individuals that have antibody
+in their",434.616,2.772,437.388,NA
+"bloodstream, or often difficult to
+transplant, and the",437.388,3.234,440.62199999999996,NA
 "experience that has been gained in both
-the kidney and pancreas transplant populations
-that have antibody that makes transplantation difficult, draws
-individuals here looking for a chance at transplant when they haven't
-been able to get that opportunity elsewhere,
-because of",440.622,16.235999999999997,456.858,NA
+the",440.622,2.376,442.998,NA
+"kidney and pancreas transplant populations
+that have antibody that",442.998,4.092,447.09,NA
+"makes transplantation difficult, draws
+individuals here looking for",447.09,4.29,451.38,NA
+"a chance at transplant when they haven't
+been",451.38,2.574,453.954,NA
+"able to get that opportunity elsewhere,
+because of",453.954,2.904,456.858,NA
 "these sensitization events they have
-undergone in the past. [MUSIC]",456.858,12.295,469.153,NA
+undergone in the past.",456.858,3.438,460.296,NA
+[MUSIC],460.296,8.857,469.153,NA

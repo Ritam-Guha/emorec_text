@@ -34,7 +34,7 @@ class Trainer:
                        "test": test_loader}
 
         # initialize the optimizer
-        self.optimizer = torch.optim.Adam(model.parameters(),
+        self.optimizer = torch.optim.SGD(model.parameters(),
                                           lr=self.lr)
 
         # set the scheduler

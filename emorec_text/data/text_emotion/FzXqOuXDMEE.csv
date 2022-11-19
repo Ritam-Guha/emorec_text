@@ -1,54 +1,90 @@
 text,start,duration,end,dominant_emotion
 "In diabetes there are many types, but
-the most commonly we talk about are Type 1 and Type 2. Though they have the same
-name, they are very different. So, they're both insulin problems which are
-characterized by high blood sugar. But in Type 1 diabetes, it is an autoimmune
-disease, and so what that means is the body attack the cells that make insulin.
-So, when the body attacks and destroys",0.0,24.029,24.029,angry
+the most commonly we talk about are Type 1",0.0,4.529,4.529,NA
+"and Type 2. Though they have the same
+name, they are very different. So, they're",4.529,5.521,10.05,NA
+"both insulin problems which are
+characterized by high blood sugar. But in",10.05,3.9,13.950000000000001,sad
+"Type 1 diabetes, it is an autoimmune
+disease, and so what that means is the",13.95,4.829,18.779,fear
+"body attack the cells that make insulin.
+So, when the body attacks and destroys",18.779,5.25,24.029,sad
 "those cells, the body then makes no more
-insulin, meaning someone diagnosed with Type 1 diabetes would require insulin
-injections to survive. Type 2 is a metabolic disorder. So, in this case
-someone is making insulin, but their body's not using it. At least not using
-it as effectively. OK, so there's many risk factors in Type 2 diabetes:
-uncontrollable and controllable. Those",24.029,26.401,50.43,fear
+insulin, meaning someone diagnosed with",24.029,4.771,28.8,fear
+"Type 1 diabetes would require insulin
+injections to survive. Type 2 is a",28.8,5.97,34.77,fear
+"metabolic disorder. So, in this case
+someone is making insulin, but their",34.77,5.49,40.260000000000005,fear
+"body's not using it. At least not using
+it as effectively. OK, so there's many",40.26,5.61,45.87,neutral
+"risk factors in Type 2 diabetes:
+uncontrollable and controllable. Those",45.87,4.56,50.43,fear
 "people with-- living with Type 2 diabetes
-are-- may be doing just lifestyle management, may be doing lifestyle and
-medication, meaning pills or injectables or maybe they even require insulin. The
-symptoms are actually the same. However, in Type 1 diabetes, usually the
-onset of those symptoms is very quick, whereas in Type 2 they may not have
-symptoms for months, even years. Someone",50.43,24.6,75.03,angry
+are-- may be doing just lifestyle",50.43,4.559,54.989,sad
+"management, may be doing lifestyle and
+medication, meaning pills or injectables",54.989,4.261,59.25,fear
+"or maybe they even require insulin. The
+symptoms are actually the same.",59.25,3.93,63.18,fear
+"However, in Type 1 diabetes, usually the
+onset of those symptoms is very quick,",63.18,6.18,69.36,fear
+"whereas in Type 2 they may not have
+symptoms for months, even years. Someone",69.36,5.67,75.03,sad
 "can live with Type 2 diabetes for an
-estimated 5 to 7 years without knowing it. But the symptoms: hungry, thirsty, tired,
-angry and irritable, headaches. They're peeing more than usual. For someone
-living with Type 2 diabetes, though, because the progression is slow or your
-body acclimates to those symptoms so well, they can go unnoticed. Pre-diabetes
-means that you are at risk for",75.03,27.299,102.32900000000001,angry
+estimated 5 to 7 years without knowing",75.03,3.69,78.72,neutral
+"it. But the symptoms: hungry, thirsty, tired,
+angry and irritable, headaches. They're",78.72,9.12,87.84,fear
+"peeing more than usual. For someone
+living with Type 2 diabetes, though,",87.84,4.38,92.22,neutral
+"because the progression is slow or your
+body acclimates to those symptoms so",92.22,3.93,96.15,sad
+"well, they can go unnoticed. Pre-diabetes
+means that you are at risk for",96.15,6.179,102.32900000000001,fear
 "developing Type 2 diabetes. So, at that
-point what we do is we try to prevent the onset of Type 2 diabetes and that
-diagnosis is based on lab values. There are the controllable risk factors, which
-we often hear about the most, which is going to be our nutrition, our meal
-planning, our lifestyle in terms of activity. Are we sedentary or not?
-And then weight. Obesity is the number",102.329,27.221,129.54999999999998,angry
+point what we do is we try to prevent",102.329,5.79,108.119,fear
+"the onset of Type 2 diabetes and that
+diagnosis is based on lab values. There",108.119,7.261,115.38,fear
+"are the controllable risk factors, which
+we often hear about the most, which is",115.38,4.019,119.399,fear
+"going to be our nutrition, our meal
+planning, our lifestyle in terms of",119.399,4.561,123.96000000000001,NA
+"activity. Are we sedentary or not?
+And then weight. Obesity is the number",123.96,5.59,129.54999999999998,NA
 "one risk factor for Type 2 diabetes. And
-then there's the uncontrollable risk factors. Those include family history,
-which is a big one. Family history, age, gender, ethnicity. The
-higher risk groups are going to be Native American, African American,
-Hispanic and Asian American. I can tell you, though, just being in this position I
-have learned that diabetes does not",129.55,24.63,154.18,angry
+then there's the uncontrollable risk",129.55,4.02,133.57000000000002,sad
+"factors. Those include family history,
+which is a big one.",133.57,3.42,136.98999999999998,sad
+"Family history, age, gender, ethnicity. The
+higher risk groups are going to be",136.99,6.6,143.59,fear
+"Native American, African American,
+Hispanic and Asian American. I can tell",143.59,7.02,150.61,fear
+"you, though, just being in this position I
+have learned that diabetes does not",150.61,3.57,154.18,fear
 "discriminate. Type 1, Type 2 comes in all
-shapes, sizes and colors. Type 1 diabetes is often referred to as
-juvenile, though it can be diagnosed at any age. It is commonly diagnosed in
-adolescents and young adulthood. However, we are seeing more instances of
-Type 2 diabetes in children. So, the biggest difference is they're growing.
-They're-- everything is changing at",154.18,25.14,179.32,angry
+shapes, sizes and colors.",154.18,5.31,159.49,fear
+"Type 1 diabetes is often referred to as
+juvenile, though it can be diagnosed at",159.49,4.62,164.11,fear
+"any age. It is commonly diagnosed in
+adolescents and young adulthood.",164.11,5.21,169.32000000000002,fear
+"However, we are seeing more instances of
+Type 2 diabetes in children. So, the",169.32,4.93,174.25,fear
+"biggest difference is they're growing.
+They're-- everything is changing at",174.25,5.07,179.32,fear
 "such a quick rate and that's where it is
-difficult. They've got so much going on, whether that's activities, hormones,
-just-- you know, maturing, growing. And that's probably the most difficult thing
-and the biggest difference with pediatric patients. The number one
-question that we probably hear is 'What do I eat?' That's probably number one. And
-I would say that's a difficult question",179.32,24.450000000000003,203.76999999999998,fear
+difficult. They've got so much going on,",179.32,4.79,184.10999999999999,fear
+"whether that's activities, hormones,
+just-- you know, maturing, growing. And",184.11,6.849,190.959,fear
+"that's probably the most difficult thing
+and the biggest difference with",190.959,2.611,193.57,neutral
+"pediatric patients. The number one
+question that we probably hear is 'What",193.57,4.53,198.1,fear
+"do I eat?' That's probably number one. And
+I would say that's a difficult question",198.1,5.67,203.76999999999998,fear
 "to answer, because it's so individualized.
-That's when I would say, you definitely should call us over at the Center for
-Diabetes and Nutrition and schedule an appointment with one of our dietitians,
-but the idea is that you can eat anything in moderation. We have to be
-realistic and we have to be individualized. Everybody is different.",203.77,21.79,225.56,angry
+That's when I would say, you definitely",203.77,6.18,209.95000000000002,fear
+"should call us over at the Center for
+Diabetes and Nutrition and schedule an",209.95,3.57,213.51999999999998,fear
+"appointment with one of our dietitians,
+but the idea is that you can eat",213.52,4.53,218.05,sad
+"anything in moderation. We have to be
+realistic and we have to be",218.05,4.95,223.0,sad
+individualized. Everybody is different.,223.0,2.56,225.56,fear

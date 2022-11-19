@@ -1,48 +1,79 @@
 text,start,duration,end,dominant_emotion
 "Welcome, I'm Dr. Keith Moran and you're
-watching Medicine with Dr. Moran. My patients often ask me how much should
-they weigh? My answer often surprises them. We're going to answer that question
-today by talking about the body mass index calculation. Body mass index or BMI
-for short is what we use as physicians for assessing whether someone has a
-normal body weight.  As a single",0.92,28.119,29.039,angry
+watching Medicine with Dr. Moran. My",0.92,5.169,6.0889999999999995,fear
+"patients often ask me how much should
+they weigh? My answer often surprises",6.089,5.191,11.280000000000001,fear
+"them. We're going to answer that question
+today by talking about the body mass",11.28,5.16,16.439999999999998,sad
+"index calculation. Body mass index or BMI
+for short is what we use as physicians",16.44,7.86,24.3,fear
+"for assessing whether someone has a
+normal body weight.  As a single",24.3,4.739,29.039,neutral
 "measure it's not perfect but it's a
-useful measure for someone to know whether they're overweight or obese. It's
-a good idea for everyone to know their BMI. There are important limitations to
-the single measure. The BMI does not take into account whether the weight is
-carried as muscle or fat just the number. Ideally as physicians we would like to
-have a measurement of muscle mass as",29.039,27.151000000000003,56.190000000000005,angry
+useful measure for someone to know",29.039,4.441,33.480000000000004,NA
+"whether they're overweight or obese. It's
+a good idea for everyone to know their",33.48,5.46,38.94,sad
+"BMI. There are important limitations to
+the single measure. The BMI does not take",38.94,7.08,46.019999999999996,fear
+"into account whether the weight is
+carried as muscle or fat just the number.",46.02,5.809,51.829,NA
+"Ideally as physicians we would like to
+have a measurement of muscle mass as",51.829,4.361,56.19,NA
 "well as fat mass which would give us a
-much better idea of health status than the BMI. At this time there's not an easy
-and quick test to assess this. This is something that's obviously needed. So
-people who are athletes for example may have a very high BMI because of the
-increase in their muscle mass but they actually have low health risk. So there's
-a number of groups of people where BMI",56.19,29.219,85.40899999999999,NA
+much better idea of health status than",56.19,5.07,61.26,NA
+"the BMI. At this time there's not an easy
+and quick test to assess this. This is",61.26,7.14,68.39999999999999,NA
+"something that's obviously needed. So
+people who are athletes for example may",68.4,6.81,75.21000000000001,NA
+"have a very high BMI because of the
+increase in their muscle mass but they",75.21,4.5,79.71,NA
+"actually have low health risk. So there's
+a number of groups of people where BMI",79.71,5.699,85.40899999999999,NA
 "is not used children, for example
-pregnant women, bodybuilders, athletes. The BMI is a simple calculation all you need
-is your height and weight so just those two things. There are many online body
-mass index calculators. If you want to do the math it's the weight in kilograms
-divided by the height squared in meters. On this slide the ranges of the BMI are
-listed all the way from if someone's",85.409,34.53,119.93900000000001,angry
+pregnant women, bodybuilders, athletes. The",85.409,7.381,92.79,NA
+"BMI is a simple calculation all you need
+is your height and weight so just those",92.79,5.969,98.759,NA
+"two things. There are many online body
+mass index calculators. If you want to do",98.759,7.11,105.869,NA
+"the math it's the weight in kilograms
+divided by the height squared in meters.",105.869,6.14,112.009,fear
+"On this slide the ranges of the BMI are
+listed all the way from if someone's",112.009,7.93,119.939,fear
 "underweight  to if someone is obese. A
-normal range is 18 and a half to 24.9. High BMI. What does it mean
-and should you care? Well of course you should care a high
-BMI increases your risk for numerous diseases including diabetes, high blood
-pressure, gastro esophageal reflux, obstructive sleep apnea, abnormal
-cholesterol values, several types of",119.939,27.841,147.78,angry
+normal range is 18 and a half to 24.9.",119.939,6.241,126.17999999999999,NA
+"High BMI. What does it mean
+and should you care?",126.18,7.139,133.31900000000002,NA
+"Well of course you should care a high
+BMI increases your risk for numerous",133.319,4.711,138.03,NA
+"diseases including diabetes, high blood
+pressure, gastro esophageal reflux,",138.03,4.95,142.98,NA
+"obstructive sleep apnea, abnormal
+cholesterol values, several types of",142.98,4.8,147.78,NA
 "cancer, in particular breast, colon, and
-prostate. It causes fatty liver, which might lead to cirrhosis, and of course
-heart attack or stroke are the things most people think about. While there are
-limitations to the result of the BMI it does give physicians additional
-information on the patient's health risk. Here are some normal ranges of weight
-for someone's height. So if you're 5",147.78,25.17,172.95,angry
+prostate. It causes fatty liver, which",147.78,4.799,152.579,fear
+"might lead to cirrhosis, and of course
+heart attack or stroke are the things",152.579,4.05,156.62900000000002,fear
+"most people think about. While there are
+limitations to the result of the BMI it",156.629,5.551,162.17999999999998,happy
+"does give physicians additional
+information on the patient's health risk.",162.18,4.459,166.639,sad
+"Here are some normal ranges of weight
+for someone's height. So if you're 5",166.639,6.311,172.95000000000002,neutral
 "feet you should be between 95 and 125
-pounds and if you're 6 feet you should be a 138 to 182
-pounds. Maintaining a healthy BMI is important
-for your health and good quality of life. If you are not at a healthy BMI you
-should work towards it. This is the take home message of the video. If you've
-enjoyed this video",172.95,26.099,199.04899999999998,angry
+pounds and if you're 6 feet you should",172.95,7.409,180.35899999999998,happy
+"be a 138 to 182
+pounds.",180.359,4.55,184.90900000000002,NA
+"Maintaining a healthy BMI is important
+for your health and good quality of life.",184.909,4.8,189.709,NA
+"If you are not at a healthy BMI you
+should work towards it. This is the take",189.709,5.65,195.359,NA
+"home message of the video. If you've
+enjoyed this video",195.359,3.69,199.049,NA
 "you might find a similar video titled
-are you healthy to be of interest. Click the link at the top of the screen. Thank you for
-watching today. Feel free to comment on this video.
-If you've learned something give it a like. I'm doctor Keith Moran. Get
-healthy and stay healthy.",199.049,18.981,218.03,NA
+are you healthy to be of interest. Click",199.049,5.25,204.299,NA
+"the link at the top of the screen. Thank you for
+watching today. Feel free to comment on",204.299,5.071,209.37,NA
+"this video.
+If you've learned something give it a",209.37,2.789,212.159,NA
+"like. I'm doctor Keith Moran. Get
+healthy and stay healthy.",212.159,5.871,218.03,NA

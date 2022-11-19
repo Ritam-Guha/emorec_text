@@ -1,19 +1,89 @@
 text,start,duration,end,dominant_emotion
-acromegaly is a relatively rare disorder of growth hormone excess coming from a pituitary tumor and when I said the relatively rare is we found out more recently that it's possibly that we,4.86,29.37,34.230000000000004,sad
-under diagnosed acromegaly a SAS physician and overall from the large numbers of pituitary tumors there are several studies showing that acromegaly and also other type of pituitary tumors,20.01,25.659,45.669,sad
-is more frequently than previously thought the issue with a growth hormone excess coming from the pituitary tumor is that it has devastating effects if it's long term in excess over a huge,32.769,34.741,67.50999999999999,sad
-variety of signs and symptoms but also different organs so patients with acromegaly yes they will have eckerle changes everything will grow their face will change they will have frontal,48.43,27.689,76.119,sad
-bossing they will have ring size shoes increased shoe size but they're slow so nobody will notice for years and years the min delay in diagnosis it's still 11 years in us even now and it's pretty,64.27,29.1,93.37,sad
-similar with what it was before on top of that these patients will have joint pain due to the destructions of the cartilage they will have increased risk of colonic polyp increased risk of,78.159,26.87,105.02900000000001,sad
-thyroid enlargement they will have more diabetes than their counterparts at this age they have hypertension they have more obstructive sleep apnea so because of all these relatively nonspecific,91.95,29.74,121.69,sad
-types of diseases patients have one or two more comorbidities and sometimes nobody is putting two and two together for years until they have really prolonged growth hormone excess but also,106.72,29.63,136.35,sad
-unfortunately this is associated with a large tumor so when the patients get diagnosed most of them already have a macro adenoma in a macro adenoma is a tumor that's more than we define it as,121.71,24.79,146.5,sad
-more than one centimeter but these patients sometimes are presenting with tumors that are two centimeter three centimeter and we're talking about the large size tumor when,134.379,19.771,154.14999999999998,sad
-were looking at the normal size of the pituitary is the size of a pea so it's something that's pretty enlarged in the cellar area how we usually treat acromegaly first line of treatment for,144.13,25.17,169.3,sad
-the large majority of patients per Endocrine Society guidelines is transfer noid or surgery the issue is most of these patients almost half of them if they already have a large tumor in LA in,156.94,27.509999999999998,184.45,sad
-the cavernous sinus area we know that the surgeon is not going to be able to take that tumor out so then we need medical therapy we have right now several medical therapies approved and,170.38,27.11,197.49,sad
-there are several groups the somatostatin receptor ligands are in most cases the first line of treatment and we have octreotide sub-q octreotide lar learn real tight and more recently,183.81,31.629999999999995,215.44,sad
-approved facility lar we're also using as a medication that targets the pituitary to decrease the growth hormone cabergoline it's not a preferred growth hormone but sometimes we're using,199.24,24.72,223.96,sad
-especially in association with the other drugs for very mild disease I rarely use it as a unique treatment for acromegaly the other type of groups of drugs that we have available right now for,212.38,25.169999999999998,237.54999999999998,sad
-acromegaly it's back this moment it's a blocker of the growth hormone and though it does not crease the growth hormone per sec should it's increasing it it decreases the igf-1 that's made in the,224.77,26.189999999999998,250.96,sad
-liver but also it the IGF many of the effects of growth hormone excess are through the igf-1,237.1,12.610000000000001,249.71,sad
+acromegaly is a relatively rare disorder,4.86,7.18,12.04,sad
+of growth hormone excess coming from a,8.35,5.88,14.23,sad
+pituitary tumor and when I said the,12.04,5.16,17.2,fear
+relatively rare is we found out more,14.23,5.78,20.01,sad
+recently that it's possibly that we,17.2,5.37,22.57,sad
+under diagnosed acromegaly a SAS,20.01,5.439,25.449,sad
+physician and overall from the large,22.57,4.89,27.46,sad
+numbers of pituitary tumors there are,25.449,4.891,30.340000000000003,sad
+several studies showing that acromegaly,27.46,5.309,32.769,sad
+and also other type of pituitary tumors,30.34,5.13,35.47,sad
+is more frequently than previously,32.769,6.181,38.949999999999996,sad
+thought the issue with a growth hormone,35.47,5.88,41.35,sad
+excess coming from the pituitary tumor,38.95,6.72,45.67,sad
+is that it has devastating effects if,41.35,7.08,48.43,sad
+it's long term in excess over a huge,45.67,8.88,54.550000000000004,sad
+variety of signs and symptoms but also,48.43,8.519,56.949,sad
+different organs so patients with,54.55,5.31,59.86,sad
+acromegaly yes they will have eckerle,56.949,5.7,62.649,sad
+changes everything will grow their face,59.86,4.41,64.27,sad
+will change they will have frontal,62.649,3.75,66.399,sad
+bossing they will have ring size shoes,64.27,5.25,69.52,sad
+increased shoe size but they're slow so,66.399,5.341,71.74,sad
+nobody will notice for years and years,69.52,6.029,75.54899999999999,sad
+the min delay in diagnosis it's still 11,71.74,6.419,78.15899999999999,sad
+years in us even now and it's pretty,75.549,6.061,81.61000000000001,sad
+similar with what it was before on top,78.159,6.75,84.909,sad
+of that these patients will have joint,81.61,5.88,87.49,sad
+pain due to the destructions of the,84.909,4.951,89.86,sad
+cartilage they will have increased risk,87.49,4.46,91.94999999999999,sad
+of colonic polyp increased risk of,89.86,4.829,94.689,sad
+thyroid enlargement they will have more,91.95,6.22,98.17,sad
+diabetes than their counterparts at this,94.689,5.761,100.44999999999999,sad
+age they have hypertension they have,98.17,5.28,103.45,sad
+more obstructive sleep apnea so because,100.45,6.27,106.72,fear
+of all these relatively nonspecific,103.45,6.209,109.659,sad
+types of diseases patients have one or,106.72,5.48,112.2,sad
+two more comorbidities and sometimes,109.659,5.0,114.659,sad
+nobody is putting two and two together,112.2,6.18,118.38,sad
+for years until they have really,114.659,7.051,121.71000000000001,neutral
+prolonged growth hormone excess but also,118.38,5.919,124.29899999999999,fear
+unfortunately this is associated with a,121.71,5.409,127.119,fear
+large tumor so when the patients get,124.299,5.371,129.67000000000002,sad
+diagnosed most of them already have a,127.119,5.041,132.16,sad
+macro adenoma in a macro adenoma is a,129.67,4.709,134.379,NA
+tumor that's more than we define it as,132.16,4.26,136.42,neutral
+more than one centimeter but these,134.379,2.971,137.35,sad
+patients sometimes are,136.42,2.91,139.32999999999998,sad
+presenting with tumors that are two,137.35,4.26,141.60999999999999,sad
+centimeter three centimeter and we're,139.33,4.8,144.13000000000002,sad
+talking about the large size tumor when,141.61,4.83,146.44000000000003,sad
+were looking at the normal size of the,144.13,4.41,148.54,sad
+pituitary is the size of a pea so it's,146.44,4.29,150.73,fear
+something that's pretty enlarged in the,148.54,5.16,153.7,fear
+cellar area how we usually treat,150.73,6.21,156.94,fear
+acromegaly first line of treatment for,153.7,5.1,158.79999999999998,sad
+the large majority of patients per,156.94,5.34,162.28,sad
+Endocrine Society guidelines is transfer,158.8,7.23,166.03,sad
+noid or surgery the issue is most of,162.28,5.91,168.19,sad
+these patients almost half of them if,166.03,4.35,170.38,sad
+they already have a large tumor in LA in,168.19,4.68,172.87,neutral
+the cavernous sinus area we know that,170.38,4.53,174.91,neutral
+the surgeon is not going to be able to,172.87,5.01,177.88,sad
+take that tumor out so then we need,174.91,5.75,180.66,sad
+medical therapy we have right now,177.88,5.93,183.81,sad
+several medical therapies approved and,180.66,5.89,186.54999999999998,sad
+there are several groups the,183.81,5.59,189.4,sad
+somatostatin receptor ligands are in,186.55,5.31,191.86,sad
+most cases the first line of treatment,189.4,6.27,195.67000000000002,sad
+and we have octreotide sub-q octreotide,191.86,7.38,199.24,neutral
+lar learn real tight and more recently,195.67,7.08,202.75,fear
+approved facility lar we're also using,199.24,6.45,205.69,sad
+as a medication that targets the,202.75,4.91,207.66,sad
+pituitary to decrease the growth hormone,205.69,4.92,210.60999999999999,sad
+cabergoline it's not a preferred growth,207.66,4.72,212.38,sad
+hormone but sometimes we're using,210.61,3.72,214.33,sad
+especially in association with the other,212.38,5.58,217.96,sad
+drugs for very mild disease I rarely use,214.33,5.72,220.05,sad
+it as a unique treatment for acromegaly,217.96,5.52,223.48000000000002,sad
+the other type of groups of drugs that,220.05,4.72,224.77,fear
+we have available right now for,223.48,3.63,227.10999999999999,sad
+acromegaly it's back this moment it's a,224.77,4.89,229.66,sad
+blocker of the growth hormone and though,227.11,4.23,231.34,sad
+it does not crease the growth hormone,229.66,4.59,234.25,sad
+per sec should it's increasing it it,231.34,5.76,237.1,sad
+decreases the igf-1 that's made in the,234.25,6.72,240.97,sad
+liver but also it the IGF many of the,237.1,5.43,242.53,sad
+effects of growth hormone excess are,240.97,4.37,245.34,sad
+through the igf-1,242.53,2.81,245.34,sad

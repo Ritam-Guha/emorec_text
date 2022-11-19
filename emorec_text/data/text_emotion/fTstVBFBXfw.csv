@@ -1,218 +1,344 @@
 text,start,duration,end,dominant_emotion
 "Did you know that gas, diarrhea and stomach pain 
-is the most common side effect of Metformin? It s   the absolute most common reason that my patients 
-end up dumping this medication in the garbage,   but it doesn t have to be that way for most. 
-Just by taking a few steps like when you take it,   what you take it with and even what 
-type of metformin you have can can   make a big difference in being able 
+is the most common side effect of Metformin? It s  ",0.32,4.96,5.28,surprise
+"the absolute most common reason that my patients 
+end up dumping this medication in the garbage,  ",5.28,4.56,9.84,sad
+"but it doesn t have to be that way for most. 
+Just by taking a few steps like when you take it,  ",9.84,4.88,14.719999999999999,fear
+"what you take it with and even what 
+type of metformin you have can can  ",14.72,3.52,18.240000000000002,sad
+"make a big difference in being able 
 to take this important medication.
-  ",0.32,20.799999999999997,21.119999999999997,angry
+  ",18.24,2.88,21.119999999999997,fear
 "Hi, I m Dr. Erik Richardson a board certified 
-Family Practice physician. I d like to welcome   you to FamilyMed, a channel that focuses 
-giving you practical and accurate medical   information to help you and your family. In today 
-s video we are going to go over 4 simple steps   that can help you tolerate taking this important 
-medication. If you are looking for a more in-depth   discussion of metformin you can check out 
+Family Practice physician. I d like to welcome  ",28.64,4.48,33.120000000000005,fear
+"you to FamilyMed, a channel that focuses 
+giving you practical and accurate medical  ",33.12,3.84,36.959999999999994,fear
+"information to help you and your family. In today 
+s video we are going to go over 4 simple steps  ",36.96,4.96,41.92,fear
+"that can help you tolerate taking this important 
+medication. If you are looking for a more in-depth  ",41.92,4.48,46.400000000000006,fear
+"discussion of metformin you can check out 
 my other video on metformin right here.  
-  ",28.64,21.28,49.92,sad
+  ",46.4,3.52,49.92,fear
 "Abdominal pain, gas, diarrhea and bloating 
-are still the most common effect that we see   with this medication. But there are 4 things 
+are still the most common effect that we see  ",50.48,4.16,54.64,fear
+"with this medication. But there are 4 things 
 that you can do to decrease this chance.  
-   First is take it with food, Metformin 
-can have a possibility of affecting the   stomach and gut lining and taking it on 
-an empty stomach can increase that risk.   It s a medication that is 
-usually given once or twice a day  ",50.48,20.4,70.88,angry
+  ",54.64,4.08,58.72,sad
+"First is take it with food, Metformin 
+can have a possibility of affecting the  ",63.28,4.32,67.6,sad
+"stomach and gut lining and taking it on 
+an empty stomach can increase that risk.  ",67.6,4.48,72.08,fear
+"It s a medication that is 
+usually given once or twice a day  ",72.08,3.36,75.44,fear
 "so taking it with meals has been shown to improve 
-your chances of avoiding those side effects.   This is especially true while just starting on 
-it. As your body gets used to it, it doesn t seem   to be as important but if you at least start out 
+your chances of avoiding those side effects.  ",75.44,4.4,79.84,happy
+"This is especially true while just starting on 
+it. As your body gets used to it, it doesn t seem  ",80.4,4.64,85.04,fear
+"to be as important but if you at least start out 
 taking it with food you will likely do better. 
-   Second is ask your doctor if the extended release 
-tablets would be appropriate for you. It comes in   both an immediate release and an extended 
-release version. The good news is the 500mg  ",75.44,24.880000000000003,100.32,sad
+  ",85.04,5.28,90.32000000000001,sad
+"Second is ask your doctor if the extended release 
+tablets would be appropriate for you. It comes in  ",94.88,5.44,100.32,fear
+"both an immediate release and an extended 
+release version. The good news is the 500mg  ",100.32,5.12,105.44,sad
 "tablets are generic and cheap so it can be a 
-great option. WE tend to see that those who take   the extended release version, tend to do better 
-in avoiding the significant stomach symptoms.   Just a word of warning though, don t ask for the 
-1000mg Extended release metformin because they are   super expensive. The 500mg you can get for around 
-5-10 dollars a month while the 1000mg dose is   upwards of a $1000 a month. It s totally insane, 
+great option. WE tend to see that those who take  ",106.0,4.8,110.8,surprise
+"the extended release version, tend to do better 
+in avoiding the significant stomach symptoms.  ",110.8,4.48,115.28,NA
+"Just a word of warning though, don t ask for the 
+1000mg Extended release metformin because they are  ",115.92,5.36,121.28,surprise
+"super expensive. The 500mg you can get for around 
+5-10 dollars a month while the 1000mg dose is  ",121.28,6.24,127.52,sad
+"upwards of a $1000 a month. It s totally insane, 
 and I don t get it, so just be warned.    
-  ",106.0,25.520000000000003,131.52,angry
+  ",127.52,4.64,132.16,happy
 "The third is to start the dose 
-low and slowly increase it.   The most common effective dose for 
-many patients is 1000mg twice a day.   If you need to be up at the higher doses to get 
-your sugars under control then start at a lower   dose like 500mg take that for several days up to 
-a week or more before increasing to the next dose.   Keep doing that week by week until you get to 
-the full dose. If you start right away at the  ",136.48,22.4,158.88,angry
+low and slowly increase it.  ",136.48,3.68,140.16,fear
+"The most common effective dose for 
+many patients is 1000mg twice a day.  ",140.16,4.0,144.16,fear
+"If you need to be up at the higher doses to get 
+your sugars under control then start at a lower  ",144.88,4.4,149.28,fear
+"dose like 500mg take that for several days up to 
+a week or more before increasing to the next dose.  ",149.28,5.6,154.88,surprise
+"Keep doing that week by week until you get to 
+the full dose. If you start right away at the  ",155.68,4.72,160.4,fear
 "high dose you are more likely to spend your day 
-in the bathroom than doing the things that you   want to do. Remember, start low and increase it 
-slowly. Of course, always talk to your doctor   and pharmacist about how they recommend you take 
+in the bathroom than doing the things that you  ",160.4,4.0,164.4,fear
+"want to do. Remember, start low and increase it 
+slowly. Of course, always talk to your doctor  ",164.4,5.76,170.16,fear
+"and pharmacist about how they recommend you take 
 it, but ask them about this and see how you do.  
-   The 4th step is watch your diet. One of the ways 
-that metformin works is by decreasing how much   sugar is absorbed through your intestines. That 
-s a good thing in trying to keep your sugars down  ",160.4,23.44,183.84,angry
+  ",170.16,4.4,174.56,fear
+"The 4th step is watch your diet. One of the ways 
+that metformin works is by decreasing how much  ",178.64,4.96,183.6,fear
+"sugar is absorbed through your intestines. That 
+s a good thing in trying to keep your sugars down  ",183.6,4.32,187.92,happy
 "but can make a real mess when it comes to your 
-bowels. One of the things that helps us digest   is the bacteria that resides in our intestines. 
-All that extra sugar for the bacteria is like a   group of kids in a play gym after Halloween. 
-It s not a pretty sight. The bacteria start   to ferment the sugars and create gas and all 
-the other fun things that come with it. So,   avoiding foods that have sugar or a lot of refined 
-carbohydrates can make a huge difference in being  ",187.92,23.84,211.76,NA
+bowels. One of the things that helps us digest  ",187.92,4.16,192.07999999999998,fear
+"is the bacteria that resides in our intestines. 
+All that extra sugar for the bacteria is like a  ",192.08,4.64,196.72,NA
+"group of kids in a play gym after Halloween. 
+It s not a pretty sight. The bacteria start  ",196.72,4.96,201.68,fear
+"to ferment the sugars and create gas and all 
+the other fun things that come with it. So,  ",201.68,4.24,205.92000000000002,fear
+"avoiding foods that have sugar or a lot of refined 
+carbohydrates can make a huge difference in being  ",205.92,5.84,211.76,fear
 "able to tolerate the medication. Now if that diet 
-sounds familiar, it s how you should be eating   as a diabetic anyway, so get to eating right and 
+sounds familiar, it s how you should be eating  ",211.76,4.8,216.56,NA
+"as a diabetic anyway, so get to eating right and 
 see how much it helps.
-Metformin is an important   medication that works well to treat diabetes 
-when diet and exercise are not enough but the   fact of the matter is that not everybody is going 
-to tolerate it. These steps will give you the best   chance of being able to do well with it but even 
-then sometimes it s not going to work. If you find  ",211.76,24.720000000000002,236.48,angry
+Metformin is an important  ",216.56,5.36,221.92000000000002,fear
+"medication that works well to treat diabetes 
+when diet and exercise are not enough but the  ",221.92,5.04,226.95999999999998,fear
+"fact of the matter is that not everybody is going 
+to tolerate it. These steps will give you the best  ",226.96,4.08,231.04000000000002,fear
+"chance of being able to do well with it but even 
+then sometimes it s not going to work. If you find  ",231.04,5.44,236.48,fear
 "yourself in this position, make sure you talk with 
-your doctor as Metformin just may not be for you.   There are other options out there but you still 
-need to remember that nothing is going to take   place of changing your lifestyle. If you are 
-looking for non-medication ways that you should   be working on to control your diabetes then click 
+your doctor as Metformin just may not be for you.  ",236.48,4.48,240.95999999999998,sad
+"There are other options out there but you still 
+need to remember that nothing is going to take  ",241.68,3.68,245.36,surprise
+"place of changing your lifestyle. If you are 
+looking for non-medication ways that you should  ",245.36,4.88,250.24,sad
+"be working on to control your diabetes then click 
 here where we go over this in a bit more detail.
-   I really appreciate you watching today, I hope 
-that you found this to be helpful. If you did,  ",236.48,21.839999999999996,258.32,sad
+  ",250.24,5.04,255.28,fear
+"I really appreciate you watching today, I hope 
+that you found this to be helpful. If you did,  ",255.28,3.76,259.04,fear
 "make sure to give this video a like and share it 
-with your friends. It helps our channel to grow   and reach others that may need this in their life. 
-And don t leave without subscribing and hitting   that notification button so you don t miss out on 
+with your friends. It helps our channel to grow  ",259.04,4.24,263.28000000000003,fear
+"and reach others that may need this in their life. 
+And don t leave without subscribing and hitting  ",263.28,4.4,267.67999999999995,fear
+"that notification button so you don t miss out on 
 any of our future content.  
-We appreciate you   watching and will see you in the next video. 
+We appreciate you  ",267.68,5.2,272.88,sad
+"watching and will see you in the next video. 
  
-In this video we are going to be going over the   medication Metformin. Keep watching because we 
-are going to teach you about why you take it,  ",259.04,21.679,280.719,sad
+In this video we are going to be going over the  ",272.88,7.746,280.626,fear
+"medication Metformin. Keep watching because we 
+are going to teach you about why you take it,  ",280.626,0.093,280.719,NA
 "what are the most common side effects, will give 
-you some tips on how to avoid those side effects   as well as warn you about some of the things you 
+you some tips on how to avoid those side effects  ",280.719,0.098,280.817,NA
+"as well as warn you about some of the things you 
 need to be careful with while taking it.
-Welcome   to Family Med, I'm Dr. Richardson and this is 
-your home for practical and accurate information   to help your family make healthy decisions. This 
-is the channel that focuses on bringing better   health to your home. If this sounds like the 
-kind of information that would be helpful to  ",280.719,0.477,281.19599999999997,NA
+Welcome  ",280.817,0.098,280.915,NA
+"to Family Med, I'm Dr. Richardson and this is 
+your home for practical and accurate information  ",280.915,0.095,281.01000000000005,NA
+"to help your family make healthy decisions. This 
+is the channel that focuses on bringing better  ",281.01,0.096,281.106,NA
+"health to your home. If this sounds like the 
+kind of information that would be helpful to  ",281.106,0.09,281.19599999999997,NA
 "you make sure you hit that subscribe button and 
 follow along with us.
-On today s episode we are   going to be talking about one of the most common 
-medications that we use to treat diabetes called   metformin. This is a medication that has been 
-available in the United States since 1995. It   s main use is to help control blood sugars in 
-diabetes but it is also used in conditions such   as polycystic ovarian syndrome and some use it 
+On today s episode we are  ",281.196,0.096,281.29200000000003,NA
+"going to be talking about one of the most common 
+medications that we use to treat diabetes called  ",281.292,0.098,281.39,NA
+"metformin. This is a medication that has been 
+available in the United States since 1995. It  ",281.39,0.092,281.48199999999997,NA
+"s main use is to help control blood sugars in 
+diabetes but it is also used in conditions such  ",281.482,0.094,281.576,NA
+"as polycystic ovarian syndrome and some use it 
 to help with weight loss.  
-Metformin belongs  ",281.196,0.473,281.66900000000004,NA
+Metformin belongs  ",281.576,0.093,281.66900000000004,NA
 "to the class of medications called Biguanides. It 
-works a little different than any other diabetic   medications. There are several different effects 
-it has on the body that help control blood sugar.   The first is that it works on decreasing how 
-much sugar your liver releases into the blood.   Now Maybe you didn t know this but the liver 
-is actually one of the biggest storage organs   for sugar in the body. When you need a boost of 
-energy the liver releases glucose to give you  ",281.669,0.475,282.144,NA
+works a little different than any other diabetic  ",281.669,0.099,281.768,NA
+"medications. There are several different effects 
+it has on the body that help control blood sugar.  ",281.768,0.099,281.86699999999996,NA
+"The first is that it works on decreasing how 
+much sugar your liver releases into the blood.  ",281.867,0.092,281.959,NA
+"Now Maybe you didn t know this but the liver 
+is actually one of the biggest storage organs  ",281.959,0.091,282.05,NA
+"for sugar in the body. When you need a boost of 
+energy the liver releases glucose to give you  ",282.05,0.094,282.144,NA
 "that little extra boost that you need. Normally 
-this works well. In diabetes though, it can be   a problem. You don t want to have that extra sugar 
-released, so metformin helps slow that down. Also,   it Decreases how much sugar is absorbed from the 
-intestines and helps to work on improving your   bodies sensitivity to insulin. That s one of the 
-big problems in conditions like diabetes or PCOS.   In these conditions, your body is resistant to the 
-hormone that helps bring the sugar from the blood  ",282.144,0.493,282.637,NA
+this works well. In diabetes though, it can be  ",282.144,0.095,282.23900000000003,NA
+"a problem. You don t want to have that extra sugar 
+released, so metformin helps slow that down. Also,  ",282.239,0.102,282.34099999999995,NA
+"it Decreases how much sugar is absorbed from the 
+intestines and helps to work on improving your  ",282.341,0.096,282.437,NA
+"bodies sensitivity to insulin. That s one of the 
+big problems in conditions like diabetes or PCOS.  ",282.437,0.099,282.536,NA
+"In these conditions, your body is resistant to the 
+hormone that helps bring the sugar from the blood  ",282.536,0.101,282.637,NA
 "into the cells in order to be utilized. So that 
-s why metformin is such a great choice for most   people with these conditions. It does a great 
-job in trying to decrease that resistence and   counteract the effects that this causes.  
+s why metformin is such a great choice for most  ",282.637,0.096,282.733,NA
+"people with these conditions. It does a great 
+job in trying to decrease that resistence and  ",282.733,0.092,282.825,NA
+"counteract the effects that this causes.  
 So at 
-this point you may have asked why you should even   care that your blood sugars are elevated? This is 
-a great question and unfortunately one that I have   to talk about a lot. Diabetes is extremely common 
-and getting more and more so as time goes on.  ",282.637,0.484,283.121,NA
+this point you may have asked why you should even  ",282.825,0.099,282.924,NA
+"care that your blood sugars are elevated? This is 
+a great question and unfortunately one that I have  ",282.924,0.101,283.025,NA
+"to talk about a lot. Diabetes is extremely common 
+and getting more and more so as time goes on.  ",283.025,0.096,283.121,NA
 "Untreated diabetes has some awful complications 
-that can happen including dramatically increasing   your risk for heart attacks and strokes. It can 
-affect your eyes putting you at risk for going   blind, it can affect your kidneys causing them to 
-fail as well as affect your nerves and circulation   in your legs and feet especially causing damage to 
-the nerves. This is a big deal because it makes it   easier to get injured and then it doesn t heal 
-well putting you at risk for infections even  ",283.121,0.488,283.609,NA
+that can happen including dramatically increasing  ",283.121,0.098,283.219,NA
+"your risk for heart attacks and strokes. It can 
+affect your eyes putting you at risk for going  ",283.219,0.095,283.314,NA
+"blind, it can affect your kidneys causing them to 
+fail as well as affect your nerves and circulation  ",283.314,0.101,283.415,NA
+"in your legs and feet especially causing damage to 
+the nerves. This is a big deal because it makes it  ",283.415,0.102,283.517,NA
+"easier to get injured and then it doesn t heal 
+well putting you at risk for infections even  ",283.517,0.092,283.609,NA
 "leading sometimes to amputations. So, diabetes is 
-not a good thing and not treating it is obviously   not a good thing. So if you are taking this 
-for diabetes that s the reason you need to be   motivated to control and treat this as best as you 
+not a good thing and not treating it is obviously  ",283.609,0.1,283.709,NA
+"not a good thing. So if you are taking this 
+for diabetes that s the reason you need to be  ",283.709,0.09,283.799,NA
+"motivated to control and treat this as best as you 
 can.
-Now, certainly medication is not the only way   you should treat diabetes. Diet and lifestyle 
-changes are the absolutely most essential thing   to be working on to control this and keep it from 
-getting worse. But unfortunately for many, diet  ",283.609,0.484,284.09299999999996,NA
+Now, certainly medication is not the only way  ",283.799,0.102,283.90099999999995,NA
+"you should treat diabetes. Diet and lifestyle 
+changes are the absolutely most essential thing  ",283.901,0.094,283.995,NA
+"to be working on to control this and keep it from 
+getting worse. But unfortunately for many, diet  ",283.995,0.098,284.093,NA
 "and lifestyle changes are not enough or we can t 
-make them fast enough in order to get your sugars   under control. That s likely why your doctor 
-is recommending that you take the metformin.   So what should you expect from this medication?
+make them fast enough in order to get your sugars  ",284.093,0.099,284.192,NA
+"under control. That s likely why your doctor 
+is recommending that you take the metformin.  ",284.192,0.09,284.282,NA
+"So what should you expect from this medication?
  
-Well, first of all it comes in both a tablet and   liquid form. Tablets come in either an immediate 
-release or an extended release version of 500,   850 or 1000mg. Depending on which formulation 
-you have you can take it either once or twice  ",284.093,0.474,284.567,NA
+Well, first of all it comes in both a tablet and  ",284.282,0.097,284.37899999999996,NA
+"liquid form. Tablets come in either an immediate 
+release or an extended release version of 500,  ",284.379,0.096,284.475,NA
+"850 or 1000mg. Depending on which formulation 
+you have you can take it either once or twice  ",284.475,0.092,284.567,NA
 "a day. An important thing to remember about this 
-medication specifically, and diabetes medications   in general, is that it only works while you are 
-taking it. I have people come in all the time   with their blood sugars high after we originally 
-had it controlled telling me that they stopped   the medicine because we fixed it. Unfortunately, 
-this isn t the way it works. Unless you have some   underlying lifestyle issues that are causing your 
-blood sugars to be high and you fix those, you  ",284.567,0.485,285.052,NA
+medication specifically, and diabetes medications  ",284.567,0.099,284.666,NA
+"in general, is that it only works while you are 
+taking it. I have people come in all the time  ",284.666,0.094,284.76,NA
+"with their blood sugars high after we originally 
+had it controlled telling me that they stopped  ",284.76,0.096,284.856,NA
+"the medicine because we fixed it. Unfortunately, 
+this isn t the way it works. Unless you have some  ",284.856,0.099,284.955,NA
+"underlying lifestyle issues that are causing your 
+blood sugars to be high and you fix those, you  ",284.955,0.097,285.05199999999996,NA
 "need to stay on these medications. Don t stop them 
 unless you discuss it with your doctor. 
-Metformin   is typically the first medication that we start 
-people on when they are diagnosed with diabetes.   Overall for most people its tolerated quite well 
-but there are some issues that people can have   with taking the medication that we need to talk 
+Metformin  ",285.052,0.102,285.154,NA
+"is typically the first medication that we start 
+people on when they are diagnosed with diabetes.  ",285.154,0.097,285.251,NA
+"Overall for most people its tolerated quite well 
+but there are some issues that people can have  ",285.251,0.096,285.347,NA
+"with taking the medication that we need to talk 
 about.
-The most common side effects that we tend   to see with metformin are some sort of stomach 
-type symptoms. This can be nausea, bloating, gas,  ",285.052,0.489,285.541,NA
+The most common side effects that we tend  ",285.347,0.097,285.44399999999996,NA
+"to see with metformin are some sort of stomach 
+type symptoms. This can be nausea, bloating, gas,  ",285.444,0.097,285.541,NA
 "diarrhea or all of the above. This can be anywhere 
-from mild to more severe symptoms. There are ways   that we try to avoid this though so don t despair. 
-If you are patient as you start this medication,   we can usually get you to the appropriate dose 
-without having to live with the side effects.   One of the tricks that we use is starting the 
-medication at a low dose and increasing it slowly.   For example we will start somebody at 500mg 
-once a day and then increase their dose every  ",285.541,0.481,286.022,NA
+from mild to more severe symptoms. There are ways  ",285.541,0.101,285.642,NA
+"that we try to avoid this though so don t despair. 
+If you are patient as you start this medication,  ",285.642,0.1,285.742,NA
+"we can usually get you to the appropriate dose 
+without having to live with the side effects.  ",285.742,0.093,285.83500000000004,NA
+"One of the tricks that we use is starting the 
+medication at a low dose and increasing it slowly.  ",285.835,0.097,285.93199999999996,NA
+"For example we will start somebody at 500mg 
+once a day and then increase their dose every  ",285.932,0.09,286.022,NA
 "few days to a week until they are the goal dose. 
-This usually does the trick. Taking the higher   doses too quickly is usually the reason people 
-start to have side effects. We have also noticed   that taking it with meals or in the evening at 
-first can also make a difference. And finally,   I ve found that for a lot of people, putting them 
-on the extended release version tends to help them   avoid these side effects. 
+This usually does the trick. Taking the higher  ",286.022,0.096,286.118,NA
+"doses too quickly is usually the reason people 
+start to have side effects. We have also noticed  ",286.118,0.096,286.214,NA
+"that taking it with meals or in the evening at 
+first can also make a difference. And finally,  ",286.214,0.094,286.308,NA
+"I ve found that for a lot of people, putting them 
+on the extended release version tends to help them  ",286.308,0.101,286.409,NA
+"avoid these side effects. 
 The other thing that 
-you can do to minimize these side effects is be  ",286.022,0.483,286.505,NA
+you can do to minimize these side effects is be  ",286.409,0.096,286.505,NA
 "more careful with your diet. If you remember, one 
-of the ways this medication works, is by blocking   how much sugar is absorbed from the gut. When 
-less sugar is absorbed, more stays in the gut   and the bacteria in your gut start to digest 
-that sugar causing it to ferment. Well, that   causes gas and all the other pleasant side effects 
-that come with it. So, as a diabetic, you need to   be watching your sugar or carb intake anyway 
-so this can add a little more motivation to do  ",286.505,0.475,286.98,NA
+of the ways this medication works, is by blocking  ",286.505,0.1,286.605,NA
+"how much sugar is absorbed from the gut. When 
+less sugar is absorbed, more stays in the gut  ",286.605,0.092,286.697,NA
+"and the bacteria in your gut start to digest 
+that sugar causing it to ferment. Well, that  ",286.697,0.09,286.787,NA
+"causes gas and all the other pleasant side effects 
+that come with it. So, as a diabetic, you need to  ",286.787,0.101,286.888,NA
+"be watching your sugar or carb intake anyway 
+so this can add a little more motivation to do  ",286.888,0.092,286.97999999999996,NA
 "so.  
 Unfortunately some people just aren t able 
-to tolerate it and we have to reach for something   else to treat. But for the majority, if we just 
-increase the dose slow and watch our diet better,   we can avoid this main side effect.
+to tolerate it and we have to reach for something  ",286.98,0.099,287.079,NA
+"else to treat. But for the majority, if we just 
+increase the dose slow and watch our diet better,  ",287.079,0.098,287.177,NA
+"we can avoid this main side effect.
 So besides the 
-nausea, gas and diarrhea, other side effects that   we can see are some decreased appetite, feeling of 
-weakness, headaches, sometimes a metallic taste in   the mouth and a rash. These last side effects I 
-don t see as much. Usually if somebody doesn t  ",286.98,0.495,287.475,NA
+nausea, gas and diarrhea, other side effects that  ",287.177,0.101,287.278,NA
+"we can see are some decreased appetite, feeling of 
+weakness, headaches, sometimes a metallic taste in  ",287.278,0.102,287.38,NA
+"the mouth and a rash. These last side effects I 
+don t see as much. Usually if somebody doesn t  ",287.38,0.095,287.475,NA
 "want to take the medication its because of the 
 stomach symptoms.  
- There are more some more   serious albeit rare reactions that you should be 
-aware of and watch for. The most concerning of   which is a condition called Lactic Acidosis. This 
-is when the pH or acid level drops in your blood   and can make you very sick and even be fatal. This 
-is very uncommon but can happen when your kidney   s are not functioning well. We watch for this in 
-those who have chronic kidney disease, in those  ",287.475,0.485,287.96000000000004,NA
+ There are more some more  ",287.475,0.093,287.56800000000004,NA
+"serious albeit rare reactions that you should be 
+aware of and watch for. The most concerning of  ",287.568,0.096,287.664,NA
+"which is a condition called Lactic Acidosis. This 
+is when the pH or acid level drops in your blood  ",287.664,0.099,287.763,NA
+"and can make you very sick and even be fatal. This 
+is very uncommon but can happen when your kidney  ",287.763,0.1,287.863,NA
+"s are not functioning well. We watch for this in 
+those who have chronic kidney disease, in those  ",287.863,0.097,287.96,NA
 "who are really sick and dehydrated as well as some 
-people undergoing certain medical procedures where   they are giving IV contrast. Your doctor should be 
-keeping an eye on your kidney function overtime so   its not something that we see much. I will also 
-recommend to my patients that if they are sick   and vomiting and not taking in fluids that they 
-avoid taking their metformin during these times.   It would be a good conversation to have with your 
-doctor to see how they would want you to handle  ",287.96,0.494,288.454,NA
+people undergoing certain medical procedures where  ",287.96,0.102,288.06199999999995,NA
+"they are giving IV contrast. Your doctor should be 
+keeping an eye on your kidney function overtime so  ",288.062,0.102,288.164,NA
+"its not something that we see much. I will also 
+recommend to my patients that if they are sick  ",288.164,0.095,288.259,NA
+"and vomiting and not taking in fluids that they 
+avoid taking their metformin during these times.  ",288.259,0.097,288.356,NA
+"It would be a good conversation to have with your 
+doctor to see how they would want you to handle  ",288.356,0.098,288.454,NA
 "it.  
 One other thing that you should keep an 
-eye on. More recently we ve seen that metformin   can possibly affect your Vitamin B12 absorption, 
-which if unrecognized might contribute to certain   anemias or something well call neuropathy-this 
-is where the nerves are damaged and can cause   some chronic pain issues. This can easily be 
+eye on. More recently we ve seen that metformin  ",288.454,0.094,288.548,NA
+"can possibly affect your Vitamin B12 absorption, 
+which if unrecognized might contribute to certain  ",288.548,0.099,288.647,NA
+"anemias or something well call neuropathy-this 
+is where the nerves are damaged and can cause  ",288.647,0.093,288.74,NA
+"some chronic pain issues. This can easily be 
 checked in your routine blood work. 
-Overall   this is a great medication to treat diabetes. In 
-fact we consider it the foundational medicine in  ",288.454,0.474,288.928,NA
+Overall  ",288.74,0.09,288.83,NA
+"this is a great medication to treat diabetes. In 
+fact we consider it the foundational medicine in  ",288.83,0.098,288.928,NA
 "the treatment of this condition because of how 
-it works and how it helps everything else you   do to treat diabetes work better. It s a great 
-medicine that just works and best of all it is   cheap. You can get a 30 day supply of the 500mg 
+it works and how it helps everything else you  ",288.928,0.093,289.021,NA
+"do to treat diabetes work better. It s a great 
+medicine that just works and best of all it is  ",289.021,0.094,289.115,NA
+"cheap. You can get a 30 day supply of the 500mg 
 extended release metformin for $4. 
-If diet and   lifestyle changes have not been enough to control 
-your diabetes or you suffer from conditions such   as PCOS and your doctor recommends that you take 
-metformin as part of your treatment regimen,  ",288.928,0.476,289.404,NA
+If diet and  ",289.115,0.096,289.211,NA
+"lifestyle changes have not been enough to control 
+your diabetes or you suffer from conditions such  ",289.211,0.099,289.31,NA
+"as PCOS and your doctor recommends that you take 
+metformin as part of your treatment regimen,  ",289.31,0.094,289.404,NA
 "hopefully you have a little more confidence 
-in using this as a part of your treatment   plan. This certainly isn t an all inclusive and 
-in-depth discussion of everything that could be   told about this medication. That s not what I 
-m trying to do here. My purpose in sharing this   information is to help give information that you 
-can think about and discuss with your own doctor.   Please don t take this as direct medical advice. 
-Take everything you learned today and discuss it  ",289.404,0.473,289.877,NA
+in using this as a part of your treatment  ",289.404,0.086,289.49,NA
+"plan. This certainly isn t an all inclusive and 
+in-depth discussion of everything that could be  ",289.49,0.096,289.586,NA
+"told about this medication. That s not what I 
+m trying to do here. My purpose in sharing this  ",289.586,0.094,289.68,NA
+"information is to help give information that you 
+can think about and discuss with your own doctor.  ",289.68,0.099,289.779,NA
+"Please don t take this as direct medical advice. 
+Take everything you learned today and discuss it  ",289.779,0.098,289.877,NA
 "with your doctor in how it applies to your own 
 situation. 
-If you ve found this information to   be helpful do me a favor, go ahead hit that like 
-button and share it with your friends and family.   And if your health is really important to you 
-consider subscribing and hit that notification   button so you don t miss out on any of our other 
-content. Now don t go anywhere, because if you   are looking at ways that you can make that start 
-in your diet and lifestyle changes to treat your  ",289.877,0.481,290.358,NA
+If you ve found this information to  ",289.877,0.095,289.97200000000004,NA
+"be helpful do me a favor, go ahead hit that like 
+button and share it with your friends and family.  ",289.972,0.099,290.07099999999997,NA
+"And if your health is really important to you 
+consider subscribing and hit that notification  ",290.071,0.093,290.16400000000004,NA
+"button so you don t miss out on any of our other 
+content. Now don t go anywhere, because if you  ",290.164,0.096,290.26,NA
+"are looking at ways that you can make that start 
+in your diet and lifestyle changes to treat your  ",290.26,0.098,290.358,NA
 "diabetes click here to watch simple steps you 
-can take to start your diet journey. And click   here to watch one of my other videos that you 
+can take to start your diet journey. And click  ",290.358,0.093,290.451,NA
+"here to watch one of my other videos that you 
 may like.
-So until next time, this is FamilyMed   with Dr. Richardson and remember to take care of 
-your body because it s the only one you have.",290.358,0.687,291.045,NA
+So until next time, this is FamilyMed  ",290.451,0.094,290.545,NA
+"with Dr. Richardson and remember to take care of 
+your body because it s the only one you have.",290.545,0.5,291.045,NA

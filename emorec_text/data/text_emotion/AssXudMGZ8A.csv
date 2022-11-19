@@ -1,48 +1,91 @@
 text,start,duration,end,dominant_emotion
-"Hey, what's up guys? Sean Nalewanyj, here of EliteImpactLabs.com,
-with the muscle in minutes Q&A, where I provide quick-to-the-point, no B.S. answers to your bodybuilding and fitness questions. Today's question is on the issue of the glycemic
-index and whether or not it is a useful tool",0.59,16.23,16.82,sad
+"Hey, what's up guys?",0.59,1.0,1.5899999999999999,sad
+"Sean Nalewanyj, here of EliteImpactLabs.com,
+with the muscle in minutes Q&A, where I provide",1.59,4.71,6.3,sad
+"quick-to-the-point, no B.S.",6.3,1.5,7.8,sad
+answers to your bodybuilding and fitness questions.,7.8,2.59,10.39,sad
+"Today's question is on the issue of the glycemic
+index and whether or not it is a useful tool",10.39,6.43,16.82,sad
 "when it comes to selecting carbohydrates for
-your muscle building or your fat burning diet. So, for those of you who don't know what the
-glycemic index is, it's basically a chart which ranks carbohydrates from 0 to 100 based
-on how quickly they raise blood glucose levels after they are consumed. And a lot of people will go with the idea
-that they need to consumer ""Low glycemic carbohydrates""",16.82,24.63,41.45,sad
+your muscle building or your fat burning diet.",16.82,4.469,21.289,fear
+"So, for those of you who don't know what the
+glycemic index is, it's basically a chart",21.289,5.24,26.529000000000003,sad
+"which ranks carbohydrates from 0 to 100 based
+on how quickly they raise blood glucose levels",26.529,6.341,32.87,sad
+after they are consumed.,32.87,1.29,34.16,angry
+"And a lot of people will go with the idea
+that they need to consumer ""Low glycemic carbohydrates""",34.16,7.29,41.449999999999996,sad
 "because these carbohydrates are going to -- going
-to be broken down in a more gradual pace, provide you with more steady energy that are
-less likely to be stored as body fat. The fundamental problem with the glycemic
-index is that the rankings that are assigned to each carbohydrate are based on the effects
-that those carbohydrates have when they are consumed alone in a fasted state.",41.45,22.569,64.019,sad
+to be broken down in a more gradual pace,",41.45,4.789,46.239000000000004,sad
+"provide you with more steady energy that are
+less likely to be stored as body fat.",46.239,4.481,50.72,angry
+"The fundamental problem with the glycemic
+index is that the rankings that are assigned",50.72,4.859,55.579,sad
+"to each carbohydrate are based on the effects
+that those carbohydrates have when they are",55.579,5.441,61.02,sad
+consumed alone in a fasted state.,61.02,2.999,64.019,angry
 "Now, you almost never consume your carbohydrates
-alone in a fasted state. You almost always combine them with proteins
-and fats. And when you do combine them with proteins
-or fats, for example, you take a white potato, which does have a fairly high glycemic index
-ranking, and you combine it with a stake and, you know, some -- some vegetables, the entire
-glycemic response to that meal is going to",64.019,23.87,87.88900000000001,sad
-"be lowered significantly. So, there's no real way for you to even know
-what the specific blood glucose response will be for specific carbohydrates as part of a
-complete meal, just by looking at the glycemic index alone. Choosing carbohydrates for your bodybuilding
-diet is actually extremely straightforward.",87.889,19.491,107.38,sad
+alone in a fasted state.",64.019,4.49,68.509,angry
+"You almost always combine them with proteins
+and fats.",68.509,3.161,71.67,sad
+"And when you do combine them with proteins
+or fats, for example, you take a white potato,",71.67,4.82,76.49000000000001,angry
+"which does have a fairly high glycemic index
+ranking, and you combine it with a stake and,",76.49,6.129,82.619,sad
+"you know, some -- some vegetables, the entire
+glycemic response to that meal is going to",82.619,5.27,87.889,sad
+be lowered significantly.,87.889,1.171,89.06,sad
+"So, there's no real way for you to even know
+what the specific blood glucose response will",89.06,6.689,95.749,sad
+"be for specific carbohydrates as part of a
+complete meal, just by looking at the glycemic",95.749,4.68,100.429,angry
+index alone.,100.429,1.701,102.13,sad
+"Choosing carbohydrates for your bodybuilding
+diet is actually extremely straightforward.",102.13,5.25,107.38,sad
 "All I would really recommend that you focus
-on is on getting the bulk of your carbohydrates from higher fiber minimally refined sources. So, somewhere around 70%, 80%, 90% of your
-diet should be coming from those types of carbohydrates. So, we're talking about things like oatmeal,
-you know, sweet potatoes, whole grains, fruits,",107.38,20.539,127.919,sad
-"vegetables, these types of carbohydrates. They're going to be higher in fiber, more
-micronutrient dense. And as long as you're getting the bulk of
-your diet from those types of carbs, there's really no need to analyze it any further. Worrying about specific glycemic index rankings,
-so low glycemic or high glycemic or the specific",127.919,17.46,145.379,sad
+on is on getting the bulk of your carbohydrates",107.38,5.199,112.579,sad
+from higher fiber minimally refined sources.,112.579,3.481,116.05999999999999,sad
+"So, somewhere around 70%, 80%, 90% of your
+diet should be coming from those types of",116.06,5.679,121.739,sad
+carbohydrates.,121.739,1.0,122.739,sad
+"So, we're talking about things like oatmeal,
+you know, sweet potatoes, whole grains, fruits,",122.739,5.18,127.91900000000001,sad
+"vegetables, these types of carbohydrates.",127.919,1.771,129.69,sad
+"They're going to be higher in fiber, more
+micronutrient dense.",129.69,3.241,132.931,sad
+"And as long as you're getting the bulk of
+your diet from those types of carbs, there's",132.931,5.689,138.62,sad
+really no need to analyze it any further.,138.62,2.11,140.73000000000002,sad
+"Worrying about specific glycemic index rankings,
+so low glycemic or high glycemic or the specific",140.73,4.649,145.379,angry
 "absorption rate of your carbohydrates, it's
-really just a total non-issue. So, glycemic index is essentially a useless
-tool when it comes to selecting carbohydrates for your diet. Just focus on getting the bulk of those carbs
-from high fiber minimally refined sources. If you're doing that, you can also get a smaller
-amount from so called, ""Cheap foods"" as long",145.379,20.541000000000004,165.92,sad
+really just a total non-issue.",145.379,3.33,148.709,sad
+"So, glycemic index is essentially a useless
+tool when it comes to selecting carbohydrates",148.709,7.921,156.63,sad
+for your diet.,156.63,1.0,157.63,sad
+"Just focus on getting the bulk of those carbs
+from high fiber minimally refined sources.",157.63,3.47,161.1,sad
+"If you're doing that, you can also get a smaller
+amount from so called, ""Cheap foods"" as long",161.1,4.82,165.92,sad
 "as you're tracking it as part of your overall
-macronutrient intake, but that's really all you need to worry about. So, I hope you found the information in this
-video lesson useful today. If you did enjoy the video, as always, please
-make sure to hit the like button, leave a comment and subscribe to stay up to date on
-future videos.",165.92,14.45,180.36999999999998,sad
+macronutrient intake, but that's really all",165.92,3.67,169.58999999999997,sad
+you need to worry about.,169.59,1.0,170.59,angry
+"So, I hope you found the information in this
+video lesson useful today.",170.59,3.6,174.19,sad
+"If you did enjoy the video, as always, please
+make sure to hit the like button, leave a",174.19,2.919,177.109,sad
+"comment and subscribe to stay up to date on
+future videos.",177.109,3.261,180.37,sad
 "Also make sure to grab your free 28-day mass
-building plan using the link in the description box below. That includes a free workout plan, meal plan
-and supplement guide, which you can get over on EliteImpactLabs.com. And make sure to join the Elite Impact Labs
-Facebook page for daily articles, videos,",180.37,14.39,194.76,sad
-"tips and bodybuilding supplement giveaways. Thanks again, for watching this video. I appreciate all the support. And I'll talk to you again soon with more
-free tips.",194.76,6.390000000000001,201.14999999999998,sad
+building plan using the link in the description",180.37,3.679,184.049,sad
+box below.,184.049,1.0,185.049,sad
+"That includes a free workout plan, meal plan
+and supplement guide, which you can get over",185.049,3.78,188.829,sad
+on EliteImpactLabs.com.,188.829,1.92,190.749,sad
+"And make sure to join the Elite Impact Labs
+Facebook page for daily articles, videos,",190.749,4.011,194.76,sad
+tips and bodybuilding supplement giveaways.,194.76,1.91,196.67,angry
+"Thanks again, for watching this video.",196.67,1.269,197.939,sad
+I appreciate all the support.,197.939,1.811,199.75,sad
+"And I'll talk to you again soon with more
+free tips.",199.75,1.4,201.15,sad

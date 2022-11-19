@@ -1,18 +1,84 @@
 text,start,duration,end,dominant_emotion
-pre and post meal blood glucose testing is a way of being able to judge the effect of meals on your blood sugar levels the benefits of pre and post meal blood,0.56,19.759999999999998,20.319999999999997,angry
-glucose testing include helping you to see how certain foods affect your blood sugar levels showing you how long certain foods take to affect your blood sugar levels and if,10.719,20.48,31.198999999999998,NA
-you're on insulin helping you to judge your insulin doses pre and post meal testing involves performing a blood glucose test before starting a meal,21.359,24.081,45.44,NA
-performing another test two hours after starting the meal performing a third test four hours after eating in most cases you should find that blood,33.2,18.079,51.279,NA
-glucose results are higher after two hours than they were before eating the meal you should be looking to see how much your blood glucose rises after eating,42.16,18.000999999999998,60.160999999999994,NA
-take the following examples example one you test before meal a and get a 5.0 millimoles per liter reading you test two hours after the meal and,50.8,26.400000000000002,77.2,NA
-get a 9.0 millimoles per liter reading so meal a has caused a rise of four millimoles per liter example 2 you test before meal b and get a 7.0,63.76,27.517999999999997,91.27799999999999,NA
-millimoles per liter reading you test 2 hours after the meal and get a 10.0 millimoles per liter reading so we see that meal b raises blood sugar by three millimoles per liter,78.159,25.522,103.68100000000001,NA
-if we had just done a post meal reading we might have thought that meal a was the better option but because meal b has raised our blood sugar levels by a lower amount meal b does seem to be the better,93.2,20.317999999999998,113.518,NA
-option for us your 4-hour reading should ideally show that your blood glucose levels have returned to the target range for pre-meal readings which is between four,103.439,20.241,123.67999999999999,NA
-and seven millimoles per liter for most adults with diabetes these meals are just examples if you perform before and after meal readings you can see how your own blood,113.36,19.121,132.481,NA
-glucose levels are affected by different meals when reviewing your blood glucose results it helps to know what your target results are,122.96,19.52,142.48,NA
-the target levels recommended by nice vary slightly depending on your diabetes type for people with type 2 diabetes you should aim for a level of between 4 and,132.16,21.36,153.51999999999998,NA
-7 millimoles per liter before meals and under 8.5 millimoles per liter after meals people with type 1 diabetes should aim for a level of between 4 and 7,143.12,19.6,162.72,NA
-millimoles per liter before meals and under 9 millimoles per liter after meals children with type 1 diabetes should aim for a level of between 4 and 8 millimoles per liter before meals and,153.04,23.199000000000005,176.239,NA
-under 10 millimoles per liter after meals note that target ranges may vary from individual people with higher susceptibility to,164.879,19.121000000000002,184.0,NA
-hypos for example maybe advise different target levels to the above guidelines you,176.0,13.360999999999999,189.361,NA
+pre and post meal blood glucose testing,0.56,4.48,5.040000000000001,neutral
+is a way of being able to judge the,3.439,3.36,6.7989999999999995,neutral
+effect of meals on your blood sugar,5.04,3.28,8.32,neutral
+levels,6.799,3.92,10.719000000000001,fear
+the benefits of pre and post meal blood,8.32,4.72,13.04,neutral
+glucose testing include,10.719,4.08,14.799,neutral
+helping you to see how certain foods,13.04,4.159,17.198999999999998,neutral
+affect your blood sugar levels,14.799,4.32,19.119,neutral
+showing you how long certain foods take,17.199,4.16,21.359,surprise
+to affect your blood sugar levels and if,19.119,3.761,22.88,happy
+you're on insulin,21.359,4.881,26.240000000000002,NA
+helping you to judge your insulin doses,22.88,6.799,29.679,NA
+pre and post meal testing involves,26.24,5.52,31.759999999999998,NA
+performing a blood glucose test before,29.679,3.521,33.199999999999996,neutral
+starting a meal,31.76,3.36,35.120000000000005,neutral
+performing another test two hours after,33.2,3.44,36.64,neutral
+starting the meal,35.12,3.599,38.718999999999994,neutral
+performing a third test four hours after,36.64,3.599,40.239000000000004,neutral
+eating,38.719,3.441,42.160000000000004,neutral
+in most cases you should find that blood,40.239,4.0,44.239,neutral
+glucose results are higher after two,42.16,3.68,45.839999999999996,neutral
+hours than they were before eating the,44.239,3.681,47.919999999999995,NA
+meal you should be looking to see how,45.84,4.0,49.84,NA
+much your blood glucose rises after,47.92,2.88,50.800000000000004,NA
+eating,49.84,3.76,53.6,NA
+take the following examples,50.8,5.52,56.31999999999999,NA
+example one,53.6,5.84,59.44,NA
+you test before meal a and get a 5.0,56.32,5.44,61.76,NA
+millimoles per liter reading,59.44,4.32,63.76,NA
+you test two hours after the meal and,61.76,5.28,67.03999999999999,NA
+get a 9.0 millimoles per liter reading,63.76,5.6,69.36,NA
+so meal a has caused a rise of four,67.04,5.84,72.88000000000001,NA
+millimoles per liter,69.36,5.759,75.119,NA
+example 2,72.88,5.279,78.15899999999999,neutral
+you test before meal b and get a 7.0,75.119,5.04,80.159,neutral
+millimoles per liter reading,78.159,4.401,82.56,neutral
+you test 2 hours after the meal and get,80.159,5.6,85.759,neutral
+a 10.0 millimoles per liter reading,82.56,5.68,88.24000000000001,neutral
+so we see that meal b raises blood sugar,85.759,6.161,91.92,surprise
+by three millimoles per liter,88.24,3.68,91.92,surprise
+if we had just done a post meal reading,93.2,3.36,96.56,surprise
+we might have thought that meal a was,95.04,4.399,99.43900000000001,surprise
+the better option but because meal b has,96.56,4.72,101.28,NA
+raised our blood sugar levels by a lower,99.439,4.0,103.439,NA
+amount meal b does seem to be the better,101.28,3.839,105.119,NA
+option for us,103.439,3.921,107.36,NA
+your 4-hour reading should ideally show,105.119,4.081,109.2,NA
+that your blood glucose levels have,107.36,3.6,110.96,NA
+returned to the target range for,109.2,4.16,113.36,NA
+pre-meal readings which is between four,110.96,4.479,115.439,NA
+and seven millimoles per liter for most,113.36,3.84,117.2,NA
+adults with diabetes,115.439,3.841,119.27999999999999,NA
+these meals are just examples,117.2,3.919,121.119,NA
+if you perform before and after meal,119.28,3.68,122.96000000000001,NA
+readings you can see how your own blood,121.119,3.841,124.96,NA
+glucose levels are affected by different,122.96,4.0,126.96,NA
+meals,124.96,3.68,128.64,NA
+when reviewing your blood glucose,126.96,3.439,130.399,NA
+results it helps to know what your,128.64,3.52,132.16,NA
+target results are,130.399,4.881,135.28,NA
+the target levels recommended by nice,132.16,5.28,137.44,NA
+vary slightly depending on your diabetes,135.28,3.679,138.959,NA
+type,137.44,3.76,141.2,NA
+for people with type 2 diabetes you,138.959,4.161,143.12,NA
+should aim for a level of between 4 and,141.2,4.48,145.67999999999998,NA
+7 millimoles per liter before meals and,143.12,4.96,148.08,NA
+under 8.5 millimoles per liter after,145.68,3.6,149.28,NA
+meals,148.08,3.12,151.20000000000002,NA
+people with type 1 diabetes should aim,149.28,3.76,153.04,NA
+for a level of between 4 and 7,151.2,4.16,155.35999999999999,NA
+millimoles per liter before meals and,153.04,5.919,158.959,NA
+under 9 millimoles per liter after meals,155.36,5.599,160.959,NA
+children with type 1 diabetes should aim,158.959,3.521,162.48,NA
+for a level of between 4 and 8,160.959,3.92,164.879,NA
+millimoles per liter before meals and,162.48,4.24,166.72,NA
+under 10 millimoles per liter after,164.879,3.36,168.239,NA
+meals,166.72,3.68,170.4,NA
+note that target ranges may vary from,168.239,4.801,173.04,NA
+individual,170.4,2.64,173.04,NA
+people with higher susceptibility to,174.239,4.64,178.879,NA
+hypos for example maybe advise different,176.0,7.08,183.08,NA
+target levels to the above guidelines,178.879,4.201,183.07999999999998,NA
+you,186.239,2.08,188.31900000000002,NA

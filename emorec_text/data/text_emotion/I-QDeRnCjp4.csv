@@ -1,8 +1,36 @@
 text,start,duration,end,dominant_emotion
-diabetes may be present before pregnancy or may develop during pregnancy itself if you develop diabetes during pregnancy it will most likely be a specific type of diabetes known as gestational,1.01,25.659,26.669,angry
-diabetes blood sugar levels are important for all mothers to being with diabetes as well controlled blood glucose levels can significantly improve the likelihood of having a healthy baby,13.2,24.439999999999998,37.64,angry
-the NHS states that the target hba1c for mothers before and during pregnancy is forty-three millimoles per mole if you have diabetes before your pregnancy the NHS advises achieving the target hba1c,25.279,31.321,56.6,angry
-before conceiving the target hba1c may require dedication to reach but it's important that you strive to achieve it you may find that regular blood glucose monitoring including before each meal,40.73,25.089000000000002,65.819,angry
-and one hour after may help you to achieve good blood glucose levels if blood glucose levels are higher than recommended you may need to change your medication regime in order to help lower,54.449,23.581000000000003,78.03,angry
-your blood glucose levels your health team should be able to provide you with advice on managing blood glucose levels throughout your pregnancy sometimes the emphasis on achieving,66.0,19.971,85.971,happy
-tight blood glucose control may result in hypoglycemia particularly amongst those using insulin your health team should be able to ensure that you know how to spot and treat hypoglycemia,77.4,23.408,100.808,NA
+diabetes may be present before pregnancy,1.01,5.2,6.21,fear
+or may develop during pregnancy itself,3.57,5.16,8.73,fear
+if you develop diabetes during pregnancy,6.21,5.13,11.34,fear
+it will most likely be a specific type,8.73,4.47,13.2,fear
+of diabetes known as gestational,11.34,5.699,17.039,happy
+diabetes blood sugar levels are,13.2,5.55,18.75,happy
+important for all mothers to being with,17.039,4.141,21.18,happy
+diabetes as well controlled blood,18.75,4.68,23.43,happy
+glucose levels can significantly improve,21.18,4.099,25.279,happy
+the likelihood of having a healthy baby,23.43,5.97,29.4,happy
+the NHS states that the target hba1c for,25.279,6.851,32.13,happy
+mothers before and during pregnancy is,29.4,6.089,35.489,happy
+forty-three millimoles per mole if you,32.13,5.76,37.89,happy
+have diabetes before your pregnancy the,35.489,5.241,40.73,happy
+NHS advises achieving the target hba1c,37.89,7.38,45.27,happy
+before conceiving the target hba1c may,40.73,6.669,47.398999999999994,happy
+require dedication to reach but it's,45.27,3.9,49.17,happy
+important that you strive to achieve it,47.399,4.621,52.02,fear
+you may find that regular blood glucose,49.17,5.279,54.449,fear
+monitoring including before each meal,52.02,4.62,56.64,fear
+and one hour after may help you to,54.449,5.371,59.82,happy
+achieve good blood glucose levels if,56.64,5.219,61.859,happy
+blood glucose levels are higher than,59.82,4.14,63.96,happy
+recommended you may need to change your,61.859,4.141,66.0,happy
+medication regime in order to help lower,63.96,4.71,68.67,happy
+your blood glucose levels your health,66.0,4.229,70.229,happy
+team should be able to provide you with,68.67,3.72,72.39,neutral
+advice on managing blood glucose levels,70.229,4.881,75.11,neutral
+throughout your pregnancy,72.39,2.72,75.11,NA
+sometimes the emphasis on achieving,75.229,4.421,79.65,NA
+tight blood glucose control may result,77.4,4.59,81.99000000000001,NA
+in hypoglycemia particularly amongst,79.65,4.59,84.24000000000001,NA
+those using insulin your health team,81.99,3.66,85.64999999999999,NA
+should be able to ensure that you know,84.24,5.989,90.229,NA
+how to spot and treat hypoglycemia,85.65,4.579,90.229,NA

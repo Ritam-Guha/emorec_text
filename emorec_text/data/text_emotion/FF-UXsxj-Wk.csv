@@ -1,85 +1,161 @@
 text,start,duration,end,dominant_emotion
 "Thanks to Brilliant for supporting this episode
-of SciShow. Go to Brilliant.org/SciShow to learn more. [♪ INTRO] Diabetes is a big problem worldwide. The International Diabetes Federation estimates
-there are around 450 million diabetics around",0.099,17.181,17.28,NA
+of SciShow.",0.099,2.761,2.8600000000000003,NA
+Go to Brilliant.org/SciShow to learn more.,2.86,2.66,5.52,NA
+[♪ INTRO],5.52,3.48,9.0,NA
+Diabetes is a big problem worldwide.,9.0,2.5,11.5,neutral
+"The International Diabetes Federation estimates
+there are around 450 million diabetics around",11.51,5.78,17.29,neutral
 "the world, and even more folks who could become
-diabetic. So scientists have been looking for a quick
-and convenient way of measuring blood glucose, or how much sugar is floating around in your
-blood. We already have reliable tests for finding
-that number, but they make the user stab themselves and draw a little blood each time.",17.29,15.289,32.579,NA
+diabetic.",17.29,2.82,20.11,neutral
+"So scientists have been looking for a quick
+and convenient way of measuring blood glucose,",20.11,3.679,23.788999999999998,neutral
+"or how much sugar is floating around in your
+blood.",23.789,2.461,26.25,neutral
+"We already have reliable tests for finding
+that number, but they make the user stab themselves",26.25,4.529,30.779,neutral
+and draw a little blood each time.,30.779,1.8,32.579,NA
 "So developers are looking at a way of measuring
-blood glucose without using blood at all. We have non-invasive wearable sensors for
-everything from your heart rate to how many steps you take, so -- where’s my bloodless
-blood sugar monitor? Modern blood glucose monitors were developed
-in the late 1960s, and they use some pretty ingenious chemistry.",32.579,17.46,50.039,NA
+blood glucose without using blood at all.",32.579,4.311,36.89,neutral
+"We have non-invasive wearable sensors for
+everything from your heart rate to how many",36.89,3.829,40.719,NA
+"steps you take, so -- where’s my bloodless
+blood sugar monitor?",40.719,3.73,44.449,neutral
+"Modern blood glucose monitors were developed
+in the late 1960s, and they use some pretty",44.449,4.301,48.75,neutral
+ingenious chemistry.,48.75,1.289,50.039,neutral
 "Up until this point, clinicians had used urine
-to measure blood sugar. But that reading wasn’t reliable -- it could
-be thrown off by things as simple as how much you’d had to drink lately. So they had to go to the source and use blood. One of the earliest strategies used a chemical
-reaction to identify the presence of glucose.",50.039,14.991,65.03,NA
+to measure blood sugar.",50.039,3.75,53.789,neutral
+"But that reading wasn’t reliable -- it could
+be thrown off by things as simple as how much",53.789,3.68,57.469,neutral
+you’d had to drink lately.,57.469,1.09,58.559000000000005,neutral
+So they had to go to the source and use blood.,58.559,2.57,61.129,neutral
+"One of the earliest strategies used a chemical
+reaction to identify the presence of glucose.",61.129,3.901,65.03,neutral
 "The more of this reaction they could detect
-taking place, the more glucose was present in the sample to start with. Those early glucose monitors placed a drop
-of blood on a thin membrane that held an enzyme called glucose oxidase, with an electrode
-underneath. That enzyme allowed glucose in the blood to
-react with oxygen, producing gluconic acid",65.03,17.02,82.05,NA
-"and hydrogen peroxide. The electrode measured changes in oxygen and
-hydrogen peroxide, which were proportional to the amount of glucose in the sample. Other strategies might measure something like
-electrons produced by the reaction, or a change in how the test strip reflects light, but
-they usually center around glucose oxidase.",82.05,15.61,97.66,NA
+taking place, the more glucose was present",65.03,4.17,69.2,NA
+in the sample to start with.,69.2,1.34,70.54,NA
+"Those early glucose monitors placed a drop
+of blood on a thin membrane that held an enzyme",70.54,4.39,74.93,neutral
+"called glucose oxidase, with an electrode
+underneath.",74.93,3.079,78.009,neutral
+"That enzyme allowed glucose in the blood to
+react with oxygen, producing gluconic acid",78.009,4.041,82.05,neutral
+and hydrogen peroxide.,82.05,1.499,83.54899999999999,neutral
+"The electrode measured changes in oxygen and
+hydrogen peroxide, which were proportional",83.549,4.151,87.7,neutral
+to the amount of glucose in the sample.,87.7,1.8,89.5,neutral
+"Other strategies might measure something like
+electrons produced by the reaction, or a change",89.5,3.79,93.29,NA
+"in how the test strip reflects light, but
+they usually center around glucose oxidase.",93.29,4.37,97.66000000000001,neutral
 "There have been plenty of changes over the
-years, like shrinking the electrodes to fit on those little paper test strips. This design only offers a few data points
-throughout the day -- as many data points as you take finger sticks. And, yeah, you have to prick your finger.",97.66,12.799999999999999,110.46,NA
+years, like shrinking the electrodes to fit",97.66,3.62,101.28,neutral
+on those little paper test strips.,101.28,1.839,103.119,neutral
+"This design only offers a few data points
+throughout the day -- as many data points",103.119,4.011,107.13,NA
+as you take finger sticks.,107.13,1.33,108.46,NA
+"And, yeah, you have to prick your finger.",108.46,2.0,110.46,NA
 "Implantable continuous glucose monitors are
-out there as an alternative for some people. But they still have to be validated with finger
-sticks, and they have other drawbacks as well. So for years, scientists have been trying
-to find a reliable way to measure blood glucose without any blood at all. And they have a couple of potential leads.",110.46,15.68,126.13999999999999,NA
-"One of the most logical would be to test saliva. It’s very convenient to collect, and it
-contains a measurable amount of glucose. Research published in 2015 compared salivary
-glucose samples to blood samples taken from a traditional finger prick monitor. The scientists found that glucose concentrations
-in saliva corresponded with those in blood,",126.14,17.47,143.61,NA
-"both before and after eating. You might think that you would find sugar
-in spit simply because people have just eaten food that happens to have sugar in it. But multiple studies have shown that the concentration
-of glucose in saliva reflects its concentration in blood, not just whether you’ve had a
-snack lately.",143.61,13.860000000000001,157.47000000000003,NA
+out there as an alternative for some people.",110.46,4.659,115.119,NA
+"But they still have to be validated with finger
+sticks, and they have other drawbacks as well.",115.119,4.04,119.159,neutral
+"So for years, scientists have been trying
+to find a reliable way to measure blood glucose",119.159,3.89,123.049,neutral
+without any blood at all.,123.049,1.651,124.7,neutral
+And they have a couple of potential leads.,124.7,1.44,126.14,neutral
+One of the most logical would be to test saliva.,126.14,2.42,128.56,neutral
+"It’s very convenient to collect, and it
+contains a measurable amount of glucose.",128.56,4.19,132.75,neutral
+"Research published in 2015 compared salivary
+glucose samples to blood samples taken from",132.75,4.39,137.14,neutral
+a traditional finger prick monitor.,137.14,1.78,138.92,neutral
+"The scientists found that glucose concentrations
+in saliva corresponded with those in blood,",138.92,4.69,143.60999999999999,neutral
+both before and after eating.,143.61,1.67,145.28,NA
+"You might think that you would find sugar
+in spit simply because people have just eaten",145.28,3.08,148.36,NA
+food that happens to have sugar in it.,148.36,1.69,150.05,NA
+"But multiple studies have shown that the concentration
+of glucose in saliva reflects its concentration",150.05,4.7,154.75,neutral
+"in blood, not just whether you’ve had a
+snack lately.",154.75,2.72,157.47,neutral
 "Other researchers have set out to take advantage
-of this relationship by designing a sensor that could be worn as a mouth guard, and send
-a wireless signal of the wearer’s glucose levels. But not every design we’ve come up with
-has the same glucose-rich source to pull from. Scientists are working on a glucose sensing
-contact lens that samples sugar from your tears, which actually have some glucose in
-them -- though slightly less than spit.",157.47,20.889999999999997,178.35999999999999,sad
+of this relationship by designing a sensor",157.47,3.83,161.3,neutral
+"that could be worn as a mouth guard, and send
+a wireless signal of the wearer’s glucose levels.",161.3,4.12,165.42000000000002,neutral
+"But not every design we’ve come up with
+has the same glucose-rich source to pull from.",165.42,4.66,170.07999999999998,angry
+"Scientists are working on a glucose sensing
+contact lens that samples sugar from your",170.09,4.38,174.47,neutral
+"tears, which actually have some glucose in
+them -- though slightly less than spit.",174.47,3.9,178.37,neutral
 "In preliminary trials done on rabbits, this
-style of monitor was shown to pick up on changes in glucose after the subject ate some sugar. Blood sugar goes up after eating a meal, and
-any glucose monitor needs to be sensitive to those kinds of changes. This is an active area of research, with several
-contact lenses in development.",178.37,16.35,194.72,NA
+style of monitor was shown to pick up on changes",178.37,4.53,182.9,neutral
+in glucose after the subject ate some sugar.,182.9,2.33,185.23000000000002,neutral
+"Blood sugar goes up after eating a meal, and
+any glucose monitor needs to be sensitive",185.23,4.14,189.36999999999998,NA
+to those kinds of changes.,189.37,1.41,190.78,NA
+"This is an active area of research, with several
+contact lenses in development.",190.78,3.94,194.72,NA
 "Some use glucose oxidase, while some use other
-sensing methods So you might want to keep your eye out for
-those! Now, sweat is another good candidate, and
-quite a few sweat-based monitors have been attempted, including a pair of eyeglasses. Like tears and spit, sweat has less glucose
-in it than blood.",194.72,14.96,209.68,NA
+sensing methods",194.72,3.01,197.73,NA
+"So you might want to keep your eye out for
+those!",197.73,2.25,199.98,NA
+"Now, sweat is another good candidate, and
+quite a few sweat-based monitors have been",199.98,3.88,203.85999999999999,neutral
+"attempted, including a pair of eyeglasses.",203.86,1.99,205.85000000000002,neutral
+"Like tears and spit, sweat has less glucose
+in it than blood.",205.85,3.83,209.68,neutral
 "Plus it’s easily contaminated by all the
-gunk and grime that touches your skin all day. But so far when tested under ideal conditions,
-the concentration of glucose in sweat correlates reliably with that of blood. So these devices could eventually see more
-widespread use as well. The final lead is a patch that measures glucose
-in the fluid between your skin cells, or interstitial fluid.",209.68,19.41,229.09,NA
+gunk and grime that touches your skin all day.",209.68,3.82,213.5,neutral
+"But so far when tested under ideal conditions,
+the concentration of glucose in sweat correlates",213.56,4.74,218.3,neutral
+reliably with that of blood.,218.31,1.6,219.91,NA
+"So these devices could eventually see more
+widespread use as well.",219.91,3.26,223.17,NA
+"The final lead is a patch that measures glucose
+in the fluid between your skin cells, or interstitial fluid.",223.17,5.99,229.16,NA
 "Your skin cells need nutrients, including
-glucose, which diffuses from blood into interstitial fluid. And researchers can use electricity to help
-draw out those sugar molecules and measure them. Skin has a slight negative charge, which the
-device can use to pull positively charged sodium ions towards the skin’s surface. Some of the larger glucose molecules them
-get carried along for the ride to where a",229.16,20.961000000000002,250.121,NA
-"glucose oxidase sensor is waiting. It’s similar to those traditional enzyme
-reaction strips, it just takes a little more effort to grab some glucose to sample. Every device researchers have come up has
-its share of drawbacks. But this is still a young field, and they
-are making progress, so noninvasive blood",250.171,14.799,264.96999999999997,NA
+glucose, which diffuses from blood into interstitial fluid.",229.16,5.88,235.04,NA
+"And researchers can use electricity to help
+draw out those sugar molecules and measure them.",235.08,4.08,239.16000000000003,neutral
+"Skin has a slight negative charge, which the
+device can use to pull positively charged",239.16,4.44,243.6,neutral
+sodium ions towards the skin’s surface.,243.61,2.84,246.45000000000002,NA
+"Some of the larger glucose molecules them
+get carried along for the ride to where a",246.45,3.721,250.171,NA
+glucose oxidase sensor is waiting.,250.171,1.459,251.63,NA
+"It’s similar to those traditional enzyme
+reaction strips, it just takes a little more",251.63,3.69,255.32,NA
+effort to grab some glucose to sample.,255.32,1.99,257.31,NA
+"Every device researchers have come up has
+its share of drawbacks.",257.31,3.38,260.69,NA
+"But this is still a young field, and they
+are making progress, so noninvasive blood",260.69,4.28,264.96999999999997,NA
 "sugar monitors might be here sooner than you
-think. And while you’re waiting for them to arrive,
-maybe you’d like to learn more about how people design and program these kinds of gizmos. Brilliant offers interactive courses in science,
-math, engineering, and computer science. These courses can help you refine your math
-and science skills while learning something new.",264.97,16.970000000000002,281.94000000000005,NA
+think.",264.97,2.56,267.53000000000003,NA
+"And while you’re waiting for them to arrive,
+maybe you’d like to learn more about how",267.53,3.26,270.78999999999996,NA
+people design and program these kinds of gizmos.,270.79,3.3,274.09000000000003,NA
+"Brilliant offers interactive courses in science,
+math, engineering, and computer science.",274.09,3.97,278.06,NA
+"These courses can help you refine your math
+and science skills while learning something new.",278.06,3.88,281.94,NA
 "The computer science courses cover everything
-from Python to machine learning. The course on Python will introduce you to
-a programming language used by everyone from scientists and engineers to video game developers. There’s even a chapter on using it to draw. And their courses are now available offline
-using their iOS app.",281.94,16.16,298.1,NA
+from Python to machine learning.",281.94,3.84,285.78,NA
+"The course on Python will introduce you to
+a programming language used by everyone from",285.78,3.96,289.73999999999995,NA
+scientists and engineers to video game developers.,289.74,2.83,292.57,NA
+There’s even a chapter on using it to draw.,292.57,1.87,294.44,NA
+"And their courses are now available offline
+using their iOS app.",294.44,3.66,298.1,NA
 "So if you’re traveling or have a spotty
-internet connection, you’ll be able to keep learning. You can check out this course, or any of their
-tons of in-depth options, at Brilliant.org/SciShow. The first 200 people to sign up using that
-url will get 20% off the annual Premium subscription. So check it out and see if there’s any courses
-that you like! [♪OUTRO]",298.1,27.14,325.24,NA
+internet connection, you’ll be able to keep learning.",298.1,3.46,301.56,NA
+"You can check out this course, or any of their
+tons of in-depth options, at Brilliant.org/SciShow.",301.56,5.32,306.88,NA
+"The first 200 people to sign up using that
+url will get 20% off the annual Premium subscription.",306.88,5.46,312.34,NA
+"So check it out and see if there’s any courses
+that you like!",312.34,2.66,315.0,NA
+[♪OUTRO],315.0,10.24,325.24,NA

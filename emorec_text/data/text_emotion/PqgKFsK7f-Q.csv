@@ -1,8 +1,33 @@
 text,start,duration,end,dominant_emotion
-to do an injection you will need an insulin pen enough insulin for the dose a new pen needle cotton wool or a tissue,0.399,27.601000000000003,28.000000000000004,angry
-to prepare your pen attach a new needle onto it perform an air shot to clear any air out of the needle you should see a steady unbroken stream,14.08,25.201,39.281,angry
-find a soft fatty area to inject into the best areas include the thighs the belly the bum and the upper arm the upper arm may not be recommended for,29.359,24.559,53.918000000000006,sad
-people who only have a small amount of fat dial the dose needed here i'm going to put in five units of insulin,42.239,20.802,63.041,NA
-take fold or flesh try to find a region that isn't tough or lumpy put the needle in push the plunger slowly,52.64,22.077,74.717,sad
-hold the needle in for about 10 seconds to prevent any insulin from escaping if any blood and or insulin escapes wipe the skin with a cotton wool or tissue,68.4,28.241,96.641,sad
-when you're done remove the needle and put it into a sharps disposal bin,85.439,13.201,98.63999999999999,NA
+to do an injection you will need,0.399,5.121,5.5200000000000005,sad
+an insulin pen,3.199,5.281,8.48,NA
+enough insulin for the dose,5.52,5.6,11.12,NA
+a new pen needle,8.48,5.6,14.08,NA
+cotton wool or a tissue,11.12,5.999,17.119,NA
+to prepare your pen attach a new needle,14.08,4.4,18.48,NA
+onto it,17.119,4.16,21.279,NA
+perform an air shot to clear any air out,18.48,5.6,24.08,NA
+of the needle,21.279,2.801,24.08,NA
+you should see a steady unbroken stream,24.64,8.24,32.88,fear
+find a soft fatty area to inject into,29.359,6.561,35.92,fear
+the best areas include the thighs,32.88,4.4,37.28,NA
+the belly,35.92,4.159,40.079,NA
+the bum and the upper arm,37.28,4.959,42.239000000000004,NA
+the upper arm may not be recommended for,40.079,4.48,44.559,NA
+people who only have a small amount of,42.239,3.921,46.16,NA
+fat,44.559,3.68,48.239,NA
+dial the dose needed,46.16,4.559,50.718999999999994,NA
+here i'm going to put in five units of,48.239,4.401,52.64,NA
+insulin,50.719,4.241,54.96,NA
+take fold or flesh,52.64,5.12,57.76,NA
+try to find a region that isn't tough or,54.96,5.04,60.0,NA
+lumpy,57.76,5.279,63.039,NA
+put the needle in,60.0,3.039,63.039,NA
+push the plunger slowly,63.92,3.599,67.519,NA
+hold the needle in for about 10 seconds,68.4,8.24,76.64,fear
+to prevent any insulin from escaping,71.84,4.8,76.64,fear
+if any blood and or insulin escapes,77.439,5.68,83.119,NA
+wipe the skin with a cotton wool or,80.799,4.64,85.43900000000001,NA
+tissue,83.119,4.881,88.0,NA
+when you're done remove the needle and,85.439,7.881,93.32,NA
+put it into a sharps disposal bin,88.0,5.32,93.32,NA

@@ -1,25 +1,118 @@
 text,start,duration,end,dominant_emotion
-we're often asked how does a our glucose sensor measure the glucose concentrations and someone with diabetes and what I want to do is talk a little bit about how that happens so the the,20.16,19.689999999999998,39.849999999999994,sad
-sensor itself is a small flexible probe that's placed just underneath the skin of a person with diabetes and it's in the interstitial space so there's fluid that surrounds the sensor and in that,30.16,22.97,53.129999999999995,sad
-fluid is the person's glucose concentration and so the sensor hat is an electro enzymatic sensor and what that means is there's a chemistry there's an enzyme glucose oxidase that's,42.04,23.830000000000002,65.87,sad
-on the sensor tip which reacts in the presence of glucose and creates a signal that we can measure there's actually a number of layers to the sensing process and the first step the glucose gets the,53.32,26.580000000000002,79.9,sad
-enzyme layer of glucose oxidase and breaks down the glucose to create hydrogen peroxide and other elements and we're concerned about the hydrogen peroxide that's created in that reaction,67.06,25.979,93.039,sad
-that hydrogen peroxide then diffuses to a base metal layer of the sensor where it's oxidized and what oxidation means is that the it's broken down into hydrogen oxygen and electrons which we,79.539,28.711,108.25,sad
-measure as a current so essentially what we're doing is glucose in the person's interstitial space is converted into hydrogen peroxide at the enzyme layer and then that hydrogen peroxide is,93.97,26.009,119.979,NA
-broken down at a base metal layer into electrons which we measure as a current so we're measuring our current which is proportional to the person's glucose concentration,107.08,21.068999999999996,128.149,NA
-so once the glucose sensor is placed underneath the skin of the person it has to be connected to the transmitter device the mini link and that connection process occurs and once that happens,120.17,24.819999999999997,144.99,NA
-what what is done is that the the sensor is physically connected to the transmitter inside this device are the electronics that operates the sensor and measures the signal created by detecting,132.629,25.381,158.01,sad
-glucose in the body and then there's a transmitting element which transmits the data every five minutes to our pump or the guardian monitor it's in the pump or guardian monitor that the calibration,145.65,25.56,171.21,sad
-process takes place the signals are transmitted from here to that device but once in the device that's where a meter value is entered into the system that performs the calibration processes,158.16,21.958,180.118,NA
-so the algorithm that converts the signal into glucose is also housed within the pump or the guardian monitor so so once the sensor measures a signal which is proportional to the glucose,169.349,24.950000000000003,194.29899999999998,sad
-concentration and again that's a current we need to convert that signal into the glucose concentration and the way we do that is through a process called calibration and there's an algorithm in,184.959,21.241,206.2,sad
-the pump system or in our Guardian platform which allows the user to enter a finger stick glucose reading into the device and then that reading is correlated to the actual signal that the,195.79,24.570999999999998,220.361,sad
-sensors measured and it converts therefore it develops a factor that converts the sensor signal to glucose concentration from that point moving forward so that as the sensor signals,207.76,20.82,228.57999999999998,NA
-change over time so does the calculated glucose reading that the state that the sensor is providing important safety information Medtronic diabetes insulin infusion,217.84,19.528999999999996,237.369,NA
-pumps continuous glucose monitoring systems and associated components are limited to sale by or on the order of a physician and should only be used under the direction of a healthcare,228.01,20.791,248.801,NA
-professional familiar with the risk associated with the use of these systems successful operation of the insulin infusion pumps and/or continuous glucose monitoring systems requires adequate,238.45,23.159,261.609,NA
-vision and hearing to recognize alerts and alarms Medtronic diabetes insulin infusion pumps insulin pump therapy is not recommended for individuals who are unable or unwilling to perform a minimum,249.699,27.891,277.59000000000003,NA
-of four blood glucose tests per day insulin pumps use rapid-acting insulin if your insulin delivery is interrupted for any reason you must be prepared to replace the missed insulin immediately,263.53,25.65,289.17999999999995,NA
-Medtronic diabetes continuous glucose monitoring systems the information provided by CGM systems is intended to supplement not replace blood glucose information obtained using a home,276.57,24.070000000000004,300.64,NA
-glucose meter a confirmatory finger stick is required prior to treatment insertion of a glucose sensor may cause bleeding or irritation at the insertion site consult a physician immediately if,288.37,27.058999999999997,315.429,NA
-you experience significant pain or if you suspect that the site is infected,302.32,10.210999999999999,312.531,NA
+we're often asked how does a our glucose,20.16,4.09,24.25,sad
+sensor measure the glucose,23.08,2.85,25.93,sad
+concentrations and someone with diabetes,24.25,3.96,28.21,sad
+and what I want to do is talk a little,25.93,4.23,30.16,sad
+bit about how that happens so the the,28.21,4.56,32.77,sad
+sensor itself is a small flexible probe,30.16,4.62,34.78,sad
+that's placed just underneath the skin,32.77,4.53,37.300000000000004,sad
+of a person with diabetes and it's in,34.78,4.529,39.309,fear
+the interstitial space so there's fluid,37.3,4.74,42.04,sad
+that surrounds the sensor and in that,39.309,4.551,43.86,sad
+fluid is the person's glucose,42.04,5.19,47.23,sad
+concentration and so the sensor hat is,43.86,5.229,49.089,sad
+an electro enzymatic sensor and what,47.23,3.87,51.099999999999994,sad
+that means is there's a chemistry,49.089,4.231,53.32,sad
+there's an enzyme glucose oxidase that's,51.1,5.31,56.410000000000004,sad
+on the sensor tip which reacts in the,53.32,5.399,58.719,sad
+presence of glucose and creates a signal,56.41,5.399,61.809,sad
+that we can measure there's actually a,58.719,5.311,64.03,sad
+number of layers to the sensing process,61.809,5.251,67.06,sad
+and the first step the glucose gets the,64.03,5.22,69.25,NA
+enzyme layer of glucose oxidase and,67.06,5.13,72.19,NA
+breaks down the glucose to create,69.25,6.39,75.64,sad
+hydrogen peroxide and other elements and,72.19,4.86,77.05,sad
+we're concerned about the hydrogen,75.64,3.899,79.539,fear
+peroxide that's created in that reaction,77.05,5.7,82.75,fear
+that hydrogen peroxide then diffuses to,79.539,6.841,86.38,neutral
+a base metal layer of the sensor where,82.75,5.789,88.539,neutral
+it's oxidized and what oxidation means,86.38,4.61,90.99,fear
+is that the it's broken down into,88.539,5.431,93.97,sad
+hydrogen oxygen and electrons which we,90.99,6.04,97.03,sad
+measure as a current so essentially what,93.97,5.129,99.099,neutral
+we're doing is glucose in the person's,97.03,5.19,102.22,neutral
+interstitial space is converted into,99.099,5.58,104.679,fear
+hydrogen peroxide at the enzyme layer,102.22,4.86,107.08,fear
+and then that hydrogen peroxide is,104.679,5.25,109.929,neutral
+broken down at a base metal layer into,107.08,5.01,112.09,neutral
+electrons which we measure as a current,109.929,4.14,114.069,neutral
+so we're measuring our current which is,112.09,4.02,116.11,NA
+proportional to the person's glucose,114.069,4.97,119.039,NA
+concentration,116.11,2.929,119.039,NA
+so once the glucose sensor is placed,120.17,5.14,125.31,NA
+underneath the skin of the person it has,122.759,4.591,127.35,NA
+to be connected to the transmitter,125.31,4.619,129.929,NA
+device the mini link and that connection,127.35,5.279,132.629,NA
+process occurs and once that happens,129.929,5.191,135.12,NA
+what what is done is that the the sensor,132.629,5.071,137.7,NA
+is physically connected to the,135.12,5.22,140.34,NA
+transmitter inside this device are the,137.7,4.95,142.64999999999998,NA
+electronics that operates the sensor and,140.34,5.31,145.65,NA
+measures the signal created by detecting,142.65,4.83,147.48000000000002,NA
+glucose in the body and then there's a,145.65,4.8,150.45000000000002,NA
+transmitting element which transmits the,147.48,6.089,153.569,NA
+data every five minutes to our pump or,150.45,5.789,156.23899999999998,NA
+the guardian monitor it's in the pump or,153.569,4.591,158.16,sad
+guardian monitor that the calibration,156.239,4.291,160.53,sad
+process takes place the signals are,158.16,4.409,162.569,neutral
+transmitted from here to that device but,160.53,3.989,164.519,neutral
+once in the device that's where a meter,162.569,4.711,167.28,neutral
+value is entered into the system,164.519,4.83,169.34900000000002,neutral
+that performs the calibration processes,167.28,4.019,171.299,neutral
+so the algorithm that converts the,169.349,4.23,173.57899999999998,neutral
+signal into glucose is also housed,171.299,7.101,178.4,NA
+within the pump or the guardian monitor,173.579,4.821,178.4,NA
+so so once the sensor measures a signal,179.79,5.169,184.959,sad
+which is proportional to the glucose,183.34,3.629,186.969,sad
+concentration and again that's a current,184.959,4.411,189.37,sad
+we need to convert that signal into the,186.969,4.261,191.23,sad
+glucose concentration and the way we do,189.37,3.089,192.459,neutral
+that is through a process called,191.23,4.56,195.79,neutral
+calibration and there's an algorithm in,192.459,4.92,197.379,neutral
+the pump system or in our Guardian,195.79,4.979,200.769,neutral
+platform which allows the user to enter,197.379,5.94,203.319,sad
+a finger stick glucose reading into the,200.769,4.59,205.359,sad
+device and then that reading is,203.319,4.441,207.76,sad
+correlated to the actual signal that the,205.359,4.621,209.98000000000002,neutral
+sensors measured and it converts,207.76,3.899,211.659,neutral
+therefore it develops a factor that,209.98,3.869,213.849,neutral
+converts the sensor signal to glucose,211.659,3.961,215.62,neutral
+concentration from that point moving,213.849,3.991,217.84,neutral
+forward so that as the sensor signals,215.62,5.1,220.72,neutral
+change over time so does the calculated,217.84,4.59,222.43,neutral
+glucose reading that the state that the,220.72,4.5,225.22,neutral
+sensor is providing important safety,222.43,3.479,225.90900000000002,neutral
+information,225.22,2.79,228.01,NA
+Medtronic diabetes insulin infusion,225.909,4.17,230.07899999999998,NA
+pumps continuous glucose monitoring,228.01,4.44,232.45,NA
+systems and associated components are,230.079,5.101,235.18,NA
+limited to sale by or on the order of a,232.45,4.95,237.39999999999998,NA
+physician and should only be used under,235.18,3.27,238.45000000000002,NA
+the direction of a healthcare,237.4,3.03,240.43,NA
+professional familiar with the risk,238.45,4.61,243.06,NA
+associated with the use of these systems,240.43,4.919,245.34900000000002,NA
+successful operation of the insulin,243.06,4.569,247.629,NA
+infusion pumps and/or continuous glucose,245.349,4.35,249.69899999999998,NA
+monitoring systems requires adequate,247.629,4.711,252.34,NA
+vision and hearing to recognize alerts,249.699,6.15,255.84900000000002,NA
+and alarms Medtronic diabetes insulin,252.34,6.269,258.609,NA
+infusion pumps insulin pump therapy is,255.849,4.831,260.68,NA
+not recommended for individuals who are,258.609,4.921,263.53,NA
+unable or unwilling to perform a minimum,260.68,5.72,266.40000000000003,NA
+of four blood glucose tests per day,263.53,5.55,269.08,NA
+insulin pumps use rapid-acting insulin,266.4,4.84,271.23999999999995,NA
+if your insulin delivery is interrupted,269.08,4.35,273.43,NA
+for any reason you must be prepared to,271.24,5.33,276.57,NA
+replace the missed insulin immediately,273.43,5.58,279.01,NA
+Medtronic diabetes continuous glucose,276.57,5.29,281.86,NA
+monitoring systems the information,279.01,5.219,284.229,NA
+provided by CGM systems is intended to,281.86,4.739,286.599,NA
+supplement not replace blood glucose,284.229,4.141,288.37,NA
+information obtained using a home,286.599,4.681,291.28,NA
+glucose meter a confirmatory finger,288.37,6.32,294.69,NA
+stick is required prior to treatment,291.28,6.0,297.28,NA
+insertion of a glucose sensor may cause,294.69,4.659,299.349,NA
+bleeding or irritation at the insertion,297.28,5.04,302.32,NA
+site consult a physician immediately if,299.349,5.04,304.389,NA
+you experience significant pain or if,302.32,6.14,308.46,NA
+you suspect that the site is infected,304.389,4.071,308.46000000000004,NA
