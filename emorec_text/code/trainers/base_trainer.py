@@ -1,5 +1,7 @@
 import emorec_text.config as config
 from emorec_text.code.utils.path_utils import create_dir
+from emorec_text.code.losses.get_loss import get_loss
+from emorec_text.code.evaluation.get_evaluator import get_evaluator
 
 import copy
 import torch
@@ -19,6 +21,9 @@ class Trainer:
         self.optimizer = None
         self.scheduler = None
         self.lr = None
+        self.n_epochs = None
+        self.loss = None
+        self.evaluator = None
         create_dir(f"code/model_storage/{self.type_model}")
         self.save = f"{config.BASE_PATH}/code/model_storage/{self.type_model}"
 
@@ -28,15 +33,28 @@ class Trainer:
               val_loader,
               test_loader,
               n_epochs=1000,
-              lr=1e-5):
+              lr=1e-5,
+              type_loss="mse"):
+
         self.lr = lr
+        self.n_epochs = n_epochs
+        self.save += f"/lr_{self.lr}_epochs_{self.n_epochs}"
+        create_dir(self.save.replace(config.BASE_PATH, ""))
+        self.evaluator = get_evaluator(type_model=self.type_model)(lr=lr,
+                                                                   n_epochs=n_epochs)
+
+        print(f"type loss: {type_loss}")
+
         data_loader = {"train": train_loader,
                        "val": val_loader,
                        "test": test_loader}
 
+        # initialize the loss function
+        self.loss = get_loss(type_loss=type_loss)
+
         # initialize the optimizer
         self.optimizer = torch.optim.SGD(model.parameters(),
-                                          lr=self.lr)
+                                         lr=self.lr)
 
         # set the scheduler
         self.scheduler = torch.optim.lr_scheduler.StepLR(self.optimizer,
@@ -82,6 +100,9 @@ class Trainer:
         print(test_loss)
         pickle.dump(loss_curve,
                     open(f"{config.BASE_PATH}/code/model_storage/{self.type_model}/training_loss_curve.pickle", "wb"))
+
+        # get the final evaluation
+        acc = self.evaluator.evaluate()
 
         return test_loss
 

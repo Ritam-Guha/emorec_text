@@ -1,19 +1,15 @@
 from emorec_text.code.evaluation.base_evaluation import Evaluator
 from emorec_text.code.models.lstm import LSTMModel
-import emorec_text.config as config
-
-import os
 
 
 class LSTMEvaluator(Evaluator):
-    def __init__(self):
-        super().__init__(type_model="lstm")
+    def __init__(self,
+                 lr=0.0001,
+                 n_epochs=100):
+        super().__init__(type_model="lstm",
+                         lr=lr,
+                         n_epochs=n_epochs)
         self.model = LSTMModel()
-
-    def load_model(self):
-        path = f"{config.BASE_PATH}/code/model_storage/{self.type_model}/training_best.pt"
-        if os.path.exists(path):
-            self.model.load_weights(path)
 
 
 def main():

@@ -1,8 +1,5 @@
 from emorec_text.code.trainers.base_trainer import Trainer
 import emorec_text.config as config
-from emorec_text.code.models.loss import mse_loss_function
-
-import torch.nn
 
 
 class GRUTrainer(Trainer):
@@ -46,13 +43,14 @@ class GRUTrainer(Trainer):
             if pred_emotion.shape[0] == 0:
                 continue
 
-            # take the loss
+            # calculate the loss
             if i == 0:
-                loss = mse_loss_function(emotion, pred_emotion).to(self.device)
+                loss = self.loss(emotion, pred_emotion).to(self.device)
             else:
-                loss += mse_loss_function(pred_emotion, emotion).to(self.device)
+                loss += self.loss(pred_emotion, emotion).to(self.device)
             i += 1
 
+        # perform the backpropagation
         if type_process == "train":
             loss.backward()
             optimizer.step()

@@ -2,6 +2,14 @@ from emorec_text.code.training_script.base_training_script import TrainScript
 from emorec_text.code.models.linear_classifier import LinearClassifierModel
 from emorec_text.code.trainers.linear_classifier_trainer import LinearClassifierTrainer
 
+import argparse
+
+parser = argparse.ArgumentParser("linear_classifier_training_script")
+parser.add_argument("--device", type=str, default="cpu", help="select the device")
+parser.add_argument("--lr", type=float, default=0.0001, help="select the learning rate")
+parser.add_argument("--n_epochs", type=int, default=300, help="select the number of epochs")
+parser.add_argument("--type_loss", type=str, default="mse", help="select the type of loss")
+
 
 class LinearClassifierTrainScript(TrainScript):
     def __init__(self,
@@ -21,14 +29,11 @@ class LinearClassifierTrainScript(TrainScript):
 
 
 def main():
-    try:
-        train_script = LinearClassifierTrainScript(device="cuda")
-        train_script.train(n_epochs=300,
-                           lr=1e-3)
-    except:
-        train_script = LinearClassifierTrainScript(device="cpu")
-        train_script.train(n_epochs=300,
-                           lr=1e-3)
+    args = parser.parse_args()
+    train_script = LinearClassifierTrainScript(device=args.device)
+    train_script.train(n_epochs=args.n_epochs,
+                       lr=args.lr,
+                       type_loss=args.type_loss)
 
 
 if __name__ == "__main__":

@@ -11,13 +11,19 @@ import numpy as np
 import pickle
 from sklearn.metrics import confusion_matrix
 import seaborn as sns
+from sklearn.metrics import classification_report
 
 
 class Evaluator:
     def __init__(self,
-                 type_model):
+                 type_model,
+                 lr,
+                 n_epochs):
         self.data = EmotionData()
         self.type_model = type_model
+        self.lr = lr
+        self.n_epochs = n_epochs
+        self.model = None
 
     def evaluate(self):
         acc = {}
@@ -47,33 +53,43 @@ class Evaluator:
 
                         gt += [config.emotions[idx] for idx in gt_idx]
                         pred += [config.emotions[idx] for idx in pred_idx]
-                        # print(f"file: {video_id} acc: {cur_acc}")
                         mean_acc += cur_acc
                         count += 1
-
-                        # if video_id == "2_-GiiulAw8.csv":
-                        #     list_gt = [config.emotions[idx] for idx in gt_idx]
-                        #     list_pred = [config.emotions[idx] for idx in pred_idx]
-                        #     print(list_gt)
-                        #     print(list_pred)
 
             mean_acc /= count
             print(f"mean {type_partition} acc: {mean_acc}")
             acc[type_partition] = mean_acc
-            print(sum([x == "angry" for x in pred]))
 
             conf_mat = confusion_matrix(gt, pred, labels=config.emotions[:-1])
             sns.heatmap(conf_mat, square=True, annot=True, cmap='Blues', fmt='d', cbar=False,
                         xticklabels=config.emotions[:-1], yticklabels=config.emotions[:-1])
-            plt.show()
+
+            emotion_wise_accuracy = conf_mat.diagonal() / conf_mat.sum(axis=1) * 100
+            if type_partition == "test":
+                report = classification_report(gt, pred, labels=config.emotions[:-1], target_names=config.emotions[:-1])
+                with open(f"{config.BASE_PATH}/code/model_storage/{self.type_model}/lr_{self.lr}_epochs_{self.n_epochs}/"
+                          f"classification_report.text", "w") as file_writer:
+                    file_writer.write(report)
+                    file_writer.write("\nemotion-wise classification accuracy\n")
+                    for i, emotion in enumerate(config.emotions[:-1]):
+                        if emotion_wise_accuracy[i] != np.float64("nan"):
+                            file_writer.write(f"{emotion}: {emotion_wise_accuracy[i]}\n")
+
+                    file_writer.write(f"\noverall accuracy: {acc['test']}")
 
         acc_df = pd.DataFrame()
         acc_df["train_acc"] = [acc["train"]]
         acc_df["val_acc"] = [acc["val"]]
         acc_df["test_acc"] = [acc["test"]]
-        acc_df.to_csv(f"{config.BASE_PATH}/code/model_storage/{self.type_model}/accuracy.csv", index=False)
+        acc_df.to_csv(f"{config.BASE_PATH}/code/model_storage/{self.type_model}/lr_{self.lr}_epochs_{self.n_epochs}/"
+                      f"accuracy.csv", index=False)
 
         return acc
+
+    def load_model(self):
+        path = f"{config.BASE_PATH}/code/model_storage/{self.type_model}/training_best.pt"
+        if os.path.exists(path):
+            self.model.load_weights(path)
 
     def plot_training_curve(self):
         path = f"{config.BASE_PATH}/code/model_storage/{self.type_model}/training_loss_curve.pickle"
@@ -88,8 +104,12 @@ class Evaluator:
             plt.legend(loc="upper right")
             plt.xlabel("epochs")
             plt.ylabel("normalized loss")
-            plt.savefig(f"{config.BASE_PATH}/code/model_storage/{self.type_model}/training_curve.jpg", dpi=400)
-            plt.show()
+            plt.savefig(f"{config.BASE_PATH}/code/model_storage/{self.type_model}/lr_{self.lr}_epochs_{self.n_epochs}/"
+                        f"training_curve.jpg", dpi=400)
+            # plt.show()
 
     def load_model(self):
-        pass
+        path = f"{config.BASE_PATH}/code/model_storage/{self.type_model}/lr_{self.lr}_epochs_{self.n_epochs}/" \
+               f"training_best.pt"
+        if os.path.exists(path):
+            self.model.load_weights(path)

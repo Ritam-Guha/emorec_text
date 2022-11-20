@@ -1,10 +1,9 @@
-import os.path
-
 import emorec_text.config as config
 from emorec_text.code.data_utils.data_loader import EmotionData
-
 from torch.utils.data import DataLoader
+
 import time
+import os.path
 
 
 class TrainScript:
@@ -20,7 +19,8 @@ class TrainScript:
 
     def train(self,
               lr=1e-5,
-              n_epochs=500):
+              n_epochs=500,
+              type_loss="mse"):
         self.get_model()
         self.load_model()
         self.get_trainer()
@@ -32,7 +32,8 @@ class TrainScript:
                                           val_loader=self.data_loader["val"],
                                           test_loader=self.data_loader["test"],
                                           lr=lr,
-                                          n_epochs=n_epochs)
+                                          n_epochs=n_epochs,
+                                          type_loss=type_loss)
         print(f"--- {(time.time() - start_time) / 3600} hours ---")
         print(f"final loss: {trained_loss}")
 
