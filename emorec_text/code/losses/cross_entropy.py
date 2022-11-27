@@ -19,8 +19,8 @@ def get_ground_truth_indices(target):
     ground_truth_indices = torch.from_numpy(np.where(np_target == 1)[1])
     return ground_truth_indices
 
-def cross_entropy_loss_function(ground_truth,
-                                predictions):
+def cross_entropy_loss(ground_truth,
+                  predictions):
     """
     Input:
     predictions: the predictions layers of LSTM model, which is 1xN embedding vector
