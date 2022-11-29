@@ -1,22 +1,29 @@
 import torch
 import numpy as np
-from emorec_text.config import emotions as emo_orders
-
-def get_weight_per_class() -> torch.tensor:
-    emo_cnts={'angry': 2263,
-             'disgust': 47,
-             'fear': 6576,
-             'happy': 3225,
-             'sad': 4704,
-             'surprise': 566,
-             'neutral': 7226,
-             'NA': 16203}
-    emo_gamma = np.array([0 if k == 'NA' else 1/emo_cnts[k] for k in emo_orders ])
-    emo_gamma = torch.from_numpy(emo_gamma)
-    return emo_gamma
+from emorec_text.code.losses.cross_entropy import get_ground_truth_indices
+from emorec_text.code.losses.init_focal_loss import focal_loss as focal_loss_ms
 
 
-def focal_loss(ground_truth,
+def focal_loss(ground_truth, predictions):
+    """
+    Focal-loss repo:
+    https://github.com/AdeelH/pytorch-multi-class-focal-loss
+    """
+    ls_losses = [0]*len(ground_truth)
+    ls_ground_truths = get_ground_truth_indices(ground_truth)
+
+    for idx in range(len(ground_truth)):
+        ground_truth = ls_ground_truths[idx]
+        prediction = predictions[idx]
+        loss = focal_loss_ms(prediction, ground_truth)
+        ls_losses.append(loss)
+
+    ls_losses = torch.tensor(ls_losses, requires_grad=True)
+    loss = torch.mean(ls_losses)
+
+    return loss
+
+def focal_loss_og(ground_truth,
                predictions):
     """
     ref: Focal Loss for Dense Object Detection
